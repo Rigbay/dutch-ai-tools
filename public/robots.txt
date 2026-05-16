@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rigbay.github.io/dutch-ai-tools/sitemap-index.xml

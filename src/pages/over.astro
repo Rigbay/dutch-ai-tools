@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const title = 'Vergelijk de beste AI tools | AI Tools NL';
+const description = 'Nederlandstalige vergelijkingen van AI tools en SaaS voor ondernemers, freelancers en developers.';
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <h1 class="font-serif text-4xl font-semibold text-ink">Over AI Tools NL</h1>
+    <div class="mt-6 max-w-3xl space-y-5 text-muted">
+      <p>
+        AI Tools NL is een onafhankelijke Nederlandstalige site die AI en SaaS tools met elkaar vergelijkt. We richten ons op ondernemers, freelancers, marketeers, developers en content creators die willen weten welke AI tool het beste bij hun situatie past.
+      </p>
+      <p>
+        Onze vergelijkingen zijn gebaseerd op:
+      </p>
+      <ul class="list-disc pl-5 space-y-2">
+        <li>Functionaliteit en gebruikersgemak</li>
+        <li>Prijzen en abonnementsvormen (gratis, freemium, betaald)</li>
+        <li>Integratiemogelijkheden met andere tools</li>
+        <li>Nederlandse taalondersteuning</li>
+        <li>Gebruikerservaringen en reviews</li>
+      </ul>
+      <p>
+        Elk artikel bevat een duidelijke vergelijkingstabel met 5-8 tools, uitgebreide plus- en minpunten, een FAQ-sectie en affiliate links waar relevant. We zijn transparant over affiliate relaties — die worden altijd gemarkeerd.
+      </p>
+      <p>
+        Heb je vragen of suggesties? We horen graag van je. Deze site wordt regelmatig bijgewerkt met nieuwe vergelijkingen en actuele prijsinformatie.
+      </p>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">Alle vergelijkingen</h2>
+    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+      {articles.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+</BaseLayout>

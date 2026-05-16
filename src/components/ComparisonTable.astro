@@ -1,0 +1,47 @@
+---
+interface Tool {
+  name: string;
+  verdict: string;
+  priceRange: string;
+  bestFor: string;
+  rating: number;
+  affiliateLink: string;
+}
+
+interface Props {
+  tools: Tool[];
+}
+
+const { tools } = Astro.props;
+---
+
+<div class="overflow-x-auto rounded border border-[#e2e5f0] bg-paper">
+  <table class="w-full min-w-[760px] border-collapse text-left text-sm">
+    <thead class="bg-linen text-ink">
+      <tr>
+        <th class="px-4 py-3">Tool</th>
+        <th class="px-4 py-3">Beste voor</th>
+        <th class="px-4 py-3">Prijsrange</th>
+        <th class="px-4 py-3">Score</th>
+        <th class="px-4 py-3">Korte conclusie</th>
+        <th class="px-4 py-3">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      {tools.map((tool) => (
+        <tr class="border-t border-[#e2e5f0] align-top">
+          <td class="px-4 py-3 font-semibold text-ink">{tool.name}</td>
+          <td class="px-4 py-3 text-muted">{tool.bestFor}</td>
+          <td class="px-4 py-3 text-muted">{tool.priceRange}</td>
+          <td class="px-4 py-3 font-bold text-leaf">{tool.rating.toFixed(1)}/5</td>
+          <td class="px-4 py-3 text-muted">{tool.verdict}</td>
+          <td class="px-4 py-3">
+            <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]" href={tool.affiliateLink} rel="nofollow sponsored">
+              Bekijk tool
+            </a>
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+export async function getStaticPaths() {
+  const categories = ['productiviteit', 'marketing', 'creatie', 'development', 'business'];
+  return categories.map((cat) => ({ params: { cat } }));
+}
+
+const { cat } = Astro.params;
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft && data.category === cat))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const labels: Record<string, string> = {
+  productiviteit: 'Productiviteit',
+  marketing: 'Marketing',
+  creatie: 'Creatie',
+  development: 'Development',
+  business: 'Business'
+};
+
+const descriptions: Record<string, string> = {
+  productiviteit: 'AI tools die je helpen efficienter te werken: notitie-apps, planning, automatisering en tijdmanagement.',
+  marketing: 'AI voor e-mailmarketing, SEO, social media, content marketing en advertenties.',
+  creatie: 'AI tools voor content creatie: schrijftools, image generators, video tools en design.',
+  development: 'AI coding assistants, code generators, low-code tools en developer platforms.',
+  business: 'AI tools voor ondernemers: administratie, klantenservice, sales en data-analyse.'
+};
+---
+
+<BaseLayout
+  title={`Beste AI tools voor ${labels[cat] || cat} 2026 | AI Tools NL`}
+  description={descriptions[cat] || `Beste AI tools voor ${cat} vergeleken. ${articles.length} artikelen met vergelijkingen en scores.`}
+>
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Categorie</p>
+    <h1 class="mt-4 font-serif text-4xl font-semibold text-ink">Beste AI tools voor {labels[cat] || cat} 2026</h1>
+    <p class="mt-5 max-w-3xl text-lg text-muted">{descriptions[cat] || ''}</p>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">{articles.length} vergelijkingen</h2>
+    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+      {articles.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+</BaseLayout>

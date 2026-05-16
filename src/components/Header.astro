@@ -1,0 +1,30 @@
+---
+const navItems = [
+  { href: '/', label: 'Home' },
+  { href: '/categorie/productiviteit/', label: 'Productiviteit' },
+  { href: '/categorie/marketing/', label: 'Marketing' },
+  { href: '/categorie/creatie/', label: 'Creatie' },
+  { href: '/categorie/development/', label: 'Development' },
+];
+---
+
+<header class="border-b border-[#e2e5f0] bg-paper/95 backdrop-blur">
+  <div class="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-4 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
+    <a href="/" class="inline-flex items-center gap-3 text-ink" aria-label="AI Tools Nederland home">
+      <span class="flex h-10 w-10 items-center justify-center rounded bg-leaf text-lg font-black text-white">AI</span>
+      <span>
+        <span class="block font-serif text-xl font-semibold leading-none">AI Tools NL</span>
+        <span class="block text-xs font-medium uppercase tracking-[0.16em] text-muted">Vergelijk de beste AI tools</span>
+      </span>
+    </a>
+    <nav aria-label="Hoofdnavigatie">
+      <ul class="flex flex-wrap gap-2 text-sm font-semibold text-muted">
+        {navItems.map((item) => (
+          <li>
+            <a class="rounded px-3 py-2 transition hover:bg-linen hover:text-ink" href={item.href}>{item.label}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>

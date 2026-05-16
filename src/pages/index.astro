@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const categories = [
+  { href: '/categorie/productiviteit/', label: 'Productiviteit', text: 'AI tools die je helpen effici�nter te werken: notitie-apps, planning, automatisering en meer.' },
+  { href: '/categorie/marketing/', label: 'Marketing', text: 'AI voor e-mailmarketing, SEO, social media en content marketing.' },
+  { href: '/categorie/creatie/', label: 'Creatie', text: 'AI schrijftools, image generators, video tools en design tools.' },
+  { href: '/categorie/development/', label: 'Development', text: 'AI coding assistants, code generators en developer tools vergeleken.' },
+  { href: '/categorie/business/', label: 'Business', text: 'AI voor ondernemers: administratie, klantenservice, data-analyse en meer.' }
+];
+---
+
+<BaseLayout
+  title="AI Tools NL 2026: Vergelijk de beste AI tools voor Nederlandse ondernemers"
+  description="Nederlandstalige vergelijkingen van AI tools en SaaS — productiviteit, marketing, content creatie, development en meer. Vind de beste AI tool voor jouw situatie in 2026."
+>
+  <section class="border-b border-[#e2e5f0] bg-linen">
+    <div class="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:px-6 lg:grid-cols-[1.35fr_0.65fr] lg:px-8">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Vergelijk de beste AI tools</p>
+        <h1 class="mt-4 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+          AI Tools voor Nederlandse ondernemers, helder vergeleken.
+        </h1>
+        <p class="mt-5 max-w-2xl text-lg leading-8 text-muted">
+          AI Tools NL helpt je snel kiezen met nuchtere vergelijkingen van AI en SaaS tools. Voor ondernemers, freelancers, marketeers en developers die willen weten welke AI tool echt bij ze past.
+        </p>
+        <div class="mt-7 flex flex-wrap gap-3">
+          <a class="rounded bg-leaf px-5 py-3 text-sm font-bold text-white hover:bg-[#1d4ed8]" href="#laatste-vergelijkingen">Bekijk vergelijkingen</a>
+          <a class="rounded border border-[#c8cce0] px-5 py-3 text-sm font-bold text-ink hover:bg-paper" href="/over/">Hoe we vergelijken</a>
+        </div>
+      </div>
+      <div class="rounded border border-[#d8dce8] bg-paper p-5">
+        <p class="font-serif text-2xl font-semibold text-ink">Publicatieplan</p>
+        <dl class="mt-5 grid gap-4 text-sm">
+          <div class="flex items-center justify-between gap-4 border-b border-[#e8edf8] pb-3">
+            <dt class="text-muted">Live artikelen</dt>
+            <dd class="font-bold text-leaf">{articles.length}</dd>
+          </div>
+          <div class="flex items-center justify-between gap-4 border-b border-[#e8edf8] pb-3">
+            <dt class="text-muted">Doel maand 3</dt>
+            <dd class="font-bold text-ink">50</dd>
+          </div>
+          <div class="flex items-center justify-between gap-4">
+            <dt class="text-muted">Focus</dt>
+            <dd class="font-bold text-ink">SEO + affiliate</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">Categorieen</h2>
+    <div class="mt-6 grid gap-5 md:grid-cols-3 lg:grid-cols-5">
+      {categories.map((category) => (
+        <a class="rounded border border-[#e2e5f0] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft" href={category.href}>
+          <span class="text-sm font-bold uppercase tracking-[0.14em] text-leaf">{category.label}</span>
+          <p class="mt-3 text-sm leading-6 text-muted">{category.text}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section id="laatste-vergelijkingen" class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+      <div>
+        <h2 class="font-serif text-3xl font-semibold text-ink">Laatste vergelijkingen</h2>
+        <p class="mt-2 text-muted">Nederlandstalige reviews met vergelijkingstabel, score en FAQ.</p>
+      </div>
+      <a class="text-sm font-bold text-leaf hover:text-[#1d4ed8]" href="/categorie/productiviteit/">Start bij productiviteit</a>
+    </div>
+    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+      {articles.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="max-w-3xl">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Over deze site</h2>
+      <p class="mt-4 text-muted">
+        Deze site is gebouwd als statische Astro-site: snel, onderhoudsarm en gericht op SEO. De vergelijkingen zijn gebaseerd op functionaliteit, prijs, gebruikerservaringen en integratiemogelijkheden. Elk artikel bevat een eerlijke vergelijkingstabel met 5-8 tools, plus- en minpunten, en een FAQ-sectie.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

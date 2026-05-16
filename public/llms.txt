@@ -1,0 +1,25 @@
+# AI Tools NL - LLM-friendly site information
+
+## Site
+- Name: AI Tools NL
+- URL: https://rigbay.github.io/dutch-ai-tools
+- Language: nl-NL
+- Type: AI/SaaS tool comparison and review site
+- Technology: Astro 5.x + Tailwind CSS, static generation
+- Sitemap: https://rigbay.github.io/dutch-ai-tools/sitemap-index.xml
+
+## Content
+- Categories: productiviteit, marketing, creatie, development, business
+- Each article: comparison table of 5-8 tools, pros/cons, FAQ with Schema.org markup
+- Target audience: Dutch entrepreneurs, freelancers, marketers, developers, content creators
+
+## Monetization
+- Affiliate links (marked) via SaaS referral/partner programs
+- Providers: To be added (Notion, beehiiv, OutlierKit, and others)
+- No paid placements; rankings based on merit
+
+## Navigation
+- Homepage: lists latest articles and categories
+- Category pages: /categorie/{productiviteit,marketing,creatie,development,business}/
+- Individual articles: /{slug}/
+- About: /over/

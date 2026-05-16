@@ -1,0 +1,85 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  ogType?: string;
+}
+
+const {
+  title,
+  description,
+  canonicalUrl,
+  ogType = 'website'
+} = Astro.props;
+
+const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-ai-tools');
+const canonical = canonicalUrl ?? new URL(Astro.url.pathname, site).toString();
+const ogImage = new URL('/og-default.svg', site).toString();
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@id': site.toString() + '#organization',
+  '@type': 'Organization',
+  'name': 'AI Tools NL',
+  'url': site.toString(),
+  'description': 'Nederlandstalige vergelijkingen van AI tools en SaaS voor ondernemers — productiviteit, marketing, content creatie en meer.',
+  'logo': new URL('/favicon.svg', site).toString()
+};
+
+const webSiteSchema = {
+  '@context': 'https://schema.org',
+  '@id': site.toString() + '#website',
+  '@type': 'WebSite',
+  'url': site.toString(),
+  'name': 'AI Tools NL',
+  'description': 'Nederlandstalige vergelijkingen van AI tools en SaaS',
+  'inLanguage': 'nl-NL',
+  'about': {
+    '@type': 'Organization',
+    '@id': site.toString() + '#organization'
+  },
+  'potentialAction': {
+    '@type': 'SearchAction',
+    'target': {
+      '@type': 'EntryPoint',
+      'urlTemplate': site.toString() + '/search?q={search_term_string}'
+    },
+    'query-input': 'required name=search_term_string'
+  }
+};
+---
+
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

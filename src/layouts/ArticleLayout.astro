@@ -1,0 +1,161 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import AffiliateNotice from '../components/AffiliateNotice.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import ComparisonTable from '../components/ComparisonTable.astro';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+  relatedArticles: CollectionEntry<'articles'>[];
+}
+
+const { article, relatedArticles } = Astro.props;
+const data = article.data;
+const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-ai-tools');
+const canonical = new URL(`/${data.slug}/`, site).toString();
+
+const categoryLabel: Record<string, string> = {
+  productiviteit: 'Productiviteit',
+  marketing: 'Marketing',
+  creatie: 'Creatie',
+  development: 'Development',
+  business: 'Business'
+};
+
+const bestTool = data.tools[0];
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: site.toString() },
+    { '@type': 'ListItem', position: 2, name: categoryLabel[data.category] || data.category, item: new URL(`/categorie/${data.category}/`, site).toString() },
+    { '@type': 'ListItem', position: 3, name: data.featuredTool, item: canonical }
+  ]
+};
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  '@id': canonical + '#article',
+  'headline': data.title,
+  'description': data.description,
+  'datePublished': data.date.toISOString().split('T')[0],
+  'dateModified': data.date.toISOString().split('T')[0],
+  'author': {
+    '@type': 'Organization',
+    'name': 'AI Tools NL',
+    '@id': site.toString() + '#organization'
+  },
+  'publisher': {
+    '@type': 'Organization',
+    '@id': site.toString() + '#organization'
+  },
+  'inLanguage': 'nl-NL',
+  'mainEntityOfPage': {
+    '@type': 'WebPage',
+    '@id': canonical
+  }
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  'mainEntity': data.faq.map((item: { q: string; a: string }) => ({
+    '@type': 'Question',
+    'name': item.q,
+    'acceptedAnswer': {
+      '@type': 'Answer',
+      'text': item.a
+    }
+  }))
+};
+---
+
+<BaseLayout title={`${data.title} | AI Tools NL`} description={data.description} canonicalUrl={canonical} ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+  <article class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <header class="grid gap-8 lg:grid-cols-[1.6fr_0.9fr] lg:items-end">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{categoryLabel[data.category] || data.category} / vergelijking {data.modelYear}</p>
+        <h1 class="mt-4 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+          {data.title}
+        </h1>
+        <p class="mt-5 max-w-3xl text-lg leading-8 text-muted">{data.description}</p>
+        <div class="mt-6 flex flex-wrap gap-3 text-sm font-semibold">
+          <span class="rounded bg-[#eef2ff] px-3 py-1.5 text-leaf">Score {data.rating.toFixed(1)}/5</span>
+          <span class="rounded bg-linen px-3 py-1.5 text-muted">{data.priceRange}</span>
+          <span class="rounded bg-linen px-3 py-1.5 text-muted">{data.readingTime}</span>
+          <time class="rounded bg-linen px-3 py-1.5 text-muted" datetime={data.date.toISOString()}>
+            Update {data.date.toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </time>
+        </div>
+      </div>
+
+      <aside class="rounded border border-[#d8dce8] bg-[#f0f4ff] p-5">
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Beste keuze</p>
+        <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">{bestTool.name}</h2>
+        <p class="mt-3 text-sm leading-6 text-muted">{bestTool.verdict}</p>
+        <a class="mt-5 inline-flex rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1d4ed8]" href={bestTool.affiliateLink} rel="nofollow sponsored">
+          Bekijk tool
+        </a>
+      </aside>
+    </header>
+
+    <section class="mt-10 grid gap-4 md:grid-cols-2">
+      <div class="rounded border border-[#e2e5f0] bg-paper p-5">
+        <h2 class="font-serif text-2xl font-semibold text-ink">Pluspunten</h2>
+        <ul class="mt-4 space-y-2 text-muted">
+          {data.pros.map((item) => <li class="flex gap-2"><span class="font-bold text-leaf">+</span><span>{item}</span></li>)}
+        </ul>
+      </div>
+      <div class="rounded border border-[#e2e5f0] bg-paper p-5">
+        <h2 class="font-serif text-2xl font-semibold text-ink">Minpunten</h2>
+        <ul class="mt-4 space-y-2 text-muted">
+          {data.cons.map((item) => <li class="flex gap-2"><span class="font-bold text-clay">-</span><span>{item}</span></li>)}
+        </ul>
+      </div>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Vergelijking in het kort</h2>
+      <p class="mt-2 max-w-3xl text-muted">
+        De links hieronder bevatten affiliate links. Bekijk functionaliteit, prijzen en score in een oogopslag.
+      </p>
+      <div class="mt-5">
+        <ComparisonTable tools={data.tools} />
+      </div>
+    </section>
+
+    <div class="mt-10">
+      <AffiliateNotice />
+    </div>
+
+    <div class="prose-article mx-auto mt-10 max-w-3xl">
+      <slot />
+    </div>
+
+    <section class="mt-14">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Veelgestelde vragen</h2>
+      <div class="mt-6 space-y-4">
+        {data.faq.map((item: { q: string; a: string }) => (
+          <details class="rounded border border-[#e2e5f0] bg-paper p-4">
+            <summary class="cursor-pointer font-semibold text-ink hover:text-leaf">{item.q}</summary>
+            <p class="mt-3 text-muted">{item.a}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section class="mt-14">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Gerelateerde vergelijkingen</h2>
+      <div class="mt-6 grid gap-5 md:grid-cols-3">
+        {relatedArticles.map((related) => <ArticleCard article={related} />)}
+      </div>
+    </section>
+  </article>
+</BaseLayout>
