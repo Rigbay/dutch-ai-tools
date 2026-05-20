@@ -124,6 +124,12 @@ Otter.ai was een van de pioniers op het gebied van AI-transcriptie en blijft een
 
 ---
 
+
+## Gerelateerde artikelen
+- [Beste AI Presentatie Tools 2026: Gamma vs Beautiful.ai vs Tome vergeleken](/beste-ai-presentatie-tools-2026)
+- [Beste AI Tools voor Data Analyse 2026: top 7 vergeleken](/beste-ai-tools-data-analyse-2026)
+- [AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken](/ai-video-generatie-tools-2026)
+
 ## Fathom
 
 Fathom heeft zich gepositioneerd als de "gratis AI meeting assistant" en is in 2026 nog steeds een zeer aantrekkelijke optie voor individuen en budgetbewuste teams. Het integreert naadloos met populaire videovergaderplatforms zoals Zoom, Google Meet en Microsoft Teams. Fathom onderscheidt zich door de mogelijkheid om tijdens een vergadering snel hoogtepunten te markeren met een klik op de knop, die vervolgens worden omgezet in korte videoclips en tekstsamenvattingen. Dit maakt het delen van specifieke momenten uit een vergadering extreem eenvoudig. Hoewel het basisfunctionaliteit biedt voor transcriptie en samenvattingen, mist het de diepgaande analysefuncties van
