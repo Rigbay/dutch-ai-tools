@@ -22,7 +22,8 @@
             "marketing",
             "creatie",
             "development",
-            "business"
+            "business",
+            "technologie"
           ]
         },
         "rating": {
@@ -117,14 +118,14 @@
             ],
             "additionalProperties": false
           },
-          "minItems": 5
+          "minItems": 3
         },
         "related": {
           "type": "array",
           "items": {
             "type": "string"
           },
-          "minItems": 2,
+          "minItems": 1,
           "maxItems": 3
         },
         "draft": {

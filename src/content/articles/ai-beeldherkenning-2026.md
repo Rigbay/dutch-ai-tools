@@ -2,7 +2,7 @@
 title: "AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"
 slug: ai-beeldherkenning-2026
 description: "Vergelijk de beste AI beeldherkenning en computer vision tools in 2026. Google Vision, Amazon Rekognition, Azure Vision en meer."
-category: technologie
+category: development
 rating: 4.2
 priceRange: EUR 0-500/mnd
 pros:
