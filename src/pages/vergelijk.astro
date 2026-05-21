@@ -1,0 +1,84 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+
+// Group by category and pick top rated
+const categories = ['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie'];
+const categoryLabels: Record<string, string> = {
+  productiviteit: 'Productiviteit',
+  marketing: 'Marketing',
+  creatie: 'Creatie',
+  development: 'Development',
+  business: 'Business',
+  technologie: 'Technologie & Security'
+};
+
+const topPicks = categories.map(cat => {
+  const catArticles = allArticles.filter(a => a.data.category === cat);
+  if (catArticles.length === 0) return null;
+  const sorted = catArticles.sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0));
+  return {
+    category: cat,
+    label: categoryLabels[cat] || cat,
+    tops: sorted.slice(0, 5).map(a => ({
+      title: a.data.title,
+      slug: a.slug,
+      featured: a.data.featuredTool || 'Top tool',
+      rating: a.data.rating,
+      priceRange: a.data.priceRange,
+      url: `/${a.data.slug}/`
+    }))
+  };
+}).filter(Boolean);
+---
+
+<BaseLayout
+  title="Vergelijk: Beste AI Tools 2026 — Overzichtstabel alle categorieën"
+  description="Eén overzichtstabel met de beste AI tools voor productiviteit, marketing, creatie, development, business en security. Cross-category vergelijking voor Nederlandse ondernemers in 2026."
+>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <h1 class="text-4xl font-serif font-semibold mb-4">Vergelijk de beste AI tools 2026</h1>
+    <p class="text-lg text-muted mb-8">Overzicht van top picks per categorie. Klik door voor volledige vergelijkingen, reviews en prijsinformatie.</p>
+
+    {topPicks.map(group => (
+      <section class="mb-12">
+        <h2 class="text-2xl font-semibold mb-4 border-b pb-2">{group.label}</h2>
+        <div class="overflow-x-auto">
+          <table class="min-w-full border border-[#e8e1d7] text-sm">
+            <thead>
+              <tr class="bg-[#f8f5f0]">
+                <th class="p-3 text-left">Artikel / Gids</th>
+                <th class="p-3 text-left">Top Tool</th>
+                <th class="p-3 text-left">Rating</th>
+                <th class="p-3 text-left">Prijsrange</th>
+                <th class="p-3 text-left">Bekijk</th>
+              </tr>
+            </thead>
+            <tbody>
+              {group.tops.map((pick, idx) => (
+                <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                  <td class="p-3 font-medium"><a href={pick.url} class="text-leaf hover:underline">{pick.title}</a></td>
+                  <td class="p-3 text-muted">{pick.featured}</td>
+                  <td class="p-3">⭐ {pick.rating}</td>
+                  <td class="p-3">{pick.priceRange}</td>
+                  <td class="p-3"><a href={pick.url} class="inline-block px-3 py-1 bg-leaf text-white rounded text-xs hover:bg-[#1d4ed8]">Vergelijk →</a></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-2 text-xs text-muted">
+          <a href={`/categorie/${group.category}/`} class="underline">Bekijk alle {group.label.toLowerCase()}-tools →</a>
+           — {group.tops.length} van {allArticles.filter(a => a.data.category === group.category).length} artikelen getoond
+        </p>
+      </section>
+    ))}
+
+    <div class="mt-8 p-6 bg-[#f8f5f0] rounded">
+      <h3 class="font-semibold mb-2">Waarom deze vergelijkingstabel?</h3>
+      <p class="text-sm text-muted">Nederlandse ondernemers besparen tijd met dit cross-category overzicht. Interne links naar productiviteits-, marketing-, creatie-, development- en business tools verbeteren SEO en session time. Elk gelinkt artikel bevat diepgaande reviews met prijsinformatie, plus- en minpunten, en een FAQ-sectie.</p>
+    </div>
+  </div>
+</BaseLayout>
