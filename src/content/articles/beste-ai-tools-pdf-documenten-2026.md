@@ -143,3 +143,11 @@ ChatGPT, inmiddels een begrip, is in 2026 veel meer dan alleen een chatbot. Met 
 ## NotebookLM (Google)
 
 NotebookLM, een innovatie van Google, is meer dan alleen een PDF-lezer; het is een AI-gestuurde onderzoeksassistent die is ontworpen om je te helpen bij het organiseren, analyseren en synthetiseren van informatie uit je eigen bronnen. Het onderscheidt zich door de mogelijkheid om meerdere documenten te koppelen aan een "notebook" en de AI te vragen om verbanden te leggen, samenvattingen te maken en zelfs nieuwe ideeën te genereren, altijd met bron
+---
+## Lees ook
+
+Verdiep je verder in AI tools:
+
+- ["AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"](/ai-voor-studenten-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
+- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
