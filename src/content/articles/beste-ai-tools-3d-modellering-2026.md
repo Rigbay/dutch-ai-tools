@@ -17,7 +17,6 @@ cons:
 - Sommige output vereist nog handmatige nabewerking voor professioneel gebruik
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
-- https://www.beehiiv.com/?via=aitoolsnl
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Meshy

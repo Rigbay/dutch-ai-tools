@@ -17,7 +17,6 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
-- https://www.beehiiv.com/?via=aitoolsnl
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Applied Intuition

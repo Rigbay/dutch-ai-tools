@@ -1,61 +1,64 @@
 ---
-title: "AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken"
+title: 'AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken'
 slug: ai-video-generatie-tools-2026
-description: "Vergelijk de beste AI video generatie tools in 2026. Synthesia vs HeyGen vs Runway vs Pika Labs: prijzen, kwaliteit en use cases in het Nederlands."
+description: 'Vergelijk de beste AI video generatie tools in 2026. Synthesia vs HeyGen
+  vs Runway vs Pika Labs: prijzen, kwaliteit en use cases in het Nederlands.'
 category: creatie
 rating: 4.3
 priceRange: EUR 20-150/mnd
 pros:
-  - Uitgebreide vergelijking van toonaangevende AI video tools
-  - Duidelijke prijsinformatie in euro's en praktische verdicts
-  - Focus op Nederlandse gebruikers en zakelijke toepassingen
+- Uitgebreide vergelijking van toonaangevende AI video tools
+- Duidelijke prijsinformatie in euro's en praktische verdicts
+- Focus op Nederlandse gebruikers en zakelijke toepassingen
 cons:
-  - AI video technologie ontwikkelt zich razendsnel
-  - Kwaliteit varieert sterk per use case
-  - Sommige geavanceerde features vereisen duurdere abonnementen
+- AI video technologie ontwikkelt zich razendsnel
+- Kwaliteit varieert sterk per use case
+- Sommige geavanceerde features vereisen duurdere abonnementen
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=aitoolsnl
+- https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-20
 modelYear: 2026
-featuredTool: "Synthesia"
+featuredTool: Synthesia
 readingTime: 9 min
 tools:
-  - name: "Synthesia"
-    verdict: "Beste voor professionele avatar video's en bedrijfstrainingen"
-    priceRange: "EUR 29-89/mnd"
-    bestFor: "Zakelijke video's"
-    rating: 4.7
-    affiliateLink: "https://www.synthesia.io/?ref=aitoolsnl"
-  - name: "HeyGen"
-    verdict: "Uitstekend voor gepersonaliseerde marketingvideo's en avatars"
-    priceRange: "EUR 24-99/mnd"
-    bestFor: "Marketing & sales"
-    rating: 4.6
-    affiliateLink: "https://www.heygen.com/?ref=aitoolsnl"
-  - name: "Runway"
-    verdict: "Krachtigste tool voor creatieve video editing en generatie"
-    priceRange: "EUR 15-76/mnd"
-    bestFor: "Creatieve productie"
-    rating: 4.5
-    affiliateLink: "https://runwayml.com/?ref=aitoolsnl"
-  - name: "Pika Labs"
-    verdict: "Beste prijs-kwaliteit voor snelle, creatieve video's"
-    priceRange: "EUR 8-20/mnd"
-    bestFor: "Social media content"
-    rating: 4.3
-    affiliateLink: "https://pika.art/?ref=aitoolsnl"
+- name: Synthesia
+  verdict: Beste voor professionele avatar video's en bedrijfstrainingen
+  priceRange: EUR 29-89/mnd
+  bestFor: Zakelijke video's
+  rating: 4.7
+  affiliateLink: https://www.synthesia.io/?ref=aitoolsnl
+- name: HeyGen
+  verdict: Uitstekend voor gepersonaliseerde marketingvideo's en avatars
+  priceRange: EUR 24-99/mnd
+  bestFor: Marketing & sales
+  rating: 4.6
+  affiliateLink: https://www.heygen.com/?ref=aitoolsnl
+- name: Runway
+  verdict: Krachtigste tool voor creatieve video editing en generatie
+  priceRange: EUR 15-76/mnd
+  bestFor: Creatieve productie
+  rating: 4.5
+  affiliateLink: https://runwayml.com/?ref=aitoolsnl
+- name: Pika Labs
+  verdict: Beste prijs-kwaliteit voor snelle, creatieve video's
+  priceRange: EUR 8-20/mnd
+  bestFor: Social media content
+  rating: 4.3
+  affiliateLink: https://pika.art/?ref=aitoolsnl
 related:
-  - beste-ai-image-generators-2026
-  - beste-ai-tools-content-creators-2026
+- beste-ai-image-generators-2026
+- beste-ai-tools-content-creators-2026
 draft: false
 faq:
-  - q: "Welke AI video tool is het beste voor beginners in 2026?"
-    a: "Synthesia en HeyGen zijn het meest gebruiksvriendelijk voor beginners dankzij hun intuïtieve interfaces en kant-en-klare avatars."
-  - q: "Zijn AI video's herkenbaar als nep?"
-    a: "In 2026 zijn de beste tools zoals Synthesia en HeyGen extreem realistisch. Alleen experts kunnen het verschil zien bij close-ups."
-  - q: "Kan ik Nederlandse stemmen en ondertitels gebruiken?"
-    a: "Ja, zowel Synthesia als HeyGen ondersteunen hoogwaardige Nederlandse stemmen en automatische ondertiteling."
+- q: Welke AI video tool is het beste voor beginners in 2026?
+  a: Synthesia en HeyGen zijn het meest gebruiksvriendelijk voor beginners dankzij
+    hun intuïtieve interfaces en kant-en-klare avatars.
+- q: Zijn AI video's herkenbaar als nep?
+  a: In 2026 zijn de beste tools zoals Synthesia en HeyGen extreem realistisch. Alleen
+    experts kunnen het verschil zien bij close-ups.
+- q: Kan ik Nederlandse stemmen en ondertitels gebruiken?
+  a: Ja, zowel Synthesia als HeyGen ondersteunen hoogwaardige Nederlandse stemmen
+    en automatische ondertiteling.
 ---
 
 # AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken

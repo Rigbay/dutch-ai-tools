@@ -1,8 +1,8 @@
 ---
 title: 'Beste AI Tools voor de Horeca 2026: top 7 horeca-AI vergeleken'
 slug: beste-ai-tools-horeca-2026
-description: AI tools voor horeca, cafés, restaurants en hotels in 2026. Vergelijk de beste AI voor reserveringen, menubeheer,
-  personeelsplanning, reviews en gastbeleving.
+description: AI tools voor horeca, cafés, restaurants en hotels in 2026. Vergelijk
+  de beste AI voor reserveringen, menubeheer, personeelsplanning, reviews en gastbeleving.
 category: productiviteit
 rating: 4.3
 priceRange: EUR 0-100/mnd
@@ -16,7 +16,6 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
-- https://www.beehiiv.com/?via=aitoolsnl
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Popmenu AI
@@ -53,13 +52,15 @@ tools:
   rating: 4.2
   affiliateLink: https://www.formitable.com/?ref=aitoolsnl
 - name: Resengo
-  verdict: Belgisch-Nederlandse restaurant-AI voor online boekingen, menukaart en reviews
+  verdict: Belgisch-Nederlandse restaurant-AI voor online boekingen, menukaart en
+    reviews
   priceRange: EUR 30-150/mnd
   bestFor: Benelux horeca
   rating: 4.1
   affiliateLink: https://www.resengo.com/?ref=aitoolsnl
 - name: Zonal
-  verdict: AI hoteltechnologie — frontdesk, F&B, housekeeping, gastanalyse in één platform
+  verdict: AI hoteltechnologie — frontdesk, F&B, housekeeping, gastanalyse in één
+    platform
   priceRange: EUR 200-1000/mnd
   bestFor: Hotels & ketens
   rating: 4.3
@@ -71,14 +72,17 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?
-  a: Dat hangt af van je specifieke behoeften. Voor de meeste professionals is Popmenu AI een uitstekende start vanwege de
-    balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste professionals is Popmenu
+    AI een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees
+    de volledige vergelijking hierboven voor een gedetailleerd advies per tool.
 - q: Zijn er goede gratis AI tools beschikbaar in 2026?
-  a: 'Ja, veel AI tools bieden gratis tiers aan. ChatGPT, Claude en Canva hebben sterke gratis versies. Let wel: de gratis
-    versies hebben beperkingen in gebruik, maar zijn perfect om mee te beginnen en te testen.'
+  a: 'Ja, veel AI tools bieden gratis tiers aan. ChatGPT, Claude en Canva hebben sterke
+    gratis versies. Let wel: de gratis versies hebben beperkingen in gebruik, maar
+    zijn perfect om mee te beginnen en te testen.'
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
-  a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je budget, en of je Nederlandse taalondersteuning
-    nodig hebt. Gebruik dan de vergelijkingstabel hierboven om te kiezen op basis van score, prijs en 'beste voor'.
+  a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je
+    budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel
+    hierboven om te kiezen op basis van score, prijs en 'beste voor'.
 ---
 # De Slimme Horeca van 2026: De Beste AI Tools voor Nederlandse Ondernemers
 

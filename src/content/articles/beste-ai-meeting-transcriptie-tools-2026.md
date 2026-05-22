@@ -1,7 +1,8 @@
 ---
 title: 'Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken'
 slug: beste-ai-meeting-transcriptie-tools-2026
-description: 'AI meeting tools in 2026: vergelijk Fireflies, Otter.ai, Fathom, Notta en meer. Automatische notulen, actiepunten en transcripties in het Nederlands.'
+description: 'AI meeting tools in 2026: vergelijk Fireflies, Otter.ai, Fathom, Notta
+  en meer. Automatische notulen, actiepunten en transcripties in het Nederlands.'
 category: productiviteit
 rating: 4.2
 priceRange: EUR 0-100/mnd
@@ -15,66 +16,73 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
-- https://www.beehiiv.com/?via=aitoolsnl
-- https://outlierkit.com/?ref=aitoolsnl
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Fireflies.ai
 readingTime: 8 min
 tools:
-  - name: "Fireflies.ai"
-    verdict: "Beste allround meeting-AI met Nederlands ondersteund, automatische notulen en CRM-integratie"
-    priceRange: "EUR 0-20/mnd"
-    bestFor: "Volledige meeting AI"
-    rating: 4.6
-    affiliateLink: "https://fireflies.ai/?ref=aitoolsnl"
-  - name: "Otter.ai"
-    verdict: "Realtime AI-transcriptie met uitstekende Engels-Nederlandse hybrid herkenning"
-    priceRange: "EUR 0-20/mnd"
-    bestFor: "Realtime transcriptie"
-    rating: 4.5
-    affiliateLink: "https://otter.ai/?ref=aitoolsnl"
-  - name: "Fathom"
-    verdict: "Beste gratis AI-notulist met automatische highlight-reels en CRM-sync"
-    priceRange: "EUR 0-35/mnd"
-    bestFor: "Sales calls"
-    rating: 4.7
-    affiliateLink: "https://fathom.video/?ref=aitoolsnl"
-  - name: "Notta"
-    verdict: "Beste meertalige AI-transcriptie met sterke Nederlandse ondersteuning"
-    priceRange: "EUR 0-20/mnd"
-    bestFor: "Meertalige meetings"
-    rating: 4.3
-    affiliateLink: "https://www.notta.ai/?ref=aitoolsnl"
-  - name: "tl;dv"
-    verdict: "AI-notulist specifiek voor Zoom/Meet/Teams met timestamp-notities en delen"
-    priceRange: "EUR 0-30/mnd"
-    bestFor: "Video-call notities"
-    rating: 4.4
-    affiliateLink: "https://tldv.io/?ref=aitoolsnl"
-  - name: "Microsoft Teams AI"
-    verdict: "Ingebouwde AI-notulen in de dominante NL-vergadertool — Copilot samenvattingen"
-    priceRange: "EUR 5-30/mnd"
-    bestFor: "Teams-gebruikers"
-    rating: 4.2
-    affiliateLink: "https://www.microsoft.com/nl-nl/microsoft-teams/?ref=aitoolsnl"
-  - name: "Gong"
-    verdict: "Enterprise sales intelligence met AI deal-analyses en gespreksinzichten"
-    priceRange: "EUR 100-300/mnd"
-    bestFor: "Sales intelligence"
-    rating: 4.6
-    affiliateLink: "https://www.gong.io/?ref=aitoolsnl"
+- name: Fireflies.ai
+  verdict: Beste allround meeting-AI met Nederlands ondersteund, automatische notulen
+    en CRM-integratie
+  priceRange: EUR 0-20/mnd
+  bestFor: Volledige meeting AI
+  rating: 4.6
+  affiliateLink: https://fireflies.ai/?ref=aitoolsnl
+- name: Otter.ai
+  verdict: Realtime AI-transcriptie met uitstekende Engels-Nederlandse hybrid herkenning
+  priceRange: EUR 0-20/mnd
+  bestFor: Realtime transcriptie
+  rating: 4.5
+  affiliateLink: https://otter.ai/?ref=aitoolsnl
+- name: Fathom
+  verdict: Beste gratis AI-notulist met automatische highlight-reels en CRM-sync
+  priceRange: EUR 0-35/mnd
+  bestFor: Sales calls
+  rating: 4.7
+  affiliateLink: https://fathom.video/?ref=aitoolsnl
+- name: Notta
+  verdict: Beste meertalige AI-transcriptie met sterke Nederlandse ondersteuning
+  priceRange: EUR 0-20/mnd
+  bestFor: Meertalige meetings
+  rating: 4.3
+  affiliateLink: https://www.notta.ai/?ref=aitoolsnl
+- name: tl;dv
+  verdict: AI-notulist specifiek voor Zoom/Meet/Teams met timestamp-notities en delen
+  priceRange: EUR 0-30/mnd
+  bestFor: Video-call notities
+  rating: 4.4
+  affiliateLink: https://tldv.io/?ref=aitoolsnl
+- name: Microsoft Teams AI
+  verdict: Ingebouwde AI-notulen in de dominante NL-vergadertool — Copilot samenvattingen
+  priceRange: EUR 5-30/mnd
+  bestFor: Teams-gebruikers
+  rating: 4.2
+  affiliateLink: https://www.microsoft.com/nl-nl/microsoft-teams/?ref=aitoolsnl
+- name: Gong
+  verdict: Enterprise sales intelligence met AI deal-analyses en gespreksinzichten
+  priceRange: EUR 100-300/mnd
+  bestFor: Sales intelligence
+  rating: 4.6
+  affiliateLink: https://www.gong.io/?ref=aitoolsnl
 related:
-  - beste-ai-tools-zzpers-2026
-  - beste-ai-tools-kleine-ondernemers-2026
-  - beste-ai-marketing-tools-2026
+- beste-ai-tools-zzpers-2026
+- beste-ai-tools-kleine-ondernemers-2026
+- beste-ai-marketing-tools-2026
 faq:
 - q: Wat is de beste AI tool voor dit segment in 2026?
-  a: "Dat hangt af van je specifieke behoeften en budget. Gebruik de vergelijkingstabel en verdicts hierboven om de tool te kiezen die het beste past bij jouw use case. Voor de meeste gebruikers geldt: begin met de tool die de hoogste score heeft in jouw prijsklasse."
+  a: 'Dat hangt af van je specifieke behoeften en budget. Gebruik de vergelijkingstabel
+    en verdicts hierboven om de tool te kiezen die het beste past bij jouw use case.
+    Voor de meeste gebruikers geldt: begin met de tool die de hoogste score heeft
+    in jouw prijsklasse.'
 - q: Zijn er goede gratis AI tools beschikbaar?
-  a: "Ja, verschillende tools in dit overzicht bieden gratis tiers aan. Let wel op de beperkingen — vaak zijn er limieten op gebruik, features of exportmogelijkheden. De gratis versies zijn perfect om te testen of een tool bij je past voordat je een betaald abonnement afsluit."
+  a: Ja, verschillende tools in dit overzicht bieden gratis tiers aan. Let wel op
+    de beperkingen — vaak zijn er limieten op gebruik, features of exportmogelijkheden.
+    De gratis versies zijn perfect om te testen of een tool bij je past voordat je
+    een betaald abonnement afsluit.
 - q: Welke tool ondersteunt het beste Nederlands?
-  a: "Niet alle AI tools ondersteunen Nederlands even goed. In onze vergelijking hebben we specifiek gekeken naar Nederlandse taalondersteuning. Check per tool de 'beste-voor' kolom in de tabel en de beschrijving voor details over NL-ondersteuning."
+  a: Niet alle AI tools ondersteunen Nederlands even goed. In onze vergelijking hebben
+    we specifiek gekeken naar Nederlandse taalondersteuning. Check per tool de 'beste-voor'
+    kolom in de tabel en de beschrijving voor details over NL-ondersteuning.
 ---
 
 # De Toekomst van Vergaderen: De Beste AI Meeting & Transcriptie Tools in 2026

@@ -1,81 +1,87 @@
 ---
 title: 'Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken'
 slug: beste-ai-tools-voeding-dieet-2026
-description: "AI tools voor voeding en dieet in 2026. Vergelijk MyFitnessPal AI, Lifesum, Noom AI en meer. Voor gezonder eten met gepersonaliseerd voedingsadvies."
+description: AI tools voor voeding en dieet in 2026. Vergelijk MyFitnessPal AI, Lifesum,
+  Noom AI en meer. Voor gezonder eten met gepersonaliseerd voedingsadvies.
 category: productiviteit
 rating: 4.4
 priceRange: EUR 0-30/mnd
 pros:
-  - Uitgebreide vergelijking van AI tools voor voeding en dieet
-  - Duidelijke prijsranges en praktisch verdict per tool
-  - Nederlandstalig en relevant voor de Nederlandse markt
+- Uitgebreide vergelijking van AI tools voor voeding en dieet
+- Duidelijke prijsranges en praktisch verdict per tool
+- Nederlandstalig en relevant voor de Nederlandse markt
 cons:
-  - Prijzen en features kunnen wijzigen — check de actuele aanbieder
-  - Niet elke tool is dagelijks getest in de Nederlandse praktijk
-  - Sommige AI-features zijn nog in actieve ontwikkeling
+- Prijzen en features kunnen wijzigen — check de actuele aanbieder
+- Niet elke tool is dagelijks getest in de Nederlandse praktijk
+- Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=aitoolsnl
-  - https://outlierkit.com/?ref=aitoolsnl
+- https://affiliate.notion.so/?via=aitoolsnl
 date: '2026-05-22'
 modelYear: 2026
-featuredTool: 'MyFitnessPal AI'
+featuredTool: MyFitnessPal AI
 readingTime: 9 min
 tools:
-  - name: "MyFitnessPal AI"
-    verdict: "Beste allround AI-voedingstracker met enorme database"
-    priceRange: "EUR 0-20/mnd"
-    bestFor: "calorie- en macro-tracking"
-    rating: 4.6
-    affiliateLink: "https://www.myfitnesspal.com/?ref=aitoolsnl"
-  - name: "Lifesum"
-    verdict: "Gepersonaliseerde maaltijdplannen met AI-coaching"
-    priceRange: "EUR 0-15/mnd"
-    bestFor: "gepersonaliseerde dieetplannen"
-    rating: 4.5
-    affiliateLink: "https://lifesum.com/?ref=aitoolsnl"
-  - name: "Noom AI"
-    verdict: "Psychologie-gedreven AI voor gewichtsverlies en gedragsverandering"
-    priceRange: "EUR 20-50/mnd"
-    bestFor: "duurzaam gewichtsverlies"
-    rating: 4.4
-    affiliateLink: "https://www.noom.com/?ref=aitoolsnl"
-  - name: "NutriSense"
-    verdict: "AI-gestuurde CGM-data voor gepersonaliseerde voedingsinzichten"
-    priceRange: "EUR 30-80/mnd"
-    bestFor: "glucosemonitoring en metabole gezondheid"
-    rating: 4.3
-    affiliateLink: "https://www.nutrisense.io/?ref=aitoolsnl"
-  - name: "Yummly AI"
-    verdict: "Slimme receptaanbevelingen op basis van voorkeuren en dieet"
-    priceRange: "EUR 0-5/mnd"
-    bestFor: "receptontdekking en maaltijdplanning"
-    rating: 4.2
-    affiliateLink: "https://www.yummly.com/?ref=aitoolsnl"
-  - name: "MealPro AI"
-    verdict: "AI-geoptimaliseerde maaltijdbezorging met voedingskundige precisie"
-    priceRange: "EUR 50-150/week"
-    bestFor: "kant-en-klare gezonde maaltijden"
-    rating: 4.1
-    affiliateLink: "https://www.mealpro.com/?ref=aitoolsnl"
-  - name: "EatLove AI"
-    verdict: "Medisch-geïnformeerde AI voor gepersonaliseerde voedingsadviezen"
-    priceRange: "EUR 10-25/mnd"
-    bestFor: "medische dieetbeperkingen"
-    rating: 4.3
-    affiliateLink: "https://www.eatlove.is/?ref=aitoolsnl"
+- name: MyFitnessPal AI
+  verdict: Beste allround AI-voedingstracker met enorme database
+  priceRange: EUR 0-20/mnd
+  bestFor: calorie- en macro-tracking
+  rating: 4.6
+  affiliateLink: https://www.myfitnesspal.com/?ref=aitoolsnl
+- name: Lifesum
+  verdict: Gepersonaliseerde maaltijdplannen met AI-coaching
+  priceRange: EUR 0-15/mnd
+  bestFor: gepersonaliseerde dieetplannen
+  rating: 4.5
+  affiliateLink: https://lifesum.com/?ref=aitoolsnl
+- name: Noom AI
+  verdict: Psychologie-gedreven AI voor gewichtsverlies en gedragsverandering
+  priceRange: EUR 20-50/mnd
+  bestFor: duurzaam gewichtsverlies
+  rating: 4.4
+  affiliateLink: https://www.noom.com/?ref=aitoolsnl
+- name: NutriSense
+  verdict: AI-gestuurde CGM-data voor gepersonaliseerde voedingsinzichten
+  priceRange: EUR 30-80/mnd
+  bestFor: glucosemonitoring en metabole gezondheid
+  rating: 4.3
+  affiliateLink: https://www.nutrisense.io/?ref=aitoolsnl
+- name: Yummly AI
+  verdict: Slimme receptaanbevelingen op basis van voorkeuren en dieet
+  priceRange: EUR 0-5/mnd
+  bestFor: receptontdekking en maaltijdplanning
+  rating: 4.2
+  affiliateLink: https://www.yummly.com/?ref=aitoolsnl
+- name: MealPro AI
+  verdict: AI-geoptimaliseerde maaltijdbezorging met voedingskundige precisie
+  priceRange: EUR 50-150/week
+  bestFor: kant-en-klare gezonde maaltijden
+  rating: 4.1
+  affiliateLink: https://www.mealpro.com/?ref=aitoolsnl
+- name: EatLove AI
+  verdict: Medisch-geïnformeerde AI voor gepersonaliseerde voedingsadviezen
+  priceRange: EUR 10-25/mnd
+  bestFor: medische dieetbeperkingen
+  rating: 4.3
+  affiliateLink: https://www.eatlove.is/?ref=aitoolsnl
 related:
-  - beste-ai-tools-fitness-2026
-  - beste-ai-tools-zorg-2026
-  - beste-ai-tools-personal-finance-budgetteren-2026
+- beste-ai-tools-fitness-2026
+- beste-ai-tools-zorg-2026
+- beste-ai-tools-personal-finance-budgetteren-2026
 draft: false
 faq:
-  - q: Wat is de beste AI tool voor voeding en dieet in 2026?
-    a: "MyFitnessPal AI is de allround topkeuze dankzij de enorme voedingsdatabase en flexibele tracking. Voor gewichtsverlies met gedragsverandering is Noom AI sterker, terwijl Lifesum uitblinkt in gepersonaliseerde maaltijdplannen."
-  - q: Zijn deze voeding-AI-tools AVG-compliant?
-    a: "De meeste internationale tools voldoen aan de Europese AVG. MyFitnessPal en Lifesum hebben expliciete EU-compliance. Let bij CGM-gebaseerde tools zoals NutriSense op waar gezondheidsdata wordt opgeslagen en verwerkt."
-  - q: Hoe kies ik de juiste AI-voedingstool?
-    a: "Begin met je primaire doel: calorie-tracking (MyFitnessPal), gewichtsverlies (Noom), gepersonaliseerde maaltijden (Lifesum), of medische dieetbeperkingen (EatLove). De meeste tools bieden een gratis proefperiode — probeer er twee of drie voor je beslist."
+- q: Wat is de beste AI tool voor voeding en dieet in 2026?
+  a: MyFitnessPal AI is de allround topkeuze dankzij de enorme voedingsdatabase en
+    flexibele tracking. Voor gewichtsverlies met gedragsverandering is Noom AI sterker,
+    terwijl Lifesum uitblinkt in gepersonaliseerde maaltijdplannen.
+- q: Zijn deze voeding-AI-tools AVG-compliant?
+  a: De meeste internationale tools voldoen aan de Europese AVG. MyFitnessPal en Lifesum
+    hebben expliciete EU-compliance. Let bij CGM-gebaseerde tools zoals NutriSense
+    op waar gezondheidsdata wordt opgeslagen en verwerkt.
+- q: Hoe kies ik de juiste AI-voedingstool?
+  a: 'Begin met je primaire doel: calorie-tracking (MyFitnessPal), gewichtsverlies
+    (Noom), gepersonaliseerde maaltijden (Lifesum), of medische dieetbeperkingen (EatLove).
+    De meeste tools bieden een gratis proefperiode — probeer er twee of drie voor
+    je beslist.'
 ---
 
 # Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken

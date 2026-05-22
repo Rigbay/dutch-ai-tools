@@ -17,7 +17,6 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
-- https://www.beehiiv.com/?via=aitoolsnl
 - https://www.canva.com/?ref=aitoolsnl
 date: 2026-05-21
 modelYear: 2026
