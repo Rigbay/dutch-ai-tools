@@ -71,9 +71,9 @@ tools:
   rating: 4.0
   affiliateLink: https://prezi.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-studenten-2026
+- ai-voor-studenten-2026
+- beste-ai-tools-logistiek-2026
 faq:
 - q: Kan Gamma Nederlandse presentaties maken?
   a: Ja, Gamma ondersteunt Nederlands. Je kunt Nederlandstalige prompts geven en Gamma

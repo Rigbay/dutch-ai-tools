@@ -64,9 +64,9 @@ tools:
   rating: 3.8
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-marketing-tools-2026
 - beste-ai-tools-social-media-2026
-- beste-gratis-ai-tools-2026
+- ai-tools-marketing-teams-2026
+- beste-ai-copywriting-tools-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor marketing in 2026?

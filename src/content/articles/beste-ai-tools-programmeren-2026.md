@@ -64,9 +64,9 @@ tools:
   rating: 4.0
   affiliateLink: https://aws.amazon.com/codewhisperer/?ref=aitoolsnl
 related:
-- beste-ai-chatbots-2026
-- beste-ai-automation-tools-2026
-- beste-gratis-ai-tools-2026
+- beste-ai-tools-lowcode-nocode-2026
+- ai-beeldherkenning-2026
+- beste-ai-tools-app-ontwikkeling-mobiel-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor development in 2026?

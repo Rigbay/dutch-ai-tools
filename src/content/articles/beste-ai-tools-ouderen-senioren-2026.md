@@ -69,9 +69,9 @@ tools:
     rating: 4.7
     affiliateLink: "https://www.medicijnkluis.nl/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-administratie-2026
-  - beste-ai-tools-zzpers-2026
-  - beste-ai-tools-kleine-ondernemers-2026
+- beste-ai-tools-crypto-web3-2026
+- beste-ai-tools-projectmanagement-2026
+- beste-ai-tools-horeca-2026
 draft: false
 faq:
   - q: Wat is de beste AI tool voor ouderen en senioren in 2026?

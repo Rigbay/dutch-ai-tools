@@ -63,9 +63,9 @@ tools:
   rating: 4.0
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+- beste-ai-tools-industriele-productie-maakindustrie-2026
+- beste-ai-tools-ecommerce-2026
+- beste-ai-tools-data-analyse-2026
 draft: false
 faq:
 - q: Kan een AI-trainer een echte personal trainer vervangen?

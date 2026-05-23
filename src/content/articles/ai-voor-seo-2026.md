@@ -38,7 +38,9 @@ tools:
     rating: 4.4
     affiliateLink: "https://www.frase.io/?ref=aitoolsnl"
 related:
-  - beste-ai-marketing-tools-2026
+- beste-ai-copywriting-tools-2026
+- beste-ai-seo-tools-2026
+- beste-ai-marketing-tools-2026
 draft: false
 faq:
   - q: "Kan AI mijn content volledig schrijven voor SEO?"

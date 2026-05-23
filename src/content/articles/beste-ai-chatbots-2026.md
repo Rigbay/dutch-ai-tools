@@ -65,8 +65,8 @@ tools:
   affiliateLink: https://www.deepseek.com/?ref=aitoolsnl
 related:
 - chatgpt-vs-gemini-vs-claude-nederlands-2026
+- beste-ai-meeting-transcriptie-tools-2026
 - beste-gratis-ai-tools-2026
-- beste-ai-tools-programmeren-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

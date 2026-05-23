@@ -63,9 +63,9 @@ tools:
   rating: 4.3
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+- beste-ai-tools-data-analyse-2026
+- nederlandse-ai-adoptie-cijfers-2026
+- beste-ai-tools-landbouw-2026
 draft: false
 faq:
 - q: Is AI in de verzekeringssector betrouwbaar?

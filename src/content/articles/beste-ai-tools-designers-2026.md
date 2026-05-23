@@ -64,9 +64,9 @@ tools:
   rating: 4.0
   affiliateLink: https://www.khroma.co/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-3d-modellering-2026
+- elevenlabs-vs-murf-ai-vs-play-ht-2026
+- beste-ai-image-generators-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor creatie in 2026?

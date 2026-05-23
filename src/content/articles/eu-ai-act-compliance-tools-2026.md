@@ -65,9 +65,9 @@ tools:
   rating: 3.8
   affiliateLink: https://www.monitaur.ai/?ref=aitoolsnl
 related:
-- beste-ai-marketing-tools-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-content-creators-2026
+- beste-ai-tools-financieel-adviseurs-2026
+- beste-ai-tools-psychologie-ggz-2026
+- nederlandse-ai-adoptie-cijfers-2026
 draft: false
 faq:
 - q: Is dit artikel gebaseerd op echte data?

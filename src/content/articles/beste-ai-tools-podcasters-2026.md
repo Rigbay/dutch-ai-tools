@@ -56,9 +56,9 @@ tools:
     rating: 4.2
     affiliateLink: https://www.capcut.com/?ref=aitoolsnl
 related:
-  - beste-ai-video-tools-2026
-  - beste-ai-muziek-audio-tools-2026
-  - beste-ai-tools-content-creators-2026
+- ai-video-generatie-tools-2026
+- beste-ai-tools-media-entertainment-2026
+- elevenlabs-vs-murf-ai-vs-play-ht-2026
 draft: false
 faq:
   - q: Welke AI tool is het beste voor podcast editing?

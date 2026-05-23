@@ -63,9 +63,9 @@ tools:
   rating: 4.3
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-tools-zzpers-2026
-- beste-ai-automation-tools-2026
+- beste-ai-tools-gaming-2026
+- ai-voor-data-analyse-2026
+- beste-ai-tools-supply-chain-logistiek-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor industriële productie, maakindustrie in 2026?

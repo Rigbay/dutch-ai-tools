@@ -71,9 +71,9 @@ tools:
   rating: 4.0
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-sales-tools-2026
+- eu-ai-act-compliance-tools-2026
+- ai-voor-data-analyse-2026
 faq:
 - q: Hoeveel tijd bespaart AI een consultant per week?
   a: Gemiddeld 10-15 uur per week, blijkt uit 2026-onderzoek onder consultants. Meeting

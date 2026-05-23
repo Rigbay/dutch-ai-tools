@@ -65,9 +65,9 @@ tools:
   rating: 4.3
   affiliateLink: https://www.make.com/?ref=aitoolsnl
 related:
-- beste-ai-marketing-tools-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-content-creators-2026
+- beste-ai-tools-verzekeringen-2026
+- ai-voor-data-analyse-2026
+- nederlandse-ai-adoptie-cijfers-2026
 draft: false
 faq:
 - q: Is dit artikel gebaseerd op echte data?

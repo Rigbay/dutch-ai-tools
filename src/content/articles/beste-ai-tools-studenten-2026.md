@@ -64,9 +64,9 @@ tools:
   rating: 4.5
   affiliateLink: https://www.wolframalpha.com/?ref=aitoolsnl
 related:
-- notion-ai-review-nederlands-2026
-- beste-gratis-ai-tools-2026
-- beste-ai-schrijftools-nederlands-2026
+- beste-ai-tools-persoonlijke-assistenten-2026
+- beste-ai-tools-mindmapping-brainstormen-2026
+- beste-ai-tools-bouw-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

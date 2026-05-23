@@ -38,7 +38,9 @@ tools:
     rating: 4.4
     affiliateLink: "https://www.grammarly.com/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-studenten-2026
+- beste-ai-tools-bouw-2026
+- beste-ai-tools-mode-styling-2026
+- beste-ai-tools-mindmapping-brainstormen-2026
 draft: false
 faq:
   - q: "Mag ik AI gebruiken voor essays op de universiteit?"

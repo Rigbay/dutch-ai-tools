@@ -50,9 +50,9 @@ tools:
     rating: 4.1
     affiliateLink: https://www.notion.so/?ref=aitoolsnl
 related:
-  - beste-ai-tools-ecommerce-2026
-  - beste-ai-tools-marketing-teams-2026
-  - ai-voor-ecommerce-2026
+- ai-voor-ecommerce-2026
+- beste-ai-tools-telecom-communicatie-2026
+- beste-ai-tools-gaming-2026
 draft: false
 faq:
   - q: Welke AI tool helpt het meest bij virtuele bezichtigingen?

@@ -52,9 +52,9 @@ tools:
   rating: 4.4
   affiliateLink: https://www.canva.com/?ref=aitoolsnl
 related:
-- beste-ai-marketing-tools-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-content-creators-2026
+- beste-ai-tools-apotheek-farmacie-2026
+- beste-ai-tools-personal-finance-budgetteren-2026
+- beste-ai-tools-klantfeedback-cx-2026
 draft: false
 faq:
 - q: Is dit artikel gebaseerd op echte data?

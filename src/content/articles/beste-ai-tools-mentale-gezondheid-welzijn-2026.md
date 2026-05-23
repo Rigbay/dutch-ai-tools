@@ -65,9 +65,9 @@ tools:
   rating: 4.3
   affiliateLink: https://www.youper.ai/?ref=aitoolsnl
 related:
-- beste-ai-tools-zorg-2026
-- beste-ai-tools-fitness-2026
-- beste-gratis-ai-tools-2026
+- beste-ai-presentatie-tools-2026
+- beste-ai-tools-persoonlijke-assistenten-2026
+- beste-ai-tools-webdesign-websites-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor mentale gezondheid in 2026?

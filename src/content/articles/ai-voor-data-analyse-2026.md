@@ -38,7 +38,9 @@ tools:
     rating: 4.3
     affiliateLink: "https://www.akkio.com/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-data-analyse-2026
+- beste-ai-tools-hr-recruitment-2026
+- beste-ai-tools-non-profits-goede-doelen-2026
+- beste-ai-tools-psychologie-ggz-2026
 draft: false
 faq:
   - q: "Heb ik programmeerkennis nodig?"

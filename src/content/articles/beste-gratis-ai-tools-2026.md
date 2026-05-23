@@ -70,9 +70,9 @@ tools:
   rating: 3.8
   affiliateLink: https://www.copy.ai/?via=aitoolsnl
 related:
-- beste-ai-chatbots-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-studenten-2026
+- beste-ai-tools-reizen-vakantieplanning-2026
+- beste-ai-meeting-transcriptie-tools-2026
+- beste-ai-tools-voeding-dieet-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

@@ -64,9 +64,9 @@ tools:
   rating: 4.1
   affiliateLink: https://www.marketmuse.com/?ref=aitoolsnl
 related:
-- beste-ai-chatbots-2026
+- beste-ai-copywriting-tools-2026
+- beste-ai-seo-tools-2026
 - beste-ai-tools-social-media-2026
-- beste-ai-tools-email-marketing-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor marketing in 2026?

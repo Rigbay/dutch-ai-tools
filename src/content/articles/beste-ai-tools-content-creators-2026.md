@@ -65,8 +65,8 @@ tools:
   affiliateLink: https://runwayml.com/?ref=aitoolsnl
 related:
 - beste-ai-video-tools-2026
-- beste-ai-image-generators-2026
-- beste-ai-schrijftools-nederlands-2026
+- midjourney-vs-dall-e-3-vs-stable-diffusion-2026
+- beste-ai-tools-architecten-bouwkunde-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor creatie in 2026?

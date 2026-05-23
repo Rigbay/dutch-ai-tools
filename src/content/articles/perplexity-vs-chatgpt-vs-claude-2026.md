@@ -73,9 +73,9 @@ tools:
   rating: 4.2
   affiliateLink: https://www.canva.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-content-creators-2026
-- beste-ai-image-generators-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-bouw-2026
+- beste-ai-tools-docenten-2026
+- ai-voor-studenten-2026
 draft: false
 faq:
 - q: Welke AI assistent is het beste voor academisch onderzoek in 2026?

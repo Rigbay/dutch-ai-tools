@@ -64,9 +64,9 @@ tools:
   rating: 4.3
   affiliateLink: https://www.eatlove.is/?ref=aitoolsnl
 related:
-- beste-ai-tools-fitness-2026
-- beste-ai-tools-zorg-2026
-- beste-ai-tools-personal-finance-budgetteren-2026
+- beste-ai-tools-pdf-documenten-2026
+- beste-ai-tools-wetenschappelijk-onderzoek-2026
+- beste-ai-tools-mentale-gezondheid-welzijn-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor voeding en dieet in 2026?

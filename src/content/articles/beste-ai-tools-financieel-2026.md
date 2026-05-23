@@ -73,9 +73,9 @@ tools:
   rating: 4.3
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- eu-ai-act-compliance-tools-2026
+- beste-ai-tools-klantfeedback-cx-2026
+- beste-ai-tools-makelaars-vastgoed-2026
 faq:
 - q: Moet een AI-tool in de financiele sector DNB-goedgekeurd zijn?
   a: Nee, niet elke AI-tool heeft aparte DNB-goedkeuring nodig. De financiele instelling

@@ -65,9 +65,9 @@ tools:
   rating: 4.2
   affiliateLink: https://www.autoscriber.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-pdf-documenten-2026
+- chatgpt-vs-gemini-vs-claude-nederlands-2026
+- beste-ai-meeting-transcriptie-tools-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

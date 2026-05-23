@@ -24,9 +24,9 @@ affiliateLinks:
 - https://www.quartethealth.com/?ref=aitoolsnl
 - https://www.eleos.health/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+- beste-ai-tools-gaming-2026
+- beste-ai-tools-kleine-ondernemers-2026
+- beste-ai-tools-administratie-2026
 date: '2026-05-23'
 modelYear: 2026
 readingTime: 7 min

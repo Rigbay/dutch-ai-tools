@@ -63,9 +63,9 @@ tools:
   rating: 4.5
   affiliateLink: https://about.sourcegraph.com/cody?ref=aitoolsnl
 related:
-- beste-ai-chatbots-2026
-- beste-ai-image-generators-2026
-- beste-ai-video-tools-2026
+- beste-ai-tools-programmeren-2026
+- ai-beeldherkenning-2026
+- beste-ai-tools-lowcode-nocode-2026
 draft: false
 faq:
 - q: Wat is de beste tool?

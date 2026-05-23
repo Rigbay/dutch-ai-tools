@@ -63,9 +63,9 @@ tools:
   rating: 4.3
   affiliateLink: https://pika.art/?ref=aitoolsnl
 related:
+- beste-ai-image-generators-2026
 - beste-ai-video-tools-2026
-- beste-ai-tools-content-creators-2026
-- beste-ai-muziek-audio-tools-2026
+- beste-ai-tools-journalisten-redacties-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor film- en tv-productie in 2026?

@@ -86,9 +86,9 @@ faq:
 - q: Zijn deze tools ook in het Nederlands beschikbaar?
   a: Veel tools ondersteunen Nederlands. Check de individuele aanbieders voor taalspecificaties.
 related:
-- beste-ai-tools-designers-2026
-- beste-ai-tools-lowcode-nocode-2026
-- beste-ai-tools-content-creators-2026
+- beste-ai-automation-tools-2026
+- beste-ai-tools-persoonlijke-assistenten-2026
+- beste-ai-tools-excel-spreadsheets-2026
 draft: false
 ---
 

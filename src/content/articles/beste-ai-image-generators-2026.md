@@ -64,9 +64,9 @@ tools:
   rating: 4.0
   affiliateLink: https://ideogram.ai/?ref=aitoolsnl
 related:
-- beste-ai-tools-content-creators-2026
-- beste-ai-video-tools-2026
-- beste-gratis-ai-tools-2026
+- midjourney-vs-dall-e-3-vs-stable-diffusion-2026
+- beste-ai-tools-designers-2026
+- beste-ai-tools-3d-modellering-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor creatie in 2026?

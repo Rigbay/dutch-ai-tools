@@ -64,9 +64,9 @@ tools:
   rating: 3.5
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
+- notion-ai-review-nederlands-2026
+- beste-ai-tools-horeca-2026
 - beste-ai-chatbots-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-gratis-ai-tools-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

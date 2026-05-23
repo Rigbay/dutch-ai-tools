@@ -71,9 +71,9 @@ tools:
   rating: 3.9
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- shadow-ai-werkvloer-management-2026
+- beste-ai-tools-financieel-2026
+- ai-tools-mkb-starten-2026
 faq:
 - q: Is AI in de Nederlandse overheid AVG-compliant?
   a: Ja, mits correct geïmplementeerd. De Nederlandse overheid hanteert strikte richtlijnen

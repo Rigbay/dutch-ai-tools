@@ -63,9 +63,9 @@ tools:
   rating: 3.9
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-docenten-2026
-- beste-ai-tools-pdf-documenten-2026
-- beste-ai-presentatie-tools-2026
+- beste-ai-tools-ouderen-senioren-2026
+- beste-ai-tools-automotive-2026
+- beste-ai-automation-tools-2026
 draft: false
 faq:
 - q: Wat is het grootste voordeel van AI in cursusontwikkeling?

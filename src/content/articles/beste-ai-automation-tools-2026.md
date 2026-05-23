@@ -64,9 +64,9 @@ tools:
   rating: 3.7
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-tools-programmeren-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-e-learning-cursusontwikkeling-2026
+- beste-ai-tools-studenten-2026
+- beste-ai-tools-onderwijs-instellingen-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

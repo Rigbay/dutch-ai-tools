@@ -65,9 +65,9 @@ tools:
   rating: 4.1
   affiliateLink: https://www.trigoretail.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-persoonlijke-assistenten-2026
+- beste-ai-tools-zorg-2026
+- ai-voor-studenten-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

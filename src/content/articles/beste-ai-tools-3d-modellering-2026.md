@@ -74,9 +74,9 @@ faq:
   a: 'Hobbyist: gratis tot EUR 10/mnd. Professioneel: EUR 50-200/mnd afhankelijk van
     de toolset.'
 related:
-- beste-ai-tools-designers-2026
+- beste-ai-image-generators-2026
 - beste-ai-tools-content-creators-2026
-- beste-ai-video-tools-2026
+- beste-ai-muziek-audio-tools-2026
 draft: false
 ---
 

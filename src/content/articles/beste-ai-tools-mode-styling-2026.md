@@ -57,9 +57,9 @@ tools:
     rating: 4.3
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
 related:
-  - beste-gratis-ai-tools-2026
-  - beste-ai-afbeeldingen-generatoren-2026
-  - beste-ai-chatbots-2026
+- notion-ai-review-nederlands-2026
+- beste-ai-tools-docenten-2026
+- beste-ai-tools-webdesign-websites-2026
 draft: false
 faq:
   - q: 'Wat is een AI-tool voor mode en styling?'

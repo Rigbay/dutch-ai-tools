@@ -63,9 +63,9 @@ tools:
   rating: 4.3
   affiliateLink: https://deepmind.google/technologies/imagen-3/?ref=aitoolsnl
 related:
-- beste-ai-chatbots-2026
-- beste-ai-image-generators-2026
-- beste-ai-video-tools-2026
+- beste-ai-tools-architecten-bouwkunde-2026
+- elevenlabs-vs-murf-ai-vs-play-ht-2026
+- beste-ai-tools-designers-2026
 draft: false
 faq:
 - q: Wat is de beste tool?

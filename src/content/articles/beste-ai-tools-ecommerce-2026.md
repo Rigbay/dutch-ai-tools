@@ -64,9 +64,9 @@ tools:
   rating: 4.1
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-gratis-ai-tools-2026
-- ai-tools-mkb-starten-2026
-- beste-ai-video-tools-2026
+- beste-ai-tools-kleine-ondernemers-2026
+- beste-ai-tools-apotheek-farmacie-2026
+- beste-ai-tools-supply-chain-logistiek-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor business in 2026?

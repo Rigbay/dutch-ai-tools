@@ -64,9 +64,9 @@ tools:
   rating: 4.1
   affiliateLink: https://www.beehiiv.com/?via=aitoolsnl
 related:
-- beste-ai-tools-data-analyse-2026
-- beste-ai-chatbots-2026
-- beste-ai-video-tools-2026
+- beste-ai-tools-non-profits-goede-doelen-2026
+- beste-ai-tools-overheid-2026
+- ai-voor-ecommerce-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor business in 2026?

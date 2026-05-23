@@ -38,7 +38,9 @@ tools:
     rating: 4.4
     affiliateLink: "https://azure.microsoft.com/services/cognitive-services/computer-vision/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-data-analyse-2026
+- beste-ai-tools-engineers-2026
+- beste-ai-tools-api-ontwikkeling-2026
+- beste-ai-tools-programmeren-2026
 draft: false
 faq:
   - q: "Is beeldherkenning privacyvriendelijk?"

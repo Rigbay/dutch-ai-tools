@@ -68,9 +68,9 @@ tools:
     rating: 4.4
     affiliateLink: 'https://claralabs.com'
 related:
-  - beste-gratis-ai-tools-2026
-  - beste-ai-chatbots-2026
-  - beste-ai-schrijftools-2026
+- beste-ai-tools-studenten-2026
+- beste-ai-presentatie-tools-2026
+- notion-ai-review-nederlands-2026
 draft: false
 faq:
   - q: 'Wat is een AI persoonlijke assistent precies?'

@@ -64,9 +64,9 @@ tools:
   rating: 4.5
   affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-marketing-tools-2026
-- beste-ai-automation-tools-2026
+- beste-ai-tools-industriele-productie-maakindustrie-2026
+- beste-ai-sales-tools-2026
+- beste-ai-tools-boekhouders-accountants-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor business in 2026?

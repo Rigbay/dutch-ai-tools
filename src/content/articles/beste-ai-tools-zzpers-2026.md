@@ -64,9 +64,9 @@ tools:
   rating: 4.5
   affiliateLink: https://www.canva.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-tools-administratie-2026
-- beste-gratis-ai-tools-2026
+- beste-ai-tools-non-profits-goede-doelen-2026
+- beste-ai-tools-gaming-2026
+- beste-ai-tools-financieel-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor business in 2026?

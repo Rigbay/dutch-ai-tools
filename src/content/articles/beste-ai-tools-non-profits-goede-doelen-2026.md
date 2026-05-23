@@ -69,9 +69,9 @@ tools:
     rating: 4.1
     affiliateLink: "https://www.gentledata.com/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-zorg-2026
-  - beste-ai-tools-kleine-ondernemers-2026
-  - beste-ai-tools-studenten-2026
+- ai-tools-mkb-starten-2026
+- beste-ai-tools-telecom-communicatie-2026
+- beste-ai-tools-gaming-2026
 draft: false
 faq:
   - q: Wat is de beste AI tool voor non-profits en goede doelen in 2026?

@@ -61,9 +61,9 @@ tools:
   rating: 4.5
   affiliateLink: https://www.microsoft.com/copilot?ref=aitoolsnl
 related:
-- beste-ai-marketing-tools-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-content-creators-2026
+- beste-ai-tools-administratie-2026
+- eu-ai-act-compliance-tools-2026
+- beste-ai-tools-klantenservice-2026
 draft: false
 faq:
 - q: Is dit artikel gebaseerd op echte data?

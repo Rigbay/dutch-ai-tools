@@ -64,9 +64,9 @@ tools:
   rating: 4.1
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-email-marketing-2026
-- beste-ai-tools-administratie-2026
-- chatgpt-vs-gemini-vs-claude-nederlands-2026
+- notion-ai-review-nederlands-2026
+- beste-ai-vertaaltools-2026
+- beste-ai-tools-wetenschappelijk-onderzoek-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

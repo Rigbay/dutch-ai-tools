@@ -63,9 +63,9 @@ tools:
   rating: 4.5
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-tools-zzpers-2026
-- beste-ai-automation-tools-2026
+- beste-ai-video-tools-2026
+- beste-ai-tools-podcasters-2026
+- beste-ai-tools-3d-modellering-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor journalistiek, nieuwsredacties in 2026?

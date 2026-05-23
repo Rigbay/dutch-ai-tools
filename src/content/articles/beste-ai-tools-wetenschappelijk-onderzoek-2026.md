@@ -63,9 +63,9 @@ tools:
   rating: 3.9
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-data-analyse-2026
-- ai-tools-marketing-teams-2026
-- beste-ai-tools-pdf-documenten-2026
+- beste-gratis-ai-tools-2026
+- beste-ai-tools-reizen-vakantieplanning-2026
+- beste-ai-vertaaltools-2026
 draft: false
 faq:
 - q: Hoe betrouwbaar zijn AI-tools voor wetenschappelijk onderzoek?

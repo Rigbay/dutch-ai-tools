@@ -62,9 +62,9 @@ tools:
     rating: 4.6
     affiliateLink: 'https://affiliate.defillama.com/?via=dutchaitools'
 related:
-  - beste-gratis-ai-tools-2026
-  - beste-ai-chatbots-2026
-  - beste-ai-writing-tools-2026
+- beste-ai-tools-mode-styling-2026
+- beste-ai-vertaaltools-2026
+- beste-ai-tools-mentale-gezondheid-welzijn-2026
 draft: false
 faq:
   - q: 'Wat is de beste AI-tool voor crypto sentimentanalyse?'

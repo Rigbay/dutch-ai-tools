@@ -68,9 +68,9 @@ tools:
   rating: 4.5
   affiliateLink: https://www.esmartsystems.com/?ref=aitoolsnl
 related:
-- beste-ai-tools-bouw-2026
-- beste-ai-tools-zzpers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-mode-styling-2026
+- beste-ai-tools-retail-2026
+- beste-ai-tools-ouderschap-gezinsmanagement-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor de energiesector in 2026?

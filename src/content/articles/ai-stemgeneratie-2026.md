@@ -38,7 +38,9 @@ tools:
     rating: 4.4
     affiliateLink: "https://play.ht/?ref=aitoolsnl"
 related:
-  - ai-video-generatie-tools-2026
+- beste-ai-tools-fotografen-2026
+- beste-ai-tools-journalisten-redacties-2026
+- beste-ai-tools-architecten-bouwkunde-2026
 draft: false
 faq:
   - q: "Hoe natuurlijk klinken AI stemmen in het Nederlands?"

@@ -66,9 +66,9 @@ tools:
   rating: 4.3
   affiliateLink: https://www.zonal.co.uk/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-tools-studenten-2026
+- notion-ai-review-nederlands-2026
+- beste-ai-tools-energie-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?

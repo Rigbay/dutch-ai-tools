@@ -87,9 +87,9 @@ faq:
 - q: Zijn deze tools ook in het Nederlands beschikbaar?
   a: Veel tools ondersteunen Nederlands. Check de individuele aanbieders voor taalspecificaties.
 related:
-- beste-ai-tools-data-analyse-2026
-- beste-ai-tools-administratie-2026
-- beste-ai-tools-studenten-2026
+- perplexity-vs-chatgpt-vs-claude-2026
+- beste-ai-tools-energie-2026
+- beste-ai-tools-retail-2026
 draft: false
 ---
 

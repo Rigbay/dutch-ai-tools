@@ -64,9 +64,9 @@ tools:
   rating: 4.4
   affiliateLink: https://surferseo.com/?ref=aitoolsnl
 related:
-- beste-ai-marketing-tools-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-content-creators-2026
+- ai-voor-seo-2026
+- beste-ai-seo-tools-2026
+- beste-ai-copywriting-tools-2026
 draft: false
 faq:
 - q: Is dit artikel gebaseerd op echte data?

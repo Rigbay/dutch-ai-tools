@@ -86,9 +86,9 @@ faq:
 - q: Zijn deze tools ook in het Nederlands beschikbaar?
   a: Veel tools ondersteunen Nederlands. Check de individuele aanbieders voor taalspecificaties.
 related:
-- beste-ai-tools-juristen-2026
-- beste-ai-tools-administratie-2026
-- notion-ai-review-nederlands-2026
+- beste-ai-tools-wetenschappelijk-onderzoek-2026
+- beste-ai-meeting-transcriptie-tools-2026
+- beste-ai-tools-ouderen-senioren-2026
 draft: false
 ---
 

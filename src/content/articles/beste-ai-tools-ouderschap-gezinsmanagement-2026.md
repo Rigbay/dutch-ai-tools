@@ -69,9 +69,9 @@ tools:
     rating: 3.9
     affiliateLink: "https://www.google.com/familylink/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-studenten-2026
-  - beste-ai-tools-zorg-2026
-  - beste-ai-tools-zzpers-2026
+- beste-ai-tools-mode-styling-2026
+- beste-ai-tools-horeca-2026
+- beste-ai-tools-bouw-2026
 draft: false
 faq:
   - q: Wat is de beste AI tool voor ouderschap en gezinsmanagement in 2026?

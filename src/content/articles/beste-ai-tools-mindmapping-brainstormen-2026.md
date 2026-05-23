@@ -64,9 +64,9 @@ tools:
   rating: 3.9
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-duurzaamheid-esg-2026
-- beste-ai-tools-personal-finance-budgetteren-2026
-- beste-ai-tools-reizen-vakantieplanning-2026
+- beste-ai-tools-ouderschap-gezinsmanagement-2026
+- beste-ai-tools-mode-styling-2026
+- beste-ai-presentatie-tools-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor Mindmapping & Brainstormen in 2026?

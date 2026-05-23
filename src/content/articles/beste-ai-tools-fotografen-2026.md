@@ -73,9 +73,9 @@ tools:
   rating: 4.5
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-image-generators-2026
-- beste-ai-tools-content-creators-2026
 - beste-ai-tools-designers-2026
+- beste-ai-video-tools-2026
+- beste-ai-tools-content-creators-2026
 draft: false
 faq:
 - q: Welke AI tool is het beste voor beginnende fotografen in 2026?

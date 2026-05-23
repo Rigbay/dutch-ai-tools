@@ -56,9 +56,9 @@ tools:
     rating: 4.2
     affiliateLink: https://chatgpt.com/?ref=aitoolsnl
 related:
-  - beste-ai-tools-administratie-2026
-  - beste-ai-tools-data-analyse-2026
-  - beste-ai-tools-juristen-2026
+- beste-ai-tools-financieel-2026
+- beste-ai-tools-fitness-2026
+- beste-ai-tools-supply-chain-logistiek-2026
 draft: false
 faq:
   - q: Welke AI tool is het beste voor Nederlandse boekhouders?

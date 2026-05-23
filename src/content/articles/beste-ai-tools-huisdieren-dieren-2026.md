@@ -68,9 +68,9 @@ tools:
     rating: 4.4
     affiliateLink: https://affiliate.notion.so/?via=aitoolsnl&tool=poochplay
 related:
-  - beste-gratis-ai-tools-2026
-  - beste-ai-chatbots-2026
-  - beste-ai-schrijftools-2026
+- beste-ai-tools-onderwijs-instellingen-2026
+- beste-ai-tools-energie-2026
+- beste-ai-tools-zorg-2026
 draft: false
 faq:
   - q: Kunnen AI tools voor huisdieren een echte dierenarts volledig vervangen?

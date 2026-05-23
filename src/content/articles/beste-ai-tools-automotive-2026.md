@@ -65,9 +65,9 @@ tools:
   rating: 4.2
   affiliateLink: https://ravin.ai/?ref=aitoolsnl
 related:
-- beste-ai-tools-zzpers-2026
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-marketing-tools-2026
+- beste-ai-presentatie-tools-2026
+- beste-ai-tools-reizen-vakantieplanning-2026
+- beste-ai-tools-zorg-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor automotive in 2026?

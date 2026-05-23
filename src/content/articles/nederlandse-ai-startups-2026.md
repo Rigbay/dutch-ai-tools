@@ -38,7 +38,9 @@ tools:
     rating: 4.6
     affiliateLink: "https://www.datacamp.com/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-zzpers-2026
+- beste-ai-tools-boekhouders-accountants-2026
+- beste-ai-tools-supply-chain-logistiek-2026
+- ai-tools-mkb-starten-2026
 draft: false
 faq:
   - q: "Zijn Nederlandse AI startups even goed als internationale spelers?"

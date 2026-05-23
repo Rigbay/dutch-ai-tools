@@ -63,8 +63,9 @@ tools:
   rating: 4.0
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-video-tools
-- beste-ai-image-generators
+- beste-ai-tools-kleine-ondernemers-2026
+- beste-ai-tools-administratie-2026
+- beste-ai-tools-financieel-adviseurs-2026
 faq:
 - q: Wat is de beste AI-tool?
   a: Dat hangt van je specifieke behoeften af — zie de vergelijkingstabel hierboven.
