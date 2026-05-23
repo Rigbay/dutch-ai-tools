@@ -1,8 +1,8 @@
 ---
 title: 'Beste AI Tools voor Huisdieren & Dierenverzorging 2026: top 6 tools vergeleken'
 slug: beste-ai-tools-huisdieren-dieren-2026
-description: Ontdek de beste AI tools voor huisdieren en dierenverzorging in 2026. Van slimme gezondheidsmonitoren tot AI-gedragsadvies voor je hond of kat.
-category: productiviteit
+description: 'Ontdek hoe AI helpt bij de verzorging van je huisdier in 2026. Van slimme gezondheidsmonitoring tot AI-gedreven gedragsanalyse.'
+category: huisdieren
 rating: 4.7
 priceRange: 'EUR 0-40/mnd'
 pros:

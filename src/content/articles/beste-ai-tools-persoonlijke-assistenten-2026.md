@@ -1,10 +1,10 @@
 ---
-title: 'Beste AI Tools voor Persoonlijke Assistenten 2026: top 7 tools vergeleken'
+title: 'Beste AI Persoonlijke Assistenten 2026: top 5 digitale concierges'
 slug: beste-ai-tools-persoonlijke-assistenten-2026
-description: 'Op zoek naar de beste AI persoonlijke assistent in 2026? Ontdek onze top 7 tools die je productiviteit verhogen en je workflow volledig automatiseren.'
-category: productiviteit
-rating: 4.8
-priceRange: 'EUR 0-60/mnd'
+description: 'Vergelijk de beste AI persoonlijke assistenten van 2026. Van slimme agenda-planners tot proactieve digitale concierges die je leven makkelijker maken.'
+category: persoonlijke-assistenten
+rating: 4.7
+priceRange: 'EUR 0-30/mnd'
 pros:
   - 'Enorme tijdbesparing bij dagelijkse taken en e-mailbeheer'
   - 'Naadloze integratie met bestaande agenda’s en productiviteitsapps'

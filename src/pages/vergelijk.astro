@@ -5,14 +5,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 
 // Group by category and pick top rated
-const categories = ['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie'];
+const categories = ['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie', 'mode-styling', 'persoonlijke-assistenten', 'huisdieren', 'koken', 'crypto'];
 const categoryLabels: Record<string, string> = {
   productiviteit: 'Productiviteit',
   marketing: 'Marketing',
   creatie: 'Creatie',
   development: 'Development',
   business: 'Business',
-  technologie: 'Technologie & Security'
+  technologie: 'Technologie & Security',
+  'mode-styling': 'Mode & Styling',
+  'persoonlijke-assistenten': 'Persoonlijke Assistenten',
+  huisdieren: 'Huisdieren & Dierenverzorging',
+  koken: 'Koken & Recepten',
+  crypto: 'Crypto & Web3'
 };
 
 const topPicks = categories.map(cat => {

@@ -2,7 +2,7 @@
 title: 'Beste AI Tools voor Crypto & Web3 2026: top 6 tools vergeleken'
 slug: beste-ai-tools-crypto-web3-2026
 description: 'Ontdek de beste AI tools voor crypto & Web3 in 2026. Analyseer markttrends, genereer on-chain data en optimaliseer je trading strategieën direct.'
-category: productiviteit
+category: crypto
 rating: 4.8
 priceRange: 'EUR 0-150/mnd'
 pros:

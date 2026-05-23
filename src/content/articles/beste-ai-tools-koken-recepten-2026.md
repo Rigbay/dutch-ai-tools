@@ -2,7 +2,7 @@ yaml
 title: 'Beste AI Tools voor Koken & Recepten 2026: top 6 tools vergeleken'
 slug: beste-ai-tools-koken-recepten-2026
 description: 'Ontdek de beste AI tools voor koken en recepten in 2026. Bespaar tijd, verminder voedselverspilling en kook moeiteloos gezonde maaltijden met slimme AI-assistenten.'
-category: productiviteit
+category: koken
 rating: 4.8
 priceRange: 'EUR 0-15/mnd'
 pros:
