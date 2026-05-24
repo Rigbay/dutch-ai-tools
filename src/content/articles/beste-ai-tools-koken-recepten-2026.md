@@ -219,3 +219,11 @@ Ja, absoluut. Tools zoals ChefGPT en DishGen hebben ingebouwde filters voor glut
 
 ### Zijn deze kook-apps ook in het Nederlands beschikbaar?
 Sommige specifieke tools zijn voornamelijk in het Engels, maar platforms zoals ChatGPT en DishGen begrijpen en reageren perfect in het Nederlands. Bovendien kun je met ingebouwde browservertalingen of AI-vertaaltools Engelstalige recepten in een fractie van een seconde vertalen.
+---
+## Lees ook
+
+Verdiep je verder in AI tools:
+
+- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
+- ["AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"](/ai-stemgeneratie-2026/)
+- [AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren](/ai-tools-marketing-teams-2026/)
