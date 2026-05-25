@@ -2,7 +2,7 @@
 title: 'Beste AI Tools voor Huisdieren & Dierenverzorging 2026: top 6 tools vergeleken'
 slug: beste-ai-tools-huisdieren-dieren-2026
 description: 'Ontdek hoe AI helpt bij de verzorging van je huisdier in 2026. Van slimme gezondheidsmonitoring tot AI-gedreven gedragsanalyse.'
-category: huisdieren
+category: business
 rating: 4.7
 priceRange: 'EUR 0-40/mnd'
 pros:
@@ -14,18 +14,7 @@ cons:
   - Sommige geavanceerde functies vereisen prijzige hardware (wearables)
   - Privacygevoeligheid rondom opgeslagen huisdierdata en camera's
 affiliateLinks:
-  - name: TTcare
-    link: https://affiliate.notion.so/?via=aitoolsnl&tool=ttcare
-  - name: Petnow
-    link: https://affiliate.notion.so/?via=aitoolsnl&tool=petnow
-  - name: Animo AI Vet
-    link: https://affiliate.notion.so/?via=aitoolsnl&tool=animo
-  - name: Whistle Health AI
-    link: https://affiliate.notion.so/?via=aitoolsnl&tool=whistle
-  - name: Catlog AI
-    link: https://affiliate.notion.so/?via=aitoolsnl&tool=catlog
-  - name: PoochPlay AI
-    link: https://affiliate.notion.so/?via=aitoolsnl&tool=poochplay
+  - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-23
 modelYear: 2026
 featuredTool: Animo AI Vet

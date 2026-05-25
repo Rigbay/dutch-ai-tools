@@ -2,7 +2,7 @@
 title: 'Beste AI Persoonlijke Assistenten 2026: top 5 digitale concierges'
 slug: beste-ai-tools-persoonlijke-assistenten-2026
 description: 'Vergelijk de beste AI persoonlijke assistenten van 2026. Van slimme agenda-planners tot proactieve digitale concierges die je leven makkelijker maken.'
-category: persoonlijke-assistenten
+category: productiviteit
 rating: 4.7
 priceRange: 'EUR 0-30/mnd'
 pros:
@@ -14,12 +14,7 @@ cons:
   - 'Privacy-overwegingen bij het koppelen van gevoelige mailboxen'
   - 'De beste functies zitten vrijwel altijd achter een betaalmuur'
 affiliateLinks:
-  - name: Motion
-    link: https://usemotion.pxf.io/c/dutchaitools
-  - name: Notion AI
-    link: https://affiliate.notion.so/?via=dutchaitools
-  - name: Lindy
-    link: https://lindy.ai/?via=dutchaitools
+  - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-23
 modelYear: 2026
 featuredTool: 'Motion'

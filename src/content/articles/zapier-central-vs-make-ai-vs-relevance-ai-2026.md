@@ -3,7 +3,7 @@ title: 'Zapier Central vs Make.com AI vs Relevance AI: De Toekomst van AI Agents
 slug: zapier-central-vs-make-ai-vs-relevance-ai-2026
 description: Hoe automatiseer je je business met AI agents? Een vergelijking van Zapier Central, Make.com AI en Relevance
   AI in 2026.
-category: automatisering
+category: business
 rating: 4.6
 priceRange: EUR 0-100/mnd
 pros:

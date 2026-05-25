@@ -1,62 +1,73 @@
-yaml
+---
 title: 'Beste AI Tools voor Koken & Recepten 2026: top 6 tools vergeleken'
 slug: beste-ai-tools-koken-recepten-2026
-description: 'Ontdek de beste AI tools voor koken en recepten in 2026. Bespaar tijd, verminder voedselverspilling en kook moeiteloos gezonde maaltijden met slimme AI-assistenten.'
-category: koken
+description: >-
+  Ontdek de beste AI tools voor koken en recepten in 2026. Bespaar tijd, verminder
+  voedselverspilling en kook moeiteloos gezonde maaltijden met slimme AI-assistenten.
+category: creatie
 rating: 4.8
 priceRange: 'EUR 0-15/mnd'
 pros:
-  - 'Voorkomt voedselverspilling door recepten te genereren met ingrediënten die je al in huis hebt.'
-  - 'Eenvoudig personaliseren op basis van complexe diëten, allergieën en macro-doelen.'
-  - 'Automatische generatie van georganiseerde boodschappenlijstjes bespaart uren aan planning.'
+  - Voorkomt voedselverspilling door recepten te genereren met ingrediënten die je al in huis hebt.
+  - Eenvoudig personaliseren op basis van complexe diëten, allergieën en macro-doelen.
+  - Automatische generatie van georganiseerde boodschappenlijstjes bespaart uren aan planning.
 cons:
-  - 'Sommige geavanceerde functies (zoals macro-trackers) vereisen een betaald abonnement.'
-  - 'AI-recepten missen soms de menselijke touch of vereisen kleine aanpassingen in kooktijd.'
-  - 'Niet alle tools bieden volledige Nederlandstalige ondersteuning in hun interface.'
+  - Sommige geavanceerde functies (zoals macro-trackers) vereisen een betaald abonnement.
+  - AI-recepten missen soms de menselijke touch of vereisen kleine aanpassingen in kooktijd.
+  - Niet alle tools bieden volledige Nederlandstalige ondersteuning in hun interface.
 affiliateLinks:
-  - name: 'ChefGPT'
-    url: 'https://affiliate.notion.so/?via=aitoolsnl'
-  - name: 'DishGen'
-    url: 'https://affiliate.notion.so/?via=aitoolsnl'
+  - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-23
 modelYear: 2026
-featuredTool: 'ChefGPT'
+featuredTool: ChefGPT
 readingTime: '8 min'
 tools:
-  - name: 'ChefGPT'
-    verdict: 'De meest complete en veelzijdige AI-kookassistent voor zowel beginners als gevorderde thuiskoks.'
+  - name: ChefGPT
+    verdict: >-
+      De meest complete en veelzijdige AI-kookassistent voor zowel beginners als
+      gevorderde thuiskoks.
     priceRange: 'Gratis / $2.99 per maand'
-    bestFor: 'Zero-waste koken en gepersonaliseerde maaltijdplanning.'
+    bestFor: Zero-waste koken en gepersonaliseerde maaltijdplanning.
     rating: 4.9
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
-  - name: 'DishGen'
-    verdict: 'Uitstekend voor het razendsnel genereren van unieke, op maat gemaakte recepten op basis van losse ingrediënten.'
+  - name: DishGen
+    verdict: >-
+      Uitstekend voor het razendsnel genereren van unieke, op maat gemaakte recepten
+      op basis van losse ingrediënten.
     priceRange: 'Gratis / $4.99 per maand'
-    bestFor: 'Snelle, creatieve receptcreatie zonder gedoe.'
+    bestFor: Snelle, creatieve receptcreatie zonder gedoe.
     rating: 4.7
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
-  - name: 'MealPractice'
-    verdict: 'De ideale tool voor wie gestructureerd wil meal preppen en wekelijks gezonde routines wil opbouwen.'
+  - name: MealPractice
+    verdict: >-
+      De ideale tool voor wie gestructureerd wil meal preppen en wekelijks gezonde
+      routines wil opbouwen.
     priceRange: 'Gratis / $5.00 per maand'
-    bestFor: 'Wekelijkse planning en gezinsmaaltijden.'
+    bestFor: Wekelijkse planning en gezinsmaaltijden.
     rating: 4.6
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
-  - name: 'SuperCook'
-    verdict: 'Een gigantische database gecombineerd met slimme AI-filtering om direct te zien wat je kunt maken met je huidige voorraad.'
-    priceRange: 'Volledig Gratis'
-    bestFor: 'Koelkast restjes opmaken en budgetkoken.'
+  - name: SuperCook
+    verdict: >-
+      Een gigantische database gecombineerd met slimme AI-filtering om direct te
+      zien wat je kunt maken met je huidige voorraad.
+    priceRange: Volledig Gratis
+    bestFor: Koelkast restjes opmaken en budgetkoken.
     rating: 4.5
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
-  - name: 'FoodAI'
-    verdict: 'Een innovatieve tool die zich richt op unieke smaakcombinaties en culinaire creativiteit.'
+  - name: FoodAI
+    verdict: >-
+      Een innovatieve tool die zich richt op unieke smaakcombinaties en culinaire
+      creativiteit.
     priceRange: 'Gratis / Variabel'
-    bestFor: 'Culinaire experimenten en fusion koken.'
+    bestFor: Culinaire experimenten en fusion koken.
     rating: 4.4
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
-  - name: 'ChatGPT (met Custom Recipe GPTs)'
-    verdict: 'Biedt ongekende flexibiliteit en diepgaande interactie voor het aanpassen en fine-tunen van recepten via chat.'
+  - name: ChatGPT (met Custom Recipe GPTs)
+    verdict: >-
+      Biedt ongekende flexibiliteit en diepgaande interactie voor het aanpassen en
+      fine-tunen van recepten via chat.
     priceRange: 'Gratis / $20 per maand'
-    bestFor: 'Complexe dieetwensen en interactieve kookbegeleiding.'
+    bestFor: Complexe dieetwensen en interactieve kookbegeleiding.
     rating: 4.7
     affiliateLink: 'https://affiliate.notion.so/?via=aitoolsnl'
 related:
@@ -65,13 +76,24 @@ related:
   - beste-ai-productivity-tools-2026
 draft: false
 faq:
-  - question: 'Hoe nauwkeurig zijn AI-recepten wat betreft kooktijden en verhoudingen?'
-    answer: 'Over het algemeen zijn moderne AI-tools in 2026 zeer nauwkeurig, omdat ze getraind zijn op miljoenen professionele recepten. Toch blijft gezond verstand belangrijk: controleer altijd of de hoeveelheid vloeistof logisch is en houd de pan in de gaten, aangezien ovens en fornuizen onderling verschillen.'
-  - question: 'Kan ik met deze AI-tools rekening houden met specifieke allergieën?'
-    answer: 'Ja, absoluut. Tools zoals ChefGPT en DishGen hebben ingebouwde filters voor gluten, noten, lactose en andere allergenen. Je kunt zelfs invoeren: "Genereer een diner zonder tomaat en pinda\'s" en de AI past het recept direct foutloos aan.'
-  - question: 'Zijn deze kook-apps ook in het Nederlands beschikbaar?'
-    answer: 'Sommige specifieke tools zijn voornamelijk in het Engels, maar platforms zoals ChatGPT en DishGen begrijpen en reageren perfect in het Nederlands. Bovendien kun je met ingebouwde browservertalingen of AI-vertaaltools Engelstalige recepten in een fractie van een seconde vertalen.'
-```
+  - q: Hoe nauwkeurig zijn AI-recepten wat betreft kooktijden en verhoudingen?
+    a: >-
+      Over het algemeen zijn moderne AI-tools in 2026 zeer nauwkeurig, omdat ze getraind
+      zijn op miljoenen professionele recepten. Toch blijft gezond verstand belangrijk:
+      controleer altijd of de hoeveelheid vloeistof logisch is en houd de pan in de gaten,
+      aangezien ovens en fornuizen onderling verschillen.
+  - q: Kan ik met deze AI-tools rekening houden met specifieke allergieën?
+    a: >-
+      Ja, absoluut. Tools zoals ChefGPT en DishGen hebben ingebouwde filters voor gluten,
+      noten, lactose en andere allergenen. Je kunt zelfs invoeren: "Genereer een diner
+      zonder tomaat en pinda's" en de AI past het recept direct foutloos aan.
+  - q: Zijn deze kook-apps ook in het Nederlands beschikbaar?
+    a: >-
+      Sommige specifieke tools zijn voornamelijk in het Engels, maar platforms zoals ChatGPT
+      en DishGen begrijpen en reageren perfect in het Nederlands. Bovendien kun je met ingebouwde
+      browservertalingen of AI-vertaaltools Engelstalige recepten in een fractie van een seconde
+      vertalen.
+---
 
 De keuken van 2026 is slimmer, efficiënter en creatiever dan ooit tevoren. Waar we vroeger uren bladerden door kookboeken of moedeloos naar een halflege koelkast staarden, nemen **AI kooktools** nu het denkwerk uit handen. Of je nu wilt besparen op je boodschappen, voedselverspilling wilt tegengaan, of een strikt dieet volgt: kunstmatige intelligentie is jouw nieuwe souschef.
 
