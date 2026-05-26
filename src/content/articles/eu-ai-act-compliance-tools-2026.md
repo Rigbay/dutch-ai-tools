@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Credo AI

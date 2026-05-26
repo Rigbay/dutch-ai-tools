@@ -13,7 +13,7 @@ cons:
   - SEO algoritmes veranderen regelmatig
   - Resultaten hangen af van contentkwaliteit
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
 featuredTool: "Surfer SEO"

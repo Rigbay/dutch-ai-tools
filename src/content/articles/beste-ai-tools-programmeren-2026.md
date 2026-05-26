@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: GitHub Copilot
@@ -38,7 +38,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Complexe taken
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Tabnine
   verdict: Privacy-gerichte AI coding assistant met lokale modellen
   priceRange: EUR 0-20/mnd

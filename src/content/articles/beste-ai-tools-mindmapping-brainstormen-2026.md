@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.taskade.com/?via=aitoolsnl
 - https://www.taskade.com/?via=55nfr2
 date: 2026-05-22
 modelYear: 2026
@@ -27,31 +27,31 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: productiviteit professionals
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Whimsical
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 15-80/mnd
   bestFor: productiviteit professionals
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: XMind AI
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-50/mnd
   bestFor: productiviteit professionals
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Ayoa
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 0-25/mnd
   bestFor: productiviteit professionals
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: MindMeister
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 20-100/mnd
   bestFor: productiviteit professionals
   rating: 4.1
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Taskade AI
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 5-40/mnd
@@ -63,7 +63,7 @@ tools:
   priceRange: EUR 10-60/mnd
   bestFor: productiviteit professionals
   rating: 3.9
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 related:
 - beste-ai-tools-ouderschap-gezinsmanagement-2026
 - beste-ai-tools-mode-styling-2026

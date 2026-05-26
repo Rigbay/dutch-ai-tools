@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Zapier
@@ -62,7 +62,7 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: Alternatief
   rating: 3.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-e-learning-cursusontwikkeling-2026
 - beste-ai-tools-studenten-2026

@@ -16,7 +16,7 @@ cons:
 - Kleinere tools missen integraties met consulting-software
 - Sommige tools generiek, niet consultancy-specifiek
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Fireflies.ai
@@ -28,48 +28,48 @@ tools:
   priceRange: EUR 25-75/mnd
   bestFor: Consultancy meetings
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Fireflies.ai
   verdict: Automatische meetingtranscriptie met zoekfunctie en AI-samenvattingen —
     verwerkt Teams, Zoom, Google Meet
   priceRange: EUR 0-25/mnd
   bestFor: Meeting intelligence
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Julius AI
   verdict: AI-data-analist die spreadsheets en datasets in seconden analyseert — grafieken,
     inzichten, rapportages
   priceRange: EUR 15-50/mnd
   bestFor: Data-analyse
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Numerous.ai
   verdict: AI in Google Sheets en Excel — formules genereren, data categoriseren,
     trendanalyses met natuurlijke taal
   priceRange: EUR 8-30/mnd
   bestFor: Spreadsheet analyse
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Qatalog
   verdict: Enterprise AI-kennisbeheer — automatisch verbinden van documenten, mensen
     en projecten
   priceRange: EUR 15-50/mnd
   bestFor: Kennisbeheer
   rating: 4.1
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Craft
   verdict: Moderne document- en strategietool met AI-schrijfhulp — favoriet bij strategieconsultants
   priceRange: EUR 0-12/mnd
   bestFor: Strategiedocumenten
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Sana AI
   verdict: Enterprise AI-assistent die bedrijfsdocumenten begrijpt en vragen beantwoordt
     — interne kennis ontsluiten
   priceRange: Op aanvraag (enterprise)
   bestFor: Enterprise knowledge
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-sales-tools-2026
 - eu-ai-act-compliance-tools-2026

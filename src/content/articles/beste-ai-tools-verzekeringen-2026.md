@@ -14,7 +14,7 @@ cons:
 - Regelgeving vertraagt adoptie bij kleinere spelers
 - Sommige tools overlappen functioneel
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: FRISS
@@ -25,43 +25,43 @@ tools:
   priceRange: Op aanvraag
   bestFor: Frauddetectie
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Tractable
   verdict: AI-computervisie voor automatische schadebeoordeling auto
   priceRange: Op aanvraag
   bestFor: Schadeafhandeling
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Shift Technology
   verdict: Wereldleider AI-claimsverwerking en fraudedetectie
   priceRange: Op aanvraag
   bestFor: Claims intelligence
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Zelros
   verdict: AI-platform voor gepersonaliseerde verzekeringsadviezen
   priceRange: Op aanvraag
   bestFor: Klantbediening
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Anansi
   verdict: NL insurtech AI-platform voor embedded verzekeringen
   priceRange: Op aanvraag
   bestFor: Embedded insurance
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Omnius
   verdict: AI-documentverwerking verzekeringen
   priceRange: EUR 500-2000/mnd
   bestFor: Documentverwerking
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Akur8
   verdict: AI-pricingplatform met transparante uitlegbare modellen
   priceRange: Op aanvraag
   bestFor: Pricing
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-data-analyse-2026
 - nederlandse-ai-adoptie-cijfers-2026

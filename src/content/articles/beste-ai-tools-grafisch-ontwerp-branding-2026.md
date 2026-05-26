@@ -14,7 +14,7 @@ cons:
 - Output-kwaliteit varieert per usecase — test vooraf
 - Sommige features zijn nog in beta, vooral video en 3D
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Midjourney
@@ -25,43 +25,43 @@ tools:
   priceRange: EUR 10-30/mnd
   bestFor: Concept art en visuele exploratie
   rating: 4.8
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Adobe Firefly
   verdict: Adobe's AI-suite naadloos geïntegreerd met Photoshop, Illustrator en Express.
   priceRange: EUR 5-25/mnd
   bestFor: Adobe-gebruikers en professionele workflows
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Canva Magic Studio
   verdict: All-in-one ontwerpplatform met AI-tools die ontwerpen voor iedereen toegankelijk maakt.
   priceRange: EUR 0-13/mnd
   bestFor: Non-designers en snelle content creatie
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Looka
   verdict: AI-logo- en brand kit generator die in minuten een complete visuele identiteit bouwt.
   priceRange: EUR 20-80 eenmalig
   bestFor: Logo's en branding packages
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Ideogram
   verdict: AI-beeldgenerator met superieure tekstweergave — letters en logo's zonder vervorming.
   priceRange: EUR 0-20/mnd
   bestFor: Typografie en logo-concepten
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Recraft
   verdict: Vector-native AI — genereert EPS, SVG en printklare assets in huisstijl.
   priceRange: EUR 0-35/mnd
   bestFor: Vector illustraties en merkconsistente outputs
   rating: 4.1
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Khroma
   verdict: AI-kleurenpaletten generator die leert van jouw voorkeuren voor unieke brand palettes.
   priceRange: EUR 0/mnd
   bestFor: Kleurenpaletten en moodboards
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-interieur-woninginrichting-2026
 - beste-ai-muziek-audio-tools-2026

@@ -14,7 +14,7 @@ cons:
 - Nederlandse stemmen variëren sterk in natuurlijkheid
 - Hogere abonnementen nodig voor eigen avatar training
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Synthesia

@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
@@ -27,13 +27,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Dagelijkse AI assistent
   rating: 4.8
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Notion AI
   verdict: Complete werkruimte met AI voor teams, projecten en documentatie
   priceRange: EUR 10-20/mnd
   bestFor: Teamwerk & documentatie
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Zapier
   verdict: Verbindt 6000+ apps en automatiseert repetitieve taken
   priceRange: EUR 0-150/mnd

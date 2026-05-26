@@ -14,7 +14,7 @@ cons:
 - AI-output blijft afhankelijk van promptkwaliteit
 - Sommige Nederlandse nuances worden nog gemist
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://writesonic.com/?via=aitoolsnl
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Jasper AI

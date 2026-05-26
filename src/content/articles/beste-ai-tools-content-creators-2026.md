@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Canva AI
@@ -44,7 +44,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Content ideation
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: CapCut AI
   verdict: Gratis videotool met sterke AI features voor korte content
   priceRange: EUR 0-10/mnd

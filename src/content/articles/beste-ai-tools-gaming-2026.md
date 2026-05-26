@@ -14,7 +14,7 @@ cons:
 - Licentiekosten lopen op bij commerciële tools
 - Niet alle genres profiteren evenveel
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Unity ML-Agents
@@ -25,43 +25,43 @@ tools:
   priceRange: ' Gratis (open-source), maar vereist een Unity-li'
   bestFor: ' Game-ontwikkelaars, AI-ingenieurs, onderzoekers en studenten die geïnteressee'
   rating: 5.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Scenario.gg
   verdict: ' Scenario.gg is een gespecialiseerd generatief AI-platform dat is ontworpen voor het creëren van g'
   priceRange: ' Gratis starterspakket, abonnementsmodellen van '
   bestFor: ' Game-artiesten, indie-ontwikkelaars, concept-artiesten en kleine tot middelgr'
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Leonardo AI
   verdict: ' Net als Scenario.gg richt Leonardo AI zich op generatieve kunst, maar met een bredere toepassing '
   priceRange: ' Gratis tier, betaalde abonnementen van €10 tot '
   bestFor: ' Concept-artiesten, grafisch ontwerpers, marketingteams en indie-ontwikkelaars'
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Inworld AI
   verdict: ' Inworld AI is gespecialiseerd in het creëren van intelligente, interactieve NPC''s met realistisch'
   priceRange: ' API-gebaseerd, variërend van gratis voor kleine'
   bestFor: ' Narratieve ontwerpers, schrijvers, RPG-ontwikkelaars en studio''s die diepgaan'
   rating: 5.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Modl.ai
   verdict: ' Modl.ai is een AI-platform dat zich richt op het automatiseren van game-testen, balanceren en het'
   priceRange: ' Enterprise-oplossingen, op maat gemaakte offert'
   bestFor: ' QA-teams, game-designers, studio''s die de kwaliteit en balans van hun games w'
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Promethean AI
   verdict: ' Promethean AI functioneert als een intelligente assistent voor level- en wereldontwerp. Door midd'
   priceRange: ' Enterprise-oplossingen, op maat gemaakte offert'
   bestFor: ' Level-designers, environment-artiesten, en grote studio''s die complexe en ged'
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Layer AI
   verdict: ' Layer AI is een opkomend platform dat gespecialiseerd is in het genereren van complexe, gelaagde '
   priceRange: ' Abonnementsmodellen van €30 tot €150 per maand,'
   bestFor: ' 3D-artiesten, textuur-artiesten, en studio''s die hoge eisen stellen aan de vi'
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-kleine-ondernemers-2026
 - beste-ai-tools-administratie-2026

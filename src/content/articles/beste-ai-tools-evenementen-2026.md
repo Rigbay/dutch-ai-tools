@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Cvent AI
@@ -26,37 +26,37 @@ tools:
   priceRange: EUR 50-300/mnd
   bestFor: Enterprise
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Bizzabo
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 30-200/mnd
   bestFor: MKB
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Eventbrite AI
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 20-150/mnd
   bestFor: Startups
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Swapcard
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 0-50/mnd
   bestFor: Budget
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Grip
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 15-100/mnd
   bestFor: Teams
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Splash
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 10-60/mnd
   bestFor: Solo
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - ai-voor-ecommerce-2026
 - beste-ai-tools-financieel-adviseurs-2026

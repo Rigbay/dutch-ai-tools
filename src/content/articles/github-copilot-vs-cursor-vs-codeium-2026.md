@@ -14,7 +14,7 @@ cons:
 - Prijzen onder voorbehoud
 - Sommige features in beta
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-23
 modelYear: 2026
 featuredTool: GitHub Copilot

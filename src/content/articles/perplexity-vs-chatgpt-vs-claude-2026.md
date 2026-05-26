@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 - https://www.canva.com/?ref=aitoolsnl
 date: 2026-05-21
 modelYear: 2026
@@ -29,42 +29,42 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Diepgaand onderzoek en fact-checking
   rating: 4.8
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: ChatGPT (OpenAI)
   verdict: De veelzijdige kameleon die uitblinkt in creatieve content, complexe code
     en interactieve gesprekken.
   priceRange: EUR 0-45/mnd
   bestFor: Creatief schrijven, coderen en brainstormen
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Claude (Anthropic)
   verdict: De veilige en ethische keuze voor lange documenten, gevoelige onderwerpen
     en genuanceerde analyses.
   priceRange: EUR 0-35/mnd
   bestFor: Lange-context analyse en veilige contentgeneratie
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Google Gemini
   verdict: Een krachtige, multimodale AI die naadloos integreert met het Google-ecosysteem
     voor productiviteit en informatie.
   priceRange: EUR 0-30/mnd
   bestFor: Google Workspace gebruikers en multimodale taken
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Microsoft Copilot
   verdict: De ultieme AI-assistent voor Microsoft 365 gebruikers die efficiëntie en
     beveiliging zoeken in hun dagelijkse workflow.
   priceRange: EUR 15-40/mnd
   bestFor: Microsoft 365 productiviteit en bedrijfsgebruik
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Notion AI
   verdict: De geïntegreerde AI-hulp voor iedereen die hun workspace wil transformeren
     met slimme contentgeneratie en organisatie.
   priceRange: EUR 0-16/mnd
   bestFor: Werkplekautomatisering en documentcreatie binnen Notion
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Canva Magic Studio
   verdict: De creatieve partner voor visuele professionals die met AI hun ontwerpproces
     willen versnellen en verrijken.

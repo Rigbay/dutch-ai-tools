@@ -13,7 +13,7 @@ cons:
   - Academische integriteit blijft belangrijk
   - Sommige tools kunnen te generiek zijn
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
 featuredTool: "ChatGPT"

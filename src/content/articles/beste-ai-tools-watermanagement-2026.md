@@ -14,7 +14,7 @@ cons:
 - Veel platforms werken met maatwerk- of enterpriseprijzen
 - Beslissingen blijven afhankelijk van lokaal beleid en expertise
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Waterplan

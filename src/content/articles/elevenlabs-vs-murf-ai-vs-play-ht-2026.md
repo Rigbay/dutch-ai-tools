@@ -14,7 +14,7 @@ cons:
 - Prijzen onder voorbehoud
 - Sommige features in beta
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-23
 modelYear: 2026
 featuredTool: ElevenLabs
@@ -61,7 +61,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Interactie
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-image-generators-2026
 - beste-ai-tools-journalisten-redacties-2026

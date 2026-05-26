@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT
@@ -26,13 +26,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Lesvoorbereiding
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Claude
   verdict: Beste voor diepgaande feedback op essays en werkstukken
   priceRange: EUR 0-25/mnd
   bestFor: Feedback & nakijken
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Canva AI
   verdict: Onmisbaar voor visueel lesmateriaal, presentaties en infographics
   priceRange: EUR 0-15/mnd
@@ -50,7 +50,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Research & Classroom
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Quizlet AI
   verdict: Beste voor flashcards, begrippentraining en formatief toetsen
   priceRange: EUR 0-8/mnd
@@ -62,7 +62,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Planning & administratie
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-webdesign-websites-2026
 - beste-ai-tools-pdf-documenten-2026

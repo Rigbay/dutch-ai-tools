@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://writesonic.com/?via=aitoolsnl
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -26,13 +26,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Allround AI assistent
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://writesonic.com/?via=aitoolsnl
 - name: Notion AI
   verdict: Beste notitie-app met geintegreerde AI voor projecten en kennisbeheer
   priceRange: EUR 10-20/mnd
   bestFor: Projectmanagement & notities
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://writesonic.com/?via=aitoolsnl
 - name: Jasper AI
   verdict: Professionele AI schrijftool voor marketing en zakelijke content
   priceRange: EUR 50-100/mnd

@@ -16,7 +16,7 @@ cons:
 - AI 3D-modellering is een snel evoluerend veld — tools veranderen maandelijks
 - Sommige output vereist nog handmatige nabewerking voor professioneel gebruik
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Meshy
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-40/mnd
   bestFor: Game developers
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Spline AI
   verdict: Browsergebaseerde tool die 3D design combineert met realtime interactie
   priceRange: EUR 0-25/mnd
   bestFor: Webdesigners en UI/UX
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: CSM AI
   verdict: Transformeert 2D afbeeldingen naar textured 3D modellen
   priceRange: EUR 20-100/mnd
   bestFor: Concept artists
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Luma AI
   verdict: Marktleider in NeRF voor fotorealistische 3D-scans
   priceRange: EUR 0-50/mnd
   bestFor: Architecten
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Autodesk Forma AI
   verdict: Professionele AI voor architectonisch ontwerp
   priceRange: EUR 50-100/mnd
   bestFor: Architectenbureaus
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Rodin
   verdict: Genereert high-quality 3D avatars uit tekstbeschrijvingen
   priceRange: EUR 10-30/mnd
   bestFor: Character artists
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Kaedim
   verdict: Converteert 2D concept art naar game-ready 3D meshes
   priceRange: EUR 20-60/mnd
   bestFor: Game studios
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 faq:
 - q: Kan AI 3D modelleerders vervangen in 2026?
   a: Nee, AI versnelt en vereenvoudigt maar vervangt creatieve expertise niet.

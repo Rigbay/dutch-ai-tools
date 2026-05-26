@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is intensief getest in Nederlandse context
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.taskade.com/?via=aitoolsnl
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Notion AI
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 10-18/mnd
   bestFor: Workflow integratie
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Motion AI
   verdict: AI-agenda die je dag automatisch optimaliseert
   priceRange: EUR 20-35/mnd
   bestFor: Agenda planning
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: ClickUp AI
   verdict: Projectmanagement met ingebouwde AI — taken, docs, doelen in één
   priceRange: EUR 7-20/mnd
   bestFor: Project management
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Asana Intelligence
   verdict: Slimme projectplanning met AI — doel en deadline bewaking
   priceRange: EUR 11-25/mnd
   bestFor: Team planning
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: ChatGPT
   verdict: Beste allround AI voor tekst en analyse — de standaard in 2026
   priceRange: EUR 20-200/mnd
   bestFor: Allround AI
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Claude
   verdict: Sterkste in lange documenten en genuanceerd redeneren — favoriet bij professionals
   priceRange: EUR 20-200/mnd
   bestFor: Diepgaande analyse
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 - name: Perplexity AI
   verdict: AI-zoekmachine met bronverwijzingen — ideaal voor research
   priceRange: EUR 0-20/mnd
   bestFor: Research
   rating: 4.1
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=aitoolsnl
 related:
 - notion-ai-review-nederlands-2026
 - beste-ai-vertaaltools-2026

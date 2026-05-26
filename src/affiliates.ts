@@ -1,9 +1,13 @@
-// Affiliate placeholder map for Dutch AI Tools site
-// Replace placeholders with real affiliate links when anonymous-operator signs up
+// Affiliate links for Dutch AI Tools site
+// Live networks: beehiiv (50-60%), Taskade (20% lifetime), Writesonic (30% lifetime)
+// Pending: Notion (application pending)
+// Updated: 2026-05-26
 
 export const AFFILIATE_MAP: Record<string, string> = {
-  NOTION_AFF: 'https://affiliate.notion.so/...',
-  BEEHIIV_AFF: 'https://www.beehiiv.com/?via=aitoolsnl',
+  BEEHIIV_AFF: 'https://www.beehiiv.com/?via=anonymous-operator',
+  TASKADE_AFF: 'https://www.taskade.com/?via=aitoolsnl',
+  WRITESONIC_AFF: 'https://writesonic.com/?via=aitoolsnl',
+  NOTION_AFF: 'https://affiliate.notion.so/?via=aitoolsnl',
   OUTLIERKIT_AFF: 'https://outlierkit.com/?ref=aitoolsnl',
   ZAPIER_AFF: 'https://zapier.com/?ref=aitoolsnl',
   MAKE_AFF: 'https://www.make.com/en/register?pc=aitoolsnl',

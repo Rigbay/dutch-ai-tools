@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -26,13 +26,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Allround studiehulp
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Notion AI
   verdict: Perfect voor het organiseren van studiemateriaal en notities
   priceRange: EUR 0-20/mnd
   bestFor: Studie-organisatie
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Grammarly
   verdict: Onmisbare schrijfhulp voor papers, essays en verslagen
   priceRange: EUR 0-15/mnd

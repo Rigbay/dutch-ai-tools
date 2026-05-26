@@ -14,7 +14,7 @@ cons:
 - Sommige AI features nog in beta of per regio uitgerold
 - Diepe integraties vereisen vaak betaalde abonnementen
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Notion AI

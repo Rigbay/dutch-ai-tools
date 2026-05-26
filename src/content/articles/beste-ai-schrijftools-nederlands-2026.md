@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://writesonic.com/?via=aitoolsnl
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -26,13 +26,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Allround schrijven
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://writesonic.com/?via=aitoolsnl
 - name: Claude
   verdict: Uitstekend in langere, genuanceerde Nederlandse teksten
   priceRange: EUR 0-25/mnd
   bestFor: Diepgaande content
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://writesonic.com/?via=aitoolsnl
 - name: Jasper AI
   verdict: Professionele AI copywriter met Nederlandse taalondersteuning
   priceRange: EUR 50-100/mnd

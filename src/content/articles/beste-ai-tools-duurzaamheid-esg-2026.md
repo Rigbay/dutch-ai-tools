@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-22
 modelYear: 2026
 featuredTool: Sweep
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: business professionals
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Watershed
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 15-80/mnd
   bestFor: business professionals
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Persefoni
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-50/mnd
   bestFor: business professionals
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Greenly
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 0-25/mnd
   bestFor: business professionals
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Normative
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 20-100/mnd
   bestFor: business professionals
   rating: 4.1
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Plan A
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 5-40/mnd
   bestFor: business professionals
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: CarbonChain
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-60/mnd
   bestFor: business professionals
   rating: 3.9
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-evenementen-2026
 - ai-tools-mkb-starten-2026

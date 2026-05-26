@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
@@ -40,7 +40,7 @@ tools:
   priceRange: EUR 10-20/mnd
   bestFor: Documenten & planning
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Grammarly
   verdict: Foutloos schrijven in het Engels — essentieel voor internationale communicatie
   priceRange: EUR 0-30/mnd
