@@ -16,6 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
 - https://www.pharmai.com/?ref=aitoolsnl
 - https://deepdrug.ai/?ref=aitoolsnl
 - https://www.benevolent.com/?ref=aitoolsnl

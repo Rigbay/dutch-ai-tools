@@ -14,6 +14,7 @@ cons:
   - Intensieve praktijktests in Nederlandse seniorenwoningen zijn niet voor elke tool uitgevoerd
   - Sommige geavanceerde AI-functies bevinden zich nog in de ontwikkelingsfase
 affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
   - https://www.nobi.life/?ref=aitoolsnl
   - https://www.carecircle.nl/?ref=aitoolsnl
   - https://www.philips.nl/c-e/gezondheid/wearables/smart-sleep?ref=aitoolsnl

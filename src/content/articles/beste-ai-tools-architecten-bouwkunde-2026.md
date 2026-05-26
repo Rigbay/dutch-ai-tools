@@ -16,6 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
 - https://www.midjourney.com/?ref=aitoolsnl
 - https://www.autodesk.com/products/forma/?ref=aitoolsnl
 - https://www.finch3d.com/?ref=aitoolsnl
