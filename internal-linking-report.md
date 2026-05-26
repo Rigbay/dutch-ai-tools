@@ -1,0 +1,68 @@
+# Internal Linking Report — Dutch AI Tools
+Date: 2026-05-26
+
+- Updated: 61
+- Already had links: 62
+- Total articles: 123
+
+- **"AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"** ← Beste AI Tools voor API Ontwikkeling & I, Beste AI Tools voor App-ontwikkelaars & , Beste AI Tools voor Engineers & Technici
+- **"AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"** ← AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn, Beste AI Muziek & Audio Tools 2026: Suno
+- **AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren** ← "AI voor SEO 2026: Content Optimalisatie, Beste AI Copywriting Tools 2026: Jasper , Beste AI Marketing Tools 2026: vergelijk
+- **AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?** ← "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri, Beste AI Sales Tools 2026: Apollo vs Lem
+- **AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, Beste AI Image Generators 2026: Midjourn, Beste AI Muziek & Audio Tools 2026: Suno
+- **"AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence"** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor E-commerce 2026: Productbeschri, Beste AI Sales Tools 2026: Apollo vs Lem
+- **"AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie"** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , Beste AI Sales Tools 2026: Apollo vs Lem
+- **"AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking"** ← AI Tools voor Marketing Teams 2026: de 7, Beste AI Copywriting Tools 2026: Jasper , Beste AI Marketing Tools 2026: vergelijk
+- **"AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"** ← Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin, Beste AI Meeting & Transcriptie Tools 20
+- **Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Chatbots 2026: ChatGPT vs Gemin, Beste AI Meeting & Transcriptie Tools 20
+- **Beste AI Chatbots 2026: ChatGPT vs Gemini vs Claude vs Perplexity** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Meeting & Transcriptie Tools 20
+- **Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken** ← AI Tools voor Marketing Teams 2026: de 7, "AI voor SEO 2026: Content Optimalisatie, Beste AI Marketing Tools 2026: vergelijk
+- **Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Muziek & Audio Tools 2026: Suno
+- **Beste AI Marketing Tools 2026: vergelijk de top 7 marketing AI** ← AI Tools voor Marketing Teams 2026: de 7, "AI voor SEO 2026: Content Optimalisatie, Beste AI Copywriting Tools 2026: Jasper 
+- **Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Muziek & Audio Tools 2026: Suno vs ElevenLabs vs AIVA vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI Presentatie Tools 2026: Gamma vs Beautiful.ai vs Tome vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Sales Tools 2026: Apollo vs Lemlist vs Clay vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Schrijftools Nederlands 2026: top 7 vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI SEO Tools 2026: Semrush vs Frase vs Surfer SEO vergeleken** ← AI Tools voor Marketing Teams 2026: de 7, "AI voor SEO 2026: Content Optimalisatie, Beste AI Copywriting Tools 2026: Jasper 
+- **Beste AI Tools voor 3D Modellering en Ontwerp 2026: Top 7 Tools Vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI Tools voor Administratie 2026: top 7 boekhoud-AI vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Boekhouders en Accountants 2026: top 6 vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Content Creators 2026: top 7 vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI Tools voor Data Analyse 2026: top 7 vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Designers 2026: top 7 design-AI vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI Tools voor Docenten & Onderwijs 2026: top 7 les-AI vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Tools voor E-commerce 2026: top 8 vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor E-mail Marketing 2026: top 6 vergeleken** ← AI Tools voor Marketing Teams 2026: de 7, "AI voor SEO 2026: Content Optimalisatie, Beste AI Copywriting Tools 2026: Jasper 
+- **Beste AI Tools voor Fotografen 2026: Top 7 AI Tools voor Beeldbewerking en** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI Tools voor HR & Recruitment 2026: top 7 vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Juristen & Advocaten 2026: top 7 juridische AI vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Tools voor Kinderopvang 2026: top 7 kinderopvang-AI vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Klantenservice 2026: top 7 chatbots en automatisering** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Kleine Ondernemers 2026: top 7 vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Makelaars en Vastgoed 2026: top 5 vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Podcasters 2026: top 6 vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste AI Tools voor Programmeren 2026: GitHub Copilot vs Cursor vs Claude** ← "AI Beeldherkenning 2026: Computer Visio, Beste AI Tools voor API Ontwikkeling & I, Beste AI Tools voor App-ontwikkelaars & 
+- **Beste AI Tools voor Projectmanagement 2026: top 7 vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Tools voor Social Media 2026: top 7 vergeleken** ← AI Tools voor Marketing Teams 2026: de 7, "AI voor SEO 2026: Content Optimalisatie, Beste AI Copywriting Tools 2026: Jasper 
+- **Beste AI Tools voor Sportcoaching 2026: top 7 sportcoaching-AI vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Studenten 2026: top 7 studie-AI vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Tools voor Tandheelkunde 2026: top 7 tandheelkunde-AI vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor Tolken & Vertalingen 2026: top 7 vertaal-AI vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Tools voor Watermanagement 2026: top 7 watermanagement-AI vergeleken** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Tools voor ZZP''ers 2026: vergelijk de top 7 AI tools** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Beste AI Vertaaltools 2026: DeepL vs ChatGPT vs Google Translate vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Beste AI Video Tools 2026: top 7 AI video generators vergeleken** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **Beste Gratis AI Tools 2026: top 8 gratis AI tools vergeleken** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Canva vs Adobe Express vs Figma AI 2026: beste AI design tools voor niet-designers** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
+- **ChatGPT vs Gemini vs Claude 2026: welke AI is het beste in Nederlands?** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **EU AI Act Augustus 2026: Welke AI Tools Zijn Compliant?** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Grammarly vs ProWritingAid vs LanguageTool 2026: beste AI schrijfassistent voor Nederlands** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Jasper AI vs Copy.ai vs Writesonic vs Rytr 2026: beste AI copywriting tools** ← AI Tools voor Marketing Teams 2026: de 7, "AI voor SEO 2026: Content Optimalisatie, Beste AI Copywriting Tools 2026: Jasper 
+- **Nederlandse AI-Adoptie in Cijfers 2026: Van 45% naar 72% in 2 Jaar** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **"Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland"** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Notion AI Review Nederlands 2026: is Notion AI de moeite waard?** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Notion AI vs ClickUp AI vs Monday.com AI 2026: beste AI projectmanagement tools** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Perplexity AI vs ChatGPT vs Claude 2026: Welke AI Assistent Past Bij Jou?** ← "AI voor Studenten 2026: Studietools, Es, Beste AI Automatisering Tools 2026: Zapi, Beste AI Chatbots 2026: ChatGPT vs Gemin
+- **Shadow AI op de Werkvloer 2026: Hoe Manage Je AI-gebruik in Je Team?** ← AI Tools voor het MKB: Waar Begin Je als, "AI voor Data Analyse 2026: Spreadsheet , "AI voor E-commerce 2026: Productbeschri
+- **Synthesia vs HeyGen vs Colossyan 2026: de beste AI video avatar tools** ← "AI Stemgeneratie 2026: Beste Text-to-Sp, AI Video Generatie Tools 2026: Synthesia, Beste AI Image Generators 2026: Midjourn
