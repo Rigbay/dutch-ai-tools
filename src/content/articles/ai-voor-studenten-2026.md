@@ -13,6 +13,7 @@ cons:
   - Academische integriteit blijft belangrijk
   - Sommige tools kunnen te generiek zijn
 affiliateLinks:
+  - https://www.taskade.com/?via=55nfr2
   - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026

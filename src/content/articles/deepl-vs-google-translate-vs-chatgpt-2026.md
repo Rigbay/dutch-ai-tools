@@ -14,6 +14,7 @@ cons:
 - Nauwkeurigheid varieert per taalcombinatie
 - Niet elke tool ondersteunt alle formaten
 affiliateLinks:
+  - https://www.beehiiv.com/?via=anonymous-operator
 - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-26
 modelYear: 2026

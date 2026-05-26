@@ -14,6 +14,7 @@ cons:
 - AI-features in actieve ontwikkeling — functionaliteit verandert snel
 - Roam Research is prijzig voor wat het biedt
 affiliateLinks:
+  - https://www.taskade.com/?via=55nfr2
 - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-26
 modelYear: 2026

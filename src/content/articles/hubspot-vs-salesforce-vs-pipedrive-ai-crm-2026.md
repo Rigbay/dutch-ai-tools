@@ -14,6 +14,7 @@ cons:
 - AI-functies verschillen per abonnementsvorm
 - Niet elke tool is even sterk in Nederlands
 affiliateLinks:
+  - https://www.beehiiv.com/?via=anonymous-operator
 - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-26
 modelYear: 2026

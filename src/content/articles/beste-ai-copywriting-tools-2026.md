@@ -43,7 +43,7 @@ tools:
     priceRange: EUR 20-80/mnd
     bestFor: Content marketing
     rating: 4.3
-    affiliateLink: https://writesonic.com/?ref=aitoolsnl
+    affiliateLink: https://writesonic.com/?via=aitoolsnl
   - name: Rytr
     verdict: Budgetvriendelijke optie met Nederlandse support
     priceRange: EUR 0-30/mnd

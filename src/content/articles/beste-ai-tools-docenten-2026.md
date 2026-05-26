@@ -15,6 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
+  - https://www.taskade.com/?via=55nfr2
 - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026

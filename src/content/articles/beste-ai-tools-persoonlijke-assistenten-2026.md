@@ -14,6 +14,7 @@ cons:
   - 'Privacy-overwegingen bij het koppelen van gevoelige mailboxen'
   - 'De beste functies zitten vrijwel altijd achter een betaalmuur'
 affiliateLinks:
+  - https://www.taskade.com/?via=55nfr2
   - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-23
 modelYear: 2026
