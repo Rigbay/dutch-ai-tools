@@ -16,6 +16,7 @@ cons:
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Jasper AI
@@ -38,7 +39,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrief marketing
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Canva AI
   verdict: Visuele content creatie met AI voor teams — van social posts tot presentaties
   priceRange: EUR 0-15/mnd per gebruiker

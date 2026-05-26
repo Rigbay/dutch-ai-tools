@@ -16,6 +16,7 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: beehiiv
@@ -26,7 +27,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrieven
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Mailchimp AI
   verdict: Grootste e-mailplatform met AI voor segmentatie en optimalisatie
   priceRange: EUR 0-350/mnd

@@ -17,6 +17,7 @@ cons:
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT
@@ -51,7 +52,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrieven
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Zapier
   verdict: Automatiseer werk tussen apps zonder code — bespaar uren per week
   priceRange: EUR 0-70/mnd

@@ -16,6 +16,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Make
@@ -62,7 +63,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrieven
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - beste-ai-tools-non-profits-goede-doelen-2026
 - beste-ai-tools-overheid-2026

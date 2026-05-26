@@ -16,6 +16,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
+- https://www.taskade.com/?via=55nfr2
 date: 2026-05-22
 modelYear: 2026
 featuredTool: Miro AI
@@ -56,7 +57,7 @@ tools:
   priceRange: EUR 5-40/mnd
   bestFor: productiviteit professionals
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.taskade.com/?via=55nfr2
 - name: FigJam AI
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-60/mnd

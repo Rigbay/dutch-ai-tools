@@ -16,6 +16,7 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://affiliate.notion.so/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -50,7 +51,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrief & e-mail
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=aitoolsnl
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: HubSpot AI
   verdict: Uitgebreid CRM met AI voor sales, marketing en klantenservice
   priceRange: EUR 0-800/mnd
