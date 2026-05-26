@@ -1,7 +1,8 @@
 // Affiliate links for Dutch AI Tools site
 // Live networks: beehiiv (50-60%), Taskade (20% lifetime), Writesonic (30% lifetime)
-// Pending: Notion (application pending)
-// Updated: 2026-05-26
+// Closed: Notion (Dec 2025), Copy.ai (Fullcast acquisition), Anyword (enterprise pivot)
+// Pending: Jasper (Impact.com — not signed up), Rytr (not signed up)
+// Updated: 2026-05-26 — removed stale Notion application language
 
 export const AFFILIATE_MAP: Record<string, string> = {
   BEEHIIV_AFF: 'https://www.beehiiv.com/?via=anonymous-operator',
