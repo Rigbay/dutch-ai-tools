@@ -6,9 +6,9 @@ category: business
 rating: 4.5
 priceRange: EUR 0-100/mnd
 pros:
-- Vergelijking van top-tier AI projectmanagement tools in 2026
-- Focus op AI-features: samenvattingen, slimme suggesties, documentgeneratie
-- Praktische use cases voor Nederlandse teams
+- "Vergelijking van top-tier AI projectmanagement tools in 2026"
+- "Focus op AI-features: samenvattingen, slimme suggesties, documentgeneratie"
+- "Praktische use cases voor Nederlandse teams"
 cons:
 - Snelle marktontwikkeling, prijzen kunnen wijzigen
 - Sommige AI features nog in beta of per regio uitgerold
