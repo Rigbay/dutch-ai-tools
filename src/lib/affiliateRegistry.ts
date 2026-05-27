@@ -1,8 +1,7 @@
 import { readFileSync } from 'fs';
 
-const REGISTRY_PATH =
-  (process.env.HOME || process.env.USERPROFILE || '') +
-  '/.hermes/affiliates/merchants.json';
+// Use committed registry copy (sync from ~/.hermes/affiliates/merchants.json before deploy)
+const REGISTRY_PATH = new URL('../data/merchants.json', import.meta.url).pathname;
 
 let cachedRegistry: any = null;
 let domainIndex: Record<string, string> | null = null;
