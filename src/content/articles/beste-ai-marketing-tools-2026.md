@@ -58,7 +58,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Copywriting
   rating: 4.2
-  affiliateLink: https://www.copy.ai/?via=aitoolsnl
+  affiliateLink: https://www.copy.ai
 - name: MarketMuse
   verdict: AI contentstrategie en -planning voor datagedreven marketing
   priceRange: EUR 150-1000/mnd

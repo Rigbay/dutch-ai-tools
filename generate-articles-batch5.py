@@ -186,7 +186,7 @@ def build_article_md(article, body_text):
     lines.append("- Niet elke tool is dagelijks getest met intensief gebruik")
     lines.append("- Sommige AI features zijn nog in beta of development")
     lines.append("affiliateLinks:")
-    lines.append("- https://affiliate.notion.so/?via=aitoolsnl")
+    lines.append("- https://www.notion.so")
     lines.append("- https://www.beehiiv.com/?via=aitoolsnl")
     lines.append("- https://www.jasper.ai/partners/affiliates?via=aitoolsnl")
     lines.append(f"date: {date_str}")

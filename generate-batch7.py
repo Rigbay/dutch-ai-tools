@@ -185,7 +185,7 @@ def build_article(defn, body_text):
             "Sommige AI-features zijn nog in actieve ontwikkeling of beta",
         ],
         "affiliateLinks": [
-            "https://affiliate.notion.so/?via=aitoolsnl",
+            "https://www.notion.so",
             "https://www.beehiiv.com/?via=aitoolsnl",
         ],
         "date": date.today(),

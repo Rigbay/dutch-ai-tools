@@ -28,7 +28,6 @@ TOOL_NAMES = {
 }
 
 AFFILIATE_MAP = {
-    "NOTION_AFF": "https://affiliate.notion.so/?via=aitoolsnl",
     "BEEHIIV_AFF": "https://www.beehiiv.com/?via=aitoolsnl",
     "OUTLIERKIT_AFF": "https://outlierkit.com/?ref=aitoolsnl",
     "ZAPIER_AFF": "https://zapier.com/?ref=aitoolsnl",
@@ -56,7 +55,6 @@ def fix_frontmatter(content: str, slug: str) -> str:
 
     # Replace placeholders
     fm_text = fm_text.replace("{{TOOL_1}}", first_tool)
-    fm_text = fm_text.replace("{{NOTION_AFF}}", AFFILIATE_MAP["NOTION_AFF"])
     fm_text = fm_text.replace("{{BEEHIIV_AFF}}", AFFILIATE_MAP["BEEHIIV_AFF"])
 
     # Replace other tool placeholders

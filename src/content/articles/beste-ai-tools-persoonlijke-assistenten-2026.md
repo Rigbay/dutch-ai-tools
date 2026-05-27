@@ -129,7 +129,7 @@ Met de Q&A-functie van Notion AI kun je letterlijk vragen stellen aan je eigen d
 *   **Prijsklasse:** EUR 8 - 15 per maand (als add-on op je Notion-abonnement).
 *   **Rating:** 4.8/5
 
-👉 **[Ontdek de kracht van Notion AI](https://www.beehiiv.com/?via=anonymous-operator)**
+👉 **[Bekijk Notion AI](https://www.notion.so)**
 
 ---
 
@@ -214,7 +214,7 @@ Je cc't simpelweg `clara@jouwdomein.com` in een e-mail en zegt: *"Clara, plan ee
 Het aanbod is divers, en de 'beste' tool hangt volledig af van waar jouw grootste knelpunten liggen:
 
 1.  **Verlies je veel tijd met plannen en prioriteren?** Kies dan absoluut voor **[Motion](https://usemotion.pxf.io/c/dutchaitools)**. Het gevoel dat je agenda zichzelf indeelt en herstelt bij onverwachte gebeurtenissen geeft enorm veel rust.
-2.  **Werk je veel met documenten, notities en handleidingen?** Dan is **[Notion AI](https://www.beehiiv.com/?via=anonymous-operator)** de absolute winnaar om direct antwoorden uit je eigen databronnen te vissen.
+2.  **Werk je veel met documenten, notities en handleidingen?** Dan is **[Notion AI](https://www.notion.so)** de absolute winnaar om direct antwoorden uit je eigen databronnen te vissen.
 3.  **Wil je repeterende e-mailstromen automatiseren?** Probeer dan eens **[Lindy.ai](https://lindy.ai/?via=dutchaitools)** om een agent te bouwen die dit saaie werk uit handen neemt.
 4.  **Heb je een klein budget?** Start dan met de gratis varianten van Lindy, of lees onze gids over de [beste gratis AI tools van 2026](/beste-gratis-ai-tools-2026).
 

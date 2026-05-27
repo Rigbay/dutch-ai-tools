@@ -6,19 +6,19 @@
 **Status:** ready-to-build, zero anonymous-operator input required until monetization signups
 
 ## Goal
-Build and deploy a static Astro-based Dutch-language AI/SaaS tools comparison & review site at GitHub Pages (rigbay.github.io/dutch-ai-tools or similar). 15-20 seed articles covering "beste AI tools voor [doelgroep] 2026". Monetization via recurring SaaS affiliate programs (Notion, beehiiv, OutlierKit, etc.) with placeholder links ready for swap-in. Same architecture as dutch-appliances site for reuse.
+Build and deploy a static Astro-based Dutch-language AI/SaaS tools comparison & review site at GitHub Pages (rigbay.github.io/dutch-ai-tools or similar). 15-20 seed articles covering "beste AI tools voor [doelgroep] 2026". Monetization via recurring SaaS affiliate programs with placeholder links ready for swap-in. Same architecture as dutch-appliances site for reuse.
 
 ## Success Criteria
 - Astro site compiles cleanly, deploys to GitHub Pages via `gh pages` or Astro config.
 - 15-20 articles generated with:
   - Dutch titles (e.g. "Beste AI Tools voor Kleine Ondernemers 2026")
   - Comparison tables (pricing, features, pros/cons)
-  - Affiliate link placeholders (e.g. `{{NOTION_AFF}}`)
+  - Affiliate link placeholders for active programs only
   - Schema.org Article + FAQ + BreadcrumbList
   - Internal linking between articles
 - SEO foundation: sitemap, robots.txt, llms.txt, IndexNow ready
 - Zero runtime cost, <1hr/wk maintenance post-launch
-- Ready for anonymous-operator's one-time affiliate signup bundle (Notion + beehiiv + OutlierKit)
+- Ready for anonymous-operator's one-time affiliate signup bundle for active programs
 
 ## Tech Stack (reuse from appliances)
 - Astro 4.x + Tailwind + MDX

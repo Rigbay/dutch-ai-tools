@@ -15,7 +15,7 @@ cons:
 - Niet elke tool ondersteunt alle formaten
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
-- https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.deepl.com
 date: 2026-05-26
 modelYear: 2026
 featuredTool: DeepL
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Professionele vertalingen
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.deepl.com
 - name: Google Translate
   verdict: Meeste talen (133+) en beste integratie met Google-ecosysteem, maar mist nuance bij formele teksten
   priceRange: EUR 0 (gratis)
   bestFor: Snelle vertalingen
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://translate.google.com
 - name: ChatGPT
   verdict: Meest flexibel — vertaalt met context, stijl en nuance, maar minder consistent bij lange documenten
   priceRange: EUR 0-25/mnd
   bestFor: Creatieve & contextrijke teksten
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://chatgpt.com
 related:
 - beste-ai-vertaaltools-2026
 - beste-ai-tools-tolken-vertalingen-2026

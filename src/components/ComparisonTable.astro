@@ -13,6 +13,8 @@ interface Props {
 }
 
 const { tools } = Astro.props;
+const isSponsoredLink = (url: string) => /[?&](via|ref|tag|fp_ref|pc)=/i.test(url) || url.includes('pxf.io/');
+const linkRel = (url: string) => isSponsoredLink(url) ? 'nofollow sponsored' : 'nofollow';
 ---
 
 <div class="overflow-x-auto rounded border border-[#e2e5f0] bg-paper">
@@ -36,7 +38,7 @@ const { tools } = Astro.props;
           <td class="px-4 py-3 font-bold text-leaf">{tool.rating.toFixed(1)}/5</td>
           <td class="px-4 py-3 text-muted">{tool.verdict}</td>
           <td class="px-4 py-3">
-            <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]" href={tool.affiliateLink} rel="nofollow sponsored">
+            <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]" href={tool.affiliateLink} rel={linkRel(tool.affiliateLink)}>
               Bekijk tool
             </a>
           </td>

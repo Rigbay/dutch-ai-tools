@@ -112,7 +112,7 @@ Gebruik concrete Nederlandse/Europese voorbeelden. Focus op technische professio
             {"name": "Ansys AI", "verdict": "Beste AI-simulatieplatform voor FEA, CFD en multiphysics met deep learning", "priceRange": "EUR 1000-5000+/mnd", "bestFor": "Simulatie & FEA", "rating": 4.8, "affiliateLink": "https://www.ansys.com/?ref=aitoolsnl"},
             {"name": "Autodesk AI", "verdict": "AI CAD-assistentie voor AutoCAD en Fusion 360 met generatief ontwerp", "priceRange": "EUR 50-500/mnd", "bestFor": "CAD & ontwerp", "rating": 4.5, "affiliateLink": "https://www.autodesk.com/?ref=aitoolsnl"},
             {"name": "Monolith AI", "verdict": "Machine learning specifiek voor engineers — voorspel prestaties zonder fysieke tests", "priceRange": "EUR 500-2000/mnd", "bestFor": "Predictive engineering", "rating": 4.4, "affiliateLink": "https://www.monolithai.com/?ref=aitoolsnl"},
-            {"name": "ChatGPT", "verdict": "Veelzijdige AI voor technische documentatie, formules en first-pass berekeningen", "priceRange": "EUR 0-25/mnd", "bestFor": "Documentatie & berekeningen", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "ChatGPT", "verdict": "Veelzijdige AI voor technische documentatie, formules en first-pass berekeningen", "priceRange": "EUR 0-25/mnd", "bestFor": "Documentatie & berekeningen", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
             {"name": "GitHub Copilot", "verdict": "AI pair-programmer voor embedded systems, Matlab, Python en automatisering", "priceRange": "EUR 0-20/mnd", "bestFor": "Programmeren & scripts", "rating": 4.6, "affiliateLink": "https://github.com/features/copilot?ref=aitoolsnl"},
             {"name": "MATLAB AI", "verdict": "AI-toolbox voor signaalverwerking, control systems en data-analyse in engineering", "priceRange": "EUR 100-500/mnd", "bestFor": "Signaalverwerking & control", "rating": 4.5, "affiliateLink": "https://www.mathworks.com/?ref=aitoolsnl"},
             {"name": "Cognite Data Fusion", "verdict": "AI industriële data-integratie voor predictive maintenance en digitale tweelingen", "priceRange": "EUR 1000-5000+/mnd", "bestFor": "Industriële IoT & digital twins", "rating": 4.3, "affiliateLink": "https://www.cognite.com/?ref=aitoolsnl"},
@@ -184,7 +184,7 @@ def build_article(defn, body_text):
             "Sommige AI-features zijn nog in actieve ontwikkeling of beta",
         ],
         "affiliateLinks": [
-            "https://affiliate.notion.so/?via=aitoolsnl",
+            "https://www.notion.so",
             "https://www.beehiiv.com/?via=aitoolsnl",
         ],
         "date": date.today(),

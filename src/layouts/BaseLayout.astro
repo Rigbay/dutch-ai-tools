@@ -17,9 +17,13 @@ const {
   ogType = 'website'
 } = Astro.props;
 
-const site = new URL('https://rigbay.github.io/dutch-ai-tools');
+const origin = Astro.site ?? new URL('https://rigbay.github.io');
+const basePath = import.meta.env.BASE_URL;
+const site = new URL(basePath, origin);
+const assetPath = (path: string) => `${basePath.replace(/\/$/, '')}/${path.replace(/^\//, '')}`;
 const canonical = canonicalUrl ?? new URL(Astro.url.pathname, site).toString();
-const ogImage = new URL('/og-default.svg', site).toString();
+const ogImage = new URL(assetPath('/og-default.svg'), origin).toString();
+const faviconPath = assetPath('/favicon.svg');
 
 const orgSchema = {
   '@context': 'https://schema.org',
@@ -28,7 +32,7 @@ const orgSchema = {
   'name': 'AI Tools NL',
   'url': site.toString(),
   'description': 'Nederlandstalige vergelijkingen van AI tools en SaaS voor ondernemers — productiviteit, marketing, content creatie en meer.',
-  'logo': new URL('/favicon.svg', site).toString()
+  'logo': new URL(faviconPath, origin).toString()
 };
 
 const webSiteSchema = {
@@ -42,14 +46,6 @@ const webSiteSchema = {
   'about': {
     '@type': 'Organization',
     '@id': site.toString() + '#organization'
-  },
-  'potentialAction': {
-    '@type': 'SearchAction',
-    'target': {
-      '@type': 'EntryPoint',
-      'urlTemplate': site.toString() + '/search?q={search_term_string}'
-    },
-    'query-input': 'required name=search_term_string'
   }
 };
 ---
@@ -71,7 +67,7 @@ const webSiteSchema = {
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href={faviconPath} type="image/svg+xml" />
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
   </head>

@@ -68,7 +68,7 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Copywriting
   rating: 3.8
-  affiliateLink: https://www.copy.ai/?via=aitoolsnl
+  affiliateLink: https://www.copy.ai
 related:
 - beste-ai-tools-reizen-vakantieplanning-2026
 - beste-ai-meeting-transcriptie-tools-2026

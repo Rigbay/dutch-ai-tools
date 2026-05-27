@@ -187,13 +187,13 @@ def build_frontmatter(topic: dict, body: str = "") -> str:
     """Generate frontmatter for an article."""
     cat = topic["category"]
     tools = [
-        {"name": "{{TOOL_1}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 0-50/mnd", "bestFor": "Algemeen", "rating": 4.5, "affiliateLink": "{{NOTION_AFF}}"},
-        {"name": "{{TOOL_2}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 10-30/mnd", "bestFor": "Productiviteit", "rating": 4.3, "affiliateLink": "{{NOTION_AFF}}"},
-        {"name": "{{TOOL_3}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 0-25/mnd", "bestFor": "Content", "rating": 4.2, "affiliateLink": "{{NOTION_AFF}}"},
-        {"name": "{{TOOL_4}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 15-50/mnd", "bestFor": "Automatisering", "rating": 4.0, "affiliateLink": "{{NOTION_AFF}}"},
-        {"name": "{{TOOL_5}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 5-20/mnd", "bestFor": "Budget", "rating": 4.4, "affiliateLink": "{{NOTION_AFF}}"},
-        {"name": "{{TOOL_6}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 20-100/mnd", "bestFor": "Gevorderden", "rating": 4.1, "affiliateLink": "{{NOTION_AFF}}"},
-        {"name": "{{TOOL_7}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 30-60/mnd", "bestFor": "Teams", "rating": 3.9, "affiliateLink": "{{NOTION_AFF}}"},
+        {"name": "{{TOOL_1}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 0-50/mnd", "bestFor": "Algemeen", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
+        {"name": "{{TOOL_2}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 10-30/mnd", "bestFor": "Productiviteit", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+        {"name": "{{TOOL_3}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 0-25/mnd", "bestFor": "Content", "rating": 4.2, "affiliateLink": "https://www.notion.so"},
+        {"name": "{{TOOL_4}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 15-50/mnd", "bestFor": "Automatisering", "rating": 4.0, "affiliateLink": "https://www.notion.so"},
+        {"name": "{{TOOL_5}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 5-20/mnd", "bestFor": "Budget", "rating": 4.4, "affiliateLink": "https://www.notion.so"},
+        {"name": "{{TOOL_6}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 20-100/mnd", "bestFor": "Gevorderden", "rating": 4.1, "affiliateLink": "https://www.notion.so"},
+        {"name": "{{TOOL_7}}", "verdict": "Wordt gegenereerd door AI", "priceRange": "EUR 30-60/mnd", "bestFor": "Teams", "rating": 3.9, "affiliateLink": "https://www.notion.so"},
     ]
     tools_yaml = "\n".join([
         f'  - name: "{t["name"]}"\n'
@@ -223,7 +223,7 @@ cons:
   - Niet elke tool is getest met intensief dagelijks gebruik
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://affiliate.notion.so/...
+  - https://www.notion.so
   - https://www.beehiiv.com/?via=aitoolsnl
   - https://outlierkit.com/?ref=aitoolsnl
 date: 2026-05-16

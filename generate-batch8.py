@@ -66,7 +66,7 @@ NEW_ARTICLES = [
             "Sommige NL-tools klein en minder volwassen",
             "Aanbestedingstrajecten vertragen adoptie"
         ],
-        "affiliateLinks": ["https://affiliate.notion.so/?via=aitoolsnl"],
+        "affiliateLinks": ["https://www.notion.so"],
         "date": "2026-05-21",
         "modelYear": 2026,
         "featuredTool": "Microsoft Copilot for Government",
@@ -82,13 +82,13 @@ Structuur:
 
 Focus op de NEDERLANDSE context. Textgain, OBI4wan en NLPal zijn echte NL bedrijven. Prijzen in EUR. Schrijf in vloeiend Nederlands.""",
         "tools": [
-            {"name": "IBM watsonx.governance", "verdict": "Enterprise-grade AI governance platform met transparantie en compliance — leidend in overheidssector", "priceRange": "Op aanvraag", "bestFor": "Grootschalige AI governance", "rating": 4.5, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Microsoft Copilot for Government", "verdict": "AI-assistent geïntegreerd met bestaande Microsoft-overheidslicenties — direct inzetbaar", "priceRange": "EUR 28-55/gebruiker/mnd", "bestFor": "Document- & mailverwerking", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Textgain", "verdict": "Nederlands AI-bedrijf voor text mining bij overheid — hate speech detectie, beleidsanalyse", "priceRange": "Op aanvraag", "bestFor": "Overheidstekstanalyse", "rating": 4.2, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "NLPal", "verdict": "Nederlandse AI-startup voor automatische beleidsanalyse en kamerstuk-monitoring", "priceRange": "Op aanvraag", "bestFor": "Beleidsmonitoring", "rating": 4.0, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "OBI4wan", "verdict": "Nederlands platform voor burgercommunicatie — AI-gestuurde webcare, chatbot en social monitoring", "priceRange": "EUR 500-2500/mnd", "bestFor": "Burgercommunicatie", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Palantir AIP", "verdict": "Grootschalig data-analyseplatform — complexe databronnen integreren en AI-modellen bouwen", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Data-analyse op schaal", "rating": 4.1, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Tykn", "verdict": "Nederlands blockchain-identiteitsplatform — digitale identiteit voor burgers met privacy-by-design", "priceRange": "Op aanvraag", "bestFor": "Digitale identiteit", "rating": 3.9, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "IBM watsonx.governance", "verdict": "Enterprise-grade AI governance platform met transparantie en compliance — leidend in overheidssector", "priceRange": "Op aanvraag", "bestFor": "Grootschalige AI governance", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
+            {"name": "Microsoft Copilot for Government", "verdict": "AI-assistent geïntegreerd met bestaande Microsoft-overheidslicenties — direct inzetbaar", "priceRange": "EUR 28-55/gebruiker/mnd", "bestFor": "Document- & mailverwerking", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+            {"name": "Textgain", "verdict": "Nederlands AI-bedrijf voor text mining bij overheid — hate speech detectie, beleidsanalyse", "priceRange": "Op aanvraag", "bestFor": "Overheidstekstanalyse", "rating": 4.2, "affiliateLink": "https://www.notion.so"},
+            {"name": "NLPal", "verdict": "Nederlandse AI-startup voor automatische beleidsanalyse en kamerstuk-monitoring", "priceRange": "Op aanvraag", "bestFor": "Beleidsmonitoring", "rating": 4.0, "affiliateLink": "https://www.notion.so"},
+            {"name": "OBI4wan", "verdict": "Nederlands platform voor burgercommunicatie — AI-gestuurde webcare, chatbot en social monitoring", "priceRange": "EUR 500-2500/mnd", "bestFor": "Burgercommunicatie", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+            {"name": "Palantir AIP", "verdict": "Grootschalig data-analyseplatform — complexe databronnen integreren en AI-modellen bouwen", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Data-analyse op schaal", "rating": 4.1, "affiliateLink": "https://www.notion.so"},
+            {"name": "Tykn", "verdict": "Nederlands blockchain-identiteitsplatform — digitale identiteit voor burgers met privacy-by-design", "priceRange": "Op aanvraag", "bestFor": "Digitale identiteit", "rating": 3.9, "affiliateLink": "https://www.notion.so"},
         ],
         "faq": [
             {"q": "Is AI in de Nederlandse overheid AVG-compliant?", "a": "Ja, mits correct geïmplementeerd. De Nederlandse overheid hanteert strikte richtlijnen voor AI-gebruik, waaronder transparantie, menselijke tussenkomst bij beslissingen en dataminimalisatie. Tools als IBM watsonx.governance zijn specifiek ontworpen voor gereguleerde sectoren."},
@@ -114,7 +114,7 @@ Focus op de NEDERLANDSE context. Textgain, OBI4wan en NLPal zijn echte NL bedrij
             "Kleinere tools missen integraties met consulting-software",
             "Sommige tools generiek, niet consultancy-specifiek"
         ],
-        "affiliateLinks": ["https://affiliate.notion.so/?via=aitoolsnl"],
+        "affiliateLinks": ["https://www.notion.so"],
         "date": "2026-05-21",
         "modelYear": 2026,
         "featuredTool": "Fireflies.ai",
@@ -130,13 +130,13 @@ Structuur:
 
 Focus op de Nederlandse/Europese markt. Accent op tijdbesparing en kwaliteitsverbetering. Prijzen in EUR. Schrijf in vloeiend Nederlands.""",
         "tools": [
-            {"name": "Cogram", "verdict": "AI gebouwd voor consultants — automatische meeting notes, CRM-sync en projecttracking in één platform", "priceRange": "EUR 25-75/mnd", "bestFor": "Consultancy meetings", "rating": 4.5, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Fireflies.ai", "verdict": "Automatische meetingtranscriptie met zoekfunctie en AI-samenvattingen — verwerkt Teams, Zoom, Google Meet", "priceRange": "EUR 0-25/mnd", "bestFor": "Meeting intelligence", "rating": 4.4, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Julius AI", "verdict": "AI-data-analist die spreadsheets en datasets in seconden analyseert — grafieken, inzichten, rapportages", "priceRange": "EUR 15-50/mnd", "bestFor": "Data-analyse", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Numerous.ai", "verdict": "AI in Google Sheets en Excel — formules genereren, data categoriseren, trendanalyses met natuurlijke taal", "priceRange": "EUR 8-30/mnd", "bestFor": "Spreadsheet analyse", "rating": 4.2, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Qatalog", "verdict": "Enterprise AI-kennisbeheer — automatisch verbinden van documenten, mensen en projecten in één intelligente laag", "priceRange": "EUR 15-50/mnd", "bestFor": "Kennisbeheer", "rating": 4.1, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Craft", "verdict": "Moderne document- en strategietool met AI-schrijfhulp — favoriet bij strategieconsultants", "priceRange": "EUR 0-12/mnd", "bestFor": "Strategiedocumenten", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Sana AI", "verdict": "Enterprise AI-assistent die bedrijfsdocumenten begrijpt en vragen beantwoordt — interne kennis ontsluiten", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Enterprise knowledge", "rating": 4.0, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "Cogram", "verdict": "AI gebouwd voor consultants — automatische meeting notes, CRM-sync en projecttracking in één platform", "priceRange": "EUR 25-75/mnd", "bestFor": "Consultancy meetings", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
+            {"name": "Fireflies.ai", "verdict": "Automatische meetingtranscriptie met zoekfunctie en AI-samenvattingen — verwerkt Teams, Zoom, Google Meet", "priceRange": "EUR 0-25/mnd", "bestFor": "Meeting intelligence", "rating": 4.4, "affiliateLink": "https://www.notion.so"},
+            {"name": "Julius AI", "verdict": "AI-data-analist die spreadsheets en datasets in seconden analyseert — grafieken, inzichten, rapportages", "priceRange": "EUR 15-50/mnd", "bestFor": "Data-analyse", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+            {"name": "Numerous.ai", "verdict": "AI in Google Sheets en Excel — formules genereren, data categoriseren, trendanalyses met natuurlijke taal", "priceRange": "EUR 8-30/mnd", "bestFor": "Spreadsheet analyse", "rating": 4.2, "affiliateLink": "https://www.notion.so"},
+            {"name": "Qatalog", "verdict": "Enterprise AI-kennisbeheer — automatisch verbinden van documenten, mensen en projecten in één intelligente laag", "priceRange": "EUR 15-50/mnd", "bestFor": "Kennisbeheer", "rating": 4.1, "affiliateLink": "https://www.notion.so"},
+            {"name": "Craft", "verdict": "Moderne document- en strategietool met AI-schrijfhulp — favoriet bij strategieconsultants", "priceRange": "EUR 0-12/mnd", "bestFor": "Strategiedocumenten", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+            {"name": "Sana AI", "verdict": "Enterprise AI-assistent die bedrijfsdocumenten begrijpt en vragen beantwoordt — interne kennis ontsluiten", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Enterprise knowledge", "rating": 4.0, "affiliateLink": "https://www.notion.so"},
         ],
         "faq": [
             {"q": "Hoeveel tijd bespaart AI een consultant per week?", "a": "Gemiddeld 10-15 uur per week, blijkt uit 2026-onderzoek onder consultants. Meeting transcription tools besparen 3-5 uur, data-analyse tools 4-6 uur, en schrijfassistenten 2-4 uur. De grootste winst zit in het elimineren van handmatig notuleren en spreadsheets doorkruisen."},
@@ -162,7 +162,7 @@ Focus op de Nederlandse/Europese markt. Accent op tijdbesparing en kwaliteitsver
             "Veel prijzen op aanvraag — niet transparant",
             "Strikte regulering beperkt adoptie bij kleinere spelers"
         ],
-        "affiliateLinks": ["https://affiliate.notion.so/?via=aitoolsnl"],
+        "affiliateLinks": ["https://www.notion.so"],
         "date": "2026-05-21",
         "modelYear": 2026,
         "featuredTool": "Feedzai",
@@ -178,13 +178,13 @@ Structuur:
 
 Focus op de NEDERLANDSE context. BUX, Owlin en KAS BANK zijn echte NL bedrijven. Prijzen in EUR. Schrijf in vloeiend Nederlands.""",
         "tools": [
-            {"name": "BUX AI", "verdict": "Nederlands fintech-platform met AI-beleggingsassistent — portfolio-analyse en marktinzichten in natuurlijke taal", "priceRange": "EUR 0-15/mnd", "bestFor": "Beleggingsanalyse", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Owlin", "verdict": "Nederlands AI-platform voor realtime nieuwsanalyse — risico's in supply chain en tegenpartijen direct signaleren", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Risicomonitoring", "rating": 4.4, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "KAS BANK AI", "verdict": "Institutioneel AI-platform van de Nederlandse custodian bank — settlement optimalisatie, liquiditeitsvoorspelling", "priceRange": "Op aanvraag (institutioneel)", "bestFor": "Institutioneel beheer", "rating": 4.0, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Feedzai", "verdict": "Wereldleider in AI-frauddetectie — realtime transactieanalyse met 95%+ detectiegraad, gebruikt door grootbanken", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Frauddetectie", "rating": 4.7, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "DataSnipper", "verdict": "AI-auditplatform dat automatisch documenten leest, kruisverwijst en valideert — standaard bij Big Four accountants", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Audit & compliance", "rating": 4.5, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Ocrolus", "verdict": "AI-documentverwerking voor financiële dienstverleners — bankafschriften en loonstroken automatisch uitlezen", "priceRange": "Op aanvraag", "bestFor": "Documentanalyse", "rating": 4.2, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "ComplyAdvantage", "verdict": "AI-gedreven AML/KYC-sanctiescreening — realtime checks op wereldwijde sanctielijsten en adverse media", "priceRange": "Op aanvraag (enterprise)", "bestFor": "AML compliance", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "BUX AI", "verdict": "Nederlands fintech-platform met AI-beleggingsassistent — portfolio-analyse en marktinzichten in natuurlijke taal", "priceRange": "EUR 0-15/mnd", "bestFor": "Beleggingsanalyse", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+            {"name": "Owlin", "verdict": "Nederlands AI-platform voor realtime nieuwsanalyse — risico's in supply chain en tegenpartijen direct signaleren", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Risicomonitoring", "rating": 4.4, "affiliateLink": "https://www.notion.so"},
+            {"name": "KAS BANK AI", "verdict": "Institutioneel AI-platform van de Nederlandse custodian bank — settlement optimalisatie, liquiditeitsvoorspelling", "priceRange": "Op aanvraag (institutioneel)", "bestFor": "Institutioneel beheer", "rating": 4.0, "affiliateLink": "https://www.notion.so"},
+            {"name": "Feedzai", "verdict": "Wereldleider in AI-frauddetectie — realtime transactieanalyse met 95%+ detectiegraad, gebruikt door grootbanken", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Frauddetectie", "rating": 4.7, "affiliateLink": "https://www.notion.so"},
+            {"name": "DataSnipper", "verdict": "AI-auditplatform dat automatisch documenten leest, kruisverwijst en valideert — standaard bij Big Four accountants", "priceRange": "Op aanvraag (enterprise)", "bestFor": "Audit & compliance", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
+            {"name": "Ocrolus", "verdict": "AI-documentverwerking voor financiële dienstverleners — bankafschriften en loonstroken automatisch uitlezen", "priceRange": "Op aanvraag", "bestFor": "Documentanalyse", "rating": 4.2, "affiliateLink": "https://www.notion.so"},
+            {"name": "ComplyAdvantage", "verdict": "AI-gedreven AML/KYC-sanctiescreening — realtime checks op wereldwijde sanctielijsten en adverse media", "priceRange": "Op aanvraag (enterprise)", "bestFor": "AML compliance", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
         ],
         "faq": [
             {"q": "Moet een AI-tool in de financiële sector DNB-goedgekeurd zijn?", "a": "Nee, niet elke AI-tool heeft aparte DNB-goedkeuring nodig. De financiële instelling zelf is verantwoordelijk voor compliance. Tools moeten wel aantoonbaar voldoen aan DNB-richtlijnen voor uitbesteding en risicobeheer. Bij kernprocessen is voorafgaande toetsing nodig."},

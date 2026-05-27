@@ -4,7 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 
 export async function getStaticPaths() {
-  const categories = ['productiviteit', 'marketing', 'creatie', 'development', 'business'];
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  const categories = [...new Set(articles.map((article) => article.data.category))].sort();
   return categories.map((cat) => ({ params: { cat } }));
 }
 
@@ -18,7 +19,8 @@ const labels: Record<string, string> = {
   marketing: 'Marketing',
   creatie: 'Creatie',
   development: 'Development',
-  business: 'Business'
+  business: 'Business',
+  technologie: 'Technologie'
 };
 
 const descriptions: Record<string, string> = {
@@ -26,7 +28,8 @@ const descriptions: Record<string, string> = {
   marketing: 'AI voor e-mailmarketing, SEO, social media, content marketing en advertenties.',
   creatie: 'AI tools voor content creatie: schrijftools, image generators, video tools en design.',
   development: 'AI coding assistants, code generators, low-code tools en developer platforms.',
-  business: 'AI tools voor ondernemers: administratie, klantenservice, sales en data-analyse.'
+  business: 'AI tools voor ondernemers: administratie, klantenservice, sales en data-analyse.',
+  technologie: 'AI tools voor security, privacy, cloud optimalisatie, DevOps en technische compliance.'
 };
 ---
 

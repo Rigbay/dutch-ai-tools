@@ -34,7 +34,7 @@ Structuur:
 Schrijf in vloeiend, professioneel Nederlands. Focus op beeldkwaliteit, gebruiksgemak en commerciële inzetbaarheid.""",
         "tools": [
             {"name": "Midjourney v7", "verdict": "Onbetwiste leider in artistieke kwaliteit en fotorealisme", "priceRange": "EUR 10-60/mnd", "bestFor": "Hoogste kwaliteit", "rating": 4.9, "affiliateLink": "https://www.midjourney.com/?ref=aitoolsnl"},
-            {"name": "DALL-E 3", "verdict": "Beste begrijp van complexe prompts dankzij ChatGPT integratie", "priceRange": "EUR 0-25/mnd", "bestFor": "Gebruiksgemak", "rating": 4.6, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "DALL-E 3", "verdict": "Beste begrijp van complexe prompts dankzij ChatGPT integratie", "priceRange": "EUR 0-25/mnd", "bestFor": "Gebruiksgemak", "rating": 4.6, "affiliateLink": "https://www.notion.so"},
             {"name": "Stable Diffusion 3", "verdict": "Maximale controle en open-source mogelijkheden voor gevorderden", "priceRange": "EUR 0-50/mnd", "bestFor": "Controle & Open Source", "rating": 4.7, "affiliateLink": "https://stability.ai/?ref=aitoolsnl"},
             {"name": "Adobe Firefly", "verdict": "Commercieel veilig en perfect geïntegreerd in Photoshop", "priceRange": "EUR 5-25/mnd", "bestFor": "Commercieel gebruik", "rating": 4.5, "affiliateLink": "https://www.adobe.com/?ref=aitoolsnl"},
             {"name": "Leonardo.ai", "verdict": "Geweldige webinterface met veel finetuning opties", "priceRange": "EUR 0-30/mnd", "bestFor": "Finetuning", "rating": 4.4, "affiliateLink": "https://leonardo.ai/?ref=aitoolsnl"},
@@ -65,7 +65,7 @@ Focus op de kwaliteit van de Nederlandse stemmen (natuurlijkheid, intonatie). Sc
             {"name": "Lovo.ai", "verdict": "Goede mix van stemmen en video-editing features", "priceRange": "EUR 0-50/mnd", "bestFor": "Content creators", "rating": 4.3, "affiliateLink": "https://lovo.ai/?ref=aitoolsnl"},
             {"name": "WellSaid Labs", "verdict": "Focus op high-end corporate e-learning stemmen", "priceRange": "EUR 40-200/mnd", "bestFor": "E-learning", "rating": 4.4, "affiliateLink": "https://wellsaidlabs.com/?ref=aitoolsnl"},
             {"name": "Speechify", "verdict": "Beste voor tekst-naar-spraak en audioboeken met bekende stemmen", "priceRange": "EUR 0-30/mnd", "bestFor": "Audioboeken", "rating": 4.5, "affiliateLink": "https://speechify.com/?ref=aitoolsnl"},
-            {"name": "OpenAI Voice", "verdict": "Indrukwekkende conversatie-AI stemmen direct in ChatGPT", "priceRange": "EUR 0-25/mnd", "bestFor": "Interactie", "rating": 4.7, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "OpenAI Voice", "verdict": "Indrukwekkende conversatie-AI stemmen direct in ChatGPT", "priceRange": "EUR 0-25/mnd", "bestFor": "Interactie", "rating": 4.7, "affiliateLink": "https://www.notion.so"},
         ],
         "related": pick_related("elevenlabs-vs-murf-ai-vs-play-ht-2026", ALL_SLUGS, 3)
     },
@@ -124,7 +124,7 @@ def build_article(defn, body_text):
         "priceRange": "EUR 0-100/mnd",
         "pros": ["Vergelijking van top-tier tools", "Actuele 2026 marktdata", "Focus op Nederlandse context"],
         "cons": ["Prijzen onder voorbehoud", "Sommige features in beta"],
-        "affiliateLinks": ["https://affiliate.notion.so/?via=aitoolsnl"],
+        "affiliateLinks": ["https://www.notion.so"],
         "date": date.today(),
         "modelYear": 2026,
         "featuredTool": defn["tools"][0]["name"],

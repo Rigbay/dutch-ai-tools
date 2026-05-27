@@ -58,7 +58,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Copywriting
   rating: 4.3
-  affiliateLink: https://www.copy.ai/?via=aitoolsnl
+  affiliateLink: https://www.copy.ai
 - name: Surfer SEO
   verdict: AI-contentoptimalisatie die direct hogere rankings oplevert
   priceRange: EUR 60-200/mnd

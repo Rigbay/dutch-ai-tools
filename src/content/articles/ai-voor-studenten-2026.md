@@ -31,7 +31,7 @@ tools:
     priceRange: "EUR 8-15/mnd"
     bestFor: "Notities & organisatie"
     rating: 4.5
-    affiliateLink: "https://www.notion.so/?ref=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "Grammarly"
     verdict: "Beste voor grammatica en academisch schrijven"
     priceRange: "EUR 0-12/mnd"

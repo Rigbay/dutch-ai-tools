@@ -56,8 +56,8 @@ Structuur:
 Gebruik concrete NL/EU voorbeelden. Focus op Nederlandse/Europese context (AVG/GDPR compliance is belangrijk). Prijzen in EUR. Schrijf in vloeiend Nederlands.""",
         "tools": [
             {"name": "Harvey AI", "verdict": "Beste AI-platform specifiek voor juridische professionals met diepe domeinkennis", "priceRange": "EUR 200-500/mnd", "bestFor": "Juridisch onderzoek", "rating": 4.6, "affiliateLink": "https://www.harvey.ai/?ref=aitoolsnl"},
-            {"name": "ChatGPT", "verdict": "Veelzijdige AI voor eerste juridische analyses en brondocumentatie", "priceRange": "EUR 0-25/mnd", "bestFor": "Juridische drafting", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Claude", "verdict": "Uitstekend voor lange contracten en genuanceerde juridische redenering", "priceRange": "EUR 0-25/mnd", "bestFor": "Contractanalyse", "rating": 4.5, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "ChatGPT", "verdict": "Veelzijdige AI voor eerste juridische analyses en brondocumentatie", "priceRange": "EUR 0-25/mnd", "bestFor": "Juridische drafting", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
+            {"name": "Claude", "verdict": "Uitstekend voor lange contracten en genuanceerde juridische redenering", "priceRange": "EUR 0-25/mnd", "bestFor": "Contractanalyse", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
             {"name": "Henchman", "verdict": "AI contractanalyse die automatisch clausules vindt in je database", "priceRange": "EUR 100-300/mnd", "bestFor": "Contractdatabase", "rating": 4.4, "affiliateLink": "https://henchman.io/?ref=aitoolsnl"},
             {"name": "DeepL", "verdict": "Beste AI-vertaling voor juridische documenten met EU-taalondersteuning", "priceRange": "EUR 0-50/mnd", "bestFor": "Juridische vertalingen", "rating": 4.6, "affiliateLink": "https://www.deepl.com/?ref=aitoolsnl"},
             {"name": "Legalyze", "verdict": "AI die juridische documenten samenvat en relevante passages markeert", "priceRange": "EUR 50-150/mnd", "bestFor": "Documentsamenvatting", "rating": 4.2, "affiliateLink": "https://www.legalyze.ai/?ref=aitoolsnl"},
@@ -81,13 +81,13 @@ Structuur:
 
 Gebruik concrete Nederlandse onderwijscontext. Focus op lesvoorbereiding, nakijken, differentiëren, administratie. Prijzen in EUR. Schrijf in vloeiend Nederlands.""",
         "tools": [
-            {"name": "ChatGPT", "verdict": "Meest veelzijdige AI voor lesvoorbereiding, uitleg en werkblad-creatie", "priceRange": "EUR 0-25/mnd", "bestFor": "Lesvoorbereiding", "rating": 4.6, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
-            {"name": "Claude", "verdict": "Beste voor diepgaande feedback op essays en werkstukken", "priceRange": "EUR 0-25/mnd", "bestFor": "Feedback & nakijken", "rating": 4.5, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "ChatGPT", "verdict": "Meest veelzijdige AI voor lesvoorbereiding, uitleg en werkblad-creatie", "priceRange": "EUR 0-25/mnd", "bestFor": "Lesvoorbereiding", "rating": 4.6, "affiliateLink": "https://www.notion.so"},
+            {"name": "Claude", "verdict": "Beste voor diepgaande feedback op essays en werkstukken", "priceRange": "EUR 0-25/mnd", "bestFor": "Feedback & nakijken", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
             {"name": "Canva AI", "verdict": "Onmisbaar voor visueel lesmateriaal, presentaties en infographics", "priceRange": "EUR 0-15/mnd", "bestFor": "Visueel lesmateriaal", "rating": 4.7, "affiliateLink": "https://www.canva.com/?ref=aitoolsnl"},
             {"name": "LessonUp", "verdict": "Nederlands platform met AI voor interactieve lessen en formatief toetsen", "priceRange": "EUR 0-30/mnd", "bestFor": "Interactieve lessen", "rating": 4.4, "affiliateLink": "https://www.lessonup.com/?ref=aitoolsnl"},
-            {"name": "Google Gemini", "verdict": "Diepe Google-integratie voor research en Google Classroom workflows", "priceRange": "EUR 0-25/mnd", "bestFor": "Research & Classroom", "rating": 4.3, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "Google Gemini", "verdict": "Diepe Google-integratie voor research en Google Classroom workflows", "priceRange": "EUR 0-25/mnd", "bestFor": "Research & Classroom", "rating": 4.3, "affiliateLink": "https://www.notion.so"},
             {"name": "Quizlet AI", "verdict": "Beste voor flashcards, begrippentraining en formatief toetsen", "priceRange": "EUR 0-8/mnd", "bestFor": "Toetsen & stampwerk", "rating": 4.5, "affiliateLink": "https://quizlet.com/?ref=aitoolsnl"},
-            {"name": "Notion AI", "verdict": "Perfect voor lesplanning, curriculumbeheer en leerlingvolgsysteem", "priceRange": "EUR 0-20/mnd", "bestFor": "Planning & administratie", "rating": 4.2, "affiliateLink": "https://affiliate.notion.so/?via=aitoolsnl"},
+            {"name": "Notion AI", "verdict": "Perfect voor lesplanning, curriculumbeheer en leerlingvolgsysteem", "priceRange": "EUR 0-20/mnd", "bestFor": "Planning & administratie", "rating": 4.2, "affiliateLink": "https://www.notion.so"},
         ],
         "related": pick_related("beste-ai-tools-docenten-2026", ALL_SLUGS, 3)
     },
@@ -184,7 +184,7 @@ def build_article(defn, body_text):
             "Sommige AI-features zijn nog in actieve ontwikkeling of beta",
         ],
         "affiliateLinks": [
-            "https://affiliate.notion.so/?via=aitoolsnl",
+            "https://www.notion.so",
             "https://www.beehiiv.com/?via=aitoolsnl",
         ],
         "date": date.today(),

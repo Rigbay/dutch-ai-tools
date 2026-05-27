@@ -26,7 +26,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Kennis & Documentatie
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: ClickUp AI
   verdict: Meest complete AI projectmanager met eindeloze maatwerkopties
   priceRange: EUR 0-15/mnd

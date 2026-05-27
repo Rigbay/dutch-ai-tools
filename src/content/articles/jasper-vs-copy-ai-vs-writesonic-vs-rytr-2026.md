@@ -31,7 +31,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Social Media & Ads
   rating: 4.6
-  affiliateLink: https://www.copy.ai/?via=aitoolsnl
+  affiliateLink: https://www.copy.ai
 - name: Writesonic
   verdict: Zeer compleet met AI article writer, SEO tools en chatbot
   priceRange: EUR 0-40/mnd

@@ -120,7 +120,7 @@ def build_frontmatter(topic):
         tools_yaml += f'    priceRange: "{prices[i]}"\n'
         tools_yaml += f'    bestFor: "{best_for[i]}"\n'
         tools_yaml += f'    rating: {ratings[i]}\n'
-        tools_yaml += f'    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"\n'
+        tools_yaml += f'    affiliateLink: "https://www.notion.so"\n'
 
     related = [
         "beste-ai-tools-kleine-ondernemers-2026",
@@ -144,7 +144,7 @@ cons:
   - Niet elke tool is dagelijks getest met intensief gebruik
   - Sommige AI features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
   - https://www.beehiiv.com/?via=aitoolsnl
 date: 2026-05-21
 modelYear: 2026
