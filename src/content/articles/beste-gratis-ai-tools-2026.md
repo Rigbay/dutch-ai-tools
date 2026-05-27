@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT Free
@@ -68,7 +68,7 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Copywriting
   rating: 3.8
-  affiliateLink: https://www.copy.ai
+  affiliateLink: https://www.copy.ai/?via=aitoolsnl
 related:
 - beste-ai-tools-reizen-vakantieplanning-2026
 - beste-ai-meeting-transcriptie-tools-2026

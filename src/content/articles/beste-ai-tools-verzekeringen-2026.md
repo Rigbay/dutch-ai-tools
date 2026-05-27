@@ -14,7 +14,7 @@ cons:
 - Regelgeving vertraagt adoptie bij kleinere spelers
 - Sommige tools overlappen functioneel
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: FRISS

@@ -15,7 +15,7 @@ cons:
 - Diepe integraties vereisen vaak betaalde abonnementen
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Notion AI
@@ -26,7 +26,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Kennis & Documentatie
   rating: 4.7
-  affiliateLink: https://www.notion.so
+  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: ClickUp AI
   verdict: Meest complete AI projectmanager met eindeloze maatwerkopties
   priceRange: EUR 0-15/mnd

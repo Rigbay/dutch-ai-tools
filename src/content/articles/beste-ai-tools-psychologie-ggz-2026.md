@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://woebothealth.com/?ref=aitoolsnl
-- https://limbic.ai/?ref=aitoolsnl
-- https://www.lyssn.io/?ref=aitoolsnl
-- https://ict.usc.edu/?ref=aitoolsnl
-- https://www.wysa.com/?ref=aitoolsnl
-- https://www.quartethealth.com/?ref=aitoolsnl
-- https://www.eleos.health/?ref=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://woebothealth.com/?ref=aitoolsnl
+  - https://limbic.ai/?ref=aitoolsnl
+  - https://www.lyssn.io/?ref=aitoolsnl
+  - https://ict.usc.edu/?ref=aitoolsnl
+  - https://www.wysa.com/?ref=aitoolsnl
+  - https://www.quartethealth.com/?ref=aitoolsnl
+  - https://www.eleos.health/?ref=aitoolsnl
 related:
 - beste-ai-tools-gaming-2026
 - beste-ai-tools-kleine-ondernemers-2026

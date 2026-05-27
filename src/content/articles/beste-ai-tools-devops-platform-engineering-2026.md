@@ -14,7 +14,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik in grootschalige omgevingen
 - Sommige geavanceerde AI features zijn nog in beta of snelle ontwikkeling
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: GitHub Copilot Enterprise

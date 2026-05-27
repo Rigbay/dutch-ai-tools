@@ -16,8 +16,8 @@ cons:
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
   - https://writesonic.com/?via=aitoolsnl
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Jasper AI
@@ -58,7 +58,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Copywriting
   rating: 4.3
-  affiliateLink: https://www.copy.ai
+  affiliateLink: https://www.copy.ai/?via=aitoolsnl
 - name: Surfer SEO
   verdict: AI-contentoptimalisatie die direct hogere rankings oplevert
   priceRange: EUR 60-200/mnd

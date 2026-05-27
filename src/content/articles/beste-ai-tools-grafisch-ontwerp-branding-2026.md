@@ -14,7 +14,7 @@ cons:
 - Output-kwaliteit varieert per usecase — test vooraf
 - Sommige features zijn nog in beta, vooral video en 3D
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Midjourney

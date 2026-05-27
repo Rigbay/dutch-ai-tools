@@ -14,7 +14,7 @@ cons:
   - Menselijke review blijft essentieel
 affiliateLinks:
   - https://www.jasper.ai/?ref=aitoolsnl
-  - https://www.copy.ai
+  - https://www.copy.ai/?via=aitoolsnl
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Jasper AI
@@ -31,7 +31,7 @@ tools:
     priceRange: EUR 0-50/mnd
     bestFor: E-commerce & ads
     rating: 4.4
-    affiliateLink: https://www.copy.ai
+    affiliateLink: https://www.copy.ai/?via=aitoolsnl
   - name: Claude 3.5
     verdict: Uitstekende lange-form copy en strategische content met context
     priceRange: EUR 0-25/mnd

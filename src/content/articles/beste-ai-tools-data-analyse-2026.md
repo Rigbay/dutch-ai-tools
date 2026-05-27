@@ -15,7 +15,7 @@ cons:
 - Sommige tools vereisen alsnog basis datakennis voor optimaal gebruik
 - Geavanceerde analyses vragen grotere abonnementen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT

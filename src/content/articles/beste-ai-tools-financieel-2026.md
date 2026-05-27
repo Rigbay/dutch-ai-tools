@@ -17,7 +17,7 @@ cons:
 - Veel prijzen op aanvraag - niet transparant
 - Strikte regulering beperkt adoptie bij kleinere spelers
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Feedzai

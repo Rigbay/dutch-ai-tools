@@ -14,7 +14,7 @@ cons:
 - Prijzen zijn indicatief — offerte-afhankelijk bij grotere deployments
 - Sommige AI-features nog in preview of early access
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Microsoft Security Copilot

@@ -14,7 +14,7 @@ cons:
 - Gratis versies hebben vaak watermerken of beperkte exports
 - Tools blijven in ontwikkeling — functionaliteit verandert snel
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Canva Magic Studio

@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://claude.ai/?ref=aitoolsnl
-- https://chat.openai.com/?ref=aitoolsnl
-- https://notebooklm.google.com/?ref=aitoolsnl
-- https://www.chatpdf.com/?ref=aitoolsnl
-- https://askyourpdf.com/?ref=aitoolsnl
-- https://pdf.ai/?ref=aitoolsnl
-- https://www.humata.ai/?ref=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://claude.ai/?ref=aitoolsnl
+  - https://chat.openai.com/?ref=aitoolsnl
+  - https://notebooklm.google.com/?ref=aitoolsnl
+  - https://www.chatpdf.com/?ref=aitoolsnl
+  - https://askyourpdf.com/?ref=aitoolsnl
+  - https://pdf.ai/?ref=aitoolsnl
+  - https://www.humata.ai/?ref=aitoolsnl
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Claude (Anthropic)

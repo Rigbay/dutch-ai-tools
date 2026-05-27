@@ -13,7 +13,7 @@ cons:
   - Accuraatheid Nederlandse spraak varieert
   - Export beperkingen in gratis tiers
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
   - https://www.descript.com/?ref=aitoolsnl
 date: 2026-05-20
 modelYear: 2026

@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.microsoft.com/nl-nl/microsoft-365/copilot?ref=aitoolsnl
-- https://chat.openai.com/?ref=aitoolsnl
-- https://sheetai.app/?ref=aitoolsnl
-- https://rows.com/?ref=aitoolsnl
-- https://numerous.ai/?ref=aitoolsnl
-- https://ajelix.com/?ref=aitoolsnl
-- https://formulabot.com/?ref=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.microsoft.com/nl-nl/microsoft-365/copilot?ref=aitoolsnl
+  - https://chat.openai.com/?ref=aitoolsnl
+  - https://sheetai.app/?ref=aitoolsnl
+  - https://rows.com/?ref=aitoolsnl
+  - https://numerous.ai/?ref=aitoolsnl
+  - https://ajelix.com/?ref=aitoolsnl
+  - https://formulabot.com/?ref=aitoolsnl
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Microsoft Copilot in Excel

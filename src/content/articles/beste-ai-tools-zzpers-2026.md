@@ -16,7 +16,7 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
-- https://writesonic.com/?via=aitoolsnl
+  - https://writesonic.com/?via=aitoolsnl
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -57,7 +57,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Copywriting
   rating: 4.2
-  affiliateLink: https://www.copy.ai
+  affiliateLink: https://www.copy.ai/?via=aitoolsnl
 - name: Canva AI
   verdict: Designplatform met sterke AI tools voor visuals en presentaties
   priceRange: EUR 0-15/mnd

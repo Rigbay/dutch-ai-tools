@@ -16,8 +16,8 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT

@@ -12,7 +12,7 @@ cons:
 - Hoge implementatiekosten voor MKB
 - Vereist specialistische kennis voor optimale configuratie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
 featuredTool: OneTrust

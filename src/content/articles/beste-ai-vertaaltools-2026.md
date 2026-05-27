@@ -16,8 +16,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.jasper.ai/partners/affiliates?via=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.jasper.ai/partners/affiliates?via=aitoolsnl
 date: 2026-05-20
 modelYear: 2026
 featuredTool: DeepL

@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Notion AI
@@ -26,7 +26,7 @@ tools:
   priceRange: EUR 10-20/mnd
   bestFor: Notities & kennis
   rating: 4.6
-  affiliateLink: https://www.notion.so
+  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: Coda AI
   verdict: Sterk alternatief met AI-gedreven documenten en databases
   priceRange: EUR 0-36/mnd
@@ -62,7 +62,7 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Agenda-integratie
   rating: 4.0
-  affiliateLink: https://www.notion.so
+  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
 - beste-ai-tools-pdf-documenten-2026
 - beste-ai-tools-reizen-vakantieplanning-2026

@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.wix.com/?ref=aitoolsnl
-- https://www.framer.com/?ref=aitoolsnl
-- https://10web.io/?ref=aitoolsnl
-- https://www.hostinger.nl/?ref=aitoolsnl
-- https://www.relume.io/?ref=aitoolsnl
-- https://durable.co/?ref=aitoolsnl
-- https://uizard.io/?ref=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.wix.com/?ref=aitoolsnl
+  - https://www.framer.com/?ref=aitoolsnl
+  - https://10web.io/?ref=aitoolsnl
+  - https://www.hostinger.nl/?ref=aitoolsnl
+  - https://www.relume.io/?ref=aitoolsnl
+  - https://durable.co/?ref=aitoolsnl
+  - https://uizard.io/?ref=aitoolsnl
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Wix AI Website Builder

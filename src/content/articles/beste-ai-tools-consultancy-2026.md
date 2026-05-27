@@ -16,7 +16,7 @@ cons:
 - Kleinere tools missen integraties met consulting-software
 - Sommige tools generiek, niet consultancy-specifiek
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Fireflies.ai

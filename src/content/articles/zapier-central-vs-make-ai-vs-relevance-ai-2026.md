@@ -15,7 +15,7 @@ cons:
 - Prijzen kunnen variëren
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-24'
 modelYear: 2026
 featuredTool: Zapier Central

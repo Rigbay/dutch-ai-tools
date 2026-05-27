@@ -16,8 +16,8 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
   - https://writesonic.com/?via=aitoolsnl
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Semrush
@@ -58,7 +58,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Copywriting
   rating: 4.2
-  affiliateLink: https://www.copy.ai
+  affiliateLink: https://www.copy.ai/?via=aitoolsnl
 - name: MarketMuse
   verdict: AI contentstrategie en -planning voor datagedreven marketing
   priceRange: EUR 150-1000/mnd

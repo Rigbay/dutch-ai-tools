@@ -16,7 +16,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
   - https://writesonic.com/?via=aitoolsnl
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Make

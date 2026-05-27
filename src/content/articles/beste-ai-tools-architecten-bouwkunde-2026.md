@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.midjourney.com/?ref=aitoolsnl
-- https://www.autodesk.com/products/forma/?ref=aitoolsnl
-- https://www.finch3d.com/?ref=aitoolsnl
-- https://www.ark-ai.com/?ref=aitoolsnl
-- https://www.autodesk.com/products/spacemaker/?ref=aitoolsnl
-- https://www.evolvelab.io/veras/?ref=aitoolsnl
-- https://www.maket.ai/?ref=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.midjourney.com/?ref=aitoolsnl
+  - https://www.autodesk.com/products/forma/?ref=aitoolsnl
+  - https://www.finch3d.com/?ref=aitoolsnl
+  - https://www.ark-ai.com/?ref=aitoolsnl
+  - https://www.autodesk.com/products/spacemaker/?ref=aitoolsnl
+  - https://www.evolvelab.io/veras/?ref=aitoolsnl
+  - https://www.maket.ai/?ref=aitoolsnl
 related:
 - beste-ai-tools-fotografen-2026
 - beste-ai-tools-voice-cloning-voice-over-2026

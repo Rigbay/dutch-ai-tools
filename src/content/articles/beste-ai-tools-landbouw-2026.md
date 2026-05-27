@@ -15,7 +15,7 @@ cons:
 - Vereist digitale vaardigheden
 - Niet alle tools beschikbaar in het Nederlands
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Plantix

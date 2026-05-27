@@ -16,8 +16,8 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.canva.com/?ref=aitoolsnl
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.canva.com/?ref=aitoolsnl
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Perplexity AI

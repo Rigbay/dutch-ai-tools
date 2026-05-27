@@ -16,7 +16,7 @@ cons:
 - Sommige NL-tools klein en minder volwassen
 - Aanbestedingstrajecten vertragen adoptie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Microsoft Copilot for Government

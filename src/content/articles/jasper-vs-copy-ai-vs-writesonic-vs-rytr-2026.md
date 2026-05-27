@@ -14,7 +14,7 @@ cons:
 - AI-output blijft afhankelijk van promptkwaliteit
 - Sommige Nederlandse nuances worden nog gemist
 affiliateLinks:
-- https://writesonic.com/?via=aitoolsnl
+  - https://writesonic.com/?via=aitoolsnl
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Jasper AI
@@ -31,7 +31,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Social Media & Ads
   rating: 4.6
-  affiliateLink: https://www.copy.ai
+  affiliateLink: https://www.copy.ai/?via=aitoolsnl
 - name: Writesonic
   verdict: Zeer compleet met AI article writer, SEO tools en chatbot
   priceRange: EUR 0-40/mnd

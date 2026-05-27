@@ -13,7 +13,7 @@ cons:
 - Hoge kosten voor premium features
 - Leercurve voor complexe workflows
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
 featuredTool: GitHub Copilot

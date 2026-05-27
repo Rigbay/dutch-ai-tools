@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is dagelijks getest in de Nederlandse praktijk
   - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
   - https://www.bark.us/?ref=aitoolsnl
   - https://www.cozi.com/?ref=aitoolsnl
   - https://www.ourhomeapp.com/?ref=aitoolsnl

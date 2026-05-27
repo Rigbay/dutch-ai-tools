@@ -14,7 +14,7 @@ cons:
 - Klinische verantwoordelijkheid blijft altijd bij de tandarts
 - Integraties verschillen sterk per praktijksoftware en land
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Pearl AI

@@ -13,7 +13,7 @@ cons:
   - Lokale data-integratie kan complex zijn
   - Privacy bij woningfoto's
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
   - https://www.matterport.com/?ref=aitoolsnl
 date: 2026-05-20
 modelYear: 2026
@@ -49,7 +49,7 @@ tools:
     priceRange: EUR 10-30/mnd
     bestFor: Organisatie
     rating: 4.1
-    affiliateLink: https://www.notion.so
+    affiliateLink: https://www.notion.so/?ref=aitoolsnl
 related:
 - ai-voor-ecommerce-2026
 - beste-ai-tools-telecom-communicatie-2026

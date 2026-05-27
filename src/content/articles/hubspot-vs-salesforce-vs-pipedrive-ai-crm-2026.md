@@ -7,16 +7,15 @@ rating: 4.5
 priceRange: EUR 0-300/mnd
 pros:
 - Praktische vergelijking van AI-features in de 3 populairste CRMs
-- NL-specifiek: prijzen in EUR, AVG/GDPR-compliance per tool
+- 'NL-specifiek: prijzen in EUR, AVG/GDPR-compliance per tool'
 - Eerlijke plus- en minpunten — geen verkooppraatje
 cons:
 - Prijzen en features kunnen snel veranderen
 - AI-functies verschillen per abonnementsvorm
 - Niet elke tool is even sterk in Nederlands
 affiliateLinks:
-  - https://www.hubspot.com
-  - https://www.salesforce.com/nl/
-  - https://www.pipedrive.com
+  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-26
 modelYear: 2026
 featuredTool: HubSpot
@@ -27,19 +26,19 @@ tools:
   priceRange: EUR 0-100/mnd
   bestFor: MKB & groeiende teams
   rating: 4.7
-  affiliateLink: https://www.hubspot.com
+  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: Salesforce Einstein
   verdict: De enterprise-standaard met de meest geavanceerde AI-voorspellingen en diepste maatwerkopties
   priceRange: EUR 25-300/mnd
   bestFor: Enterprise & complexe salesprocessen
   rating: 4.5
-  affiliateLink: https://www.salesforce.com/nl/
+  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: Pipedrive AI
   verdict: Meest gebruiksvriendelijk met een focus op visuele sales pipelines en betaalbare AI-features
   priceRange: EUR 14-99/mnd
   bestFor: Kleine sales teams & freelancers
   rating: 4.4
-  affiliateLink: https://www.pipedrive.com
+  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
 - beste-ai-sales-tools-2026
 - beste-ai-marketing-tools-2026

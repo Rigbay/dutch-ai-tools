@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://www.taskade.com/?via=55nfr2
-- https://www.taskade.com/?via=55nfr2
+  - https://www.taskade.com/?via=55nfr2
+  - https://www.taskade.com/?via=55nfr2
 date: 2026-05-22
 modelYear: 2026
 featuredTool: Miro AI

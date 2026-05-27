@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://writesonic.com/?via=aitoolsnl
+  - https://writesonic.com/?via=aitoolsnl
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -44,7 +44,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Korte copy
   rating: 4.1
-  affiliateLink: https://www.copy.ai
+  affiliateLink: https://www.copy.ai/?via=aitoolsnl
 - name: DeepL Write
   verdict: Beste AI voor Nederlands correct taalgebruik en stijlverbetering
   priceRange: EUR 0-30/mnd

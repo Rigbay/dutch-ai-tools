@@ -14,7 +14,7 @@ cons:
 - Gratis versies hebben vaak beperkte AI-features
 - Geen tool is perfect voor elke Nederlandse schrijfstijl
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: LanguageTool
