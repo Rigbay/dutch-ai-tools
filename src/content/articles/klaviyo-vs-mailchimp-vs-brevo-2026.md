@@ -1,7 +1,7 @@
 ---
 title: 'Klaviyo vs Mailchimp vs Brevo 2026: Beste AI E-mailmarketing Tool voor E-commerce'
 slug: klaviyo-vs-mailchimp-vs-brevo-2026
-description: Klaviyo, Mailchimp of Brevo (voorheen Sendinblue) voor AI-gedreven e-mailmarketing in 2026? Vergelijk automations, AI-segmentatie, prijs en GDPR-compliance voor Nederlandse webshops.
+description: Klaviyo, Mailchimp of Brevo voor AI-e-mailmarketing in 2026? Vergelijk automations, AI-segmentatie, prijs en GDPR voor webshops.
 category: development
 rating: 4.6
 priceRange: EUR 0-50/mnd

@@ -1,7 +1,10 @@
 import { readFileSync } from 'fs';
+import { join } from 'path';
 
-// Use committed registry copy (sync from ~/.hermes/affiliates/merchants.json before deploy)
-const REGISTRY_PATH = new URL('../data/merchants.json', import.meta.url).pathname;
+// Use committed registry copy (sync from ~/.hermes/affiliates/merchants.json before deploy).
+// During Astro prerender, import.meta.url may point at compiled dist chunks, so keep
+// the source-path lookup anchored to the repository root instead of the output dir.
+const REGISTRY_PATH = join(process.cwd(), 'src/data/merchants.json');
 
 let cachedRegistry: any = null;
 let domainIndex: Record<string, string> | null = null;
