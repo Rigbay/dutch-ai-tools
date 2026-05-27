@@ -14,7 +14,6 @@ cons:
 - Prijzen wijzigen regelmatig
 - Niet elke tool ondersteunt alle frameworks even goed
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Cursor
@@ -25,25 +24,21 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Dagelijks codeerwerk
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: Claude Code
   verdict: Grootste contextvenster (200K tokens) — begrijpt hele codebases in één keer
   priceRange: EUR 0-25/mnd
   bestFor: Complexe refactors & architectuur
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: Windsurf
   verdict: Beste voor grote projecten — AI-agent die zelfstandig taken uitvoert in je IDE
   priceRange: EUR 0-45/mnd
   bestFor: Enterprise & monorepo's
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 - name: GitHub Copilot
   verdict: Diepe GitHub-integratie — de keuze voor teams die al in het Microsoft-ecosysteem zitten
   priceRange: EUR 0-39/mnd
   bestFor: Microsoft-stack teams
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
 - github-copilot-vs-cursor-vs-codeium-2026
 - beste-ai-tools-api-ontwikkeling-2026
