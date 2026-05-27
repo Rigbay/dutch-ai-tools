@@ -1,4 +1,7 @@
 ---
+import AffiliateLink from './AffiliateLink.astro';
+import { detectMerchant } from '../lib/affiliateRegistry';
+
 interface Tool {
   name: string;
   verdict: string;
@@ -30,7 +33,9 @@ const linkRel = (url: string) => isSponsoredLink(url) ? 'nofollow sponsored' : '
       </tr>
     </thead>
     <tbody>
-      {tools.map((tool) => (
+      {tools.map((tool) => {
+        const merchantId = detectMerchant(tool.affiliateLink);
+        return (
         <tr class="border-t border-[#e2e5f0] align-top">
           <td class="px-4 py-3 font-semibold text-ink">{tool.name}</td>
           <td class="px-4 py-3 text-muted">{tool.bestFor}</td>
@@ -38,12 +43,22 @@ const linkRel = (url: string) => isSponsoredLink(url) ? 'nofollow sponsored' : '
           <td class="px-4 py-3 font-bold text-leaf">{tool.rating.toFixed(1)}/5</td>
           <td class="px-4 py-3 text-muted">{tool.verdict}</td>
           <td class="px-4 py-3">
-            <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]" href={tool.affiliateLink} rel={linkRel(tool.affiliateLink)}>
-              Bekijk tool
-            </a>
+            {merchantId ? (
+              <AffiliateLink
+                merchantId={merchantId}
+                siteId="dutch-ai-tools"
+                class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]"
+              >
+                Bekijk tool
+              </AffiliateLink>
+            ) : (
+              <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]" href={tool.affiliateLink} rel={linkRel(tool.affiliateLink)}>
+                Bekijk tool
+              </a>
+            )}
           </td>
         </tr>
-      ))}
+      )})}
     </tbody>
   </table>
 </div>
