@@ -176,6 +176,12 @@ Voor het snel creëren van visueel aantrekkelijke en interactieve lesmodules zon
 
 Voor grootschalige, complexe en professionele e-learning projecten met hoge eisen aan functionaliteit en integratie, blijft **Lectora** de standaard, hoewel met een hoger prijskaartje. En als je regelmatig stap-voor-stap handleidingen of softwaretrainingen moet maken, zal **Scribe** je enorm veel tijd besparen door het proces te automatiseren. Overweeg welke taken het meest tijdrovend zijn in jouw workflow en kies de tool die daar de grootste impact kan maken.
 
+Twijfel je tussen opties? Vergelijk ze in [ChatGPT vs Gemini vs Claude 2026](/chatgpt-vs-gemini-vs-claude-nederlands-2026/).
+
+Twijfel je tussen opties? Vergelijk ze in [Claude 3.5 Sonnet vs GPT-4o vs Gemini 1.5 Pro](/claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026/).
+
+Lees ook onze uitgebreide vergelijking: [Gemini in Workspace vs Copilot voor Microsoft 365 vs Notion AI 2026](/gemini-workspace-vs-copilot-365-vs-notion-ai-2026/).
+
 ## FAQ
 
 **Wat is het grootste voordeel van AI in cursusontwikkeling?**

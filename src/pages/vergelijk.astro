@@ -4,82 +4,132 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 
-// Group by category and pick top rated
-const categories = ['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie', 'ontwikkeling'];
-const categoryLabels: Record<string, string> = {
-  productiviteit: 'Productiviteit',
-  marketing: 'Marketing',
-  creatie: 'Creatie',
-  development: 'Development',
-  business: 'Business',
-  technologie: 'Technologie & Security',
-  ontwikkeling: 'App & Low-Code Ontwikkeling'
+// Get all comparison articles (those with "vs" in the slug or title)
+const comparisonArticles = allArticles.filter(a =>
+  a.slug.includes('-vs-') || a.slug.includes('-versus-') || a.slug.includes('vergelijking')
+);
+
+// Cluster by category
+const comparisonClusters: Record<string, { label: string; articles: any[] }> = {
+  'chatbots-ai': {
+    label: 'Chatbots & AI Assistants',
+    articles: []
+  },
+  'creatie': {
+    label: 'Creatie & Design',
+    articles: []
+  },
+  'video-audio': {
+    label: 'Video & Audio',
+    articles: []
+  },
+  'development': {
+    label: 'Development & Code',
+    articles: []
+  },
+  'marketing': {
+    label: 'Marketing & Sales',
+    articles: []
+  },
+  'productiviteit': {
+    label: 'Productiviteit & Werk',
+    articles: []
+  },
+  'business-tools': {
+    label: 'Business Tools',
+    articles: []
+  },
 };
 
-const topPicks = categories.map(cat => {
-  const catArticles = allArticles.filter(a => a.data.category === cat);
-  if (catArticles.length === 0) return null;
-  const sorted = catArticles.sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0));
-  return {
-    category: cat,
-    label: categoryLabels[cat] || cat,
-    tops: sorted.slice(0, 5).map(a => ({
-      title: a.data.title,
-      slug: a.slug,
-      featured: a.data.featuredTool || 'Top tool',
-      rating: a.data.rating,
-      priceRange: a.data.priceRange,
-      url: `/${a.data.slug}/`
-    }))
-  };
-}).filter(Boolean);
+const clusterMap: Record<string, string> = {
+  'chatgpt-vs-gemini-vs-claude-nederlands-2026': 'chatbots-ai',
+  'perplexity-vs-chatgpt-vs-claude-2026': 'chatbots-ai',
+  'claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026': 'chatbots-ai',
+  'midjourney-vs-dall-e-3-vs-stable-diffusion-2026': 'creatie',
+  'canva-vs-adobe-express-vs-figma-ai-2026': 'creatie',
+  'photoshop-ai-vs-affinity-photo-vs-luminar-neo-2026': 'creatie',
+  'framer-ai-vs-webflow-vs-wix-studio-2026': 'creatie',
+  'luma-vs-kling-vs-runway-2026': 'video-audio',
+  'synthesia-vs-heygen-vs-colossyan-2026': 'video-audio',
+  'elevenlabs-vs-murf-ai-vs-play-ht-2026': 'video-audio',
+  'descript-vs-podcastle-vs-alitu-2026': 'video-audio',
+  'claude-code-vs-cursor-vs-windsurf-2026': 'development',
+  'github-copilot-vs-cursor-vs-codeium-2026': 'development',
+  'bolt-new-vs-v0-dev-vs-lovable-2026': 'development',
+  'jasper-vs-copy-ai-vs-writesonic-vs-rytr-2026': 'marketing',
+  'surferseo-vs-clearscope-vs-marketmuse-2026': 'marketing',
+  'klaviyo-vs-mailchimp-vs-brevo-2026': 'marketing',
+  'grammarly-vs-prowritingaid-vs-languagetool-2026': 'marketing',
+  'hubspot-vs-salesforce-vs-pipedrive-ai-crm-2026': 'marketing',
+  'deepl-vs-google-translate-vs-chatgpt-2026': 'marketing',
+  'miro-vs-figjam-vs-mural-2026': 'productiviteit',
+  'notion-ai-vs-clickup-ai-vs-monday-ai-2026': 'productiviteit',
+  'gemini-workspace-vs-copilot-365-vs-notion-ai-2026': 'productiviteit',
+  'zapier-central-vs-make-ai-vs-relevance-ai-2026': 'productiviteit',
+  'otter-ai-vs-fireflies-vs-fathom-2026': 'productiviteit',
+  'gamma-vs-beautiful-ai-vs-tome-2026': 'productiviteit',
+  'todoist-vs-ticktick-vs-things-2026': 'productiviteit',
+  'obsidian-vs-notion-vs-roam-research-2026': 'productiviteit',
+  'calendly-vs-cal-com-vs-doodle-2026': 'business-tools',
+};
+
+for (const article of comparisonArticles) {
+  const clusterKey = clusterMap[article.slug] || article.data.category || 'productiviteit';
+  if (comparisonClusters[clusterKey]) {
+    comparisonClusters[clusterKey].articles.push(article);
+  }
+}
+
+// Remove empty clusters
+const activeClusters = Object.entries(comparisonClusters)
+  .filter(([_, cluster]) => cluster.articles.length > 0)
+  .sort((a, b) => b[1].articles.length - a[1].articles.length);
+
+const totalComparisons = activeClusters.reduce((sum, [_, c]) => sum + c.articles.length, 0);
 ---
 
 <BaseLayout
-  title="Vergelijk: Beste AI Tools 2026 — Overzichtstabel alle categorieën"
-  description="Eén overzichtstabel met de beste AI tools voor productiviteit, marketing, creatie, development, business en security. Cross-category vergelijking voor Nederlandse ondernemers in 2026."
+  title="AI Tools Vergelijken 2026: Vergelijkingspagina's per Categorie"
+  description={`Vergelijk ${totalComparisons} AI tools in 2026. Diepgaande vergelijkingen met prijzen, scores en praktische aanbevelingen voor Nederlandse gebruikers.`}
 >
   <div class="max-w-6xl mx-auto px-4 py-12">
-    <h1 class="text-4xl font-serif font-semibold mb-4">Vergelijk de beste AI tools 2026</h1>
-    <p class="text-lg text-muted mb-8">Overzicht van top picks per categorie. Klik door voor volledige vergelijkingen, reviews en prijsinformatie.</p>
+    <h1 class="text-4xl font-serif font-semibold mb-3">AI Tools Vergelijken 2026</h1>
+    <p class="text-lg text-muted mb-8">
+      {totalComparisons} diepgaande AI tool vergelijkingen met prijzen, scores en concrete aanbevelingen.<br/>
+      Kies de juiste AI tool door deze objectieve Nederlandstalige reviews naast elkaar te lezen.
+    </p>
 
-    {topPicks.map(group => (
-      <section class="mb-12">
-        <h2 class="text-2xl font-semibold mb-4 border-b pb-2">{group.label}</h2>
-        <div class="overflow-x-auto">
-          <table class="min-w-full border border-[#e8e1d7] text-sm">
-            <thead>
-              <tr class="bg-[#f8f5f0]">
-                <th class="p-3 text-left">Artikel / Gids</th>
-                <th class="p-3 text-left">Top Tool</th>
-                <th class="p-3 text-left">Rating</th>
-                <th class="p-3 text-left">Prijsrange</th>
-                <th class="p-3 text-left">Bekijk</th>
-              </tr>
-            </thead>
-            <tbody>
-              {group.tops.map((pick, idx) => (
-                <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
-                  <td class="p-3 font-medium"><a href={pick.url} class="text-leaf hover:underline">{pick.title}</a></td>
-                  <td class="p-3 text-muted">{pick.featured}</td>
-                  <td class="p-3">⭐ {pick.rating}</td>
-                  <td class="p-3">{pick.priceRange}</td>
-                  <td class="p-3"><a href={pick.url} class="inline-block px-3 py-1 bg-leaf text-white rounded text-xs hover:bg-[#1d4ed8]">Vergelijk →</a></td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+    {activeClusters.map(([key, cluster]) => (
+      <section class="mb-10">
+        <h2 class="text-2xl font-semibold mb-4 border-b pb-2">{cluster.label} ({cluster.articles.length})</h2>
+        <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {cluster.articles.sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0)).map(article => (
+            <a href={`/${article.slug}/`} class="block rounded border border-[#e2e5f0] bg-paper p-4 shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
+              <div class="flex items-start gap-2">
+                <span class="text-yellow-500 text-sm mt-0.5 shrink-0">⭐ {article.data.rating}</span>
+                <div class="min-w-0">
+                  <p class="font-medium text-sm leading-snug line-clamp-2">{article.data.title}</p>
+                  <p class="text-xs text-muted mt-1">{article.data.priceRange}</p>
+                </div>
+              </div>
+            </a>
+          ))}
         </div>
-        <p class="mt-2 text-xs text-muted">
-          <a href={`/categorie/${group.category}/`} class="underline">Bekijk alle {group.label.toLowerCase()}-tools →</a>
-           — {group.tops.length} van {allArticles.filter(a => a.data.category === group.category).length} artikelen getoond
-        </p>
       </section>
     ))}
 
-    <div class="mt-8 p-6 bg-[#f8f5f0] rounded">
-      <h3 class="font-semibold mb-2">Waarom deze vergelijkingstabel?</h3>
-      <p class="text-sm text-muted">Nederlandse ondernemers besparen tijd met dit cross-category overzicht. Interne links naar productiviteits-, marketing-, creatie-, development- en business tools verbeteren SEO en session time. Elk gelinkt artikel bevat diepgaande reviews met prijsinformatie, plus- en minpunten, en een FAQ-sectie.</p>
+    <div class="mt-10 p-6 bg-[#f8f5f0] rounded">
+      <h3 class="font-semibold mb-2">Ook per categorie bekijken</h3>
+      <p class="text-sm text-muted mb-4">
+        Alle {allArticles.length} artikelen inclusief individuele tool reviews per categorie:
+      </p>
+      <div class="flex flex-wrap gap-2">
+        {['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie', 'ontwikkeling'].map(cat => (
+          <a href={`/categorie/${cat}/`} class="px-3 py-1.5 bg-white border border-[#e2e5f0] rounded text-sm hover:bg-[#f0f4ff] transition">
+            {cat.charAt(0).toUpperCase() + cat.slice(1)} →
+          </a>
+        ))}
+      </div>
     </div>
   </div>
 </BaseLayout>

@@ -126,6 +126,12 @@ Voor instellingen die al werken met Magister, is het uitbreiden met Magister AI 
 
 De AI-revolutie in het onderwijs is onvermijdelijk en biedt ongekende mogelijkheden. De hier besproken tools vertegenwoordigen de voorhoede van deze ontwikkeling voor het Nederlandse onderwijs in 2026. Door slimme implementatie kunnen onderwijsinstellingen de leerervaring van studenten significant verbeteren, docenten ontlasten en de kwaliteit van onderwijs naar een hoger niveau tillen. De keuze hangt af van de specifieke behoeften van de instelling, waarbij adaptief leren, plagiaatdetectie en integratie met bestaande systemen belangrijke overwegingen zijn.
 
+Zie ook onze directe vergelijking: [Otter.ai vs Fireflies.ai vs Fathom 2026](/otter-ai-vs-fireflies-vs-fathom-2026/).
+
+Twijfel je tussen opties? Vergelijk ze in [Todoist vs TickTick vs Things 3 2026](/todoist-vs-ticktick-vs-things-2026/).
+
+Verdiep je in de verschillen: [Gamma vs Beautiful.ai vs Tome 2026](/gamma-vs-beautiful-ai-vs-tome-2026/).
+
 ## FAQ
 
 V: Hoe zit het met de AVG-compliance van deze tools?
