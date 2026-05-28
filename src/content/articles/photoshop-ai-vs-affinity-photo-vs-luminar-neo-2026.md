@@ -179,3 +179,13 @@ Luminar Neo is veruit het makkelijkst — je krijgt direct resultaat zonder hand
 
 **Werken deze tools met RAW-bestanden?**
 Ja, alle drie (Photoshop, Affinity Photo, Luminar Neo) ondersteunen RAW. DxO PhotoLab is echter de onbetwiste koning van RAW-bewerking — als je veel in RAW schiet, is dat een serieuze optie om naast je hoofdtool te gebruiken.
+
+---
+
+### Gerelateerde AI tool vergelijkingen
+
+- [Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken](/beste-ai-image-generators-2026/)
+- [Beste AI Tools voor Fotografen 2026: Top 7 AI Tools voor Beeldbewerking en](/beste-ai-tools-fotografen-2026/)
+
+*Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*
+
