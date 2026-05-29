@@ -33,7 +33,7 @@ tools:
   rating: 4.6
   affiliateLink: https://workspace.google.com/solutions/ai/?ref=aitoolsnl
 - name: Notion AI
-  verdict: Beste AI in een notitie-app: schrijft, vat samen, vertaalt en automatiseert
+  verdict: 'Beste AI in een notitie-app: schrijft, vat samen, vertaalt en automatiseert'
   priceRange: EUR 0-10/mnd (add-on)
   bestFor: Kennismanagement
   rating: 4.5
@@ -51,7 +51,7 @@ tools:
   rating: 4.4
   affiliateLink: https://clickup.com/ai?ref=aitoolsnl
 - name: Confluence AI (Atlassian)
-  verdict: AI voor je complete Atlassian stack: Jira issues, Confluence docs, Bitbucket PRs
+  verdict: 'AI voor je complete Atlassian stack: Jira issues, Confluence docs, Bitbucket PRs'
   priceRange: EUR 0-10/mnd
   bestFor: Atlassian teams
   rating: 4.2

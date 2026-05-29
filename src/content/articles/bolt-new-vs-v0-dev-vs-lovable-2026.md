@@ -2,7 +2,7 @@
 title: 'Bolt.new vs v0.dev vs Lovable 2026: de beste AI app builders voor niet-developers'
 slug: bolt-new-vs-v0-dev-vs-lovable-2026
 description: 'Vergelijk Bolt.new, v0.dev en Lovable in 2026: welke AI tool bouwt de beste apps zonder code? Complete koopgids met prijzen en use cases.'
-category: ontwikkeling
+category: development
 rating: 4.5
 priceRange: EUR 0-50/mnd
 pros:

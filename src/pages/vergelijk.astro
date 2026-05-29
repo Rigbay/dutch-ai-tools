@@ -5,9 +5,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 
 // Get all comparison articles (those with "vs" in the slug or title)
-const comparisonArticles = allArticles.filter(a =>
-  a.slug.includes('-vs-') || a.slug.includes('-versus-') || a.slug.includes('vergelijking')
-);
+const comparisonArticles = allArticles.filter(a => {
+  const s = a.data?.slug || a.id || '';
+  return s && (s.includes('-vs-') || s.includes('-versus-') || s.includes('vergelijking'));
+});
 
 // Cluster by category
 const comparisonClusters: Record<string, { label: string; articles: any[] }> = {
@@ -71,10 +72,14 @@ const clusterMap: Record<string, string> = {
   'todoist-vs-ticktick-vs-things-2026': 'productiviteit',
   'obsidian-vs-notion-vs-roam-research-2026': 'productiviteit',
   'calendly-vs-cal-com-vs-doodle-2026': 'business-tools',
+  'trello-vs-asana-vs-monday-2026': 'productiviteit',
+  'slack-vs-teams-vs-discord-2026': 'productiviteit',
+  'typeform-vs-jotform-vs-google-forms-2026': 'business-tools',
 };
 
 for (const article of comparisonArticles) {
-  const clusterKey = clusterMap[article.slug] || article.data.category || 'productiviteit';
+  const slug = article.data?.slug || article.id || '';
+  const clusterKey = (clusterMap[slug] || article.data?.category || 'productiviteit');
   if (comparisonClusters[clusterKey]) {
     comparisonClusters[clusterKey].articles.push(article);
   }
@@ -103,13 +108,13 @@ const totalComparisons = activeClusters.reduce((sum, [_, c]) => sum + c.articles
       <section class="mb-10">
         <h2 class="text-2xl font-semibold mb-4 border-b pb-2">{cluster.label} ({cluster.articles.length})</h2>
         <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {cluster.articles.sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0)).map(article => (
+          {cluster.articles.sort((a, b) => ((b.data?.rating || 0) - (a.data?.rating || 0))).map(article => (
             <a href={`/${article.slug}/`} class="block rounded border border-[#e2e5f0] bg-paper p-4 shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
               <div class="flex items-start gap-2">
-                <span class="text-yellow-500 text-sm mt-0.5 shrink-0">⭐ {article.data.rating}</span>
+                <span class="text-yellow-500 text-sm mt-0.5 shrink-0">⭐ {article.data?.rating || '—'}</span>
                 <div class="min-w-0">
-                  <p class="font-medium text-sm leading-snug line-clamp-2">{article.data.title}</p>
-                  <p class="text-xs text-muted mt-1">{article.data.priceRange}</p>
+                  <p class="font-medium text-sm leading-snug line-clamp-2">{article.data?.title || article.slug}</p>
+                  <p class="text-xs text-muted mt-1">{article.data?.priceRange || ''}</p>
                 </div>
               </div>
             </a>
@@ -124,7 +129,7 @@ const totalComparisons = activeClusters.reduce((sum, [_, c]) => sum + c.articles
         Alle {allArticles.length} artikelen inclusief individuele tool reviews per categorie:
       </p>
       <div class="flex flex-wrap gap-2">
-        {['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie', 'ontwikkeling'].map(cat => (
+        {['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie'].map(cat => (
           <a href={`/categorie/${cat}/`} class="px-3 py-1.5 bg-white border border-[#e2e5f0] rounded text-sm hover:bg-[#f0f4ff] transition">
             {cat.charAt(0).toUpperCase() + cat.slice(1)} →
           </a>

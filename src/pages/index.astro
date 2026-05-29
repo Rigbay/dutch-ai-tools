@@ -43,7 +43,7 @@ const categories = [
           </div>
           <div class="flex items-center justify-between gap-4 border-b border-[#e8edf8] pb-3">
             <dt class="text-muted">Vergelijkingen</dt>
-            <dd class="font-bold text-leaf">{articles.filter(a => a.slug.includes('-vs-') || a.slug.includes('-versus-')).length}</dd>
+            <dd class="font-bold text-leaf">{articles.filter(a => (a.data?.slug || a.id || '').includes('-vs-')).length}</dd>
           </div>
           <div class="flex items-center justify-between gap-4">
             <dt class="text-muted">Focus</dt>
@@ -86,7 +86,7 @@ const categories = [
     </div>
     <div class="mt-5 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
       {articles
-        .filter(a => a.slug.includes('-vs-') || a.slug.includes('-versus-'))
+        .filter(a => (a.data?.slug || a.id || '').includes('-vs-'))
         .sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0))
         .slice(0, 9)
         .map(article => (
@@ -97,7 +97,7 @@ const categories = [
       ))}
     </div>
     <p class="mt-4 text-sm">
-      <a href="/vergelijk/" class="text-leaf hover:underline font-medium">Bekijk alle {articles.filter(a => a.slug.includes('-vs-') || a.slug.includes('-versus-')).length} vergelijkingen →</a>
+      <a href="/vergelijk/" class="text-leaf hover:underline font-medium">Bekijk alle {articles.filter(a => (a.data?.slug || a.id || '').includes('-vs-')).length} vergelijkingen →</a>
     </p>
   </section>
 
