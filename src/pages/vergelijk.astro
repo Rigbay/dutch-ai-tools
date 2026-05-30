@@ -4,42 +4,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 
-// Get all comparison articles (those with "vs" in the slug or title)
 const comparisonArticles = allArticles.filter(a => {
   const s = a.data?.slug || a.id || '';
-  return s && (s.includes('-vs-') || s.includes('-versus-') || s.includes('vergelijking'));
+  return s && (s.includes('-vs-') || s.includes('-versus-'));
 });
 
-// Cluster by category
-const comparisonClusters: Record<string, { label: string; articles: any[] }> = {
-  'chatbots-ai': {
-    label: 'Chatbots & AI Assistants',
-    articles: []
-  },
-  'creatie': {
-    label: 'Creatie & Design',
-    articles: []
-  },
-  'video-audio': {
-    label: 'Video & Audio',
-    articles: []
-  },
-  'development': {
-    label: 'Development & Code',
-    articles: []
-  },
-  'marketing': {
-    label: 'Marketing & Sales',
-    articles: []
-  },
-  'productiviteit': {
-    label: 'Productiviteit & Werk',
-    articles: []
-  },
-  'business-tools': {
-    label: 'Business Tools',
-    articles: []
-  },
+type Cluster = { label: string; articles: any[] };
+const clusters: Record<string, Cluster> = {
+  'chatbots-ai': { label: 'Chatbots & AI Assistants', articles: [] },
+  'creatie': { label: 'Creatie & Design', articles: [] },
+  'video-audio': { label: 'Video & Audio', articles: [] },
+  'development': { label: 'Development & Code', articles: [] },
+  'marketing': { label: 'Marketing & Sales', articles: [] },
+  'productiviteit': { label: 'Productiviteit & Werk', articles: [] },
+  'business-tools': { label: 'Business Tools', articles: [] },
 };
 
 const clusterMap: Record<string, string> = {
@@ -49,6 +27,7 @@ const clusterMap: Record<string, string> = {
   'midjourney-vs-dall-e-3-vs-stable-diffusion-2026': 'creatie',
   'canva-vs-adobe-express-vs-figma-ai-2026': 'creatie',
   'photoshop-ai-vs-affinity-photo-vs-luminar-neo-2026': 'creatie',
+  'figma-vs-sketch-vs-adobe-xd-2026': 'creatie',
   'framer-ai-vs-webflow-vs-wix-studio-2026': 'creatie',
   'luma-vs-kling-vs-runway-2026': 'video-audio',
   'synthesia-vs-heygen-vs-colossyan-2026': 'video-audio',
@@ -58,88 +37,71 @@ const clusterMap: Record<string, string> = {
   'github-copilot-vs-cursor-vs-codeium-2026': 'development',
   'bolt-new-vs-v0-dev-vs-lovable-2026': 'development',
   'jasper-vs-copy-ai-vs-writesonic-vs-rytr-2026': 'marketing',
-  'surferseo-vs-clearscope-vs-marketmuse-2026': 'marketing',
-  'klaviyo-vs-mailchimp-vs-brevo-2026': 'marketing',
-  'grammarly-vs-prowritingaid-vs-languagetool-2026': 'marketing',
   'hubspot-vs-salesforce-vs-pipedrive-ai-crm-2026': 'marketing',
-  'deepl-vs-google-translate-vs-chatgpt-2026': 'marketing',
-  'miro-vs-figjam-vs-mural-2026': 'productiviteit',
-  'notion-ai-vs-clickup-ai-vs-monday-ai-2026': 'productiviteit',
-  'gemini-workspace-vs-copilot-365-vs-notion-ai-2026': 'productiviteit',
-  'zapier-central-vs-make-ai-vs-relevance-ai-2026': 'productiviteit',
+  'klaviyo-vs-mailchimp-vs-brevo-2026': 'marketing',
   'otter-ai-vs-fireflies-vs-fathom-2026': 'productiviteit',
-  'gamma-vs-beautiful-ai-vs-tome-2026': 'productiviteit',
-  'todoist-vs-ticktick-vs-things-2026': 'productiviteit',
-  'obsidian-vs-notion-vs-roam-research-2026': 'productiviteit',
-  'calendly-vs-cal-com-vs-doodle-2026': 'business-tools',
-  'trello-vs-asana-vs-monday-2026': 'productiviteit',
   'slack-vs-teams-vs-discord-2026': 'productiviteit',
-  'typeform-vs-jotform-vs-google-forms-2026': 'business-tools',
-  'shopify-vs-woocommerce-vs-wix-ecommerce-2026': 'business-tools',
-  'stripe-vs-mollie-vs-adyen-2026': 'business-tools',
-  'airtable-vs-google-sheets-vs-notion-databases-2026': 'productiviteit',
   'zoom-vs-google-meet-vs-teams-2026': 'productiviteit',
-  'figma-vs-sketch-vs-adobe-xd-2026': 'creatie',
+  'calendly-vs-cal-com-vs-doodle-2026': 'productiviteit',
+  'todoist-vs-ticktick-vs-things-2026': 'productiviteit',
+  'trello-vs-asana-vs-monday-2026': 'productiviteit',
+  'notion-ai-vs-clickup-ai-vs-monday-ai-2026': 'business-tools',
+  'obsidian-vs-notion-vs-roam-research-2026': 'business-tools',
 };
 
 for (const article of comparisonArticles) {
-  const slug = article.data?.slug || article.id || '';
-  const clusterKey = (clusterMap[slug] || article.data?.category || 'productiviteit');
-  if (comparisonClusters[clusterKey]) {
-    comparisonClusters[clusterKey].articles.push(article);
-  }
+  const cluster = clusterMap[article.data.slug] || 'business-tools';
+  clusters[cluster].articles.push(article);
 }
-
-// Remove empty clusters
-const activeClusters = Object.entries(comparisonClusters)
-  .filter(([_, cluster]) => cluster.articles.length > 0)
-  .sort((a, b) => b[1].articles.length - a[1].articles.length);
-
-const totalComparisons = activeClusters.reduce((sum, [_, c]) => sum + c.articles.length, 0);
 ---
 
 <BaseLayout
-  title="AI Tools Vergelijken 2026: Vergelijkingspagina's per Categorie"
-  description={`Vergelijk ${totalComparisons} AI tools in 2026. Diepgaande vergelijkingen met prijzen, scores en praktische aanbevelingen voor Nederlandse gebruikers.`}
+  title="Alle AI Tool Vergelijkingen 2026"
+  description="Complete verzameling van nuchtere AI-tool vergelijkingen op één plek: chatbots, creatie, development, marketing, productiviteit en meer."
 >
-  <div class="max-w-6xl mx-auto px-4 py-12">
-    <h1 class="text-4xl font-serif font-semibold mb-3">AI Tools Vergelijken 2026</h1>
-    <p class="text-lg text-muted mb-8">
-      {totalComparisons} diepgaande AI tool vergelijkingen met prijzen, scores en concrete aanbevelingen.<br/>
-      Kies de juiste AI tool door deze objectieve Nederlandstalige reviews naast elkaar te lezen.
-    </p>
+  <section class="border-b border-[#e8eced] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Vergelijkingen</p>
+      <h1 class="mt-3 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Alle AI-tool vergelijkingen op één plek.
+      </h1>
+      <p class="mt-4 max-w-2xl text-lg leading-8 text-muted">
+        Kies eerst het type, daarna het winnende gereedschap. Elke vergelijking legt verschil, prijs, gebruik en verborgen nadelen bloot in eenvoudig Nederlands.
+      </p>
+    </div>
+  </section>
 
-    {activeClusters.map(([key, cluster]) => (
-      <section class="mb-10">
-        <h2 class="text-2xl font-semibold mb-4 border-b pb-2">{cluster.label} ({cluster.articles.length})</h2>
-        <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {cluster.articles.sort((a, b) => ((b.data?.rating || 0) - (a.data?.rating || 0))).map(article => (
-            <a href={`/${article.slug}/`} class="block rounded border border-[#e2e5f0] bg-paper p-4 shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
-              <div class="flex items-start gap-2">
-                <span class="text-yellow-500 text-sm mt-0.5 shrink-0">⭐ {article.data?.rating || '—'}</span>
-                <div class="min-w-0">
-                  <p class="font-medium text-sm leading-snug line-clamp-2">{article.data?.title || article.slug}</p>
-                  <p class="text-xs text-muted mt-1">{article.data?.priceRange || ''}</p>
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="grid gap-10">
+      {
+        Object.entries(clusters)
+          .filter(([, cluster]) => cluster.articles.length > 0)
+          .map(([key, cluster]) => (
+            <div>
+              <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+                <div>
+                  <p class="text-sm font-bold uppercase tracking-[0.16em] text-muted">{cluster.label}</p>
+                  <h2 class="font-serif text-2xl font-semibold text-ink">{cluster.label}</h2>
                 </div>
               </div>
-            </a>
-          ))}
-        </div>
-      </section>
-    ))}
-
-    <div class="mt-10 p-6 bg-[#f8f5f0] rounded">
-      <h3 class="font-semibold mb-2">Ook per categorie bekijken</h3>
-      <p class="text-sm text-muted mb-4">
-        Alle {allArticles.length} artikelen inclusief individuele tool reviews per categorie:
-      </p>
-      <div class="flex flex-wrap gap-2">
-        {['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie'].map(cat => (
-          <a href={`/categorie/${cat}/`} class="px-3 py-1.5 bg-white border border-[#e2e5f0] rounded text-sm hover:bg-[#f0f4ff] transition">
-            {cat.charAt(0).toUpperCase() + cat.slice(1)} →
-          </a>
-        ))}
-      </div>
+              <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {cluster.articles.map(a => (
+                  <article class="flex h-full flex-col rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+                    <div class="flex items-center justify-between gap-3 text-xs font-bold uppercase tracking-[0.14em] text-muted">
+                      <span>Vergelijking</span>
+                      <span>{a.data.date?.toString().slice(0, 4) || '2026'}</span>
+                    </div>
+                    <h3 class="mt-4 font-serif text-xl font-semibold leading-tight text-ink">
+                      <a href={`/${a.data.slug}/`} class="hover:text-leaf">{a.data.title} </a>
+                    </h3>
+                    <p class="mt-3 text-sm leading-6 text-muted">{a.data.description}</p>
+                    <a href={`/${a.data.slug}/`} class="mt-5 inline-flex w-fit rounded bg-leaf px-4 py-2 text-sm font-bold text-white transition hover:bg-[#1f514b]">Lees vergelijking</a>
+                  </article>
+                ))}
+              </div>
+            </div>
+          ))
+      }
     </div>
-  </div>
+  </section>
 </BaseLayout>
