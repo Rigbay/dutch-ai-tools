@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Video Generators 2026: Sora vs Runway vs Kling vs Luma voor Nederlandse Marketers'
 slug: beste-ai-video-generators-nederland-2026
-description: Vergelijk de beste AI video generators van 2026 voor Nederlandse marketers en content creators: Sora, Runway, Kling en Luma. Prijs, features, NL-toepassingen en affiliate links.
+description: 'Vergelijk de beste AI video generators van 2026 voor Nederlandse marketers en content creators: Sora, Runway, Kling en Luma. Prijs, features, NL-toepassingen en affiliate links.'
 category: creatie
 rating: 4.6
 priceRange: EUR 0-240/mnd
@@ -14,7 +14,7 @@ cons:
 - Gratis tiers hebben harde limieten
 - Kwaliteit hangt sterk af van prompt-vaardigheid
 affiliateLinks:
-  - https://www.taskade.com/?via=aitoolsnl
+- https://www.taskade.com/?via=aitoolsnl
   - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-31'
 modelYear: 2026
@@ -57,6 +57,7 @@ faq:
   a: Alle genoemde tools (Sora, Runway, Kling, Luma) bieden betaalde abonnementen met commerciële licenties. Controleer altijd de servicevoorwaarden per tool, vooral bij gebruik voor klantenwerk.
 - q: Is mijn Nederlandstalige audio geschikt voor AI video generation?
   a: De meeste AI video generators focust nog primair op video-beelden. Voor NL-audio combineer je een videogenerator met een stemgenerator zoals ElevenLabs of PlayHT. Runway heeft ook text-to-speech integraties.
+---
 ---
 
 # Beste AI Video Generators 2026 voor Nederlandse Marketers

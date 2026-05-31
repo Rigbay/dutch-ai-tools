@@ -1,7 +1,7 @@
 ---
 title: 'Nieuwe AI Meeting Assistants 2026: Granola vs Fireflies vs Otter vs Fathom Vergeleken'
 slug: nieuwe-ai-meeting-assistants-2026
-description: Nieuwe en verbeterde AI meeting assistants in 2026: Granola, Fireflies, Otter en Fathom. Vergelijk notuleren, transcriptie, actiepunten en prijs voor Nederlandse teams.
+description: 'Nieuwe en verbeterde AI meeting assistants in 2026: Granola, Fireflies, Otter en Fathom. Vergelijk notuleren, transcriptie, actiepunten en prijs voor Nederlandse teams.'
 category: productiviteit
 rating: 4.6
 priceRange: EUR 0-50/mnd
@@ -14,7 +14,7 @@ cons:
 - Gratis tiers zijn voor zakelijk gebruik vaak onvoldoende
 - Integraties verschillen per gebruiksscenario
 affiliateLinks:
-  - https://www.taskade.com/?via=aitoolsnl
+- https://www.taskade.com/?via=aitoolsnl
   - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-31'
 modelYear: 2026
@@ -57,6 +57,7 @@ faq:
   a: Fireflies, Granola en Fathom bieden EU-serveropties of DPA's aan. Otter verwerkt voornamelijk in de VS. Kies een tool met een ondertekende DPA als je persoonlijke of klantgegevens verwerkt.
 - q: Wat blijft als je geen bot in de meeting wilt?
   a: Granola is het enige van deze vier dat geen bot in de meeting plaatst. Je neemt gewoon op via je laptop/telefoon en Granola vat het bijeen en deeld direct notities, actiepunten en transcripten met je team.
+---
 ---
 
 # Nieuwe AI Meeting Assistants 2026: Granola vs Fireflies vs Otter vs Fathom

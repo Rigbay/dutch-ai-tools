@@ -1,7 +1,7 @@
 ---
 title: 'Nieuwe AI Automation Tools voor Ondernemers 2026: n8n vs Make AI vs Zapier vs Relevance AI vs AgentMail'
 slug: nieuwe-ai-automation-tools-ondernemers-2026
-description: Vergelijk de nieuwe generatie AI automation tools voor Nederlandse ondernemers: n8n, Make AI, Zapier, Relevance AI en AgentMail. Werkflows, prijs, gebruikelijkheid en affiliate links.
+description: 'Vergelijk de nieuwe generatie AI automation tools voor Nederlandse ondernemers: n8n, Make AI, Zapier, Relevance AI en AgentMail. Werkflows, prijs, gebruikelijkheid en affiliate links.'
 category: business
 rating: 4.7
 priceRange: EUR 0-300/mnd
@@ -14,7 +14,7 @@ cons:
 - Enterprise tools hebben hondereuroprijzen
 - Learn-curves verschillen sterk per platform
 affiliateLinks:
-  - https://www.taskade.com/?via=aitoolsnl
+- https://www.taskade.com/?via=aitoolsnl
   - https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-31'
 modelYear: 2026
@@ -63,6 +63,7 @@ faq:
   a: Ja. N8n en Make kunnen onder andere automatisch facturen verwerken, klantvragen routeren, boekhoudkundige gegevens doorgeven aan Exact of Twinfield, en e-mailcampagnes triggeren op basis van Salesforce of HubSpot-gegevens. Zorg wel altijd voor een persoonlijke controle bij wettelijk verplichte processen.
 - q: Wat is het verschil tussen een automation tool en een AI agent platform?
   a: Automation tools (n8n, Make, Zapier) voeren vooraf bepaalde stappen uit. Een AI agent (Zapier Central, Relevance AI) kan zelfstandig beslissingen nemen en eisen analyseren zonder dat je elk pad vooraf hoeft te programmeren. Voor een ZZP die simpele processen wil automatiseren is een klassieke automation tool voldoende. Voor complexe bedrijfsprocessen met veel variabelen is een AI agent vaak efficiënter.
+---
 ---
 
 # Nieuwe AI Automation Tools voor Ondernemers 2026

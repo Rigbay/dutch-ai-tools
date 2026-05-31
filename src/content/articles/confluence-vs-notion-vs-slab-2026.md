@@ -19,7 +19,7 @@ affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
 tools:
 - name: Notion
-  verdict: Meest veelzijdig: wiki, projectmanagement en databases in één met sterke AI
+  verdict: 'Meest veelzijdig: wiki, projectmanagement en databases in één met sterke AI'
   priceRange: EUR 0-12/mnd
   bestFor: Startups en creatieve teams
   rating: 4.7
