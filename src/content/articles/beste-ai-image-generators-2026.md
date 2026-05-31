@@ -196,7 +196,7 @@ De AI-beeldgeneratie-technologie staat niet stil. Wat vandaag indrukwekkend is, 
 
 ## Lees ook
 
-- ["AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"](/ai-stemgeneratie-2026/)
+- [AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools](/ai-stemgeneratie-2026/)
 - [AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken](/ai-video-generatie-tools-2026/)
 - [Beste AI Muziek & Audio Tools 2026: Suno vs ElevenLabs vs AIVA vergeleken](/beste-ai-muziek-audio-tools-2026/)
 

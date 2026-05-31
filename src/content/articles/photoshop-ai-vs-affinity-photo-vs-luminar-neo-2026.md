@@ -76,6 +76,12 @@ faq:
   a: Adobe Photoshop en Canva hebben volledige Nederlandse interfaces. Affinity Photo en Luminar Neo zijn Engelstalig maar intuïtief te gebruiken.
 ---
 
+## Lees ook
+
+- [AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools](/ai-stemgeneratie-2026/)
+- [AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken](/ai-video-generatie-tools-2026/)
+- [Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken](/beste-ai-image-generators-2026/)
+
 ## Introductie: AI maakt van iedereen een fotograaf
 
 Fotobewerking is in vijf jaar tijd totaal veranderd. Waar je in 2021 nog uren bezig was met het maskeren van een lucht, het retoucheren van een portret of het weghalen van storende objecten, doet AI dat nu in één klik. En het resultaat is vaak beter dan wat een mens kan.

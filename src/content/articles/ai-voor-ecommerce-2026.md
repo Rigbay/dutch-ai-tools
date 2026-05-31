@@ -92,5 +92,5 @@ Voor Nederlandse e-commerce ondernemers is een combinatie van Jasper AI voor con
 ## Lees ook
 
 - [AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?](/ai-tools-mkb-starten-2026/)
-- ["AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence"](/ai-voor-data-analyse-2026/)
+- [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
 - [Beste AI Sales Tools 2026: Apollo vs Lemlist vs Clay vergeleken](/beste-ai-sales-tools-2026/)

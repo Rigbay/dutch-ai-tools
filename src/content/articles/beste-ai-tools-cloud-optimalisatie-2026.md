@@ -220,4 +220,4 @@ Verdiep je verder in AI tools:
 
 - [Beste AI Tools voor Cybersecurity 2026: top 7 beveiligings-AI vergeleken](/beste-ai-tools-cybersecurity-2026/)
 - [Beste AI Tools voor Data Privacy & AVG Compliance 2026: top 7 vergeleken](/beste-ai-tools-data-privacy-avg-2026/)
-- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
+- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)

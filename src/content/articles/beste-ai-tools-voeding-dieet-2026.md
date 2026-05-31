@@ -254,6 +254,6 @@ Ons advies is om te beginnen met de gratis proefversies die de meeste van deze t
 
 Verdiep je verder in AI tools:
 
-- ["AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"](/ai-voor-studenten-2026/)
+- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
 - [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
-- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
+- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)

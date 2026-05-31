@@ -76,6 +76,12 @@ faq:
   a: Ja, Todoist en Microsoft To Do hebben Nederlandse interfaces. TickTick en Things 3 zijn Engelstalig maar ondersteunen Nederlandse data en spraakinvoer.
 ---
 
+## Lees ook
+
+- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
+- [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
+
 ## Introductie: de juiste taken-app vinden in 2026
 
 Er zijn twee soorten mensen: zij die hun takenlijst in hun hoofd bewaren, en zij die al vier verschillende apps hebben geprobeerd en nog steeds niet tevreden zijn. Als je dit leest, ben je waarschijnlijk het tweede type.

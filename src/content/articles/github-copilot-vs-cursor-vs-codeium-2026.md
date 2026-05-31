@@ -141,6 +141,6 @@ De markt voor AI-ontwikkeltools is volwassen geworden, met een breed scala aan o
 
 Verdiep je verder in AI tools:
 
-- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
+- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)
 - [Beste AI Tools voor API Ontwikkeling & Integratie 2026: top 7 vergeleken](/beste-ai-tools-api-ontwikkeling-2026/)
-- ["AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"](/ai-stemgeneratie-2026/)
+- [AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools](/ai-stemgeneratie-2026/)

@@ -147,6 +147,6 @@ Hieronder volgt een analyse van de sterke en zwakke punten van elke chatbot, rek
 
 ## Lees ook
 
-- ["AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"](/ai-voor-studenten-2026/)
+- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
 - [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
 - [Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken](/beste-ai-meeting-transcriptie-tools-2026/)

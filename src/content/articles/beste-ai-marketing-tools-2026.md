@@ -194,7 +194,7 @@ De sleutel tot succes ligt in het begrijpen van je eigen behoeften en het kiezen
 ## Lees ook
 
 - [AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren](/ai-tools-marketing-teams-2026/)
-- ["AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking"](/ai-voor-seo-2026/)
+- [AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking](/ai-voor-seo-2026/)
 - [Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken](/beste-ai-copywriting-tools-2026/)
 
 ## Veelgestelde Vragen (FAQ)

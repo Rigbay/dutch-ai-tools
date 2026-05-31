@@ -230,6 +230,6 @@ Het belangrijkste is om niet overweldigd te raken. Je hoeft niet alles tegelijk 
 
 ## Lees ook
 
-- ["AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence"](/ai-voor-data-analyse-2026/)
-- ["AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie"](/ai-voor-ecommerce-2026/)
+- [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
+- [AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie](/ai-voor-ecommerce-2026/)
 - [Beste AI Sales Tools 2026: Apollo vs Lemlist vs Clay vergeleken](/beste-ai-sales-tools-2026/)

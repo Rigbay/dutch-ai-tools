@@ -169,6 +169,6 @@ De concurrentie tussen AI presentatie tools is moordend, en elke tool probeert z
 
 ## Lees ook
 
-- ["AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"](/ai-voor-studenten-2026/)
+- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
 - [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
 - [Beste AI Chatbots 2026: ChatGPT vs Gemini vs Claude vs Perplexity](/beste-ai-chatbots-2026/)

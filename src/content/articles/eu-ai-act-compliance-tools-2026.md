@@ -199,8 +199,8 @@ Hieronder volgt een overzicht van zeven AI-tools die Nederlandse bedrijven kunne
 ## Lees ook
 
 - [AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?](/ai-tools-mkb-starten-2026/)
-- ["AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence"](/ai-voor-data-analyse-2026/)
-- ["AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie"](/ai-voor-ecommerce-2026/)
+- [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
+- [AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie](/ai-voor-ecommerce-2026/)
 
 ## Veelgestelde Vragen over de EU AI Act en Compliance
 

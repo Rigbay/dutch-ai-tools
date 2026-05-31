@@ -76,6 +76,12 @@ faq:
   a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig maar begrijpt Nederlandse prompts.
 ---
 
+## Lees ook
+
+- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
+- [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
+
 ## Introductie: AI is je nieuwe collega op de werkvloer
 
 In 2026 vraag je niet meer "zou AI nuttig kunnen zijn op mijn werk?" — je vraagt "welke AI-assistent past bij mijn workflow?". De AI-revolutie is doorgedrongen tot de tools die je elke dag gebruikt: je mail, je documenten, je spreadsheets en je notities.

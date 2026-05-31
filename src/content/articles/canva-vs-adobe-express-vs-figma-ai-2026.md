@@ -163,6 +163,6 @@ De mooiste ontwikkeling van 2026: je bent geen designer meer of niet. Je bent ie
 
 ## Lees ook
 
-- ["AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"](/ai-stemgeneratie-2026/)
+- [AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools](/ai-stemgeneratie-2026/)
 - [AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken](/ai-video-generatie-tools-2026/)
 - [Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken](/beste-ai-image-generators-2026/)

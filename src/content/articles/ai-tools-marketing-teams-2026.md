@@ -222,7 +222,7 @@ De data uit 2026 is overweldigend: AI is geen optie meer, maar een integraal ond
 
 ## Lees ook
 
-- ["AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking"](/ai-voor-seo-2026/)
+- [AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking](/ai-voor-seo-2026/)
 - [Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken](/beste-ai-copywriting-tools-2026/)
 - [Beste AI Marketing Tools 2026: vergelijk de top 7 marketing AI](/beste-ai-marketing-tools-2026/)
 

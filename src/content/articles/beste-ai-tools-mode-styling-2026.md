@@ -247,6 +247,6 @@ Ja, absoluut! Hoewel de tools in deze lijst zich voornamelijk richten op B2B (on
 
 Verdiep je verder in AI tools:
 
-- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
-- ["AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"](/ai-stemgeneratie-2026/)
+- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)
+- [AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools](/ai-stemgeneratie-2026/)
 - [AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren](/ai-tools-marketing-teams-2026/)

@@ -52,6 +52,12 @@ faq:
     a: "Figma Professional is €12/editor/maand. Sketch kost €10/maand (Mac only). Adobe XD is inbegrepen bij Creative Cloud (€60/maand voor alle apps) apps) of €12/maand los."
 ---
 
+## Lees ook
+
+- [AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools](/ai-stemgeneratie-2026/)
+- [AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken](/ai-video-generatie-tools-2026/)
+- [Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken](/beste-ai-image-generators-2026/)
+
 # Figma vs Sketch vs Adobe XD 2026: De Grote Confrontatie om UI/UX Dominant
 Dominantie
 

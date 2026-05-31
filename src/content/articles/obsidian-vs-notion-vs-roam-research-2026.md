@@ -53,6 +53,12 @@ faq:
   a: Beperkt. Notion werkt het beste met internetverbinding. Offline pagina's worden lokaal opgeslagen maar synchroniseren pas bij reconnectie. Obsidian werkt volledig offline (bestanden op je eigen harde schijf) en Roam Research is 100% cloud-afhankelijk.
 ---
 
+## Lees ook
+
+- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
+- [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
+
 # Obsidian vs Notion vs Roam Research 2026: Welke AI Kennisbeheer Tool Past bij Jouw Brein?
 
 ## Inleiding: De opkomst van kennisbeheer met AI

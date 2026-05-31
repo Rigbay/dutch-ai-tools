@@ -136,5 +136,5 @@ Deze diepgaande analyse duikt in zeven toonaangevende AI-tools die in 2026 essen
 Verdiep je verder in AI tools:
 
 - [AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?](/ai-tools-mkb-starten-2026/)
-- ["AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence"](/ai-voor-data-analyse-2026/)
-- ["AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen"](/ai-beeldherkenning-2026/)
+- [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
+- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)
