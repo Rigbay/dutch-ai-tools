@@ -64,9 +64,9 @@ tools:
   rating: 4.3
   affiliateLink: https://www.langflow.org/?ref=aitoolsnl
 related:
-- beste-ai-video-tools-2026
-- beste-ai-tools-non-profits-goede-doelen-2026
-- beste-ai-sales-tools-2026
+- beste-ai-tools-programmeren-2026
+- beste-ai-tools-lowcode-nocode-2026
+- n8n-vs-make-vs-zapier-2026
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?

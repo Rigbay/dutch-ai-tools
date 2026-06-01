@@ -40,9 +40,9 @@ tools:
   rating: 4.2
   affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
 related:
-- beste-ai-tools-wetenschappelijk-onderzoek-2026
-- beste-ai-tools-studenten-2026
-- notion-ai-review-nederlands-2026
+- notion-vs-obsidian-vs-logseq-2026
+- ai-voor-studenten-2026
+- beste-ai-tools-content-creators-2026
 draft: false
 faq:
 - q: Welke tool is het beste voor academisch onderzoek?

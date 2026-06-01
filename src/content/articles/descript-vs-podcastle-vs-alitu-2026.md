@@ -39,9 +39,9 @@ tools:
   rating: 4.2
   affiliateLink: https://www.notion.so
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+- beste-ai-tools-podcasters-2026
+- beste-ai-tools-youtube-videomakers-2026
+- beste-ai-tools-muziekproductie-2026
 faq:
 - q: Welke podcast tool werkt het beste voor Nederlandstalige content?
   a: Descript heeft de beste Nederlandse transcriptie (via DeepL-integratie). Podcastle ondersteunt Nederlands voor transcriptie maar AI-stemmen zijn Engels. Alitu biedt basis NL-transcriptie. Voor Nederlandstalige

@@ -65,9 +65,9 @@ tools:
   rating: 3.9
   affiliateLink: https://predis.ai/?ref=aitoolsnl
 related:
-- ai-voor-seo-2026
 - beste-ai-tools-email-marketing-2026
-- ai-tools-marketing-teams-2026
+- beste-ai-tools-youtube-videomakers-2026
+- beste-ai-tools-webdesign-websites-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor marketing in 2026?

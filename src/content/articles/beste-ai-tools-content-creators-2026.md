@@ -65,9 +65,9 @@ tools:
   rating: 4.2
   affiliateLink: https://runwayml.com/?ref=aitoolsnl
 related:
-- beste-ai-video-tools-2026
-- midjourney-vs-dall-e-3-vs-stable-diffusion-2026
-- beste-ai-tools-architecten-bouwkunde-2026
+- beste-ai-tools-podcasters-2026
+- beste-ai-tools-youtube-videomakers-2026
+- beste-ai-tools-content-creators-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor creatie in 2026?

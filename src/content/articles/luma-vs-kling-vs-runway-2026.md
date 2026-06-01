@@ -63,9 +63,9 @@ tools:
   rating: 4.3
   affiliateLink: https://kaiber.ai/?ref=aitoolsnl
 related:
-- beste-ai-tools-apotheek-farmacie-2026
-- ai-voor-seo-2026
-- beste-ai-tools-studenten-2026
+- beste-ai-tools-youtube-videomakers-2026
+- ai-video-generatie-tools-2026
+- beste-ai-image-generators-2026
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
