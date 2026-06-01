@@ -24,9 +24,9 @@ affiliateLinks:
 - https://alitu.com/?ref=aitoolsnl
 - https://podcast.adobe.com/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
+- beste-ai-research-academische-tools-2026
+- beste-ai-3d-modellering-tools-2026
 - ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Descript

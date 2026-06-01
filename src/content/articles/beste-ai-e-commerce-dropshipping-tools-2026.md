@@ -24,8 +24,8 @@ affiliateLinks:
 - https://www.nichescraper.com/?ref=aitoolsnl
 - https://www.salehoo.com/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
+- beste-ai-interieur-ontwerp-tools-2026
+- beste-ai-podcast-productie-tools-2026
 - ai-tools-marketing-teams-2026
 date: '2026-06-01'
 modelYear: 2026

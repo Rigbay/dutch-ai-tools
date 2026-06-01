@@ -23,9 +23,9 @@ affiliateLinks:
 - https://www.decormatters.com/?ref=aitoolsnl
 - https://www.hutch.com/?ref=aitoolsnl
 related:
+- beste-ai-3d-modellering-tools-2026
+- beste-ai-e-commerce-dropshipping-tools-2026
 - ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Planner 5D
