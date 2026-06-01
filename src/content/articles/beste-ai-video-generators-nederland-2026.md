@@ -7,7 +7,7 @@ rating: 4.6
 priceRange: EUR 0-240/mnd
 pros:
 - Actuele vergelijking van de 4 toonaangevende AI videogeneratoren in 2026
-- Nederlandse context: toepassingen voor reclame, social media en e-commerce
+- 'Nederlandse context: toepassingen voor reclame, social media en e-commerce'
 - Concrete prijzen in EUR en duidelijk keuzewijs per use case
 cons:
 - Tools ontwikkelen snel — features kunnen verouderd zijn
@@ -15,7 +15,7 @@ cons:
 - Kwaliteit hangt sterk af van prompt-vaardigheid
 affiliateLinks:
 - https://www.taskade.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-31'
 modelYear: 2026
 featuredTool: Runway

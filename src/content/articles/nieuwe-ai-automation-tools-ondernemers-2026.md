@@ -1,7 +1,7 @@
 ---
 title: 'Nieuwe AI Automation Tools voor Ondernemers 2026: n8n vs Make AI vs Zapier vs Relevance AI vs AgentMail'
 slug: nieuwe-ai-automation-tools-ondernemers-2026
-description: 'Vergelijk de nieuwe generatie AI automation tools voor Nederlandse ondernemers: n8n, Make AI, Zapier, Relevance AI en AgentMail. Werkflows, prijs, gebruikelijkheid en affiliate links.'
+description: 'Vergelijk de nieuwe AI automation tools voor Nederlandse ondernemers: n8n, Make AI, Zapier, Relevance AI en AgentMail. Ontdek welke tool het beste past.'
 category: business
 rating: 4.7
 priceRange: EUR 0-300/mnd

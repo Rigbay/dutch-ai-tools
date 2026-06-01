@@ -66,9 +66,7 @@ tools:
 related:
 - beste-ai-tools-lowcode-nocode-2026
 - ai-beeldherkenning-2026
-- beste-ai-tools-app-ontwikkeling-mobiel-2026
 - beste-super-ai-agents-2026
-- ai-trends-2026-nederland
 draft: false
 faq:
 - q: Wat is de beste AI tool voor development in 2026?
