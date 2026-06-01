@@ -24,9 +24,9 @@ affiliateLinks:
 - https://www.wix.com/logo/maker?ref=aitoolsnl
 - https://www.tailorbrands.com/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+- beste-ai-tools-webdesign-websites-2026
+- beste-ai-tools-grafisch-ontwerp-branding-2026
+- canva-vs-adobe-express-vs-figma-ai-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Looka

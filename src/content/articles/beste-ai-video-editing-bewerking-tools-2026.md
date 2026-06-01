@@ -24,9 +24,9 @@ affiliateLinks:
 - https://www.veed.io/?ref=aitoolsnl
 - https://filmora.wondershare.nl/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+- ai-video-generatie-tools-2026
+- beste-ai-video-generators-nederland-2026
+- beste-ai-tools-youtube-videomakers-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: CapCut (ByteDance)
