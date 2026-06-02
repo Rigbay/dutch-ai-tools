@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Content Distributie & Marketing 2026: top 7 vergeleken'
 slug: beste-ai-content-distributie-marketing-2026
-description: Vergelijk AI tools voor content distributie in 2026: DrumUp, Quuu, Agorapulse, ContentStudio, CoSchedule AI, Post Planner en MeetEdgar AI.
+description: 'Vergelijk AI tools voor content distributie in 2026: DrumUp, Quuu, Agorapulse, ContentStudio, CoSchedule AI, Post Planner en MeetEdgar AI.'
 category: marketing
 rating: 4.3
 priceRange: EUR 0-500/mnd

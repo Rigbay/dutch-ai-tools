@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor A/B Testing & Conversie Optimalisatie 2026: top 7 vergeleken'
 slug: beste-ai-ab-testing-conversie-optimalisatie-2026
-description: Vergelijk de beste AI A/B testing & CRO tools van 2026: VWO, Google Optimize, Optimizely, Hotjar AI, Convert, AB Tasty en MoreConvert.
+description: 'Vergelijk de beste AI A/B testing & CRO tools van 2026: VWO, Google Optimize, Optimizely, Hotjar AI, Convert, AB Tasty en MoreConvert.'
 category: marketing
 rating: 4.3
 priceRange: EUR 0-500/mnd
