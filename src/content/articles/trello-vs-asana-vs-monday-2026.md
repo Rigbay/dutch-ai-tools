@@ -15,7 +15,7 @@ cons:
 - AI-features zitten vaak in duurdere tiers
 - Migreren tussen tools is tijdrovend
 affiliateLinks:
-- https://www.notion.so
+- https://monday.com/?ref=aitoolsnl
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Monday.com
@@ -26,7 +26,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Middelgrote tot grote teams
   rating: 4.7
-  affiliateLink: https://www.notion.so
+  affiliateLink: https://monday.com/?ref=aitoolsnl
 - name: Asana
   verdict: Sterkste AI-workflow engine — slimme taaktoewijzing en deadline-voorspelling
   priceRange: EUR 0-25/mnd

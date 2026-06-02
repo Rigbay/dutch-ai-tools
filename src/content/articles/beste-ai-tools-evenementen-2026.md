@@ -16,6 +16,7 @@ cons:
 - Sommige AI features zijn nog in actieve ontwikkeling
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://monday.com/?ref=aitoolsnl  # Monday.com
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Cvent AI

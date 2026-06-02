@@ -16,6 +16,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
+  - https://monday.com/?ref=aitoolsnl  # Monday.com
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Notion AI

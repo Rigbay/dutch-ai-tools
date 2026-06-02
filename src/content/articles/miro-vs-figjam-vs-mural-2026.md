@@ -15,6 +15,7 @@ cons:
 - Exporteerbaarheid is niet altijd perfect
 affiliateLinks:
   - https://www.notion.so
+  - https://monday.com/?ref=aitoolsnl  # Monday.com
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Miro

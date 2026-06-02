@@ -16,6 +16,7 @@ cons:
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
   - https://www.notion.so
+  - https://monday.com/?ref=aitoolsnl  # Monday.com
 date: 2026-05-26
 modelYear: 2026
 featuredTool: Notion
