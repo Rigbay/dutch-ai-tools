@@ -23,9 +23,9 @@ affiliateLinks:
 - https://www.grammarly.com/?ref=aitoolsnl
 - https://www.notion.so/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - beste-ai-tools-docenten-2026
+  - beste-ai-tools-e-learning-cursusontwikkeling-2026
+  - ai-voor-studenten-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Khan Academy (Khanmigo)

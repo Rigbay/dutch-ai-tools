@@ -51,9 +51,9 @@ tools:
     rating: 4.0
     affiliateLink: https://rytr.me/?ref=aitoolsnl
 related:
-- beste-ai-seo-tools-2026
-- beste-ai-marketing-tools-2026
-- beste-ai-tools-social-media-2026
+  - beste-ai-tools-google-ads-sea-advertenties-2026
+  - beste-ai-marketing-tools-2026
+  - beste-ai-tools-social-media-2026
 draft: false
 faq:
   - q: Welke AI copywriter is het beste voor Nederlands?

@@ -25,9 +25,9 @@ affiliateLinks:
 - https://packpoint.app/?ref=aitoolsnl
 - https://www.roamaround.io/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - ai-voor-studenten-2026
+  - beste-ai-tools-wearables-2026
+  - beste-ai-tools-automotive-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Google Travel (Gemini)

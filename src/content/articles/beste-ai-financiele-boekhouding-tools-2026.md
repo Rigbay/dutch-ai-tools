@@ -25,9 +25,9 @@ affiliateLinks:
 - https://www.xero.com/nl/?ref=aitoolsnl
 - https://quickbooks.intuit.com/nl/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - beste-ai-tools-ecommerce-2026
+  - beste-ai-tools-boekhouders-accountants-2026
+  - beste-ai-tools-kleine-ondernemers-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Exact Online
