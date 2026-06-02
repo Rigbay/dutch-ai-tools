@@ -14,7 +14,7 @@ cons:
   - Zoom gratis heeft 40-min limiet op groepsgesprekken
   - Google Meet AI alleen in Workspace Business/Enterprise
 affiliateLinks:
-  - https://www.notion.so
+  - https://zoom.us
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Microsoft Teams
@@ -25,19 +25,19 @@ tools:
     priceRange: "EUR 0-13/mnd"
     bestFor: "Microsoft 365 gebruikers & grote organisaties"
     rating: 4.7
-    affiliateLink: "https://www.notion.so"
+    affiliateLink: "https://www.microsoft.com/microsoft-teams/group-chat-software"
   - name: "Zoom"
     verdict: "Sterkste AI Companion — realtime vertaling, slimme highlights highlights en break-out rooms"
     priceRange: "EUR 0-15/mnd"
     bestFor: "Webinars, trainingen & klantgesprekken"
     rating: 4.5
-    affiliateLink: "https://www.notion.so"
+    affiliateLink: "https://zoom.us"
   - name: "Google Meet"
     verdict: "Eenvoudigste en snelste — Gemini AI notities, perfect voor Google Workspace teams"
     priceRange: "EUR 0-12/mnd"
     bestFor: "Google Workspace teams & snel ad-hoc overleg"
     rating: 4.4
-    affiliateLink: "https://www.notion.so"
+    affiliateLink: "https://meet.google.com"
 related:
   - beste-ai-tools-ecommerce-2026
   - beste-ai-tools-mkb-starten-2026

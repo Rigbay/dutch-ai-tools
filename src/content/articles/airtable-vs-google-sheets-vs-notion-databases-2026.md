@@ -14,7 +14,7 @@ cons:
   - Google Sheets AI vereist Google Workspace abonnement
   - Notion Databases missen echte relationele koppelingen
 affiliateLinks:
-  - https://www.notion.so
+  - https://airtable.com
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Airtable
@@ -25,13 +25,13 @@ tools:
     priceRange: "EUR 0-25/mnd"
     bestFor: "Data-intensieve teams & automatisering"
     rating: 4.6
-    affiliateLink: "https://www.notion.so"
+    affiliateLink: "https://airtable.com"
   - name: "Google Sheets"
     verdict: "Beste vertrouwde spreadsheet met Gemini AI — breedste integra integraties en gratis voor basisgebruik"
     priceRange: "EUR 0-12/mnd"
     bestFor: "Iedereen die spreadsheets kent"
     rating: 4.3
-    affiliateLink: "https://www.notion.so"
+    affiliateLink: "https://workspace.google.com/products/sheets/"
   - name: "Notion Databases"
     verdict: "Meest flexibele all-in-one — databases gecombineerd met docs en projectmanagement"
     priceRange: "EUR 0-15/mnd"
