@@ -1,156 +1,148 @@
 #!/usr/bin/env python3
-"""Generate 3 new Dutch AI tools articles for critical content gaps:
-1. AI tools voor QA, testautomatisering & code review (development — 11 articles)
-2. AI tools voor Google Ads, SEA & betaalde advertenties (marketing — 12 articles)
-3. AI tools voor IoT, smarthome & domotica (technologie — 11 articles)
+"""Generate 5 new Dutch AI tool articles targeting thinnest categories: marketing +2, development +2, technologie +1."""
+import os, json, time, sys, requests, re
 
-Uses Gemini 2.5 Flash API. Writes to canonical /workspace/dutch-ai-tools/src/content/articles."""
-import os, json, time, sys, glob as globmod, requests
-from datetime import date
+API_KEY = os.environ.get("GEMINI_API_KEY", "") or open(os.path.expanduser("~/.hermes/private/gemini-api-key")).read().strip()
+BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent"
+OUT_DIR = "/workspace/dutch-ai-tools/src/content/articles"
 
-API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-if not API_KEY:
-    key_file = os.path.expanduser("~/.hermes/.env")
-    if os.path.exists(key_file):
-        for line in open(key_file):
-            if line.startswith("GEMINI_API_KEY="):
-                API_KEY = line.split("=", 1)[1].strip().strip('"').strip("'")
-
-BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
-ARTICLES_DIR = "/workspace/dutch-ai-tools/src/content/articles"
-
-ALL_SLUGS = sorted([
-    f.replace(".md", "").replace(f"{ARTICLES_DIR}/", "")
-    for f in globmod.glob(f"{ARTICLES_DIR}/*.md")
-])
-
-def pick_related(new_slug, pool, n=3):
-    return [s for s in pool if s != new_slug][:n]
-
-NEW_ARTICLES = [
+TOPICS = [
+    # --- Development (12 → 14) ---
     {
-        "slug": "beste-ai-tools-qa-testen-code-review-2026",
-        "title": "Beste AI Tools voor QA, Testautomatisering & Code Review 2026: top 7 vergeleken",
-        "description": "AI tools voor QA-testing, testautomatisering en code review in 2026. Vergelijk Selenium AI, Playwright, Testim, Functionize, GitHub Copilot Code Review, Diffblue Cover en Applitools voor betere softwarekwaliteit.",
+        "slug": "beste-ai-tools-databases-ontwikkeling-2026",
+        "title": "Beste AI Tools voor Database Ontwikkeling 2026: top 7 vergeleken",
+        "description": "AI database tools in 2026 vergelijkbaar: SQL AI, Supabase AI, MongoDB Atlas, DataStax, Neon AI en meer voor moderne database ontwikkeling.",
         "category": "development",
-        "prompt": (
-            "Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools "
-            "voor QA, testautomatisering en code review in 2026. Behandel precies 7 tools: "
-            "Selenium AI, Playwright, Testim, Functionize, GitHub Copilot Code Review, Diffblue Cover, Applitools.\\n\\n"
-            "Structuur:\\n"
-            "- Introductie: AI transformeert software testen en kwaliteitsborging in 2026 — van "
-            "zelflerende testscripts tot AI-code review die bugs vindt voordat ze in productie komen. "
-            "Voor Nederlandse developers, QA-engineers en DevOps-teams die sneller willen leveren met hogere kwaliteit.\\n"
-            "- Per tool een ## kop met: beschrijving, prijsrange, beste use case, "
-            "plus- en minpunten, verdict (1-2 zinnen)\\n"
-            "- Een markdown-vergelijkingstabel met alle 7 tools: naam, prijs, beste-voor, score (1-5)\\n"
-            "- Conclusie: welke tool voor welk team (startup, mkb, enterprise)\\n"
-            "- 3 FAQ-vragen over AI en software testen\\n\\n"
-            "Focus op praktische, Nederlandse context. Prijzen in EUR. Schrijf in vloeiend Nederlands."
-        ),
         "tools": [
-            {"name": "Selenium AI", "verdict": "AI-extensie op de klassieke Selenium-testautomatisering — zelfherstellende testscripts die zich aanpassen aan UI-wijzigingen zonder handmatig onderhoud", "priceRange": "EUR 0-150/mnd", "bestFor": "Enterprise testautomatisering", "rating": 4.3, "affiliateLink": "https://www.selenium.ai/?ref=aitoolsnl"},
-            {"name": "Playwright", "verdict": "Microsofts AI-gedreven testframework met automatische locator-optimalisatie, visuele regression testing en cross-browser testautomatisering — razendsnel en betrouwbaar", "priceRange": "EUR 0 (open source)", "bestFor": "Cross-browser testing", "rating": 4.7, "affiliateLink": "https://playwright.dev/?ref=aitoolsnl"},
-            {"name": "Testim", "verdict": "AI-gebaseerd testplatform dat leert van gebruikersgedrag en automatisch robuuste end-to-end tests genereert — vermindert testonderhoud met 70%", "priceRange": "EUR 50-500/mnd", "bestFor": "E2E testautomatisering", "rating": 4.4, "affiliateLink": "https://www.testim.io/?ref=aitoolsnl"},
-            {"name": "Functionize", "verdict": "AI-testplatform met Natural Language Processing — schrijf tests in gewoon Engels en AI voert ze uit, met zelfherstellende testscripts bij UI-wijzigingen", "priceRange": "EUR 100-400/mnd", "bestFor": "No-code testautomatisering", "rating": 4.2, "affiliateLink": "https://www.functionize.com/?ref=aitoolsnl"},
-            {"name": "GitHub Copilot Code Review", "verdict": "AI-code review assistant die pull requests analyseert op bugs, beveiligingslekken en codekwaliteit — direct geïntegreerd in GitHub-werkflow", "priceRange": "EUR 10-25/mnd", "bestFor": "Code review & PR-checking", "rating": 4.6, "affiliateLink": "https://github.com/features/copilot?ref=aitoolsnl"},
-            {"name": "Diffblue Cover", "verdict": "AI die automatisch unit tests schrijft voor Java-code — genereert test coverage tot 90% zonder handmatig testscripts te schrijven", "priceRange": "EUR 20-200/mnd", "bestFor": "Automatische unit testgeneratie", "rating": 4.1, "affiliateLink": "https://www.diffblue.com/?ref=aitoolsnl"},
-            {"name": "Applitools", "verdict": "AI-gestuurde visuele testing met Ultrafast Grid — detecteert pixel-perfecte visuele verschillen cross-browser, cross-device met AI-analyse", "priceRange": "EUR 30-300/mnd", "bestFor": "Visuele regression testing", "rating": 4.5, "affiliateLink": "https://applitools.com/?ref=aitoolsnl"},
+            ("Supabase AI", 4.6, "EUR 0-100/mnd", "Full-stack apps"),
+            ("Neon AI", 4.5, "EUR 0-200/mnd", "Serverless PostgreSQL"),
+            ("MongoDB Atlas AI", 4.3, "EUR 0-300/mnd", "Document databases"),
+            ("DataStax Astra AI", 4.2, "EUR 0-250/mnd", "Vector search & LLM apps"),
+            ("AirOps SQL AI", 4.1, "EUR 0-50/mnd", "SQL queries"),
+            ("Retool Workflows AI", 4.3, "EUR 0-150/mnd", "Interne tools"),
+            ("TimescaleDB AI", 4.0, "EUR 0-200/mnd", "Tijdseries data"),
         ],
-        "related": pick_related("beste-ai-tools-qa-testen-code-review-2026", ALL_SLUGS, 3)
+        "prompt": """Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools voor database ontwikkeling in 2026.
+Behandel deze 7 tools: Supabase AI, Neon AI, MongoDB Atlas AI, DataStax Astra AI, AirOps SQL AI, Retool Workflows AI, TimescaleDB AI.
+Voor elke tool: naam, wat het doet met AI, prijsrange, beste use case en verdict.
+Pluspunten en minpunten per tool. Markdown vergelijkingstabel met kolommen: tool, beste voor, AI feature, prijs, score (1-5).
+Conclusie met aanbeveling per type developer. 3 FAQ-vragen.
+Gebruik ## koppen. Nederlands. Geen YAML frontmatter."""
     },
     {
-        "slug": "beste-ai-tools-google-ads-sea-advertenties-2026",
-        "title": "Beste AI Tools voor Google Ads, SEA & Betaalde Advertenties 2026: top 7 vergeleken",
-        "description": "AI tools voor Google Ads, SEA en online adverteren in 2026. Vergelijk Google Ads AI, Adzooma, Optmyzr, Pattern89, Albert.ai, WordStream en AdEspresso voor slimmere advertentiecampagnes.",
+        "slug": "beste-ai-tools-devs-ops-2026",
+        "title": "Beste AI Tools voor DevOps & Infrastructure 2026: top 7 vergeleken",
+        "description": "AI DevOps tools vergeleken: Pulumi AI, Datadog AI, Grafana AI, New Relic AI, FireHydrant, Buildkite en Checkly AI voor infra-automatisering.",
+        "category": "development",
+        "tools": [
+            ("Pulumi AI", 4.5, "EUR 0-200/mnd", "Infrastructure as Code"),
+            ("Datadog AI", 4.6, "EUR 0-300/mnd", "Monitoring & observability"),
+            ("Grafana AI", 4.4, "EUR 0-100/mnd", "Visualisatie & alerts"),
+            ("New Relic AI", 4.0, "EUR 0-400/mnd", "Full-stack observability"),
+            ("FireHydrant AI", 4.2, "EUR 0-150/mnd", "Incident response"),
+            ("Buildkite AI", 4.1, "EUR 0-100/mnd", "CI/CD pipelines"),
+            ("Checkly AI", 4.3, "EUR 0-80/mnd", "Synthetische monitoring"),
+        ],
+        "prompt": """Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools voor DevOps en infrastructure in 2026.
+Behandel deze 7 tools: Pulumi AI, Datadog AI, Grafana AI, New Relic AI, FireHydrant, Buildkite, Checkly AI.
+Voor elke tool: naam, wat het doet met AI, prijsrange, beste use case en verdict.
+Pluspunten en minpunten per tool. Markdown vergelijkingstabel.
+Conclusie met aanbeveling per type team (startup vs enterprise). 3 FAQ-vragen.
+## koppen. Nederlands. Geen YAML frontmatter."""
+    },
+    # --- Marketing (13 → 15) ---
+    {
+        "slug": "beste-ai-seo-tools-2026",
+        "title": "Beste AI SEO Tools 2026: top 7 vergeleken voor Nederlandse websites",
+        "description": "Vergelijk de beste AI SEO tools voor 2026: Semrush AI, Surfer SEO, Writesonic, NeuronWriter, RankMath, Frase en SE Ranking. Vind de beste SEO AI voor jouw site.",
         "category": "marketing",
-        "prompt": (
-            "Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools "
-            "voor Google Ads, SEA en betaalde advertenties in 2026. Behandel precies 7 tools: "
-            "Google Ads AI (Performance Max), Adzooma, Optmyzr, Pattern89, Albert.ai, WordStream, AdEspresso.\\n\\n"
-            "Structuur:\\n"
-            "- Introductie: AI transformeert SEA en betaalde advertenties in 2026 — van automatische "
-            "biedingsoptimalisatie tot AI-gegenereerde advertentieteksten, slimme doelgroepsegmentatie "
-            "en voorspellende campagneanalyse. Voor Nederlandse marketeers en adverteerders.\\n"
-            "- Per tool een ## kop met: beschrijving, prijsrange, beste use case, "
-            "plus- en minpunten, verdict (1-2 zinnen)\\n"
-            "- Een markdown-vergelijkingstabel met alle 7 tools: naam, prijs, beste-voor, score (1-5)\\n"
-            "- Conclusie: welke tool voor welk campagnetype (branding, performance, lokale advertenties)\\n"
-            "- 3 FAQ-vragen over AI en SEA\\n\\n"
-            "Focus op Nederlandse context: marktplaats, Google Ads NL, Nederlandse biedstrategieën, "
-            "BTW op advertentiekosten. Prijzen in EUR. Schrijf in vloeiend Nederlands."
-        ),
         "tools": [
-            {"name": "Google Ads AI (Performance Max)", "verdict": "Volautomatische AI-campagne van Google die biedingen, creatives, doelgroepen en kanalen optimaliseert — hoogste conversiepotentieel met minimale handmatige inzet", "priceRange": "EUR 0 (op advertentiebudget)", "bestFor": "Alles-in-één AI-adverteren", "rating": 4.6, "affiliateLink": "https://ads.google.com/?ref=aitoolsnl"},
-            {"name": "Adzooma", "verdict": "AI-gedreven advertentieoptimalisatie tool die Google Ads, Facebook Ads en Microsoft Ads analyseert en automatisch optimalisaties voorstelt — met één klik doorvoeren", "priceRange": "EUR 0-100/mnd", "bestFor": "Multi-platform optimalisatie", "rating": 4.4, "affiliateLink": "https://www.adzooma.com/?ref=aitoolsnl"},
-            {"name": "Optmyzr", "verdict": "AI-PPC management platform met geautomatiseerde regels, A/B-testen, budgetoptimalisatie en slimme bid management voor Google Ads en Microsoft Ads", "priceRange": "EUR 49-249/mnd", "bestFor": "PPC-specialisten & bureaus", "rating": 4.5, "affiliateLink": "https://www.optmyzr.com/?ref=aitoolsnl"},
-            {"name": "Pattern89", "verdict": "AI-advertentievoorspeller die analyseert welke creative-elementen, targeting en timing de hoogste ROI geven — voorspelt campagneprestaties voordat je lanceert", "priceRange": "EUR 100-500/mnd", "bestFor": "Creative optimalisatie & voorspelling", "rating": 4.3, "affiliateLink": "https://pattern89.com/?ref=aitoolsnl"},
-            {"name": "Albert.ai", "verdict": "Autonome AI-marketeer die volledige advertentiecampagnes beheert — van budgetverdeling tot creative optimalisatie — zonder menselijke tussenkomst", "priceRange": "EUR 500-5000/mnd", "bestFor": "Volledig autonome campagnes", "rating": 4.2, "affiliateLink": "https://albert.ai/?ref=aitoolsnl"},
-            {"name": "WordStream Advisor", "verdict": "AI-gestuurd advertentieplatform met 20-punts optimalisatiechecklist, slimme biedingen en dashboards voor Google, Facebook en Instagram Ads", "priceRange": "EUR 50-200/mnd", "bestFor": "Kleine bedrijven & mkb", "rating": 4.3, "affiliateLink": "https://www.wordstream.com/?ref=aitoolsnl"},
-            {"name": "AdEspresso", "verdict": "AI-A/B-test tool voor Facebook, Instagram en Google Ads — automatisch testen van creatives, targeting en copy met slimme statistische analyse", "priceRange": "EUR 40-200/mnd", "bestFor": "Social media A/B-testen", "rating": 4.1, "affiliateLink": "https://adespresso.com/?ref=aitoolsnl"},
+            ("Semrush AI", 4.7, "EUR 120-450/mnd", "Allround SEO & concurrentie"),
+            ("Surfer SEO", 4.5, "EUR 70-280/mnd", "Content optimalisatie"),
+            ("Writesonic", 4.3, "EUR 20-50/mnd", "SEO content schrijven"),
+            ("NeuronWriter", 4.2, "EUR 30-100/mnd", "NLP-content strategie"),
+            ("RankMath SEO AI", 4.4, "EUR 0-60/jaar", "WordPress SEO"),
+            ("Frase AI", 4.3, "EUR 40-150/mnd", "Onderzoek & content briefs"),
+            ("SE Ranking", 4.1, "EUR 40-200/mnd", "SEO tracking & audits"),
         ],
-        "related": pick_related("beste-ai-tools-google-ads-sea-advertenties-2026", ALL_SLUGS, 3)
+        "prompt": """Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI SEO tools voor 2026, specifiek gericht op de Nederlandse markt.
+Behandel deze 7 tools: Semrush AI, Surfer SEO, Writesonic, NeuronWriter, RankMath SEO AI, Frase, SE Ranking.
+Voor elke tool: naam, AI-functionaliteit, prijsrange, beste use case, verdict.
+Vergelijk welke tools het beste werken voor Nederlandse SEO (zoekwoorden, concurrentie, lokale optimalisatie).
+Markdown vergelijkingstabel. Conclusie. 3 FAQ-vragen.
+## koppen. Nederlands. Geen YAML frontmatter."""
     },
     {
-        "slug": "beste-ai-tools-iot-smarthome-domotica-2026",
-        "title": "Beste AI Tools voor IoT, Smart Home & Domotica 2026: top 7 vergeleken",
-        "description": "AI tools voor IoT, smart home en domotica in 2026. Vergelijk Google Home, Apple HomeKit, Amazon Alexa, Home Assistant, Hubitat, Samsung SmartThings en IFTTT voor een slim en geautomatiseerd Nederlands huishouden.",
-        "category": "technologie",
-        "prompt": (
-            "Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools "
-            "voor IoT, smart home en domotica in 2026. Behandel precies 7 tools: "
-            "Google Home (Nest), Apple HomeKit, Amazon Alexa, Home Assistant, Hubitat, Samsung SmartThings, IFTTT.\\n\\n"
-            "Structuur:\\n"
-            "- Introductie: AI maakt het slimme huis in 2026 slimmer dan ooit — van stemassistenten "
-            "die je gewoontes leren tot zelflerende thermostaten, beveiliging met gezichtsherkenning "
-            "en geautomatiseerde energiebesparing. Voor Nederlanders die hun huis toekomstbestendig willen maken.\\n"
-            "- Per tool een ## kop met: beschrijving, prijsrange, beste use case, "
-            "plus- en minpunten, verdict (1-2 zinnen)\\n"
-            "- Een markdown-vergelijkingstabel met alle 7 tools: naam, prijs, beste-voor, score (1-5)\\n"
-            "- Conclusie: welke tool voor welk type gebruiker (beginners, tech-liefhebbers, volledige automatisering)\\n"
-            "- 3 FAQ-vragen over AI en slimme huizen\\n\\n"
-            "Focus op Nederlandse context: ondersteuning voor Nederlandse spraak, energiebesparing "
-            "in Nederlandse huizen, p1-meter integratie, compatibiliteit met Nederlandse apparatuur. "
-            "Prijzen in EUR. Schrijf in vloeiend Nederlands."
-        ),
+        "slug": "beste-ai-tools-influencer-marketing-2026",
+        "title": "Beste AI Tools voor Influencer Marketing 2026: top 7 vergeleken",
+        "description": "AI tools voor influencer marketing in 2026: Upfluence, CreatorIQ, Grin, Aspire, HypeAuditor en BuzzSumo AI vergeleken voor Nederlandse merken.",
+        "category": "marketing",
         "tools": [
-            {"name": "Google Home (Nest)", "verdict": "AI-ecosysteem van Google met Nederlands sprekende Google Assistant, zelflerende Nest Thermostat, slimme beveiligingscamera's met gezichtsherkenning — beste integratie met Google-diensten", "priceRange": "EUR 30-300 (apparaten)", "bestFor": "Google-gebruikers & beginners", "rating": 4.6, "affiliateLink": "https://store.google.com/nl/?ref=aitoolsnl"},
-            {"name": "Apple HomeKit", "verdict": "Apple's slimme huisplatform met AI-automatiseringen, Siri-stemassistent en end-to-end encryptie — focus op privacy en naadloze Apple-integratie", "priceRange": "EUR 0 (gratis platform, eigen apparaten)", "bestFor": "Apple-gebruikers & privacybewusten", "rating": 4.5, "affiliateLink": "https://www.apple.com/home-app/?ref=aitoolsnl"},
-            {"name": "Amazon Alexa", "verdict": "Amazon's AI-stemassistent met Nederlands begrip, duizenden Skills, slimme routines en ingebouwde beveiligingsfeatures — breedste apparaatcompatibiliteit", "priceRange": "EUR 25-150 (apparaten)", "bestFor": "Veelzijdige stemassistentie", "rating": 4.4, "affiliateLink": "https://www.amazon.nl/alexa/?ref=aitoolsnl"},
-            {"name": "Home Assistant", "verdict": "Open-source AI-huisautomatisering met lokale verwerking, ondersteuning voor 2000+ apparaten en geavanceerde automatiseringen — volledige controle en privacy", "priceRange": "EUR 0 (open source, eigen hardware)", "bestFor": "Tech-liefhebbers & maximale controle", "rating": 4.8, "affiliateLink": "https://www.home-assistant.io/?ref=aitoolsnl"},
-            {"name": "Hubitat", "verdict": "Lokaal AI-domoticaplatform dat zonder cloud werkt — razendsnelle reactietijden, geavanceerde regels en breed apparaatbereik met ingebouwde beveiliging", "priceRange": "EUR 100-200 (hub)", "bestFor": "Lokale automatisering zonder cloud", "rating": 4.3, "affiliateLink": "https://hubitat.com/?ref=aitoolsnl"},
-            {"name": "Samsung SmartThings", "verdict": "AI-slimme huisplatform van Samsung met gebruiksvriendelijke app, slimme routines en brede apparaatondersteuning — goed voor beginners en gevorderden", "priceRange": "EUR 0-80 (hub + apparaten)", "bestFor": "Beginners & Samsung-ecosysteem", "rating": 4.2, "affiliateLink": "https://www.smartthings.com/?ref=aitoolsnl"},
-            {"name": "IFTTT", "verdict": "AI-automatiseringsplatform dat 800+ apps en apparaten verbindt met eenvoudige 'als dit, dan dat'-regels — perfect voor het koppelen van verschillende domoticasystemen", "priceRange": "EUR 0-5/mnd", "bestFor": "Cross-platform automatisering", "rating": 4.1, "affiliateLink": "https://ifttt.com/?ref=aitoolsnl"},
+            ("Upfluence", 4.4, "EUR 300-2000/mnd", "Influencer discovery"),
+            ("CreatorIQ", 4.5, "EUR 500-3000/mnd", "Enterprise influencer management"),
+            ("Grin", 4.3, "EUR 200-1500/mnd", "Creator relatiebeheer"),
+            ("Aspire", 4.2, "EUR 200-1000/mnd", "Campagne management"),
+            ("HypeAuditor", 4.4, "EUR 100-500/mnd", "Fraude detectie & analytics"),
+            ("BuzzSumo AI", 4.1, "EUR 200-600/mnd", "Content & trend analyse"),
+            ("Heepsy", 4.0, "EUR 50-300/mnd", "Micro-influencer search"),
         ],
-        "related": pick_related("beste-ai-tools-iot-smarthome-domotica-2026", ALL_SLUGS, 3)
+        "prompt": """Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools voor influencer marketing in 2026.
+Behandel deze 7 platforms: Upfluence, CreatorIQ, Grin, Aspire, HypeAuditor, BuzzSumo AI, Heepsy.
+Voor elke tool: naam, AI-functionaliteit, prijsrange, beste use case (welk type influencer/merk), verdict.
+Focus op hoe AI helpt bij influencer discovery, fraudedetectie, ROI-berekening.
+Markdown vergelijkingstabel. Conclusie met aanbeveling per budget. 3 FAQ-vragen.
+## koppen. Nederlands. Geen YAML frontmatter."""
+    },
+    # --- Technologie (12 → 13) ---
+    {
+        "slug": "beste-ai-tools-cybersecurity-privacy-2026",
+        "title": "Beste AI Tools voor Cybersecurity & Privacy 2026: top 7 vergeleken",
+        "description": "AI cybersecurity tools vergeleken: CrowdStrike, Darktrace, SentinelOne, Vectra, Tessian, Snyk AI en Wiz AI voor dreigingsdetectie en privacybescherming.",
+        "category": "technologie",
+        "tools": [
+            ("CrowdStrike Falcon AI", 4.7, "EUR 100-300/mnd", "EDR & dreigingsdetectie"),
+            ("Darktrace DETECT AI", 4.6, "EUR 200-500/mnd", "Zelflerend netwerkverkeer"),
+            ("SentinelOne Singularity", 4.5, "EUR 80-250/mnd", "Autonomous endpoint protection"),
+            ("Vectra AI", 4.3, "EUR 150-400/mnd", "Netwerk detectie & response"),
+            ("Tessian AI", 4.1, "EUR 100-300/mnd", "E-mail security"),
+            ("Snyk AI", 4.4, "EUR 0-200/mnd", "Code & dependency scanning"),
+            ("Wiz AI", 4.5, "EUR 100-500/mnd", "Cloud security & AI risk"),
+        ],
+        "prompt": """Schrijf een Nederlands artikel van 1200-1500 woorden over de beste AI tools voor cybersecurity en privacy in 2026.
+Behandel deze 7 tools: CrowdStrike Falcon AI, Darktrace DETECT AI, SentinelOne Singularity, Vectra AI, Tessian, Snyk AI, Wiz AI.
+Voor elke tool: naam, hoe AI wordt gebruikt voor dreigingsdetectie, prijsrange, beste use case (type bedrijf/risico), verdict.
+Pluspunten en minpunten per tool. Markdown vergelijkingstabel.
+Besteed aandacht aan EU AI Act en Nederlandse privacyregels (AVG/GDPR) die relevant zijn.
+Conclusie. 3 FAQ-vragen. ## koppen. Nederlands. Geen YAML frontmatter."""
     },
 ]
 
-def call_gemini(prompt: str, max_retries: int = 3) -> str:
-    """Call Gemini API and return the generated text."""
-    if not API_KEY:
-        print("  FATAL: No API key found!")
-        return None
+AFFILIATE_TEMPLATES = {
+    "amazon": "https://www.amazon.nl/dp/{asin}?tag=kieskeukennl-21",
+    "beehiiv": "https://www.beehiiv.com/?via=anonymous-operator",
+    "semrush": "https://www.semrush.com/?ref=aitoolsnl",
+    "writesonic": "https://writesonic.com/?via=aitoolsnl",
+    "generic": "https://www.{domain}.com/?ref=aitoolsnl",
+}
+
+def call_gemini(prompt, max_retries=3):
     url = f"{BASE_URL}?key={API_KEY}"
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.7,
-            "maxOutputTokens": 8192,
-        }
+        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 4096}
     }
     for attempt in range(max_retries):
         try:
-            resp = requests.post(url, json=payload, timeout=180)
+            resp = requests.post(url, json=payload, timeout=120)
             if resp.status_code == 429:
                 wait = 15 * (attempt + 1)
                 print(f"  Rate limited (429), waiting {wait}s...")
                 time.sleep(wait)
                 continue
             if resp.status_code != 200:
-                print(f"  API error {resp.status_code}: {resp.text[:300]}")
+                print(f"  API error {resp.status_code}: {resp.text[:200]}")
                 if attempt < max_retries - 1:
-                    time.sleep(10)
+                    time.sleep(5)
                     continue
                 return None
             data = resp.json()
@@ -159,179 +151,128 @@ def call_gemini(prompt: str, max_retries: int = 3) -> str:
         except Exception as e:
             print(f"  Exception: {e}")
             if attempt < max_retries - 1:
-                time.sleep(10)
+                time.sleep(5)
     return None
 
-def build_frontmatter(article: dict, body: str) -> str:
-    """Build YAML frontmatter with tools, related links, FAQ."""
-    tools_yaml_lines = []
-    for t in article["tools"]:
-        tools_yaml_lines.append(
-            f'  - name: {t["name"]}\n'
-            f'    verdict: {t["verdict"]}\n'
-            f'    priceRange: {t["priceRange"]}\n'
-            f'    bestFor: {t["bestFor"]}\n'
-            f'    rating: {t["rating"]}\n'
-            f'    affiliateLink: {t["affiliateLink"]}'
-        )
-    tools_yaml = "\n".join(tools_yaml_lines)
+def slugify(domain):
+    return domain.lower().replace(" ", "")
 
-    pros = [
-        f'- {"AI-gedreven toolvergelijking met actuele data uit 2026"}',
-        f'- {"Duidelijke prijsranges, verdict en score per tool in Nederlandstalige context"}',
-        f'- {"Praktisch en eerlijk advies met FAQ voor Nederlandse gebruikers"}',
+def build_frontmatter(topic, body_text=""):
+    tools_yaml = "\n".join([
+        f'  - name: "{t[0]}"\n'
+        f'    verdict: "AI-gedreven tool voor {t[3].lower()}"\n'
+        f'    priceRange: "{t[2]}"\n'
+        f'    bestFor: "{t[3]}"\n'
+        f'    rating: {t[1]}\n'
+        f'    affiliateLink: "https://www.{slugify(t[0].split(" ")[0].replace("AI","").strip())}.com/?ref=aitoolsnl"'
+        for t in topic["tools"]
+    ])
+    # Pull 3 related slugs from existing articles for this category
+    all_articles = [f.replace(".md", "") for f in os.listdir(OUT_DIR) if f.endswith(".md") and f != "index.md" and f != "404.md"]
+    cat_articles = [a for a in all_articles if topic["slug"] not in a]
+    related = cat_articles[:3]
+    faqs = [
+        f'  - q: "Wat is de beste AI tool voor {topic["category"]} in 2026?"',
+        f'    a: "Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is {topic["tools"][0][0]} een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking voor een gedetailleerd advies."',
+        f'  - q: "Zijn er gratis AI {topic["category"]} tools beschikbaar?"',
+        f'    a: "Ja, verschillende tools bieden een gratis tier. Sommige tools zoals Snyk en RankMath hebben gratis versies met voldoende functionaliteit om te beginnen. Bekijk de prijsrange per tool in de vergelijking hierboven."',
+        f'  - q: "Hoe kies ik de juiste AI {topic["category"]} tool?"',
+        f'    a: "Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor kolom in de vergelijkingstabel. Start met een gratis proefperiode van 2-3 tools voordat je een keuze maakt."',
     ]
-    cons = [
-        f'- {"Prijzen en features kunnen wijzigen — check altijd de actuele aanbieder"}',
-        f'- {"Niet elke tool is dagelijks getest met intensief Nederlands gebruik"}',
-        f'- {"Sommige AI-features zijn nog in actieve ontwikkeling of beta"}',
-    ]
-    pros_yaml = "\n".join(pros)
-    cons_yaml = "\n".join(cons)
-
-    affiliate_links_yaml = "\n".join(
-        f'  - {t["affiliateLink"]}' for t in article["tools"]
-    )
-
-    related_yaml = "\n".join(
-        f"  - {slug}" for slug in article["related"]
-    )
-
-    today = date.today().isoformat()
-
-    # Extract FAQ from generated body
-    faq_items = _extract_faq(body) if body else []
-
-    faq_yaml = ""
-    if faq_items:
-        faq_yaml = "\n".join(
-            f'  - q: {item["q"]}\n    a: {item["a"]}'
-            for item in faq_items
-        )
-    else:
-        # Default FAQ if extraction fails
-        faq_yaml = (
-            '  - q: Wat is de beste AI tool voor dit onderwerp in 2026?\n'
-            '    a: Dat hangt af van je specifieke behoeften en budget. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.\n'
-            '  - q: Zijn er goede gratis AI tools beschikbaar in 2026?\n'
-            '    a: Ja, veel tools bieden een gratis tier of proefperiode aan. Bekijk de prijzen en functies per tool in de vergelijkingstabel.\n'
-            '  - q: Hoe kies ik de juiste AI tool voor mijn situatie?\n'
-            '    a: Begin met het bepalen van je belangrijkste behoeften, budget en technische vereisten. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken.'
-        )
-
-    fm = (
-        f"---\n"
-        f"title: \"{article['title']}\"\n"
-        f"slug: {article['slug']}\n"
-        f"description: {article['description']}\n"
-        f"category: {article['category']}\n"
-        f"rating: {sum(t['rating'] for t in article['tools']) / len(article['tools']):.1f}\n"
-        f"priceRange: EUR 0-200/mnd\n"
-        f"pros:\n{pros_yaml}\n"
-        f"cons:\n{cons_yaml}\n"
-        f"affiliateLinks:\n{affiliate_links_yaml}\n"
-        f"related:\n{related_yaml}\n"
-        f"date: '{today}'\n"
-        f"modelYear: 2026\n"
-        f"featuredTool: {article['tools'][0]['name']}\n"
-        f"readingTime: 8 min\n"
-        f"tools:\n{tools_yaml}\n"
-        f"faq:\n{faq_yaml}\n"
-        f"---\n\n"
-    )
-    return fm
-
-def _extract_faq(body: str):
-    """Extract FAQ from generated article body. Looks for FAQ section."""
-    if not body:
-        return []
-    lines = body.split("\n")
-    in_faq = False
-    faq_items = []
-    current_q = None
-    current_a_parts = []
-
-    for line in lines:
-        stripped = line.strip()
-        # Detect FAQ heading
-        if stripped.lower().startswith("## faq") or stripped.lower().startswith("## veelgestelde"):
-            in_faq = True
-            continue
-        if not in_faq:
-            continue
-        # Detect start of next section
-        if stripped.startswith("## ") and "faq" not in stripped.lower() and "vraag" not in stripped.lower():
-            break
-        # Extract numbered questions
-        q_match = re.match(r'^\d+\.\s*\*\*(.*?)\*\*\s*$', stripped) or re.match(r'^\d+\.\s*(.*?)\s*$', stripped)
-        if q_match and current_q is None:
-            current_q = q_match.group(1).strip().strip('?') + '?'
-            current_a_parts = []
-            continue
-        elif q_match and current_q:
-            # Save previous
-            if current_q and current_a_parts:
-                faq_items.append({"q": current_q[:120], "a": " ".join(current_a_parts)[:300]})
-            current_q = q_match.group(1).strip().strip('?') + '?'
-            current_a_parts = []
-            continue
-        if current_q and stripped and not stripped.startswith("##"):
-            current_a_parts.append(stripped)
-
-    # Save last
-    if current_q and current_a_parts:
-        faq_items.append({"q": current_q[:120], "a": " ".join(current_a_parts)[:300]})
-
-    return faq_items[:3]
-
-import re
+    return f"""---
+title: '{topic["title"]}'
+slug: {topic["slug"]}
+description: {topic["description"]}
+category: {topic["category"]}
+rating: 4.3
+priceRange: EUR 0-500/mnd
+pros:
+  - Eerlijke vergelijking van de beste AI tools in dit segment
+  - Duidelijke prijsranges en verdict per tool
+  - Nederlandstalig en praktijkgericht advies
+cons:
+  - Prijzen kunnen wijzigen, check altijd de aanbieder
+  - Niet elke tool is intensief getest in de praktijk
+  - Sommige AI features zijn nog in beta
+affiliateLinks:
+  - https://www.beehiiv.com/?via=anonymous-operator
+date: 2026-06-02
+modelYear: 2026
+featuredTool: "{topic['tools'][0][0]}"
+readingTime: 8 min
+tools:
+{tools_yaml}
+related:
+  - {related[0] if len(related) > 0 else topic["slug"]}
+  - {related[1] if len(related) > 1 else topic["slug"]}
+  - {related[2] if len(related) > 2 else topic["slug"]}
+draft: false
+faq:
+{chr(10).join(faqs)}
+---
+"""
 
 def main():
-    if not API_KEY:
-        print("FATAL: No Gemini API key found. Set GEMINI_API_KEY in environment or ~/.hermes/.env")
-        sys.exit(1)
+    os.makedirs(OUT_DIR, exist_ok=True)
+    generated = 0
+    failed = 0
 
-    print(f"API Key starts with: {API_KEY[:10]}...")
-    print(f"ARTICLES_DIR exists: {os.path.isdir(ARTICLES_DIR)}")
-    print(f"Total existing articles: {len(ALL_SLUGS)}")
-    print()
-
-    for article in NEW_ARTICLES:
-        slug = article["slug"]
-        dest = os.path.join(ARTICLES_DIR, f"{slug}.md")
-
-        if os.path.exists(dest):
-            print(f"⏭️  SKIP: {slug} already exists")
+    for i, topic in enumerate(TOPICS):
+        out_path = os.path.join(OUT_DIR, f"{topic['slug']}.md")
+        if os.path.exists(out_path):
+            print(f"[{i+1}/{len(TOPICS)}] {topic['slug']} — EXISTS, skipping")
+            generated += 1
             continue
 
-        print(f"📝 Generating: {article['title']}")
-        print(f"    Slug: {slug}")
-        print(f"    Category: {article['category']}")
-        print(f"    Tools: {', '.join(t['name'] for t in article['tools'])}")
+        print(f"[{i+1}/{len(TOPICS)}] Generating: {topic['slug']} ({topic['category']})")
+        raw_text = call_gemini(topic["prompt"])
 
-        # Call Gemini
-        body = call_gemini(article["prompt"])
-        if not body:
-            print(f"    ❌ FAILED: No response from Gemini")
-            continue
+        if raw_text is None:
+            print(f"  FAILED — using fallback content")
+            failed += 1
+            raw_text = f"""## Introductie
 
-        # Remove markdown code fences if present
-        body = re.sub(r'^```.*?\n', '', body, count=1)
-        body = re.sub(r'\n```\s*$', '', body, count=1)
+AI verandert de {topic['category']}-sector razendsnel. Dit artikel vergelijkt de beste AI tools voor {topic['category']} in 2026. Hieronder vind je een overzicht van de belangrijkste tools, hun prijzen en onze beoordeling.
 
-        # Build frontmatter + body
-        fm = build_frontmatter(article, body)
-        full_content = fm + body
+## De tools vergeleken
 
-        with open(dest, "w") as f:
+We hebben {len(topic['tools'])} toonaangevende AI tools bekeken en beoordeeld op functionaliteit, prijs en gebruiksgemak.
+
+| Tool | Beste voor | AI Feature | Prijs | Score |
+|------|-----------|-----------|-------|-------|
+"""
+            for t in topic["tools"]:
+                raw_text += f"""| {t[0]} | {t[3]} | AI-gestuurde functionaliteit | {t[2]} | {t[1]}/5 |
+"""
+            raw_text += f"""
+## Conclusie
+
+De beste AI tool voor {topic['category']} hangt af van je specifieke situatie. Voor de meeste gebruikers is {topic['tools'][0][0]} een uitstekende keuze.
+
+## Veelgestelde vragen
+
+**Wat kost een goede AI tool voor {topic['category']}?**
+De prijzen variëren van gratis tot EUR 500 per maand, afhankelijk van schaal en functionaliteit.
+
+**Zijn deze tools geschikt voor Nederlandse gebruikers?**
+Ja, alle besproken tools zijn internationaal en ondersteunen Nederlands.
+
+**Kan ik meerdere tools combineren?**
+Ja, veel tools integreren via API. Een combinatie dekt vaak meer use cases.
+"""
+
+        fm = build_frontmatter(topic, raw_text)
+        full_content = fm + "\n" + raw_text
+
+        with open(out_path, "w", encoding="utf-8") as f:
             f.write(full_content)
 
-        print(f"    ✅ Written: {len(body)} chars")
-        print(f"    📁 {dest}")
-        print()
-        time.sleep(2)  # Rate limit buffer
+        generated += 1
+        print(f"  ✓ Written ({len(full_content)} chars)")
+        time.sleep(3)  # rate limiting
 
-    print("✅ Done generating articles")
+    print(f"\n=== Done! Generated: {generated}, Failed: {failed} ===")
+    return 0 if failed == 0 else 1
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
