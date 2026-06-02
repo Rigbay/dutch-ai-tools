@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Wearables & Slimme Apparaten 2026: top 7 vergeleken'
 slug: beste-ai-tools-wearables-2026
-description: AI wearables in 2026: Rabbit R1, Humane AI Pin, Apple Watch AI, Oura Ring, Whoop 5, Ray-Ban Meta en Samsung Galaxy Ring vergeleken voor dagelijks gebruik.
+description: "AI wearables in 2026: Rabbit R1, Humane AI Pin, Apple Watch AI, Oura Ring, Whoop 5, Ray-Ban Meta en Samsung Galaxy Ring vergeleken voor dagelijks gebruik."
 category: technologie
 rating: 4.3
 priceRange: EUR 0-500/mnd

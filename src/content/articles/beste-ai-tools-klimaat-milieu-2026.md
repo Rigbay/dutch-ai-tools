@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Klimaat & Milieu 2026: top 7 vergeleken'
 slug: beste-ai-tools-klimaat-milieu-2026
-description: AI tools voor klimaat en milieu in 2026: Google DeepMind, IBM AI, Cervest, Descartes Labs, Pachama, WattTime AI en Climacell vergeleken voor duurzaamheidsdoelen.
+description: "AI tools voor klimaat en milieu in 2026: Google DeepMind, IBM AI, Cervest, Descartes Labs, Pachama, WattTime AI en Climacell vergeleken voor duurzaamheidsdoelen."
 category: technologie
 rating: 4.3
 priceRange: EUR 0-500/mnd

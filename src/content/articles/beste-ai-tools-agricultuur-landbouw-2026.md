@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Agricultuur & Landbouw 2026: top 7 vergeleken'
 slug: beste-ai-tools-agricultuur-landbouw-2026
-description: AI tools voor de landbouw in 2026: John Deere AI, Climate FieldView, Gamaya, CropX, Taranis, FarmBot AI en Agworld AI vergeleken voor precisielandbouw.
+description: "AI tools voor de landbouw in 2026: John Deere AI, Climate FieldView, Gamaya, CropX, Taranis, FarmBot AI en Agworld AI vergeleken voor precisielandbouw."
 category: technologie
 rating: 4.3
 priceRange: EUR 0-500/mnd
