@@ -63,9 +63,9 @@ tools:
     rating: 4.5
     affiliateLink: "https://www.wiz.com/?ref=aitoolsnl"
 related:
-  - beste-ai-presentatie-tools-2026
-  - chatgpt-vs-gemini-vs-claude-nederlands-2026
-  - docusign-vs-hellosign-vs-signrequest-2026
+  - beste-ai-tools-gaming-2026
+  - beste-ai-tools-wearables-2026
+  - beste-ai-tools-agricultuur-landbouw-2026
 draft: false
 faq:
   - q: "Wat is de beste AI tool voor technologie in 2026?"

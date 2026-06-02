@@ -64,9 +64,9 @@ tools:
   rating: 3.9
   affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
-- ai-voor-studenten-2026
-- beste-ai-tools-pdf-documenten-2026
-- beste-gratis-ai-tools-2026
+  - ai-voor-studenten-2026
+  - beste-ai-tools-wearables-2026
+  - beste-ai-tools-gaming-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor Reizen & Vakantieplanning in 2026?

@@ -2,7 +2,7 @@
 title: 'Beste AI Tools voor Gaming & Game-Ontwikkeling 2026: NPC''s, Assets & QA'
 slug: beste-ai-tools-gaming-2026
 description: 'AI gaming tools in 2026: vergelijk AI-tools voor NPC-gedrag, world-building, asset-creatie, QA-testing en game-ontwikkeling.'
-category: business
+category: technologie
 rating: 4.3
 priceRange: EUR 0-100/maand
 pros:
@@ -15,7 +15,7 @@ cons:
 - Niet alle genres profiteren evenveel
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
-date: '2026-05-22'
+date: '2026-06-02'
 modelYear: 2026
 featuredTool: Unity ML-Agents
 readingTime: 9 min
@@ -63,9 +63,9 @@ tools:
   rating: 4.0
   affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
-- beste-ai-tools-kleine-ondernemers-2026
-- beste-ai-tools-administratie-2026
-- beste-ai-tools-financieel-adviseurs-2026
+- beste-ai-3d-modellering-tools-2026
+- beste-ai-tools-iot-smarthome-domotica-2026
+- beste-ai-tools-wearables-2026
 faq:
 - q: Wat is de beste AI-tool?
   a: Dat hangt van je specifieke behoeften af — zie de vergelijkingstabel hierboven.

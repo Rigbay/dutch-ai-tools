@@ -25,9 +25,9 @@ affiliateLinks:
 - https://aaptiv.com/?ref=aitoolsnl
 - https://www.sleepcycle.com/?ref=aitoolsnl
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - beste-ai-tools-wearables-2026
+  - beste-ai-tools-gaming-2026
+  - beste-ai-tools-klimaat-milieu-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Freeletics
