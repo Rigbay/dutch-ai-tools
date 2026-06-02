@@ -197,6 +197,11 @@ De sleutel tot succes ligt in het begrijpen van je eigen behoeften en het kiezen
 - [AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking](/ai-voor-seo-2026/)
 - [Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken](/beste-ai-copywriting-tools-2026/)
 
+## Nieuwe artikelen
+- [Beste AI Tools voor A/B Testing & Conversie Optimalisatie 2026](/beste-ai-ab-testing-conversie-optimalisatie-2026/)
+- [Beste AI Tools voor Content Distributie & Marketing 2026](/beste-ai-content-distributie-marketing-2026/)
+- [Beste AI Tools voor Branding & Merkstrategie 2026](/beste-ai-branding-merktools-2026/)
+
 ## Veelgestelde Vragen (FAQ)
 
 **1. Welke AI-marketingtool is het meest
