@@ -14,7 +14,7 @@ cons:
   - Stripe's dashboard kan overweldigend zijn voor beginners
   - Mollie biedt minder internationale uitbreidingsmogelijkheden
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Mollie
@@ -25,19 +25,19 @@ tools:
     priceRange: "EUR 0-0,30/transactie"
     bestFor: "Nederlandse MKB webshops"
     rating: 4.7
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "Stripe"
     verdict: "Meest complete developer-platform — AI fraud detection, wereldwijde schaalbaarheid en flexibele API"
     priceRange: "EUR 0-0,30/transactie"
     bestFor: "Tech-savvy teams & internationale groei"
     rating: 4.6
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "Adyen"
     verdict: "Beste voor enterprise — uniforme betaalervaring over alle kanalen, gebruikt door KLM en Bol.com"
     priceRange: "EUR 0-0,25/transactie"
     bestFor: "Grote retailers & omnichannel"
     rating: 4.5
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
 related:
   - beste-ai-tools-ecommerce-2026
   - beste-ai-tools-mkb-starten-2026

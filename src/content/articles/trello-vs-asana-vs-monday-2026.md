@@ -15,7 +15,7 @@ cons:
 - AI-features zitten vaak in duurdere tiers
 - Migreren tussen tools is tijdrovend
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Monday.com
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Middelgrote tot grote teams
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Asana
   verdict: Sterkste AI-workflow engine — slimme taaktoewijzing en deadline-voorspelling
   priceRange: EUR 0-25/mnd
   bestFor: Complexe projecten & dependencies
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Trello
   verdict: Eenvoudigste Kanban-tool — Butler AI voor beginners, ideaal voor ZZP'ers en kleine teams
   priceRange: EUR 0-13/mnd
   bestFor: Simpele workflows & ZZP'ers
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - ai-beeldherkenning-2026
 - ai-stemgeneratie-2026

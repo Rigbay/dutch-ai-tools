@@ -14,7 +14,7 @@ cons:
   - Sketch is alleen beschikbaar op macOS
   - Adobe XD krijgt minder updates nu Adobe focus op Firefly heeft
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Figma
@@ -25,19 +25,19 @@ tools:
     priceRange: "EUR 0-55/mnd"
     bestFor: "Design teams & collaboration"
     rating: 4.8
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "Adobe XD"
     verdict: "Sterkste Creative Cloud integratie — Adobe Firefly AI voor de designgeneratie en prototyping"
     priceRange: "EUR 0-55/mnd"
     bestFor: "Adobe ecosysteem gebruikers"
     rating: 4.3
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "Sketch"
     verdict: "Beste native macOS tool — snel, offline-first, met AI assist voor design systemen"
     priceRange: "EUR 0-10/mnd"
     bestFor: "Mac-only teams & design systems"
     rating: 4.4
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
 related:
   - beste-ai-tools-ecommerce-2026
   - beste-ai-tools-mkb-starten-2026

@@ -13,7 +13,7 @@ cons:
 - Snelle marktontwikkeling
 - Prijzen en beschikbaarheid veranderen snel
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: '2026-05-25'
 modelYear: 2026
 featuredTool: manus

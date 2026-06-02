@@ -15,7 +15,7 @@ cons:
 - Google Forms heeft beperkte designmogelijkheden
 - Jotform's AI voelt soms als overkill voor simpele enquêtes
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Typeform
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-35/mnd
   bestFor: Marketeers & branding
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Jotform
   verdict: Meest veelzijdig — AI bouwt complete formulieren, 10.000+ templates, beste AVG-tools
   priceRange: EUR 0-35/mnd
   bestFor: HR, administratie & compliance
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Google Forms
   verdict: Beste gratis optie — eenvoudig, Google Workspace-integratie, maar beperkt design
   priceRange: EUR 0
   bestFor: Snelle enquêtes & studenten
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - ai-beeldherkenning-2026
 - ai-stemgeneratie-2026

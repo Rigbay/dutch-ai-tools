@@ -44,7 +44,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Korte copy
   rating: 4.1
-  affiliateLink: https://www.copy.ai/?via=aitoolsnl
+  affiliateLink: https://www.copy.ai
 - name: DeepL Write
   verdict: Beste AI voor Nederlands correct taalgebruik en stijlverbetering
   priceRange: EUR 0-30/mnd

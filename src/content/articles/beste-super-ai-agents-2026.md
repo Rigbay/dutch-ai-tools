@@ -13,7 +13,7 @@ cons:
 - Snelle verdere verbetering in ontwikkeling
 - Prijzen kunnen variëren per abonnement
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: manus

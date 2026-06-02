@@ -57,7 +57,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Copywriting
   rating: 4.2
-  affiliateLink: https://www.copy.ai/?via=aitoolsnl
+  affiliateLink: https://www.copy.ai
 - name: Canva AI
   verdict: Designplatform met sterke AI tools voor visuals en presentaties
   priceRange: EUR 0-15/mnd

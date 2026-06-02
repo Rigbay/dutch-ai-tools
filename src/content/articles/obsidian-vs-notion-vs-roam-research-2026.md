@@ -15,7 +15,7 @@ cons:
 - Roam Research is prijzig voor wat het biedt
 affiliateLinks:
   - https://www.taskade.com/?via=55nfr2
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: 2026-05-26
 modelYear: 2026
 featuredTool: Notion
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-5/mnd
   bestFor: Privacy & offline-first
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Notion
   verdict: Meest complete all-in-one tool met de breedste AI-integratie, teamsamenwerking en Nederlandstalige ondersteuning
   priceRange: EUR 0-20/mnd
   bestFor: Teams & all-in-one
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Roam Research
   verdict: Pionier in bidirectioneel linken met unieke outliner-interface — krachtig maar duur en alleen online
   priceRange: EUR 15/mnd
   bestFor: Diepe denkers & onderzoekers
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - notion-vs-obsidian-vs-logseq-2026
 - ai-voor-studenten-2026

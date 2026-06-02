@@ -14,7 +14,7 @@ cons:
 - AI-functies (zoals slimme suggesties) nog in ontwikkeling
 - Verschillen in agenda-integraties (Google, Outlook, iCloud)
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Calendly
@@ -25,19 +25,19 @@ tools:
   priceRange: EUR 0-16/mnd
   bestFor: Individuen & teams
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Cal.com
   verdict: Open-source alternatief — self-host optie, beste privacy, groeiend ecosysteem
   priceRange: EUR 0-15/mnd
   bestFor: Privacy & developers
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Doodle
   verdict: Beste voor groepsplanning — polls voor meetings met 5+ deelnemers, geen accounts nodig
   priceRange: EUR 0-9/mnd
   bestFor: Groepsafspraken
   rating: 4.2
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - zapier-central-vs-make-ai-vs-relevance-ai-2026
 - beste-ai-tools-consultancy-2026

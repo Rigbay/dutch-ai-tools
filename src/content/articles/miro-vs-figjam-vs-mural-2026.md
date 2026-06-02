@@ -14,7 +14,7 @@ cons:
 - AI-functies verschillen per abonnementsvorm
 - Exporteerbaarheid is niet altijd perfect
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Miro
@@ -25,25 +25,25 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Grote teams & workshops
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: FigJam
   verdict: Naadloos met Figma — beste voor design teams die al Figma gebruiken
   priceRange: EUR 0-5/mnd
   bestFor: Design & product teams
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Mural
   verdict: Sterkste facilitator-tools — ingebouwde timers, stemrondes en privacyzones
   priceRange: EUR 10-20/mnd
   bestFor: Consultants & facilitators
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Lucidspark
   verdict: Beste voor teams die al in het Lucid-ecosysteem werken (Lucidchart)
   priceRange: EUR 0-9/mnd
   bestFor: Lucid-gebruikers
   rating: 4.1
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - notion-ai-vs-clickup-ai-vs-monday-ai-2026
 - beste-ai-tools-projectmanagement-2026

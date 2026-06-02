@@ -14,7 +14,7 @@ cons:
 - AI-functies verschillen sterk per tier
 - Migreren tussen platforms is tijdrovend
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Klaviyo
@@ -25,19 +25,19 @@ tools:
   priceRange: EUR 0-45/mnd
   bestFor: Webshops & Shopify
   rating: 4.8
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Mailchimp
   verdict: Meest veelzijdig — sterke AI-contentgenerator, breedste integraties, ook voor niet-e-commerce
   priceRange: EUR 0-30/mnd
   bestFor: Allround marketing
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Brevo
   verdict: Beste Europese keuze — Franse servers, sterke GDPR-tools, SMS + e-mail in één platform
   priceRange: EUR 0-49/mnd
   bestFor: GDPR-compliance & EU
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - ai-voor-ecommerce-2026
 - beste-ai-tools-ecommerce-2026

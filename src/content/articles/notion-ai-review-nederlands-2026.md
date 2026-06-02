@@ -26,7 +26,7 @@ tools:
   priceRange: EUR 10-20/mnd
   bestFor: Notities & kennis
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Coda AI
   verdict: Sterk alternatief met AI-gedreven documenten en databases
   priceRange: EUR 0-36/mnd
@@ -62,7 +62,7 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Agenda-integratie
   rating: 4.0
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - beste-ai-tools-pdf-documenten-2026
 - beste-ai-tools-reizen-vakantieplanning-2026

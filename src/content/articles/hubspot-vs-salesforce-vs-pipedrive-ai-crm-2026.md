@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is even sterk in Nederlands
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: 2026-05-26
 modelYear: 2026
 featuredTool: HubSpot
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-100/mnd
   bestFor: MKB & groeiende teams
   rating: 4.7
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Salesforce Einstein
   verdict: De enterprise-standaard met de meest geavanceerde AI-voorspellingen en diepste maatwerkopties
   priceRange: EUR 25-300/mnd
   bestFor: Enterprise & complexe salesprocessen
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Pipedrive AI
   verdict: Meest gebruiksvriendelijk met een focus op visuele sales pipelines en betaalbare AI-features
   priceRange: EUR 14-99/mnd
   bestFor: Kleine sales teams & freelancers
   rating: 4.4
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - beste-ai-sales-tools-2026
 - beste-ai-marketing-tools-2026

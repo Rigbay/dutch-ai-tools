@@ -14,7 +14,7 @@ cons:
   - Migreren tussen platformen is complex
   - Sommige AI-features zitten alleen in duurdere tiers
 affiliateLinks:
-  - https://affiliate.notion.so/?via=aitoolsnl
+  - https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Shopify
@@ -25,19 +25,19 @@ tools:
     priceRange: "EUR 25-50/mnd"
     bestFor: "Groeiende webshops & D2C merken"
     rating: 4.6
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "WooCommerce"
     verdict: "Meeste flexibiliteit en laagste instapkosten — open source maar vereist technische kennis"
     priceRange: "EUR 0-30/mnd"
     bestFor: "Bestaande WordPress sites & developers"
     rating: 4.4
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
   - name: "Wix Ecommerce"
     verdict: "Gebruiksvriendelijkste AI-bouwer — ideaal voor beginners maar minder schaalbaar"
     priceRange: "EUR 15-35/mnd"
     bestFor: "Startende ondernemers & kleine shops"
     rating: 4.2
-    affiliateLink: "https://affiliate.notion.so/?via=aitoolsnl"
+    affiliateLink: "https://www.notion.so"
 related:
   - beste-ai-tools-ecommerce-2026
   - beste-ai-tools-mkb-starten-2026

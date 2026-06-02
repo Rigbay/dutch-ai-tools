@@ -15,7 +15,7 @@ cons:
 - Discord mist enterprise-features zoals compliance-dashboards
 - Slack is duurder per gebruiker dan de concurrentie
 affiliateLinks:
-- https://affiliate.notion.so/?via=aitoolsnl
+- https://www.notion.so
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Microsoft Teams
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-13/mnd
   bestFor: Enterprise & M365-organisaties
   rating: 4.6
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Slack
   verdict: Beste UX en app-ecosysteem — Slack AI vat gesprekken samen en beantwoordt vragen
   priceRange: EUR 0-14/mnd
   bestFor: Tech-teams & startups
   rating: 4.5
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 - name: Discord
   verdict: Beste voor informele teams en communities — gratis videobellen tot 25 deelnemers, Clyde AI moderator
   priceRange: EUR 0-10/mnd
   bestFor: Communities & creatieve teams
   rating: 4.3
-  affiliateLink: https://affiliate.notion.so/?via=aitoolsnl
+  affiliateLink: https://www.notion.so
 related:
 - ai-beeldherkenning-2026
 - ai-stemgeneratie-2026
