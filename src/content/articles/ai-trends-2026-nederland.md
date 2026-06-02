@@ -38,6 +38,8 @@ tools:
   rating: 4.6
   affiliateLink: https://cognition.ai/?ref=aitoolsnl
 related:
+
+  - beste-ai-tools-energiebeheer-2026
 - nederlandse-ai-adoptie-cijfers-2026
 - nederlandse-ai-startups-2026
 - eu-ai-act-compliance-tools-2026

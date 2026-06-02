@@ -63,9 +63,10 @@ tools:
     rating: 4.1
     affiliateLink: "https://www.agworld.com/?ref=aitoolsnl"
 related:
-  - beste-ai-tools-gaming-2026
+- beste-ai-tools-gaming-2026
   - beste-ai-tools-klimaat-milieu-2026
   - beste-ai-tools-iot-smarthome-domotica-2026
+  - beste-ai-tools-energiebeheer-2026
 draft: false
 faq:
   - q: "Wat is de beste AI tool voor technologie in 2026?"
