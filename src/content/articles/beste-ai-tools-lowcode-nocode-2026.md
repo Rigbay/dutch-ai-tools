@@ -66,11 +66,6 @@ related:
 - github-copilot-vs-cursor-vs-codeium-2026
 - beste-ai-tools-programmeren-2026
 - beste-ai-tools-engineers-2026
-- beste-ai-tools-docker-containers-2026
-- beste-ai-tools-ci-cd-devops-pipelines-2026
-- beste-ai-tools-prompt-engineering-llm-2026
-- beste-ai-vector-databases-embeddings-2026
-- beste-ai-tools-api-development-testing-2026
 draft: false
 faq:
 - q: Wat is het verschil tussen low-code en no-code in 2026?

@@ -66,11 +66,6 @@ related:
 - beste-ai-chatbots-2026
 - beste-gratis-ai-tools-2026
 - claude-code-vs-cursor-vs-windsurf-2026
-- beste-ai-tools-docker-containers-2026
-- beste-ai-tools-ci-cd-devops-pipelines-2026
-- beste-ai-tools-prompt-engineering-llm-2026
-- beste-ai-vector-databases-embeddings-2026
-- beste-ai-tools-api-development-testing-2026
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?

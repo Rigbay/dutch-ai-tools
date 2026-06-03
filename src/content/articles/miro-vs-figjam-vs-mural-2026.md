@@ -14,7 +14,7 @@ cons:
 - AI-functies verschillen per abonnementsvorm
 - Exporteerbaarheid is niet altijd perfect
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Miro
@@ -48,11 +48,6 @@ related:
 - notion-ai-vs-clickup-ai-vs-monday-ai-2026
 - beste-ai-tools-projectmanagement-2026
 - beste-ai-tools-consultancy-2026
-- beste-ai-tools-docker-containers-2026
-- beste-ai-tools-ci-cd-devops-pipelines-2026
-- beste-ai-tools-prompt-engineering-llm-2026
-- beste-ai-vector-databases-embeddings-2026
-- beste-ai-tools-api-development-testing-2026
 draft: false
 faq:
 - q: Welk whiteboard is het beste voor Nederlandse teams met hybride werken?

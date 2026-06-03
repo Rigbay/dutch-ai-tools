@@ -66,11 +66,6 @@ related:
 - beste-ai-tools-qa-testen-code-review-2026
 - ai-beeldherkenning-2026
 - beste-super-ai-agents-2026
-- beste-ai-tools-docker-containers-2026
-- beste-ai-tools-ci-cd-devops-pipelines-2026
-- beste-ai-tools-prompt-engineering-llm-2026
-- beste-ai-vector-databases-embeddings-2026
-- beste-ai-tools-api-development-testing-2026
 draft: false
 faq:
 - q: Wat is de beste AI tool voor development in 2026?
