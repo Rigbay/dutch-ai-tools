@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Web Analytics & Conversieoptimalisatie 2026: top 7 vergeleken'
 slug: beste-ai-tools-web-analytics-conversie-2026
-description: "Vergelijk de beste AI tools voor web analytics & conversieoptimalisatie in 2026. Google Analytics 4, Hotjar, Clarity, Plausible, Heap, Amplitude en Mixpanel voor data-gedreven optimalisatie."
+description: "Vergelijk AI tools voor web analytics & conversieoptimalisatie in 2026. Google Analytics 4, Hotjar, Clarity, Plausible en Amplitude voor data-gedreven optimalisatie."
 category: marketing
 rating: 4.4
 priceRange: EUR 0-5000/mnd

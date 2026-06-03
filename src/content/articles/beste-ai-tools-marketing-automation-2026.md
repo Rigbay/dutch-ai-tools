@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Marketing Automation 2026: top 7 vergeleken'
 slug: beste-ai-tools-marketing-automation-2026
-description: "Vergelijk de beste AI tools voor marketing automation in 2026. HubSpot, ActiveCampaign, Klaviyo, Brevo, MoEngage en GetResponse voor geautomatiseerde marketingcampagnes."
+description: "Vergelijk AI tools voor marketing automation in 2026. HubSpot, ActiveCampaign, Klaviyo, Brevo, MoEngage en GetResponse voor geautomatiseerde campagnes."
 category: marketing
 rating: 4.4
 priceRange: EUR 0-5000/mnd

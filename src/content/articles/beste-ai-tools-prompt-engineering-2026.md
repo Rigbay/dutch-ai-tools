@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Prompt Engineering 2026: top 7 vergeleken'
 slug: beste-ai-tools-prompt-engineering-2026
-description: "Vergelijk de beste AI tools voor prompt engineering in 2026. Anthropic Console, OpenAI Playground, LangSmith, PromptPerfect, Dust, Portkey en Agenta voor prompt optimalisatie en beheer."
+description: "Vergelijk AI tools voor prompt engineering in 2026. Anthropic Console, OpenAI Playground, LangSmith en PromptPerfect voor prompt optimalisatie en beheer."
 category: technologie
 rating: 4.4
 priceRange: EUR 0-5000/mnd
