@@ -183,3 +183,11 @@ Connected Papers is een visuele tool die de onderlinge verbanden tussen wetensch
 ## Research Rabbit: De Persoonlijke Bibliothecaris en Ontdekker
 
 Research Rabbit is een gratis tool die zichzelf positioneert als een "Spotify voor academische papers". Het stelt onderzoekers in staat om collecties van papers aan te maken en, op basis hiervan
+
+---
+
+## Verder lezen
+
+- ["AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"](/ai-voor-studenten-2026/)
+- [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)

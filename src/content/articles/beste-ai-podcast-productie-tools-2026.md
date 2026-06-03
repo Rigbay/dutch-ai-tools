@@ -203,3 +203,11 @@ Alitu presenteert zichzelf als "de podcastmaker die het zware werk doet", en doe
 
 *   **Prijsrange (EUR):** Vanaf €30 per maand voor de standaardversie. Geen gratis versie, maar een gratis proefperiode is beschikbaar.
 *   **Beste use case:** Beginnende
+
+---
+
+## Verder lezen
+
+- ["AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools"](/ai-stemgeneratie-2026/)
+- [AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken](/ai-video-generatie-tools-2026/)
+- [Beste AI Tools voor Fotografie & Beeldbewerking 2026: top 7 vergeleken](/beste-ai-fotografie-beeldbewerking-tools-2026/)

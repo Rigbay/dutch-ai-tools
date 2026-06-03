@@ -91,3 +91,11 @@ Nederlandse aanpassingen (zoals huishoudnl) zijn sporadisch beschikbaar. Voor de
 
 ## Einde conclusie
 Voor dagelijks Nederlands gebruik is Claude de meest complete keuze. Voor zakelijke taken met grote documenten is Gemini 2.5 Pro het meest praktisch. Voor wie privacy boven alles plaatst, zijn lokale modellen de weg. Kies je modèle op basis van jouw specifieke use case — er is momenteel geen 'beste voor alles'.
+
+---
+
+## Verder lezen
+
+- ["AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"](/ai-voor-studenten-2026/)
+- [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)

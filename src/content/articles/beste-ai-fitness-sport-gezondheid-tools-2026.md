@@ -167,3 +167,11 @@ MyFitnessPal is al jarenlang de standaard voor voedselregistratie, maar in 2026 
 ## Strava: De Sociale Sportgemeenschap met AI-inzichten
 
 Strava is al jarenlang de sociale hub voor hardlopers, fietsers en andere sporters. In 2026 heeft de AI van Strava een diepgaande rol in het verbeteren van training en motivatie. Naast het bijhouden van je routes en prestaties, analyseert de AI je trainingsgeschiedenis, fitnessniveau en doelen om gepersonaliseerde trainings
+
+---
+
+## Verder lezen
+
+- [AI Trends 2026 in Nederland: van autonomere agents tot lokale modellen en EU-compliance](/ai-trends-2026-nederland/)
+- [Beste AI 3D Modellering & AR/VR Tools 2026: top 7 vergeleken](/beste-ai-3d-modellering-tools-2026/)
+- [Beste AI Interieur & Woonontwerp Tools 2026: top 6 vergeleken](/beste-ai-interieur-ontwerp-tools-2026/)
