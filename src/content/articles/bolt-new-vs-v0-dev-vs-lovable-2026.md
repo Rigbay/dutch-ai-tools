@@ -14,7 +14,7 @@ cons:
 - Sommige AI features verschillen per abonnementsniveau
 - Tools ontwikkelen snel — check de laatste versies voor aankoop
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-28'
 modelYear: 2026
 featuredTool: Bolt.new
@@ -66,6 +66,11 @@ related:
 - beste-ai-chatbots-2026
 - beste-gratis-ai-tools-2026
 - claude-code-vs-cursor-vs-windsurf-2026
+- beste-ai-tools-docker-containers-2026
+- beste-ai-tools-ci-cd-devops-pipelines-2026
+- beste-ai-tools-prompt-engineering-llm-2026
+- beste-ai-vector-databases-embeddings-2026
+- beste-ai-tools-api-development-testing-2026
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
@@ -75,7 +80,6 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: De meeste AI app builders werken met Engelse prompts, maar begrijpen ook Nederlandse instructies. De output is doorgaans in het Engels (code) maar de gegenereerde UI-teksten kun je eenvoudig naar het Nederlands vertalen.
 ---
-
 ## Lees ook
 
 - [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)
