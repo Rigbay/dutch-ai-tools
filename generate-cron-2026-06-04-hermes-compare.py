@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate 4 new Dutch AI tools comparison articles: Google Ads vs Meta vs TikTok, 
+"""Generate 4 new Dutch AI tools comparison articles: Google Ads vs Meta vs TikTok,
 Google Drive vs Dropbox vs OneDrive, Salesforce vs HubSpot vs Zoho CRM, Figma vs Canva vs Sketch.
 June 4, 2026 — Hermes cron autonomous run."""
 import os, json, time, sys, requests, yaml

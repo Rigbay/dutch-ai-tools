@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate 5 new Dutch AI tools comparison articles: Ahrefs vs Semrush vs Moz,
-Jira vs Linear vs ClickUp, Exact Online vs Moneybird vs Snelstart, 
+Jira vs Linear vs ClickUp, Exact Online vs Moneybird vs Snelstart,
 GitHub vs GitLab vs Bitbucket, Vercel vs Netlify vs Cloudflare Pages.
 June 4, 2026 — Hermes cron batch 2 autonomous run."""
 import os, json, time, sys, requests, yaml
@@ -249,7 +249,7 @@ def main():
     global ALL_SLUGS
     # Refresh slug list in case previous article generation added new ones
     ALL_SLUGS = [f.replace(".md", "") for f in sorted(os.listdir(ARTICLES_DIR)) if f.endswith(".md")]
-    
+
     os.makedirs(ARTICLES_DIR, exist_ok=True)
     generated = 0
     failed = 0
@@ -282,10 +282,10 @@ def main():
         generated += 1
         word_count = len(body.split())
         print(f"  Written: {out_path} ({len(full)} chars, ~{word_count} words)")
-        
+
         # Refresh slug list after each write
         ALL_SLUGS = [f.replace(".md", "") for f in sorted(os.listdir(ARTICLES_DIR)) if f.endswith(".md")]
-        
+
         if i < len(NEW_ARTICLES) - 1:
             time.sleep(5)
 
