@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Software Testen & QA 2026: top 7 vergeleken'
 slug: beste-ai-tools-software-testen-qa-2026
-description: AI tools voor software testen en QA in 2026: Testim, Functionize, Mabl, Applitools, Tricentis, Katalon en Selenium IDE AI vergeleken voor geautomatiseerd testen.
+description: "AI tools voor software testen en QA in 2026: Testim, Functionize, Mabl, Applitools en Tricentis vergeleken voor geautomatiseerd testen."
 category: development
 rating: 4.3
 priceRange: EUR 0-500/mnd

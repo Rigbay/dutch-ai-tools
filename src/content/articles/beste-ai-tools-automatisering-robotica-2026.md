@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Automatisering & Robotica 2026: top 7 vergeleken'
 slug: beste-ai-tools-automatisering-robotica-2026
-description: AI automatisering en robotica tools voor 2026: UiPath AI, Automation Anywhere, Blue Prism, RoboDK, Microsoft Power Automate AI, ABB Ability AI en Fanuc AI vergeleken voor procesautomatisering en robotica.
+description: "AI automatisering en robotica tools voor 2026: UiPath AI, Automation Anywhere, Blue Prism, RoboDK en Microsoft Power Automate AI vergeleken."
 category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd

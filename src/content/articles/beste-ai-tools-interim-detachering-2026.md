@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Interim Management & Detachering 2026: top 7 vergeleken'
 slug: beste-ai-tools-interim-detachering-2026
-description: AI interim en detachering tools voor 2026: LinkedIn Recruiter AI, Harver AI, Textkernel AI, CAIRE AI, Bullhorn AI, Workforce Planner AI en Eightfold AI vergeleken voor interim-professionals.
+description: "AI interim en detachering tools voor 2026: LinkedIn Recruiter AI, Harver AI, Textkernel AI, Bullhorn AI en Eightfold AI vergeleken."
 category: productiviteit
 rating: 4.3
 priceRange: EUR 0-500/mnd

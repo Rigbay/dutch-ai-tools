@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Non-profit & Sociaal-Maatschappelijk 2026: top 7 vergeleken'
 slug: beste-ai-tools-non-profit-sociaal-maatschappelijk-2026
-description: AI non-profit tools voor 2026: Salesforce Nonprofit Cloud AI, Blackbaud AI, DonorSearch AI, Givebutter AI, Keela AI, Fundraising AI en Charity Engine vergeleken voor goede doelen.
+description: "AI non-profit tools voor 2026: Salesforce Nonprofit Cloud AI, Blackbaud AI, DonorSearch AI, Givebutter AI en Keela AI vergeleken."
 category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd

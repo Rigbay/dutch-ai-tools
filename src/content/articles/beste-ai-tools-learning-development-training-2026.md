@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Leren & Ontwikkeling 2026: top 7 vergeleken'
 slug: beste-ai-tools-learning-development-training-2026
-description: AI L&D tools voor 2026: 360Learning, Docebo AI, Cornerstone AI, EdApp, TalentLMS AI, Coursebox en Sana Labs vergeleken voor corporate training en employee development.
+description: "AI L&D tools voor 2026: 360Learning, Docebo AI, Cornerstone AI, EdApp en TalentLMS AI vergeleken voor corporate training en employee development."
 category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd

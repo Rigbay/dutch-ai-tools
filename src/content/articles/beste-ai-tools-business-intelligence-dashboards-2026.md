@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Business Intelligence & Dashboards 2026: top 7 vergeleken'
 slug: beste-ai-tools-business-intelligence-dashboards-2026
-description: AI BI tools voor 2026: Tableau AI, Power BI Copilot, Looker Studio, ThoughtSpot, Metabase AI, Qlik Sense en Domo vergeleken voor datagestuurde beslissingen.
+description: "AI BI tools voor 2026: Tableau AI, Power BI Copilot, Looker Studio, ThoughtSpot en Metabase AI vergeleken voor datagestuurde beslissingen."
 category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd

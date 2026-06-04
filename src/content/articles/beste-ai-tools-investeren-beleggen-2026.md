@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Investeren & Beleggen 2026: top 7 vergeleken'
 slug: beste-ai-tools-investeren-beleggen-2026
-description: AI beleggen tools voor 2026: eToro AI, TradingView AI, Interactive Brokers IBot, Bloomberg GPT, QuantConnect AI, Trade Ideas AI en Portfolio Visualizer AI vergeleken voor slim investeren.
+description: "AI beleggen tools voor 2026: eToro AI, TradingView AI, Interactive Brokers IBot en Bloomberg GPT vergeleken voor slim investeren."
 category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd
