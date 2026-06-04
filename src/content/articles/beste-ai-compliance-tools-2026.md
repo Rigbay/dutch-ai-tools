@@ -50,6 +50,10 @@ tools:
     bestFor: "Zakelijk gebruik"
     rating: 4.3
     affiliateLink: "https://www.thoropass.com/?ref=aitoolsnl"
+related:
+  - ai-avg-compliance-tools-2026
+  - shadow-ai-management-bedrijven-2026
+  - eu-ai-act-compliant-tools-2026
 draft: false
 faq:
   - q: "Wanneer wordt de EU AI Act gehandhaafd?"

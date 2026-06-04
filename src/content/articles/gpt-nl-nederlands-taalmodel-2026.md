@@ -1,7 +1,7 @@
 ---
 title: 'GPT-NL: Het Nederlandse AI-Taalmodel 2026 — volledige vergelijking'
 slug: gpt-nl-nederlands-taalmodel-2026
-description: 'Vergelijking van de gpt-nl: het nederlandse ai-taalmodel 2026 voor Nederlandse gebruikers. Objectieve beoordeling met prijzen in euro's en praktische keuzehulp.'
+description: "Vergelijking van GPT-NL: het Nederlandse AI-taalmodel 2026 — objectieve beoordeling, prijzen in euros, praktische keuzehulp."
 category: technologie
 rating: 4.5
 priceRange: EUR 0-500/maand
@@ -61,6 +61,14 @@ tools:
   bestFor: Budget-vriendelijke AI met sterke codeervaardigheden
   rating: 4.3
   affiliateLink: https://gpt-nl.nl/
+draft: false
+faq:
+  - q: "Wat is GPT-NL precies en wie heeft het gebouwd?"
+    a: "GPT-NL is een Nederlands AI-taalmodel ontwikkeld door TNO, SURF en het Nederlands Forensisch Instituut met €13,5 miljoen overheidsbudget. Het is getraind op Nederlandstalige data met toestemming van alle Nederlandse nieuwsuitgevers via een betaalde licentieovereenkomst — een wereldprimeur."
+  - q: "Is GPT-NL beter voor Nederlandse teksten dan ChatGPT of Claude?"
+    a: "Voor puur Nederlandstalige taken zoals samenvatten en classificeren presteert GPT-NL respectabel — het verslaat oudere modellen zoals GPT-3. Voor complexe meertalige taken en creatieve output blijven GPT-4o en Claude 4.5 vooroplopen. GPT-NL's kernkracht zit in AVG-compliance en datasoevereiniteit."
+  - q: "Wanneer en hoe kan ik GPT-NL gebruiken?"
+    a: "De eerste 5 pilots lopen sinds februari 2026 bij overheidsinstanties. De commerciële uitrol via professionele licenties en SaaS staat gepland voor de tweede helft van 2026. Tot die tijd is GPT-NL alleen beschikbaar voor deelnemende organisaties in het onderzoeksprogramma."
 related:
   - ai-trends-2026-nederland
   - nederlandse-ai-adoptie-cijfers-2026

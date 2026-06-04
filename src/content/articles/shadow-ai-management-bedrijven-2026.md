@@ -62,6 +62,10 @@ tools:
     bestFor: "Zakelijk gebruik"
     rating: 4.3
     affiliateLink: "https://www.microsoft.com/?ref=aitoolsnl"
+related:
+  - ai-trends-2026-nederland
+  - nederlandse-ai-adoptie-cijfers-2026
+  - beste-ai-compliance-tools-2026
 draft: false
 faq:
   - q: "Wanneer wordt de EU AI Act gehandhaafd?"
