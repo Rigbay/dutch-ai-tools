@@ -170,3 +170,13 @@ A: Taskade is het voordeligst met 25 EUR/maand voor een heel team (ongelimiteerd
 * [Beste AI Projectmanagement Tools 2026](/beste-ai-tools-projectmanagement-2026/)
 * [Obsidian vs Notion vs Roam Research: Notitie Apps 2026](/obsidian-vs-notion-vs-roam-research-2026/)
 * [Beste AI Automatisering Tools 2026](/beste-ai-automation-tools-2026/)
+
+---
+
+## Lees ook
+
+- [ai-voor-studenten-2026](/ai-voor-studenten-2026/)
+- [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
+- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
+- [Beste AI Chatbots 2026: ChatGPT vs Gemini vs Claude vs Perplexity](/beste-ai-chatbots-2026/)
+- [Beste AI Chatbots voor Nederlands 2026: vergelijk ChatGPT, Claude, Gemini en lokale opties](/beste-ai-chatbots-nederlands-2026/)
