@@ -1,7 +1,7 @@
 ---
 title: 'DeepSeek vs ChatGPT vs Grok 2026: welke AI is het beste? Volledige vergelijking'
 slug: deepseek-vs-chatgpt-vs-grok-2026
-description: Vergelijk DeepSeek, ChatGPT en Grok in 2026: prestaties, prijs, Nederlandse taal, contextvenster en unieke features. Welke AI-chatbot past bij jou?
+description: 'Vergelijk DeepSeek, ChatGPT en Grok in 2026: prestaties, prijs, Nederlandse taal, contextvenster en unieke functies van elke AI chatbot.'
 category: productiviteit
 rating: 4.3
 priceRange: EUR 0-500/mnd

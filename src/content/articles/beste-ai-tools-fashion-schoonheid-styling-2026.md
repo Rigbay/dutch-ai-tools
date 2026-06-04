@@ -1,8 +1,8 @@
 ---
 title: 'Beste AI Tools voor Fashion, Schoonheid & Styling 2026: top 7 vergeleken'
 slug: beste-ai-tools-fashion-schoonheid-styling-2026
-description: AI fashion & beauty tools voor 2026: Zalon AI, DressX, Vue.ai, Perfect Corp, Threads Styling AI, Style DNA en L'Oreal AI vergeleken voor virtuele styling en schoonheidsadvies.
-category: lifestyle
+description: 'AI fashion & beauty tools voor 2026: Zalon AI, DressX, Vue.ai, Perfect Corp, Threads Styling AI, Style DNA en LALAL.ai vergeleken voor kleding, styling en beauty.'
+category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd
 pros:

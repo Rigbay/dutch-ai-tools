@@ -1,8 +1,8 @@
 ---
 title: 'Beste AI Tools voor Mentale Gezondheid & Therapie 2026: top 7 vergeleken'
 slug: beste-ai-tools-mentale-gezondheid-therapie-2026
-description: AI mentale gezondheid tools voor 2026: Woebot, Wysa, Youper, Replika, BetterHelp AI, Talkspace AI en MindDoc vergeleken voor mentaal welzijn en therapieondersteuning.
-category: gezondheid
+description: 'AI mentale gezondheid tools voor 2026: Woebot, Wysa, Youper, Replika, BetterHelp AI, Talkspace AI en MindDoc vergeleken voor therapie en welzijn.'
+category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd
 pros:

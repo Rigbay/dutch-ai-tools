@@ -1,7 +1,7 @@
 ---
 title: 'Gratis AI Tools vs Betaalde AI Tools 2026: wat is de beste keuze? Vergelijking'
 slug: gratis-ai-tools-vs-betaalde-ai-tools-2026
-description: Vergelijk gratis en betaalde AI tools in 2026: ChatGPT gratis vs Plus, Gemini vs Gemini Advanced, Claude vs Claude Pro. Wat krijg je extra voor je geld?
+description: 'Vergelijk gratis en betaalde AI tools in 2026: ChatGPT gratis vs Plus, Gemini vs Gemini Advanced, Claude vs Claude Pro, Perplexity, Copilot en meer AI-abonnementen vergeleken.'
 category: productiviteit
 rating: 4.3
 priceRange: EUR 0-500/mnd

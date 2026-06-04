@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Tools voor Duurzaamheid, ESG & Milieu 2026: top 7 vergeleken'
 slug: beste-ai-tools-duurzaamheid-esg-milieu-2026
-description: AI duurzaamheid tools voor 2026: IBM Environmental Intelligence, Google Cloud Carbon Footprint AI, Persefoni AI, Plan A, Greenbird AI, Climatiq AI en Watershed vergeleken voor ESG-rapportage en milieu-impact.
+description: 'AI duurzaamheid tools voor 2026: IBM Environmental Intelligence, Google Cloud Carbon Footprint AI, Persefoni AI, Plan A, Watershed en Climatiq vergeleken voor ESG-rapportage.'
 category: business
 rating: 4.3
 priceRange: EUR 0-500/mnd
