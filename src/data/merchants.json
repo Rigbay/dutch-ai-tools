@@ -1,9 +1,9 @@
 {
   "meta": {
-    "version": "1.0.0",
-    "lastUpdated": "2026-05-27T12:00:00+02:00",
-    "updatedBy": "hermes",
-    "source": "audit-2026-05-27.json"
+    "version": "2.0.0",
+    "lastUpdated": "2026-06-05T13:30:00+02:00",
+    "updatedBy": "hermes (sync from canonical)",
+    "source": "canonical merchants.json"
   },
   "merchants": {
     "amazon-nl": {
@@ -16,7 +16,8 @@
           "affiliateId": "kieskeukennl-21"
         },
         "dutch-ai-tools": {
-          "status": "inactive"
+          "status": "inactive",
+          "affiliateId": null
         }
       },
       "commission": {
@@ -26,10 +27,10 @@
       },
       "cookieDurationHours": 24,
       "linkTemplate": "https://www.amazon.nl/dp/{asin}?tag={affiliateId}",
-      "fallbackUrl": "https://www.amazon.nl",
       "domainHints": [
         "amazon.nl"
       ],
+      "fallbackUrl": "https://www.amazon.nl",
       "lastVerified": "2026-05-27T10:00:00+02:00",
       "notes": "Primary for KiesKeuken. 47/76 articles monetized."
     },
@@ -43,7 +44,8 @@
           "affiliateId": null
         },
         "dutch-ai-tools": {
-          "status": "inactive"
+          "status": "inactive",
+          "affiliateId": null
         }
       },
       "commission": {
@@ -52,6 +54,10 @@
       },
       "cookieDurationHours": 720,
       "linkTemplate": "https://partner.bol.com/click/click?p={productId}&t=url&s={publisherId}&url={targetUrl}",
+      "domainHints": [
+        "partner.bol.com",
+        "bol.com"
+      ],
       "lastVerified": "2026-05-26T00:00:00+02:00",
       "notes": "REJECTED 2026-05-26. Site ID 1520310. DO NOT USE. 'in behandeling' text in ReviewLayout.astro:156 must be scrubbed."
     },
@@ -65,12 +71,16 @@
           "affiliateId": null
         },
         "dutch-ai-tools": {
-          "status": "inactive"
+          "status": "inactive",
+          "affiliateId": null
         }
       },
       "commission": null,
       "cookieDurationHours": null,
-      "linkTemplate": null,
+      "domainHints": [
+        "coolblue.nl"
+      ],
+      "fallbackUrl": "https://www.coolblue.nl",
       "lastVerified": "2026-05-27T00:00:00+02:00",
       "notes": "Awin publisher 2899551. Joined Coolblue in My Programs. Awaiting advertiser approval. Link Builder gated until approved."
     },
@@ -87,15 +97,16 @@
       "commission": {
         "rate": 0.5,
         "type": "percentage",
-        "notes": "50-60% Boost program"
+        "notes": "50-60% Boost program, recurring"
       },
       "cookieDurationHours": 720,
       "linkTemplate": "https://www.beehiiv.com/?via={affiliateId}",
-      "lastVerified": "2026-05-27T00:00:00+02:00",
-      "notes": "Core for Dutch AI Tools. via=anonymous-operator.",
       "domainHints": [
         "beehiiv.com"
-      ]
+      ],
+      "fallbackUrl": "https://www.beehiiv.com",
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "Core for Dutch AI Tools. via=anonymous-operator. ~119/126 AI tools articles monetized."
     },
     "taskade": {
       "name": "Taskade",
@@ -110,15 +121,16 @@
       "commission": {
         "rate": 0.2,
         "type": "percentage",
-        "notes": "20% lifetime"
+        "notes": "20% lifetime, recurring"
       },
       "cookieDurationHours": 720,
       "linkTemplate": "https://taskade.com/?via={affiliateId}",
-      "lastVerified": "2026-05-26T00:00:00+02:00",
-      "notes": "Code 55nfr2. 14 articles monetized.",
       "domainHints": [
         "taskade.com"
-      ]
+      ],
+      "fallbackUrl": "https://www.taskade.com",
+      "lastVerified": "2026-05-26T00:00:00+02:00",
+      "notes": "Code 55nfr2. 14 articles monetized."
     },
     "writesonic": {
       "name": "Writesonic",
@@ -133,34 +145,36 @@
       "commission": {
         "rate": 0.3,
         "type": "percentage",
-        "notes": "30% lifetime"
+        "notes": "30% lifetime, recurring"
       },
       "cookieDurationHours": 720,
       "linkTemplate": "https://writesonic.com/?via={affiliateId}",
-      "lastVerified": "2026-05-26T00:00:00+02:00",
-      "notes": "Code aitoolsnl. 13 articles monetized.",
       "domainHints": [
         "writesonic.com"
-      ]
+      ],
+      "fallbackUrl": "https://www.writesonic.com",
+      "lastVerified": "2026-05-26T00:00:00+02:00",
+      "notes": "Code aitoolsnl. 13 articles monetized."
     },
     "notion": {
       "name": "Notion",
-      "program": "Notion Affiliate (if exists)",
+      "program": "Notion Affiliate",
       "status": "dead",
       "perSite": {
         "dutch-ai-tools": {
-          "status": "dead"
+          "status": "dead",
+          "affiliateId": null
         }
       },
       "commission": null,
       "cookieDurationHours": null,
-      "linkTemplate": null,
-      "lastVerified": "2026-05-27T00:00:00+02:00",
-      "notes": "DEAD. 36 references found in Dutch AI Tools. Scrub all and replace with non-affiliate alternatives.",
       "domainHints": [
         "notion.so",
         "affiliate.notion.so"
-      ]
+      ],
+      "fallbackUrl": "https://www.notion.so",
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "DEAD. 36 references found in Dutch AI Tools. Scrub all and replace with non-affiliate alternatives."
     },
     "copy-ai": {
       "name": "Copy.ai",
@@ -168,18 +182,135 @@
       "status": "dead",
       "perSite": {
         "dutch-ai-tools": {
-          "status": "dead"
+          "status": "dead",
+          "affiliateId": null
         }
       },
       "commission": null,
       "cookieDurationHours": null,
-      "linkTemplate": null,
-      "lastVerified": "2026-05-27T00:00:00+02:00",
-      "notes": "DEAD. 16 references found. Scrub all.",
       "domainHints": [
         "copy.ai",
         "affiliate.copy.ai"
-      ]
+      ],
+      "fallbackUrl": "https://www.copy.ai",
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "DEAD. 16 references found. Scrub all."
+    },
+    "rytr": {
+      "name": "Rytr",
+      "program": "Rytr Affiliate",
+      "status": "active",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "active",
+          "affiliateId": "hermes-affiliates"
+        }
+      },
+      "commission": {
+        "rate": 0.3,
+        "type": "percentage",
+        "notes": "30%/12mo recurring"
+      },
+      "cookieDurationHours": 1440,
+      "linkTemplate": "https://rytr.me?via={affiliateId}",
+      "domainHints": [
+        "rytr.me"
+      ],
+      "fallbackUrl": "https://www.rytr.me",
+      "lastVerified": "2026-06-05T00:00:00+02:00",
+      "notes": "Tapfiliate. Code hermes-affiliates. 5 activation bonus."
+    },
+    "synthesia": {
+      "name": "Synthesia",
+      "program": "Synthesia Affiliate",
+      "status": "active",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "active",
+          "affiliateId": "hermes"
+        }
+      },
+      "commission": {
+        "rate": 0.25,
+        "type": "percentage",
+        "notes": "25%/12mo recurring"
+      },
+      "cookieDurationHours": 1440,
+      "linkTemplate": "https://www.synthesia.io?via={affiliateId}",
+      "domainHints": [
+        "synthesia.io"
+      ],
+      "fallbackUrl": "https://www.synthesia.io",
+      "lastVerified": "2026-06-05T00:00:00+02:00",
+      "notes": "Rewardful. Code hermes."
+    },
+    "make": {
+      "name": "Make.com",
+      "program": "Make Affiliate",
+      "status": "active",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "active",
+          "affiliateId": "hermesai"
+        }
+      },
+      "commission": {
+        "rate": 0.35,
+        "type": "percentage",
+        "notes": "35%/12mo recurring. Top earner potential."
+      },
+      "cookieDurationHours": 2160,
+      "linkTemplate": "https://www.make.com/en/register?pc={affiliateId}",
+      "domainHints": [
+        "make.com"
+      ],
+      "fallbackUrl": "https://www.make.com",
+      "lastVerified": "2026-06-05T00:00:00+02:00",
+      "notes": "Make in-house program. Code hermesai. Payout via Wise (anonymous-operator creating Wise as single payout hub). Top earner potential, largest unmonetized recurring gap."
+    },
+    "frase": {
+      "name": "Frase",
+      "program": "Frase Affiliate",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.3,
+        "type": "percentage",
+        "notes": "30%/12mo recurring"
+      },
+      "cookieDurationHours": 1440,
+      "linkTemplate": "https://www.frase.io?via={affiliateId}",
+      "domainHints": [
+        "frase.io"
+      ],
+      "fallbackUrl": "https://www.frase.io",
+      "lastVerified": "2026-06-05T00:00:00+02:00",
+      "notes": "FirstPromoter. Application pending human review (no link issued until approved)."
+    },
+    "tradetracker": {
+      "name": "TradeTracker",
+      "program": "TradeTracker Publisher",
+      "status": "rejected",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "rejected",
+          "affiliateId": null
+        }
+      },
+      "commission": null,
+      "cookieDurationHours": null,
+      "domainHints": [
+        "tradetracker.com",
+        "tradetracker.net"
+      ],
+      "fallbackUrl": "https://www.tradetracker.com",
+      "lastVerified": "2026-06-01T00:00:00+02:00",
+      "notes": "ARCHIVED 2026-06-01. Registered as HermesAffiliates. .github.io domain likely failed professional review; reapply only from a custom domain. Was referenced in briefs/STRATEGY.md but MISSING from this registry until the 2026-06-05 reconcile."
     }
   }
 }

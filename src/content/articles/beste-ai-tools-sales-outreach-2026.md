@@ -1,8 +1,7 @@
 ---
 title: 'Beste AI-tools voor sales outreach 2026: Apollo vs Lemlist vs Woodpecker'
 slug: beste-ai-tools-sales-outreach-2026
-description: 'Vergelijk de beste AI-tools voor sales outreach in 2026: Apollo, Lemlist, Woodpecker, Instantly, Mailshake,
-  Reply.io en Outreach. Prijzen, AI-functies en geschiktheid voor Nederlandse sales teams.'
+description: 'Vergelijk de beste AI-tools voor sales outreach in 2026: Apollo, Lemlist, Woodpecker, Instantly, Mailshake, Reply.io en Outreach. Voor NL sales teams.'
 category: marketing
 rating: 4.5
 priceRange: EUR 0-200/mnd
