@@ -10,7 +10,7 @@ if os.path.exists(key_file):
     with open(key_file) as f:
         API_KEY = f.read().strip()
 if not API_KEY:
-    API_KEY=(os.en...Y", "") or os.environ.get("GOOGLE_API_KEY", "")).strip()
+    API_KEY = (os.environ.get("GEMINI_API_KEY", "") or os.environ.get("GOOGLE_API_KEY", "")).strip()
 if not API_KEY:
     env_file = os.path.expanduser("~/.hermes/.env")
     if os.path.exists(env_file):
