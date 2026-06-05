@@ -17,6 +17,7 @@ cons:
 - Sommige output vereist nog handmatige nabewerking voor professioneel gebruik
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Meshy

@@ -15,6 +15,7 @@ cons:
 - Sommige Nederlandse nuances worden nog gemist
 affiliateLinks:
   - https://writesonic.com/?via=aitoolsnl
+  - https://rytr.me/?via=hermes-affiliates  # Rytr
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Jasper AI

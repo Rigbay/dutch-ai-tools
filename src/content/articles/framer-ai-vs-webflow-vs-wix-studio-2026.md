@@ -15,6 +15,7 @@ cons:
 - Tools ontwikkelen snel — check de laatste versies voor aankoop
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-05-28'
 modelYear: 2026
 featuredTool: Framer AI

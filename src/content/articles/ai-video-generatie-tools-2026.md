@@ -16,6 +16,7 @@ cons:
 - Sommige geavanceerde features vereisen duurdere abonnementen
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Synthesia

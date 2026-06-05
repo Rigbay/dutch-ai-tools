@@ -24,6 +24,7 @@ affiliateLinks:
   - https://www.autodesk.com/products/spacemaker/?ref=aitoolsnl
   - https://www.evolvelab.io/veras/?ref=aitoolsnl
   - https://www.maket.ai/?ref=aitoolsnl
+  - https://synthesia.io/?via=hermes  # Synthesia
 related:
 - beste-ai-tools-fotografen-2026
 - beste-ai-tools-voice-cloning-voice-over-2026

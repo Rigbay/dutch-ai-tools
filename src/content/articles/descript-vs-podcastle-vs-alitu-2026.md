@@ -15,6 +15,7 @@ cons:
 - Sommige features alleen in duurste plan
 affiliateLinks:
 - https://www.notion.so
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-05-27'
 modelYear: 2026
 featuredTool: Descript

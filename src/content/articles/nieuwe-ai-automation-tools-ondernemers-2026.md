@@ -16,6 +16,7 @@ cons:
 affiliateLinks:
 - https://www.taskade.com/?via=aitoolsnl
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.make.com/en/register?pc=hermesai
 date: '2026-05-31'
 modelYear: 2026
 featuredTool: n8n

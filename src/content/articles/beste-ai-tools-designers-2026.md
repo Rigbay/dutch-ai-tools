@@ -16,6 +16,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Figma AI

@@ -15,6 +15,7 @@ cons:
   - Adobe XD krijgt minder updates nu Adobe focus op Firefly heeft
 affiliateLinks:
   - https://www.figma.com
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-05-29'
 modelYear: 2026
 featuredTool: Figma

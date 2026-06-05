@@ -17,6 +17,7 @@ affiliateLinks:
 - https://writesonic.com/?via=aitoolsnl
 - https://www.jasper.ai/?ref=aitoolsnl
 - https://chatgpt.com
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Writesonic

@@ -15,6 +15,7 @@ cons:
 - Muzikale smaak blijft subjectief, niet elke tool past bij elk genre
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-06-01
 modelYear: 2026
 featuredTool: Suno AI

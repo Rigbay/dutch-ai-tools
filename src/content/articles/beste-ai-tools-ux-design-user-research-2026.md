@@ -15,6 +15,7 @@ cons:
   - Niet elke tool is intensief getest in Nederlandse praktijk
 affiliateLinks:
   - https://maze.co/?ref=aitoolsnl
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-06-02
 modelYear: 2026
 featuredTool: "Maze AI"

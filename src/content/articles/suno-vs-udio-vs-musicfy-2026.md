@@ -15,6 +15,7 @@ cons:
 - AI-muzieklicenties verschillen per platform, check voor commercieel gebruik
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-06-01
 modelYear: 2026
 featuredTool: Suno AI

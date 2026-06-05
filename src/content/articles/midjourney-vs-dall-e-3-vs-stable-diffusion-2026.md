@@ -15,6 +15,7 @@ cons:
 - Sommige features in beta
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-23
 modelYear: 2026
 featuredTool: Midjourney v7

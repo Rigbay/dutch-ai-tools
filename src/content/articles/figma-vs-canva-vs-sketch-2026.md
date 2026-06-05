@@ -10,7 +10,7 @@ priceRange: EUR 0-45/mnd
 pros:
   - Vergelijking van 7 designtools met concrete prijzen en use cases
   - Aandacht voor open-source alternatief Penpot en AI-features in 2026
-  - Praktisch advies per type gebruiker: UI/UX designer tot social media manager
+  - 'Praktisch advies per type gebruiker: UI/UX designer tot social media manager'
 cons:
   - Prijzen en features kunnen wijzigen — check de actuele aanbieder
   - AI-features zijn nog in snelle ontwikkeling en per tool verschillend

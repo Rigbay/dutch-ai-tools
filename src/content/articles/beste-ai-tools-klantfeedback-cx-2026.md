@@ -16,6 +16,7 @@ cons:
 - Sommige AI features zijn nog in actieve ontwikkeling
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.make.com/en/register?pc=hermesai
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Qualtrics AI

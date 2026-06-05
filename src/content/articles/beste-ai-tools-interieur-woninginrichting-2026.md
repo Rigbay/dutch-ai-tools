@@ -16,6 +16,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-22
 modelYear: 2026
 featuredTool: RoomGPT

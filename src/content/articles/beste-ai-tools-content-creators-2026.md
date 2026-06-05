@@ -17,6 +17,7 @@ cons:
 affiliateLinks:
   - https://writesonic.com/?via=aitoolsnl
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Canva AI

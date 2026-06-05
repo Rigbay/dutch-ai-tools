@@ -23,6 +23,7 @@ affiliateLinks:
 - https://brandmark.io/?ref=aitoolsnl
 - https://www.wix.com/logo/maker?ref=aitoolsnl
 - https://www.tailorbrands.com/?ref=aitoolsnl
+  - https://synthesia.io/?via=hermes  # Synthesia
 related:
 - beste-ai-tools-webdesign-websites-2026
 - beste-ai-tools-grafisch-ontwerp-branding-2026

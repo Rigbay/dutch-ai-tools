@@ -15,6 +15,7 @@ cons:
 - Niet elke tool heeft even goede AI-integraties in alle regio's
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.make.com/en/register?pc=hermesai
 date: 2026-06-01
 modelYear: 2026
 featuredTool: Make

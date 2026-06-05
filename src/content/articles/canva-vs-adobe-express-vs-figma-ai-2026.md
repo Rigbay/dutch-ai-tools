@@ -15,6 +15,7 @@ cons:
 - Tools blijven in ontwikkeling — functionaliteit verandert snel
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Canva Magic Studio

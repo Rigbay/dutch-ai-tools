@@ -10,7 +10,7 @@ priceRange: EUR 0-20/mnd
 pros:
   - Vergelijking van 7 cloudopslagdiensten met concrete prijzen in EUR
   - Aandacht voor AVG-compliance en Europese privacy-wetgeving
-  - Praktisch advies per type gebruiker: student tot enterprise
+  - 'Praktisch advies per type gebruiker: student tot enterprise'
 cons:
   - Prijzen en opslagbundels kunnen wijzigen — check actuele aanbiedingen
   - Upload- en downloadsnelheid verschilt per provider en regio

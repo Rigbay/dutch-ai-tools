@@ -24,6 +24,7 @@ affiliateLinks:
 - https://www.captureone.com/?ref=aitoolsnl
 - https://remini.ai/?ref=aitoolsnl
 - https://letsenhance.io/?ref=aitoolsnl
+  - https://synthesia.io/?via=hermes  # Synthesia
 related:
   - beste-ai-video-editing-bewerking-tools-2026
   - beste-ai-video-tools-2026

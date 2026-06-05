@@ -15,6 +15,7 @@ cons:
 - Prijzen kunnen variëren
 affiliateLinks:
   - https://www.beehiiv.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-05-24'
 modelYear: 2026
 featuredTool: Luma Dream Machine

@@ -15,6 +15,7 @@ cons:
 affiliateLinks:
   - https://www.jasper.ai/?ref=aitoolsnl
   - https://www.copy.ai
+  - https://rytr.me/?via=hermes-affiliates  # Rytr
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Jasper AI

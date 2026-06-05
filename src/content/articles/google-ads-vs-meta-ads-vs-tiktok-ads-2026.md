@@ -92,7 +92,7 @@ faq:
       De beste strategie in 2026: begin met Google Shopping, breid uit naar Meta retargeting,
       en test TikTok met een klein budget voor nieuwe doelgroepen.
   - q: Hoeveel budget heb ik minimaal nodig om te starten met online adverteren?
-    - a: >-
+    a: >-
       Je kunt al starten met EUR 5-10 per dag per platform. Voor betekenisvolle resultaten adviseren
       we minimaal EUR 300-500 per maand op Google Ads en EUR 200-400 op Meta Ads. TikTok Ads
       werkt al vanaf EUR 10 per dag. Het belangrijkste is niet het absolute budget maar de

@@ -23,6 +23,7 @@ affiliateLinks:
 - https://www.descript.com/?ref=aitoolsnl
 - https://www.veed.io/?ref=aitoolsnl
 - https://filmora.wondershare.nl/?ref=aitoolsnl
+  - https://synthesia.io/?via=hermes  # Synthesia
 related:
 - ai-video-generatie-tools-2026
 - beste-ai-video-generators-nederland-2026
