@@ -1,7 +1,9 @@
 ---
-title: 'Beste AI Tools voor het Onderwijs in Nederland 2026 — volledige vergelijking'
+title: Beste AI Tools voor het Onderwijs in Nederland 2026 — volledige vergelijking
 slug: beste-ai-tools-onderwijs-nederland-2026
-description: "Vergelijking van de beste ai tools voor het onderwijs in nederland 2026 voor Nederlandse gebruikers. Objectieve beoordeling met prijzen in euro's en praktische keuzehulp."
+description: Vergelijking van de beste ai tools voor het onderwijs in nederland 2026
+  voor Nederlandse gebruikers. Objectieve beoordeling met prijzen in euro's en praktische
+  keuzehulp.
 category: business
 rating: 4.4
 priceRange: EUR 0-200/maand
@@ -13,65 +15,81 @@ cons:
 - Prijzen en functies veranderen snel
 - Gebaseerd op specificaties, niet op fysieke tests
 affiliateLinks:
-  - https://lessonup.com/nl/?ref=aitoolsnl
+- https://lessonup.com/nl/
 date: '2026-06-05'
 modelYear: 2026
 featuredTool: lessonup-ai
 readingTime: 9 min
 tools:
 - name: LessonUp AI (Nederlands)
-  verdict: Beste Nederlandse tool voor leraren — AI genereert interactieve lessen, quizzen en toetsen in het Nederlands
+  verdict: Beste Nederlandse tool voor leraren — AI genereert interactieve lessen,
+    quizzen en toetsen in het Nederlands
   priceRange: EUR 9-25/mnd
   bestFor: Nederlandse lesvoorbereiding met AI-assistentie
   rating: 4.5
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 - name: Magister Learn (Nederlands)
-  verdict: Standaard in 85% van Nederlandse scholen — AI voorspelt studie-uitval en geeft docenten vroegsignalen
+  verdict: Standaard in 85% van Nederlandse scholen — AI voorspelt studie-uitval en
+    geeft docenten vroegsignalen
   priceRange: EUR 5-15/leerling/jaar
   bestFor: Nederlandse leerlingvolgsysteem met AI-analyses
   rating: 4.3
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 - name: Snappet AI (Nederlands)
-  verdict: Nederlands marktleider in adaptief leren — AI past opgaven per kind aan op basis van 100+ miljoen data-analyses
+  verdict: Nederlands marktleider in adaptief leren — AI past opgaven per kind aan
+    op basis van 100+ miljoen data-analyses
   priceRange: EUR 12-25/leerling/jaar
   bestFor: Adaptief Nederlands basisonderwijs op tablets
   rating: 4.4
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 - name: Khan Academy AI (Khanmigo)
-  verdict: Beste AI-tutor met Nederlandse ondersteuning — beantwoordt vragen als een persoonlijke bijlesdocent, niet als antwoordenboek
+  verdict: Beste AI-tutor met Nederlandse ondersteuning — beantwoordt vragen als een
+    persoonlijke bijlesdocent, niet als antwoordenboek
   priceRange: EUR 9/student/jaar
   bestFor: AI-tutor voor wiskunde, taal en science in het Nederlands
   rating: 4.6
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 - name: FeedbackFruits AI
-  verdict: Nederlands-Amsterdamse scale-up — AI geeft studenten direct feedback op academisch schrijven, peer review en samenwerking
+  verdict: Nederlands-Amsterdamse scale-up — AI geeft studenten direct feedback op
+    academisch schrijven, peer review en samenwerking
   priceRange: EUR 5-15/student/jaar
   bestFor: AI-feedback op schrijfopdrachten in hoger onderwijs
   rating: 4.5
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 - name: Quillbot voor Nederlands
-  verdict: Beste parafraseer- en grammaticatool met Nederlandse ondersteuning — ideaal voor NT2-studenten en schrijfonderwijs
+  verdict: Beste parafraseer- en grammaticatool met Nederlandse ondersteuning — ideaal
+    voor NT2-studenten en schrijfonderwijs
   priceRange: EUR 5-20/mnd
   bestFor: AI-schrijfassistent voor NT2 en taalonderwijs
   rating: 4.2
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 - name: SOMtoday AI (Nederlands)
-  verdict: Op een na grootste Nederlandse leerlingvolgsysteem — AI helpt mentoren bij risicosignalering en trendanalyses
+  verdict: Op een na grootste Nederlandse leerlingvolgsysteem — AI helpt mentoren
+    bij risicosignalering en trendanalyses
   priceRange: EUR 3-10/leerling/jaar
   bestFor: Nederlands voortgezet onderwijs administratie + AI-inzichten
   rating: 4.1
-  affiliateLink: https://lessonup.com/nl/?ref=aitoolsnl
+  affiliateLink: https://lessonup.com/nl/
 related:
-  - ai-trends-2026-nederland
-  - nederlandse-ai-adoptie-cijfers-2026
-  - ai-avg-compliance-tools-2026
+- ai-trends-2026-nederland
+- nederlandse-ai-adoptie-cijfers-2026
+- ai-avg-compliance-tools-2026
 faq:
-  - q: "Wat is de beste AI-tool voor het Nederlandse onderwijs?"
-    a: "LessonUp AI is de beste keuze voor interactieve lessen in het primair en voortgezet onderwijs. Voor universiteiten en HBO-instellingen is FeedbackFruits AI de beste optie vanwege de diepe integratie met Canvas en Brightspace, de twee dominante LMS'en in het Nederlandse hoger onderwijs."
-  - q: "Zijn AI-tools in het onderwijs AVG-proof?"
-    a: "Nederlandse AI-onderwijstools zoals LessonUp, Magister Learn en Snappet zijn AVG-conform en verwerken leerlinggegevens op servers binnen de EU. Voor niet-Nederlandse tools zoals Khanmigo is het belangrijk om het dataverwerkingsovereenkomst (DPA/verwerkersovereenkomst) te controleren voordat je ze met leerlinggegevens gebruikt."
-  - q: "Wat kost een AI-onderwijstool gemiddeld?"
-    a: "De kosten variëren sterk per type tool. Lesplatforms zoals LessonUp en Snappet kosten €5-15 per leerling per jaar. Leerlingvolgsystemen zoals Magister en SOMtoday rekenen €3-10 per leerling per jaar. Internationale tools zoals Khanmigo zijn vaak gratis voor docenten, met premium-opties vanaf $4/maand."
+- q: Wat is de beste AI-tool voor het Nederlandse onderwijs?
+  a: LessonUp AI is de beste keuze voor interactieve lessen in het primair en voortgezet
+    onderwijs. Voor universiteiten en HBO-instellingen is FeedbackFruits AI de beste
+    optie vanwege de diepe integratie met Canvas en Brightspace, de twee dominante
+    LMS'en in het Nederlandse hoger onderwijs.
+- q: Zijn AI-tools in het onderwijs AVG-proof?
+  a: Nederlandse AI-onderwijstools zoals LessonUp, Magister Learn en Snappet zijn
+    AVG-conform en verwerken leerlinggegevens op servers binnen de EU. Voor niet-Nederlandse
+    tools zoals Khanmigo is het belangrijk om het dataverwerkingsovereenkomst (DPA/verwerkersovereenkomst)
+    te controleren voordat je ze met leerlinggegevens gebruikt.
+- q: Wat kost een AI-onderwijstool gemiddeld?
+  a: De kosten variëren sterk per type tool. Lesplatforms zoals LessonUp en Snappet
+    kosten €5-15 per leerling per jaar. Leerlingvolgsystemen zoals Magister en SOMtoday
+    rekenen €3-10 per leerling per jaar. Internationale tools zoals Khanmigo zijn
+    vaak gratis voor docenten, met premium-opties vanaf $4/maand.
 ---
 
 # Beste AI Tools voor het Onderwijs in Nederland 2026

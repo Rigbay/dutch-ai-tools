@@ -16,14 +16,13 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.capcut.com/?ref=aitoolsnl
-- https://www.adobe.com/nl/products/premiere.html?ref=aitoolsnl
-- https://www.blackmagicdesign.com/products/davinciresolve?ref=aitoolsnl
-- https://runwayml.com/?ref=aitoolsnl
-- https://www.descript.com/?ref=aitoolsnl
-- https://www.veed.io/?ref=aitoolsnl
-- https://filmora.wondershare.nl/?ref=aitoolsnl
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.capcut.com/
+- https://www.adobe.com/nl/products/premiere.html
+- https://www.blackmagicdesign.com/products/davinciresolve
+- https://runwayml.com/
+- https://www.descript.com/
+- https://www.veed.io/
+- https://filmora.wondershare.nl/
 related:
 - ai-video-generatie-tools-2026
 - beste-ai-video-generators-nederland-2026
@@ -39,49 +38,49 @@ tools:
   priceRange: EUR 0-8/mnd
   bestFor: Social media creators
   rating: 4.6
-  affiliateLink: https://www.capcut.com/?ref=aitoolsnl
+  affiliateLink: https://www.capcut.com/
 - name: Adobe Premiere Pro
   verdict: Professionele standaard met AI-features zoals auto-reframe, scene edit
     detection, speech-to-text en AI-kleurcorrectie
   priceRange: EUR 24/mnd
   bestFor: Professionele filmmakers
   rating: 4.7
-  affiliateLink: https://www.adobe.com/nl/products/premiere.html?ref=aitoolsnl
+  affiliateLink: https://www.adobe.com/nl/products/premiere.html
 - name: DaVinci Resolve
   verdict: Gratis professionele editor met AI-gestuurde kleurcorrectie, gezichtsherkenning
     en noise reduction — industrie-standaard voor color grading
   priceRange: EUR 0-321/eenmalig
   bestFor: Color grading & high-end productie
   rating: 4.8
-  affiliateLink: https://www.blackmagicdesign.com/products/davinciresolve?ref=aitoolsnl
+  affiliateLink: https://www.blackmagicdesign.com/products/davinciresolve
 - name: RunwayML
   verdict: 'Generatieve AI voor video: object removal, background replacement, inpainting,
     text-to-video en green screen zonder chroma key'
   priceRange: EUR 12-76/mnd
   bestFor: Generatieve AI videobewerking
   rating: 4.5
-  affiliateLink: https://runwayml.com/?ref=aitoolsnl
+  affiliateLink: https://runwayml.com/
 - name: Descript
   verdict: Bewerk video door tekst aan te passen — AI-editor die audio, transcript
     en video synchroniseert, ideaal voor podcasts en screencasts
   priceRange: EUR 0-33/mnd
   bestFor: Podcasts & screencasts
   rating: 4.4
-  affiliateLink: https://www.descript.com/?ref=aitoolsnl
+  affiliateLink: https://www.descript.com/
 - name: Veed.io
   verdict: Browsergebaseerde AI-video editor met automatische ondertiteling, vertaling
     en samenvatting — geen installatie nodig
   priceRange: EUR 0-30/mnd
   bestFor: Snelle browser editing
   rating: 4.3
-  affiliateLink: https://www.veed.io/?ref=aitoolsnl
+  affiliateLink: https://www.veed.io/
 - name: Wondershare Filmora
   verdict: Toegankelijke AI-video editor met ingebouwde AI-copilot, AI motion tracking,
     AI portrait en AI audio denoise
   priceRange: EUR 40-80/jaar
   bestFor: Hobbyisten & semi-professionals
   rating: 4.2
-  affiliateLink: https://filmora.wondershare.nl/?ref=aitoolsnl
+  affiliateLink: https://filmora.wondershare.nl/
 faq:
 - q: Welke AI video editor is het beste voor beginners?
   a: 'CapCut is de beste keuze voor beginners: volledig gratis, extreem gebruiksvriendelijk

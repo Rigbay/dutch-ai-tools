@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://woebothealth.com/?ref=aitoolsnl
-  - https://limbic.ai/?ref=aitoolsnl
-  - https://www.lyssn.io/?ref=aitoolsnl
-  - https://ict.usc.edu/?ref=aitoolsnl
-  - https://www.wysa.com/?ref=aitoolsnl
-  - https://www.quartethealth.com/?ref=aitoolsnl
-  - https://www.eleos.health/?ref=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://woebothealth.com/
+- https://limbic.ai/
+- https://www.lyssn.io/
+- https://ict.usc.edu/
+- https://www.wysa.com/
+- https://www.quartethealth.com/
+- https://www.eleos.health/
 related:
 - beste-ai-tools-gaming-2026
 - beste-ai-tools-kleine-ondernemers-2026
@@ -40,49 +40,49 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: CGT tussen sessies & laagdrempelige zorg
   rating: 4.4
-  affiliateLink: https://woebothealth.com/?ref=aitoolsnl
+  affiliateLink: https://woebothealth.com/
 - name: Limbic AI
   verdict: 'AI-triage en intake voor GGZ: verkort wachttijden door slimme verwijzing
     en risico-inschatting — UK NHS-goedgekeurd'
   priceRange: EUR 100-300/mnd per behandelaar
   bestFor: Intake, triage & wachtlijstbeheer
   rating: 4.6
-  affiliateLink: https://limbic.ai/?ref=aitoolsnl
+  affiliateLink: https://limbic.ai/
 - name: Lyssn AI
   verdict: 'AI die therapiesessies analyseert op kwaliteit: meet empathie, CGT-getrouwheid
     en cliëntbetrokkenheid'
   priceRange: EUR 50-200/mnd
   bestFor: Supervisie & kwaliteitsbewaking
   rating: 4.3
-  affiliateLink: https://www.lyssn.io/?ref=aitoolsnl
+  affiliateLink: https://www.lyssn.io/
 - name: Ellie (USC ICT)
   verdict: Virtuele interviewer die non-verbale signalen leest — depressie, PTSS en
     angst automatisch screenend
   priceRange: Op aanvraag (onderzoekslicentie)
   bestFor: Automatische screening & diagnostiek
   rating: 4.2
-  affiliateLink: https://ict.usc.edu/?ref=aitoolsnl
+  affiliateLink: https://ict.usc.edu/
 - name: Wysa
   verdict: AI-mentale gezondheidsapp met therapeutische gesprekken en zelfhulpmodules
     — NHS en SingHealth goedgekeurd
   priceRange: EUR 0-15/mnd (gratis tier)
   bestFor: Zelfhulp & preventieve GGZ
   rating: 4.5
-  affiliateLink: https://www.wysa.com/?ref=aitoolsnl
+  affiliateLink: https://www.wysa.com/
 - name: Quartet Health
   verdict: 'AI-platform dat fysieke en mentale zorg integreert: matcht patiënten met
     juiste behandelaar op basis van symptomen en verzekering'
   priceRange: Op aanvraag
   bestFor: Zorgintegratie & verwijzing
   rating: 4.1
-  affiliateLink: https://www.quartethealth.com/?ref=aitoolsnl
+  affiliateLink: https://www.quartethealth.com/
 - name: Eleos Health
   verdict: 'AI-documentatie voor therapeuten: automatische SOAP-rapportages, voortgangsmeting
     en behandelplan-ondersteuning'
   priceRange: EUR 75-250/mnd
   bestFor: Rapportage & administratie
   rating: 4.4
-  affiliateLink: https://www.eleos.health/?ref=aitoolsnl
+  affiliateLink: https://www.eleos.health/
 faq:
 - q: Zijn AI tools veilig voor gevoelige data?
   a: De meeste tools bieden enterprise-grade beveiliging met encryptie, maar check

@@ -1,7 +1,9 @@
 ---
-title: 'AI Trends 2026 in Nederland: van autonomere agents tot lokale modellen en EU-compliance'
+title: 'AI Trends 2026 in Nederland: van autonomere agents tot lokale modellen en
+  EU-compliance'
 slug: ai-trends-2026-nederland
-description: 'De belangrijkste AI trends in Nederland in 2026: lokale modellen, EU AI Act-kanttekeningen, autonome agents en toepassing in het MKB.'
+description: 'De belangrijkste AI trends in Nederland in 2026: lokale modellen, EU
+  AI Act-kanttekeningen, autonome agents en toepassing in het MKB.'
 category: technologie
 rating: 4.4
 priceRange: EUR 0-100/maand
@@ -13,7 +15,7 @@ cons:
 - Snelle marktontwikkeling
 - Prijzen en beschikbaarheid veranderen snel
 affiliateLinks:
-  - https://www.notion.so
+- https://www.notion.so
 date: '2026-05-25'
 modelYear: 2026
 featuredTool: manus
@@ -24,31 +26,34 @@ tools:
   priceRange: EUR 20-200/mnd
   bestFor: NL-marktonderzoek
   rating: 4.7
-  affiliateLink: https://manus.im/?ref=aitoolsnl
+  affiliateLink: https://manus.im/
 - name: OpenAI Operator
   verdict: gebruiksvriendelijke agent voor MKB-automatisering
   priceRange: EUR 20-200/mnd
   bestFor: Business automatisering
   rating: 4.5
-  affiliateLink: https://openai.com/?ref=aitoolsnl
+  affiliateLink: https://openai.com/
 - name: Devin
   verdict: Specialist AI voor code-development en integraties
   priceRange: EUR 20-200/mnd
   bestFor: Developer teams
   rating: 4.6
-  affiliateLink: https://cognition.ai/?ref=aitoolsnl
+  affiliateLink: https://cognition.ai/
 related:
-  - beste-ai-tools-energiebeheer-2026
-  - nederlandse-ai-adoptie-cijfers-2026
-  - nederlandse-ai-startups-2026
+- beste-ai-tools-energiebeheer-2026
+- nederlandse-ai-adoptie-cijfers-2026
+- nederlandse-ai-startups-2026
 draft: false
 faq:
-  - q: Wat is de grootste AI trend in Nederland 2026?
-    a: Lokale en soevereine AI-modellen nemen flink toe, mede door EU AI Act en toenemende data-beschermingseisen.
-  - q: Moet het MKB nu al op AI springen?
-    a: Ja, vooral voor repetitieve taken zoals klantenservice en planning zijn de tools volwassen en betaalbaar.
-  - q: Wat is de impact van de EU AI Act?
-    a: De wet dwingt tot transparantie en risk management, en opent de deur voor Europese AI-aanbieders.
+- q: Wat is de grootste AI trend in Nederland 2026?
+  a: Lokale en soevereine AI-modellen nemen flink toe, mede door EU AI Act en toenemende
+    data-beschermingseisen.
+- q: Moet het MKB nu al op AI springen?
+  a: Ja, vooral voor repetitieve taken zoals klantenservice en planning zijn de tools
+    volwassen en betaalbaar.
+- q: Wat is de impact van de EU AI Act?
+  a: De wet dwingt tot transparantie en risk management, en opent de deur voor Europese
+    AI-aanbieders.
 ---
 
 # AI Trends 2026 in Nederland: van autonomere agents tot lokale modellen en EU-compliance

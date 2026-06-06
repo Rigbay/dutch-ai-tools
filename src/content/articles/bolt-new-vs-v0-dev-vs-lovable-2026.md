@@ -1,7 +1,8 @@
 ---
 title: 'Bolt.new vs v0.dev vs Lovable 2026: de beste AI app builders voor niet-developers'
 slug: bolt-new-vs-v0-dev-vs-lovable-2026
-description: 'Vergelijk Bolt.new, v0.dev en Lovable in 2026: welke AI tool bouwt de beste apps zonder code? Complete koopgids met prijzen en use cases.'
+description: 'Vergelijk Bolt.new, v0.dev en Lovable in 2026: welke AI tool bouwt de
+  beste apps zonder code? Complete koopgids met prijzen en use cases.'
 category: development
 rating: 4.5
 priceRange: EUR 0-50/mnd
@@ -25,43 +26,43 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Full-stack apps
   rating: 4.6
-  affiliateLink: https://bolt.new/?ref=aitoolsnl
+  affiliateLink: https://bolt.new/
 - name: v0.dev
   verdict: Vercel's AI builder met naadloze Next.js integratie en prachtige UI output
   priceRange: EUR 0-20/mnd
   bestFor: React/Next.js UI
   rating: 4.5
-  affiliateLink: https://v0.dev/?ref=aitoolsnl
+  affiliateLink: https://v0.dev/
 - name: Lovable
   verdict: Gebruiksvriendelijkste AI app builder met GPT-4 en snelle iteratie cycli
   priceRange: EUR 0-50/mnd
   bestFor: Snelle prototypes
   rating: 4.7
-  affiliateLink: https://lovable.dev/?ref=aitoolsnl
+  affiliateLink: https://lovable.dev/
 - name: Replit AI
   verdict: Complete cloud IDE met AI agent die volledige apps kan bouwen en deployen
   priceRange: EUR 0-25/mnd
   bestFor: Beginners & studenten
   rating: 4.4
-  affiliateLink: https://replit.com/?ref=aitoolsnl
+  affiliateLink: https://replit.com/
 - name: Cursor Composer
   verdict: AI code editor met agent-modus voor complexere applicaties
   priceRange: EUR 20/mnd
   bestFor: Ontwikkelaars met ervaring
   rating: 4.8
-  affiliateLink: https://cursor.com/?ref=aitoolsnl
+  affiliateLink: https://cursor.com/
 - name: Tempo Labs
   verdict: AI builder gefocust op React componenten met visuele editor
   priceRange: EUR 0-30/mnd
   bestFor: React developers
   rating: 4.3
-  affiliateLink: https://www.tempolabs.ai/?ref=aitoolsnl
+  affiliateLink: https://www.tempolabs.ai/
 - name: GPT Engineer
   verdict: Open-source tool die op basis van prompts complete applicaties genereert
   priceRange: Gratis (open-source)
   bestFor: Open-source fans
   rating: 4.2
-  affiliateLink: https://gptengineer.app/?ref=aitoolsnl
+  affiliateLink: https://gptengineer.app/
 related:
 - beste-ai-chatbots-2026
 - beste-gratis-ai-tools-2026
@@ -69,11 +70,16 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Bolt.new de meest complete keuze voor de meeste Nederlandse gebruikers. De specifieke beste keuze hangt af van je budget, technische kennis en het type app dat je wilt bouwen.
+  a: Op basis van onze analyse in 2026 is Bolt.new de meest complete keuze voor de
+    meeste Nederlandse gebruikers. De specifieke beste keuze hangt af van je budget,
+    technische kennis en het type app dat je wilt bouwen.
 - q: Zijn er goede gratis alternatieven?
-  a: Ja, Bolt.new, v0.dev en Lovable bieden alle drie een gratis instapniveau. GPT Engineer is volledig open-source en gratis te gebruiken als je het zelf host.
+  a: Ja, Bolt.new, v0.dev en Lovable bieden alle drie een gratis instapniveau. GPT
+    Engineer is volledig open-source en gratis te gebruiken als je het zelf host.
 - q: Werken deze tools goed in het Nederlands?
-  a: De meeste AI app builders werken met Engelse prompts, maar begrijpen ook Nederlandse instructies. De output is doorgaans in het Engels (code) maar de gegenereerde UI-teksten kun je eenvoudig naar het Nederlands vertalen.
+  a: De meeste AI app builders werken met Engelse prompts, maar begrijpen ook Nederlandse
+    instructies. De output is doorgaans in het Engels (code) maar de gegenereerde
+    UI-teksten kun je eenvoudig naar het Nederlands vertalen.
 ---
 ## Lees ook
 

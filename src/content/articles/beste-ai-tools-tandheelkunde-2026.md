@@ -1,7 +1,8 @@
 ---
 title: 'Beste AI Tools voor Tandheelkunde 2026: top 7 tandheelkunde-AI vergeleken'
 slug: beste-ai-tools-tandheelkunde-2026
-description: "Vergelijk de beste AI tools voor tandartspraktijken in 2026: röntgenanalyse, perio-charting, behandelplanning en praktijkautomatisering."
+description: 'Vergelijk de beste AI tools voor tandartspraktijken in 2026: röntgenanalyse,
+  perio-charting, behandelplanning en praktijkautomatisering.'
 category: business
 rating: 4.6
 priceRange: EUR 0-100/mnd
@@ -14,66 +15,73 @@ cons:
 - Klinische verantwoordelijkheid blijft altijd bij de tandarts
 - Integraties verschillen sterk per praktijksoftware en land
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Pearl AI
 readingTime: 8 min
 tools:
 - name: Pearl AI
-  verdict: "Beste totaalpakket voor AI-röntgendiagnostiek en patiëntacceptatie in moderne praktijken"
+  verdict: Beste totaalpakket voor AI-röntgendiagnostiek en patiëntacceptatie in moderne
+    praktijken
   priceRange: EUR 200-1000/mnd
-  bestFor: "Röntgenanalyse"
+  bestFor: Röntgenanalyse
   rating: 4.8
-  affiliateLink: https://www.hellopearl.com/?ref=aitoolsnl
+  affiliateLink: https://www.hellopearl.com/
 - name: Overjet
-  verdict: "Sterkste keuze voor meetbare klinische AI, parodontale inzichten en verzekeringsworkflows"
+  verdict: Sterkste keuze voor meetbare klinische AI, parodontale inzichten en verzekeringsworkflows
   priceRange: EUR 300-1500/mnd
-  bestFor: "Klinische besluitvorming"
+  bestFor: Klinische besluitvorming
   rating: 4.7
-  affiliateLink: https://www.overjet.com/?ref=aitoolsnl
+  affiliateLink: https://www.overjet.com/
 - name: VideaHealth
-  verdict: "Beste voor consistente cariës- en botverliesdetectie in drukke tandartsorganisaties"
+  verdict: Beste voor consistente cariës- en botverliesdetectie in drukke tandartsorganisaties
   priceRange: EUR 250-1200/mnd
-  bestFor: "Diagnostische second opinion"
+  bestFor: Diagnostische second opinion
   rating: 4.6
-  affiliateLink: https://www.videa.ai/?ref=aitoolsnl
+  affiliateLink: https://www.videa.ai/
 - name: Denti.AI
-  verdict: "Beste voor geautomatiseerde röntgenanalyse en voice perio charting in één workflow"
+  verdict: Beste voor geautomatiseerde röntgenanalyse en voice perio charting in één
+    workflow
   priceRange: EUR 150-800/mnd
-  bestFor: "Diagnostiek en charting"
+  bestFor: Diagnostiek en charting
   rating: 4.5
-  affiliateLink: https://www.denti.ai/?ref=aitoolsnl
+  affiliateLink: https://www.denti.ai/
 - name: Diagnocat
-  verdict: "Beste voor 2D- en 3D-beeldanalyse, implantaatplanning en orthodontische rapportages"
+  verdict: Beste voor 2D- en 3D-beeldanalyse, implantaatplanning en orthodontische
+    rapportages
   priceRange: EUR 100-700/mnd
-  bestFor: "CBCT en behandelplanning"
+  bestFor: CBCT en behandelplanning
   rating: 4.4
-  affiliateLink: https://www.diagnocat.com/?ref=aitoolsnl
+  affiliateLink: https://www.diagnocat.com/
 - name: Bola AI
-  verdict: "Beste spraakgestuurde assistent voor perio-charting zonder toetsenbord of muis"
+  verdict: Beste spraakgestuurde assistent voor perio-charting zonder toetsenbord
+    of muis
   priceRange: EUR 100-500/mnd
-  bestFor: "Voice perio charting"
+  bestFor: Voice perio charting
   rating: 4.3
-  affiliateLink: https://www.bola.ai/?ref=aitoolsnl
+  affiliateLink: https://www.bola.ai/
 - name: Dentally
-  verdict: "Beste cloudpraktijksoftware met slimme automatisering voor Europese tandartspraktijken"
+  verdict: Beste cloudpraktijksoftware met slimme automatisering voor Europese tandartspraktijken
   priceRange: EUR 50-300/mnd
-  bestFor: "Praktijkmanagement"
+  bestFor: Praktijkmanagement
   rating: 4.2
-  affiliateLink: https://www.dentally.com/?ref=aitoolsnl
+  affiliateLink: https://www.dentally.com/
 related:
 - beste-ai-tools-zorg-2026
 - beste-ai-tools-apotheek-farmacie-2026
 - beste-ai-tools-data-privacy-avg-2026
 draft: false
 faq:
-- q: "Mag AI zelfstandig diagnoses stellen in de tandheelkunde?"
-  a: "Nee. AI kan afwijkingen markeren en metingen ondersteunen, maar de tandarts blijft verantwoordelijk voor diagnose, behandelplan en patiëntcommunicatie."
-- q: "Welke AI tool is het beste voor röntgenfoto's?"
-  a: "Pearl AI en Overjet zijn de sterkste opties voor algemene röntgenanalyse. Pearl blinkt uit in visuele patiëntuitleg, Overjet in meetbare klinische inzichten."
-- q: "Is tandheelkundige AI geschikt voor kleine praktijken?"
-  a: "Ja, vooral voor praktijken met veel bitewings, OPG's of paro-controles. Let wel op maandkosten, koppelingen met je PMS en lokale regelgeving rond medische data."
+- q: Mag AI zelfstandig diagnoses stellen in de tandheelkunde?
+  a: Nee. AI kan afwijkingen markeren en metingen ondersteunen, maar de tandarts blijft
+    verantwoordelijk voor diagnose, behandelplan en patiëntcommunicatie.
+- q: Welke AI tool is het beste voor röntgenfoto's?
+  a: Pearl AI en Overjet zijn de sterkste opties voor algemene röntgenanalyse. Pearl
+    blinkt uit in visuele patiëntuitleg, Overjet in meetbare klinische inzichten.
+- q: Is tandheelkundige AI geschikt voor kleine praktijken?
+  a: Ja, vooral voor praktijken met veel bitewings, OPG's of paro-controles. Let wel
+    op maandkosten, koppelingen met je PMS en lokale regelgeving rond medische data.
 ---
 # AI in de Tandheelkunde: de beste tools voor 2026
 

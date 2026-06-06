@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: beehiiv
@@ -34,31 +34,31 @@ tools:
   priceRange: EUR 0-350/mnd
   bestFor: E-mailcampagnes
   rating: 4.3
-  affiliateLink: https://mailchimp.com/?ref=aitoolsnl
+  affiliateLink: https://mailchimp.com/
 - name: GetResponse AI
   verdict: AI e-mailtool met sterke Nederlandse taalondersteuning
   priceRange: EUR 15-100/mnd
   bestFor: Nederlandse markt
   rating: 4.2
-  affiliateLink: https://www.getresponse.com/?ref=aitoolsnl
+  affiliateLink: https://www.getresponse.com/
 - name: ActiveCampaign
   verdict: Geavanceerde automatisering met AI voor gepersonaliseerde e-mails
   priceRange: EUR 15-280/mnd
   bestFor: Marketing automatisering
   rating: 4.4
-  affiliateLink: https://www.activecampaign.com/?ref=aitoolsnl
+  affiliateLink: https://www.activecampaign.com/
 - name: ConvertKit
   verdict: Populair bij creators met sterke AI voor segmentatie
   priceRange: EUR 0-100/mnd
   bestFor: Content creators
   rating: 4.2
-  affiliateLink: https://convertkit.com/?ref=aitoolsnl
+  affiliateLink: https://convertkit.com/
 - name: HubSpot AI
   verdict: Enterprise e-mailmarketing met AI in volledig CRM-ecosysteem
   priceRange: EUR 0-800/mnd
   bestFor: Enterprise
   rating: 4.1
-  affiliateLink: https://www.hubspot.com/?ref=aitoolsnl
+  affiliateLink: https://www.hubspot.com/
 - name: AI Tool G
   verdict: Extra optie voor AI e-mail marketing vergelijking
   priceRange: EUR 10-50/mnd

@@ -1,8 +1,8 @@
 ---
 title: 'Bitwarden vs 1Password vs LastPass 2026: beste password manager'
 slug: bitwarden-vs-1password-vs-lastpass-2026
-description: Bitwarden, 1Password of LastPass in 2026? Vergelijk de beste password managers op veiligheid, gebruiksgemak,
-  prijs, Nederlandse ondersteuning en gezinsopties.
+description: Bitwarden, 1Password of LastPass in 2026? Vergelijk de beste password
+  managers op veiligheid, gebruiksgemak, prijs, Nederlandse ondersteuning en gezinsopties.
 category: technologie
 rating: 4.4
 priceRange: EUR 0-200/mnd
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 0-4/mnd
   bestFor: Open-source & Budget
   rating: 4.7
-  affiliateLink: https://bitwarden.com/?ref=aitoolsnl
+  affiliateLink: https://bitwarden.com/
 - name: 1Password
   verdict: Beste UX en design met uitgebreide gezins- en teamfuncties
   priceRange: EUR 3-5/mnd
   bestFor: Gebruiksgemak & Gezinnen
   rating: 4.8
-  affiliateLink: https://1password.com/?ref=aitoolsnl
+  affiliateLink: https://1password.com/
 - name: LastPass
   verdict: Bekend maar herstellende van datalekken — nog steeds miljoenen gebruikers
   priceRange: EUR 0-4/mnd
   bestFor: Prijsbewuste gebruikers (met voorbehoud)
   rating: 3.8
-  affiliateLink: https://lastpass.com/?ref=aitoolsnl
+  affiliateLink: https://lastpass.com/
 - name: Dashlane
   verdict: All-in-one met ingebouwde VPN en dark web monitoring
   priceRange: EUR 0-5/mnd
   bestFor: All-in-one security
   rating: 4.5
-  affiliateLink: https://dashlane.com/?ref=aitoolsnl
+  affiliateLink: https://dashlane.com/
 - name: NordPass
   verdict: Sterke encryptie van Nord Security met XChaCha20 en passkey focus
   priceRange: EUR 0-3/mnd
   bestFor: Nord-ecosysteem & Security
   rating: 4.4
-  affiliateLink: https://nordpass.com/?ref=aitoolsnl
+  affiliateLink: https://nordpass.com/
 - name: Keeper
   verdict: Enterprise-favoriet met uitgebreide compliance en audit-mogelijkheden
   priceRange: EUR 3-7/mnd
   bestFor: Enterprise & Compliance
   rating: 4.3
-  affiliateLink: https://keepersecurity.com/?ref=aitoolsnl
+  affiliateLink: https://keepersecurity.com/
 - name: Proton Pass
   verdict: Zwitsers privacy-alternatief van Proton — eenvoudig en AVG-compliant
   priceRange: EUR 0-3/mnd
   bestFor: Privacy & EU/AVG
   rating: 4.2
-  affiliateLink: https://proton.me/pass?ref=aitoolsnl
+  affiliateLink: https://proton.me/pass
 related:
 - ahrefs-vs-semrush-vs-moz-2026
 - ai-agents-vs-ai-workflows-praktijk-nederland-2026
@@ -70,7 +70,8 @@ related:
 draft: false
 faq:
 - q: Wat is de beste tool?
-  a: Dat hangt af van je situatie. Bitwarden is voor de meeste gebruikers een prima startpunt.
+  a: Dat hangt af van je situatie. Bitwarden is voor de meeste gebruikers een prima
+    startpunt.
 - q: Zijn er gratis alternatieven?
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?

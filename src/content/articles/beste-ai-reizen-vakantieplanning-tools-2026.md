@@ -17,17 +17,17 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.google.com/travel/?ref=aitoolsnl
-- https://www.tripit.com/?ref=aitoolsnl
-- https://www.hopper.com/?ref=aitoolsnl
-- https://www.kayak.nl/?ref=aitoolsnl
-- https://roadtrippers.com/?ref=aitoolsnl
-- https://packpoint.app/?ref=aitoolsnl
-- https://www.roamaround.io/?ref=aitoolsnl
+- https://www.google.com/travel/
+- https://www.tripit.com/
+- https://www.hopper.com/
+- https://www.kayak.nl/
+- https://roadtrippers.com/
+- https://packpoint.app/
+- https://www.roamaround.io/
 related:
-  - ai-voor-studenten-2026
-  - beste-ai-tools-wearables-2026
-  - beste-ai-tools-automotive-2026
+- ai-voor-studenten-2026
+- beste-ai-tools-wearables-2026
+- beste-ai-tools-automotive-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Google Travel (Gemini)
@@ -39,49 +39,49 @@ tools:
   priceRange: EUR 0 (gratis)
   bestFor: Alles-in-één reisplanning
   rating: 4.7
-  affiliateLink: https://www.google.com/travel/?ref=aitoolsnl
+  affiliateLink: https://www.google.com/travel/
 - name: TripIt
   verdict: AI-reisorganisator die al je reserveringen automatisch in één reisroute
     samenvoegt uit e-mailbevestigingen — onmisbaar voor zakenreizigers
   priceRange: EUR 0-49/jaar
   bestFor: Zakenreizigers
   rating: 4.5
-  affiliateLink: https://www.tripit.com/?ref=aitoolsnl
+  affiliateLink: https://www.tripit.com/
 - name: Hopper
   verdict: AI-prijsvoorspeller die aangeeft wanneer je het beste kunt boeken voor
     vluchten en hotels — met 'freeze the price' garantie
   priceRange: EUR 0 (gratis)
   bestFor: Prijsbewuste reizigers
   rating: 4.4
-  affiliateLink: https://www.hopper.com/?ref=aitoolsnl
+  affiliateLink: https://www.hopper.com/
 - name: Kayak
   verdict: AI-zoekmachine voor vluchten, hotels en huurauto's met prijsvergelijking,
     prijsalerts en Explore-functie voor budgetvriendelijke bestemmingen
   priceRange: EUR 0 (gratis)
   bestFor: Vergelijken & boeken
   rating: 4.5
-  affiliateLink: https://www.kayak.nl/?ref=aitoolsnl
+  affiliateLink: https://www.kayak.nl/
 - name: Roadtrippers
   verdict: AI-roadtrip planner die routes optimaliseert met bezienswaardigheden, accommodaties
     en eetgelegenheden onderweg — ideaal voor Europese roadtrips
   priceRange: EUR 0-30/jaar
   bestFor: Roadtrips & camperreizen
   rating: 4.2
-  affiliateLink: https://roadtrippers.com/?ref=aitoolsnl
+  affiliateLink: https://roadtrippers.com/
 - name: PackPoint
   verdict: AI-paklijst generator die op basis van bestemming, reisduur, activiteiten
     en weersverwachting een gepersonaliseerde paklijst maakt
   priceRange: EUR 0-3/mnd
   bestFor: Inpakken & organiseren
   rating: 4.3
-  affiliateLink: https://packpoint.app/?ref=aitoolsnl
+  affiliateLink: https://packpoint.app/
 - name: Roam Around
   verdict: AI-reisroute generator die in seconden een complete dag-tot-dag reisplanning
     maakt met bezienswaardigheden, restaurants en activiteiten
   priceRange: EUR 0-10/mnd
   bestFor: Snelle reisplanning
   rating: 4.1
-  affiliateLink: https://www.roamaround.io/?ref=aitoolsnl
+  affiliateLink: https://www.roamaround.io/
 faq:
 - q: Wat is de beste AI reisplanner voor 2026?
   a: Google Travel met Gemini AI biedt de meest complete ervaring. TripIt is beter

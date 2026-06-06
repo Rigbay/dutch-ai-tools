@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Applied Intuition
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 2000-10000/mnd
   bestFor: Autonome voertuigen
   rating: 4.7
-  affiliateLink: https://wayve.ai/?ref=aitoolsnl
+  affiliateLink: https://wayve.ai/
 - name: Monolith AI
   verdict: AI simulatie en digital twin voor voertuigontwikkeling en testing
   priceRange: EUR 1500-6000/mnd
   bestFor: Simulatie en testen
   rating: 4.6
-  affiliateLink: https://monolith.ai/?ref=aitoolsnl
+  affiliateLink: https://monolith.ai/
 - name: UVeye
   verdict: AI-gedreven voertuiginspectie met camera's voor schade en onderhoud
   priceRange: EUR 800-3000/mnd
   bestFor: Voertuiginspectie
   rating: 4.5
-  affiliateLink: https://www.uveye.com/?ref=aitoolsnl
+  affiliateLink: https://www.uveye.com/
 - name: Cognata
   verdict: AI simulatieplatform voor autonome voertuigen en ADAS testing
   priceRange: EUR 1000-5000/mnd
   bestFor: ADAS en AV simulatie
   rating: 4.4
-  affiliateLink: https://www.cognata.com/?ref=aitoolsnl
+  affiliateLink: https://www.cognata.com/
 - name: Phantom Auto
   verdict: Remote driving en teleoperatie voor autonome en bemande voertuigen
   priceRange: EUR 500-2500/mnd
   bestFor: Remote operatie
   rating: 4.3
-  affiliateLink: https://phantomauto.com/?ref=aitoolsnl
+  affiliateLink: https://phantomauto.com/
 - name: Applied Intuition
   verdict: Geavanceerde simulatie en validatie voor autonome systemen
   priceRange: EUR 3000-15000/mnd
   bestFor: Enterprise AV ontwikkeling
   rating: 4.8
-  affiliateLink: https://www.appliedintuition.com/?ref=aitoolsnl
+  affiliateLink: https://www.appliedintuition.com/
 - name: Ravin AI
   verdict: AI voor real-time verkeers- en mobiliteitsdata analyse en optimalisatie
   priceRange: EUR 400-2000/mnd
   bestFor: Mobiliteitsoptimalisatie
   rating: 4.2
-  affiliateLink: https://ravin.ai/?ref=aitoolsnl
+  affiliateLink: https://ravin.ai/
 related:
 - beste-ai-presentatie-tools-2026
 - beste-ai-tools-reizen-vakantieplanning-2026

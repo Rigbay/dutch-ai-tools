@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Harvey AI
@@ -26,7 +26,7 @@ tools:
   priceRange: EUR 200-500/mnd
   bestFor: Juridisch onderzoek
   rating: 4.6
-  affiliateLink: https://www.harvey.ai/?ref=aitoolsnl
+  affiliateLink: https://www.harvey.ai/
 - name: ChatGPT
   verdict: Veelzijdige AI voor eerste juridische analyses en brondocumentatie
   priceRange: EUR 0-25/mnd
@@ -44,25 +44,25 @@ tools:
   priceRange: EUR 100-300/mnd
   bestFor: Contractdatabase
   rating: 4.4
-  affiliateLink: https://henchman.io/?ref=aitoolsnl
+  affiliateLink: https://henchman.io/
 - name: DeepL
   verdict: Beste AI-vertaling voor juridische documenten met EU-taalondersteuning
   priceRange: EUR 0-50/mnd
   bestFor: Juridische vertalingen
   rating: 4.6
-  affiliateLink: https://www.deepl.com/?ref=aitoolsnl
+  affiliateLink: https://www.deepl.com/
 - name: Legalyze
   verdict: AI die juridische documenten samenvat en relevante passages markeert
   priceRange: EUR 50-150/mnd
   bestFor: Documentsamenvatting
   rating: 4.2
-  affiliateLink: https://www.legalyze.ai/?ref=aitoolsnl
+  affiliateLink: https://www.legalyze.ai/
 - name: Docusign AI
   verdict: Digitale handtekeningen met AI contractinzicht en nalevingscontrole
   priceRange: EUR 10-50/mnd
   bestFor: Ondertekening & compliance
   rating: 4.3
-  affiliateLink: https://www.docusign.com/?ref=aitoolsnl
+  affiliateLink: https://www.docusign.com/
 related:
 - beste-ai-tools-retail-2026
 - beste-ai-tools-studenten-2026

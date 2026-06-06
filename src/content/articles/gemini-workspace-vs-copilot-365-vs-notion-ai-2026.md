@@ -1,7 +1,9 @@
 ---
-title: 'Gemini in Workspace vs Copilot voor Microsoft 365 vs Notion AI 2026: AI op je werk'
+title: 'Gemini in Workspace vs Copilot voor Microsoft 365 vs Notion AI 2026: AI op
+  je werk'
 slug: gemini-workspace-vs-copilot-365-vs-notion-ai-2026
-description: 'Vergelijk Google Gemini in Workspace, Microsoft 365 Copilot en Notion AI in 2026. Welke AI assistent maakt jouw werkdag het productiefst?'
+description: Vergelijk Google Gemini in Workspace, Microsoft 365 Copilot en Notion
+  AI in 2026. Welke AI assistent maakt jouw werkdag het productiefst?
 category: productiviteit
 rating: 4.5
 priceRange: EUR 0-30/mnd
@@ -14,7 +16,7 @@ cons:
 - Sommige AI features verschillen per abonnementsniveau
 - Tools ontwikkelen snel — check de laatste versies voor aankoop
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-28'
 modelYear: 2026
 featuredTool: Microsoft 365 Copilot
@@ -25,43 +27,46 @@ tools:
   priceRange: EUR 28/mnd (add-on)
   bestFor: Microsoft bedrijven
   rating: 4.7
-  affiliateLink: https://www.microsoft.com/microsoft-365/copilot?ref=aitoolsnl
+  affiliateLink: https://www.microsoft.com/microsoft-365/copilot
 - name: Google Gemini in Workspace
   verdict: Naadloos in Gmail, Docs, Sheets en Meet met sterke Nederlandse ondersteuning
   priceRange: EUR 0-22/mnd
   bestFor: Google bedrijven
   rating: 4.6
-  affiliateLink: https://workspace.google.com/solutions/ai/?ref=aitoolsnl
+  affiliateLink: https://workspace.google.com/solutions/ai/
 - name: Notion AI
   verdict: 'Beste AI in een notitie-app: schrijft, vat samen, vertaalt en automatiseert'
   priceRange: EUR 0-10/mnd (add-on)
   bestFor: Kennismanagement
   rating: 4.5
-  affiliateLink: https://www.notion.so/product/ai?ref=aitoolsnl
+  affiliateLink: https://www.notion.so/product/ai
 - name: Slack AI
-  verdict: AI die je Slack threads, kanalen en gesprekken samenvat en doorzoekbaar maakt
+  verdict: AI die je Slack threads, kanalen en gesprekken samenvat en doorzoekbaar
+    maakt
   priceRange: EUR 0-5/mnd
   bestFor: Slack teams
   rating: 4.3
-  affiliateLink: https://slack.com/ai?ref=aitoolsnl
+  affiliateLink: https://slack.com/ai
 - name: ClickUp AI
-  verdict: AI projectmanager die taken aanmaakt, stand-ups schrijft en documenten genereert
+  verdict: AI projectmanager die taken aanmaakt, stand-ups schrijft en documenten
+    genereert
   priceRange: EUR 0-7/mnd (add-on)
   bestFor: Projectteams
   rating: 4.4
-  affiliateLink: https://clickup.com/ai?ref=aitoolsnl
+  affiliateLink: https://clickup.com/ai
 - name: Confluence AI (Atlassian)
-  verdict: 'AI voor je complete Atlassian stack: Jira issues, Confluence docs, Bitbucket PRs'
+  verdict: 'AI voor je complete Atlassian stack: Jira issues, Confluence docs, Bitbucket
+    PRs'
   priceRange: EUR 0-10/mnd
   bestFor: Atlassian teams
   rating: 4.2
-  affiliateLink: https://www.atlassian.com/software/artificial-intelligence?ref=aitoolsnl
+  affiliateLink: https://www.atlassian.com/software/artificial-intelligence
 - name: Coda AI
   verdict: Flexibele doc-as-app met AI kolommen en workflow automatisering
   priceRange: EUR 0-12/mnd
   bestFor: Power users
   rating: 4.3
-  affiliateLink: https://coda.io/product/ai?ref=aitoolsnl
+  affiliateLink: https://coda.io/product/ai
 related:
 - beste-ai-chatbots-2026
 - beste-gratis-ai-tools-2026
@@ -69,11 +74,17 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Microsoft 365 Copilot de meest complete AI werkassistent, vooral voor bedrijven die al in het Microsoft-ecosysteem zitten. De keuze hangt sterk af van welk ecosysteem je al gebruikt.
+  a: Op basis van onze analyse in 2026 is Microsoft 365 Copilot de meest complete
+    AI werkassistent, vooral voor bedrijven die al in het Microsoft-ecosysteem zitten.
+    De keuze hangt sterk af van welk ecosysteem je al gebruikt.
 - q: Zijn er goede gratis alternatieven?
-  a: Google Gemini biedt een gratis tier in Workspace (beperkt). Notion AI heeft een gratis proefperiode. Maar voor serieuze AI-ondersteuning op je werk zul je uiteindelijk moeten betalen.
+  a: Google Gemini biedt een gratis tier in Workspace (beperkt). Notion AI heeft een
+    gratis proefperiode. Maar voor serieuze AI-ondersteuning op je werk zul je uiteindelijk
+    moeten betalen.
 - q: Werken deze tools goed in het Nederlands?
-  a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig maar begrijpt Nederlandse prompts.
+  a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot
+    en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig
+    maar begrijpt Nederlandse prompts.
 ---
 
 ## Lees ook

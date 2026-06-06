@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.microsoft.com/nl-nl/microsoft-365/copilot?ref=aitoolsnl
-  - https://chat.openai.com/?ref=aitoolsnl
-  - https://sheetai.app/?ref=aitoolsnl
-  - https://rows.com/?ref=aitoolsnl
-  - https://numerous.ai/?ref=aitoolsnl
-  - https://ajelix.com/?ref=aitoolsnl
-  - https://formulabot.com/?ref=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.microsoft.com/nl-nl/microsoft-365/copilot
+- https://chat.openai.com/
+- https://sheetai.app/
+- https://rows.com/
+- https://numerous.ai/
+- https://ajelix.com/
+- https://formulabot.com/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Microsoft Copilot in Excel
@@ -35,49 +35,49 @@ tools:
   priceRange: EUR 26/mnd (Microsoft 365 Copilot)
   bestFor: Zakelijke Excel-gebruikers
   rating: 4.5
-  affiliateLink: https://www.microsoft.com/nl-nl/microsoft-365/copilot?ref=aitoolsnl
+  affiliateLink: https://www.microsoft.com/nl-nl/microsoft-365/copilot
 - name: ChatGPT
   verdict: 'Verrassend sterk in Excel-formules: plak je data, beschrijf wat je wilt
     en krijg werkende formules'
   priceRange: EUR 0-22/mnd
   bestFor: Snelle formulehulp
   rating: 4.3
-  affiliateLink: https://chat.openai.com/?ref=aitoolsnl
+  affiliateLink: https://chat.openai.com/
 - name: SheetAI
   verdict: Google Sheets add-on die AI direct in cellen brengt — =AI() functies voor
     tekst, vertaling en analyse
   priceRange: EUR 0-12/mnd
   bestFor: Google Sheets power users
   rating: 4.2
-  affiliateLink: https://sheetai.app/?ref=aitoolsnl
+  affiliateLink: https://sheetai.app/
 - name: Rows AI
   verdict: Next-gen spreadsheet met ingebouwde AI-analist — stel vragen over je data
     in gewoon Nederlands
   priceRange: EUR 0-49/mnd
   bestFor: Data-analyse zonder code
   rating: 4.4
-  affiliateLink: https://rows.com/?ref=aitoolsnl
+  affiliateLink: https://rows.com/
 - name: Numerous.ai
   verdict: 'ChatGPT in Google Sheets: =INFER(), =WRITE(), =FORMAT() — formulegeneratie
     die context begrijpt'
   priceRange: EUR 8-25/mnd
   bestFor: Content & tekst in Sheets
   rating: 4.1
-  affiliateLink: https://numerous.ai/?ref=aitoolsnl
+  affiliateLink: https://numerous.ai/
 - name: Ajelix
   verdict: 'Excel-optimalisatie: formule debugger, VBA-script generator en spreadsheet
     performance scanner'
   priceRange: EUR 0-15/mnd
   bestFor: Excel-veteranen & debugging
   rating: 4.0
-  affiliateLink: https://ajelix.com/?ref=aitoolsnl
+  affiliateLink: https://ajelix.com/
 - name: Formulabot
   verdict: Laagdrempelige AI die formules genereert uit tekstbeschrijving — ook Nederlands
     ondersteund
   priceRange: EUR 0-10/mnd
   bestFor: Beginners & studenten
   rating: 4.0
-  affiliateLink: https://formulabot.com/?ref=aitoolsnl
+  affiliateLink: https://formulabot.com/
 faq:
 - q: Welke tool is het beste voor beginners?
   a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade

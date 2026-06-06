@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT Free
@@ -38,13 +38,13 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Research
   rating: 4.3
-  affiliateLink: https://www.perplexity.ai/?ref=aitoolsnl
+  affiliateLink: https://www.perplexity.ai/
 - name: Canva Free
   verdict: Gratis designplatform met indrukwekkende AI tools
   priceRange: EUR 0/mnd
   bestFor: Design & visuals
   rating: 4.5
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Google Gemini
   verdict: Google's gratis AI met sterke meertaligheid en kennis
   priceRange: EUR 0/mnd
@@ -56,13 +56,13 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Video editing
   rating: 4.3
-  affiliateLink: https://www.capcut.com/?ref=aitoolsnl
+  affiliateLink: https://www.capcut.com/
 - name: Grammarly Free
   verdict: Gratis schrijfhulp voor basis spelling en grammatica
   priceRange: EUR 0/mnd
   bestFor: Schrijfhulp
   rating: 4.0
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: Copy.ai Free
   verdict: Gratis tier voor eenvoudige copywriting en social posts
   priceRange: EUR 0/mnd

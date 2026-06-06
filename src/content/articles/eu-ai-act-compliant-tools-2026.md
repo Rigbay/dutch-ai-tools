@@ -1,79 +1,86 @@
 ---
 title: 'EU AI Act Augustus 2026: Welke AI Tools Zijn Compliant?'
 slug: eu-ai-act-compliant-tools-2026
-description: 'De EU AI Act wordt in augustus 2026 gehandhaafd. Welke AI tools voldoen aan de nieuwe regels? Een praktische gids voor Nederlandse bedrijven en organisaties.'
+description: De EU AI Act wordt in augustus 2026 gehandhaafd. Welke AI tools voldoen
+  aan de nieuwe regels? Een praktische gids voor Nederlandse bedrijven en organisaties.
 category: business
 rating: 4.4
 priceRange: EUR 0-100/mnd
 pros:
-  - Actueel en gericht op de EU AI Act handhaving vanaf augustus 2026
-  - Nederlands perspectief met praktische stappen
-  - Onafhankelijke vergelijking zonder verkopersbelang
+- Actueel en gericht op de EU AI Act handhaving vanaf augustus 2026
+- Nederlands perspectief met praktische stappen
+- Onafhankelijke vergelijking zonder verkopersbelang
 cons:
-  - Wet- en regelgeving kan nog wijzigen voor augustus 2026
-  - Specifieke compliance-status kan per organisatie verschillen
-  - Niet alle tools hebben hun EU AI Act-classificatie definitief
+- Wet- en regelgeving kan nog wijzigen voor augustus 2026
+- Specifieke compliance-status kan per organisatie verschillen
+- Niet alle tools hebben hun EU AI Act-classificatie definitief
 affiliateLinks:
-  - https://www.vanta.com/?ref=aitoolsnl
+- https://www.vanta.com/
 date: 2026-06-04
 modelYear: 2026
-featuredTool: "ChatGPT/OpenAI"
+featuredTool: ChatGPT/OpenAI
 readingTime: 8 min
 tools:
-  - name: "ChatGPT/OpenAI"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.chatgpt.com/?ref=aitoolsnl"
-  - name: "Google Gemini"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.google.com/?ref=aitoolsnl"
-  - name: "Microsoft Copilot"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.microsoft.com/?ref=aitoolsnl"
-  - name: "Claude/Anthropic"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.claude.com/?ref=aitoolsnl"
-  - name: "Notion AI"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.notion.com/?ref=aitoolsnl"
-  - name: "HubSpot AI"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.hubspot.com/?ref=aitoolsnl"
-  - name: "Adobe Firefly"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.adobe.com/?ref=aitoolsnl"
+- name: ChatGPT/OpenAI
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.chatgpt.com/
+- name: Google Gemini
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.google.com/
+- name: Microsoft Copilot
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.microsoft.com/
+- name: Claude/Anthropic
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.claude.com/
+- name: Notion AI
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.notion.com/
+- name: HubSpot AI
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.hubspot.com/
+- name: Adobe Firefly
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.adobe.com/
 related:
-  - ai-trends-2026-nederland
-  - nederlandse-ai-adoptie-cijfers-2026
-  - beste-ai-compliance-tools-2026
+- ai-trends-2026-nederland
+- nederlandse-ai-adoptie-cijfers-2026
+- beste-ai-compliance-tools-2026
 draft: false
 faq:
-  - q: "Wanneer wordt de EU AI Act gehandhaafd?"
-    a: "De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen."
-  - q: "Geldt de EU AI Act ook voor kleine bedrijven?"
-    a: "Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten."
-  - q: "Wat zijn de boetes bij overtreding van de EU AI Act?"
-    a: "De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn."
+- q: Wanneer wordt de EU AI Act gehandhaafd?
+  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste
+    bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico.
+    Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
+- q: Geldt de EU AI Act ook voor kleine bedrijven?
+  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet
+    binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt
+    op transparantie en documentatie, niet op dure certificeringstrajecten.
+- q: Wat zijn de boetes bij overtreding van de EU AI Act?
+  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet,
+    afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al
+    te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
 ---
 
 # De EU AI Act: Wat Nederlandse Bedrijven Moeten Weten Voor Augustus 2026

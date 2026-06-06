@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Dynamic Yield
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 500-3000/mnd
   bestFor: Personalisatie
   rating: 4.7
-  affiliateLink: https://www.dynamicyield.com/?ref=aitoolsnl
+  affiliateLink: https://www.dynamicyield.com/
 - name: RELEX.ai
   verdict: AI voorraadbeheer en supply chain forecasting voor food en non-food retail
   priceRange: EUR 500-2500/mnd
   bestFor: Voorraadoptimalisatie
   rating: 4.5
-  affiliateLink: https://www.relexsolutions.com/?ref=aitoolsnl
+  affiliateLink: https://www.relexsolutions.com/
 - name: Blue Yonder
   verdict: End-to-end AI retail platform met prijsoptimalisatie en category management
   priceRange: EUR 1000-5000/mnd
   bestFor: Enterprise retail
   rating: 4.6
-  affiliateLink: https://www.blueyonder.com/?ref=aitoolsnl
+  affiliateLink: https://www.blueyonder.com/
 - name: Vue.ai
   verdict: AI product-tagging en visuele merchandising voor fashion en lifestyle retail
   priceRange: EUR 300-1500/mnd
   bestFor: Fashion retail
   rating: 4.3
-  affiliateLink: https://www.vue.ai/?ref=aitoolsnl
+  affiliateLink: https://www.vue.ai/
 - name: Syte
   verdict: AI visuele zoektechnologie en product discovery voor betere conversie
   priceRange: EUR 200-1000/mnd
   bestFor: Product discovery
   rating: 4.2
-  affiliateLink: https://www.syte.ai/?ref=aitoolsnl
+  affiliateLink: https://www.syte.ai/
 - name: Shelf Engine
   verdict: AI voorraadbestelling die voedselverspilling tot 32% vermindert
   priceRange: EUR 100-500/mnd
   bestFor: Food retail & vers
   rating: 4.4
-  affiliateLink: https://www.shelfengine.com/?ref=aitoolsnl
+  affiliateLink: https://www.shelfengine.com/
 - name: Trigo Vision
   verdict: Vision-AI voor cashierless winkels a la Amazon Go — scanloze checkout
   priceRange: EUR 500-2000/mnd
   bestFor: Winkelinnovatie
   rating: 4.1
-  affiliateLink: https://www.trigoretail.com/?ref=aitoolsnl
+  affiliateLink: https://www.trigoretail.com/
 related:
 - beste-ai-tools-persoonlijke-assistenten-2026
 - beste-ai-tools-zorg-2026

@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is intensief getest in Nederlandse context
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Make
@@ -27,7 +27,7 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: Automatisering
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.make.com/en/register?pc=hermesai
 - name: Copy.ai
   verdict: Snelle AI-content creatie met workflow automatisering
   priceRange: EUR 0-50/mnd
@@ -57,7 +57,7 @@ tools:
   priceRange: EUR 50-100/mnd
   bestFor: Content op schaal
   rating: 4.2
-  affiliateLink: https://www.jasper.ai/?ref=aitoolsnl
+  affiliateLink: https://www.jasper.ai/
 - name: Zapier
   verdict: Marktleider in no-code integraties — 7000+ apps verbonden
   priceRange: EUR 0-130/mnd

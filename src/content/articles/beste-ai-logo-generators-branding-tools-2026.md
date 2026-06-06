@@ -16,14 +16,13 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.looka.com/?ref=aitoolsnl
-- https://www.canva.com/?ref=aitoolsnl
-- https://logoai.com/?ref=aitoolsnl
-- https://www.shopify.com/nl/tools/logo-maker?ref=aitoolsnl
-- https://brandmark.io/?ref=aitoolsnl
-- https://www.wix.com/logo/maker?ref=aitoolsnl
-- https://www.tailorbrands.com/?ref=aitoolsnl
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.looka.com/
+- https://www.canva.com/
+- https://logoai.com/
+- https://www.shopify.com/nl/tools/logo-maker
+- https://brandmark.io/
+- https://www.wix.com/logo/maker
+- https://www.tailorbrands.com/
 related:
 - beste-ai-tools-webdesign-websites-2026
 - beste-ai-tools-grafisch-ontwerp-branding-2026
@@ -39,49 +38,49 @@ tools:
   priceRange: EUR 0-98/eenmalig
   bestFor: Complete merkidentiteit
   rating: 4.5
-  affiliateLink: https://www.looka.com/?ref=aitoolsnl
+  affiliateLink: https://www.looka.com/
 - name: Canva AI Logo Generator
   verdict: Canva's AI maakt logo's op basis van stijlvoorkeuren — naadloos geïntegreerd
     met Canva's volledige design-ecosysteem
   priceRange: EUR 0-13/mnd
   bestFor: Gebruiksgemak & integratie
   rating: 4.4
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: LogoAI
   verdict: AI die je merkstrategie analyseert en een logo genereert dat past bij je
     branche en doelgroep
   priceRange: EUR 25-65/eenmalig
   bestFor: Merkstrategie-gedreven ontwerp
   rating: 4.2
-  affiliateLink: https://logoai.com/?ref=aitoolsnl
+  affiliateLink: https://logoai.com/
 - name: Hatchful (Shopify)
   verdict: Gratis AI-logo generator van Shopify — ideaal voor webshopeigenaren die
     snel een professioneel logo willen
   priceRange: EUR 0 (gratis)
   bestFor: Webshop eigenaren
   rating: 4.0
-  affiliateLink: https://www.shopify.com/nl/tools/logo-maker?ref=aitoolsnl
+  affiliateLink: https://www.shopify.com/nl/tools/logo-maker
 - name: Brandmark
   verdict: AI die unieke, abstracte logo's genereert op basis van kleur- en stijlvoorkeuren
     — geen templates
   priceRange: EUR 29-99/eenmalig
   bestFor: Uniek & abstract ontwerp
   rating: 4.3
-  affiliateLink: https://brandmark.io/?ref=aitoolsnl
+  affiliateLink: https://brandmark.io/
 - name: Wix Logo Maker
   verdict: AI-logo tool geïntegreerd met Wix — kies stijlen en krijg direct een logo
     dat past bij je Wix-website
   priceRange: EUR 0-25/eenmalig
   bestFor: Wix-gebruikers
   rating: 4.1
-  affiliateLink: https://www.wix.com/logo/maker?ref=aitoolsnl
+  affiliateLink: https://www.wix.com/logo/maker
 - name: Tailor Brands
   verdict: Alles-in-één branding platform van logo tot volledige merkidentiteit inclusief
     social media templates
   priceRange: EUR 0-13/mnd
   bestFor: Social media branding
   rating: 4.2
-  affiliateLink: https://www.tailorbrands.com/?ref=aitoolsnl
+  affiliateLink: https://www.tailorbrands.com/
 faq:
 - q: Zijn AI logo's auteursrechtelijk beschermd?
   a: Ja, de meeste AI logo generatoren verlenen commerciële licenties voor de gegenereerde

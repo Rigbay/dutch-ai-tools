@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Runway ML
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-80/mnd
   bestFor: AI video generatie
   rating: 4.6
-  affiliateLink: https://runwayml.com/?ref=aitoolsnl
+  affiliateLink: https://runwayml.com/
 - name: HeyGen
   verdict: Beste AI avatar video tool voor bedrijfspresentaties
   priceRange: EUR 25-150/mnd
   bestFor: AI presentatoren
   rating: 4.5
-  affiliateLink: https://www.heygen.com/?ref=aitoolsnl
+  affiliateLink: https://www.heygen.com/
 - name: Synthesia
   verdict: Enterprise-grade AI video met meertalige avatars
   priceRange: EUR 25-300/mnd
   bestFor: Zakelijke AI video
   rating: 4.4
-  affiliateLink: https://www.synthesia.io/?ref=aitoolsnl
+  affiliateLink: https://www.synthesia.io?via=hermes
 - name: Descript
   verdict: Beste voor podcasts en talking-head video met AI transcriptie
   priceRange: EUR 0-30/mnd
   bestFor: Podcast & talking head
   rating: 4.5
-  affiliateLink: https://www.descript.com/?ref=aitoolsnl
+  affiliateLink: https://www.descript.com/
 - name: CapCut AI
   verdict: Gratis tool met verrassend sterke AI voor korte video
   priceRange: EUR 0-10/mnd
   bestFor: Short-form content
   rating: 4.3
-  affiliateLink: https://www.capcut.com/?ref=aitoolsnl
+  affiliateLink: https://www.capcut.com/
 - name: Pika
   verdict: Innovatieve AI video generator met indrukwekkende creatieve output
   priceRange: EUR 0-30/mnd
   bestFor: Creatieve experimenten
   rating: 4.2
-  affiliateLink: https://pika.art/?ref=aitoolsnl
+  affiliateLink: https://pika.art/
 - name: Opus Clip
   verdict: AI die automatisch virale clips uit lange video's haalt
   priceRange: EUR 20-100/mnd
   bestFor: Repurposing content
   rating: 4.1
-  affiliateLink: https://www.opus.pro/?ref=aitoolsnl
+  affiliateLink: https://www.opus.pro/
 related:
 - beste-ai-tools-designers-2026
 - beste-ai-tools-architecten-bouwkunde-2026

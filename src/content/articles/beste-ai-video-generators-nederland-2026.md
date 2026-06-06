@@ -1,7 +1,10 @@
 ---
-title: 'Beste AI Video Generators 2026: Sora vs Runway vs Kling vs Luma voor Nederlandse Marketers'
+title: 'Beste AI Video Generators 2026: Sora vs Runway vs Kling vs Luma voor Nederlandse
+  Marketers'
 slug: beste-ai-video-generators-nederland-2026
-description: 'Vergelijk de beste AI video generators van 2026 voor Nederlandse marketers en content creators: Sora, Runway, Kling en Luma. Prijs, features, NL-toepassingen en affiliate links.'
+description: 'Vergelijk de beste AI video generators van 2026 voor Nederlandse marketers
+  en content creators: Sora, Runway, Kling en Luma. Prijs, features, NL-toepassingen
+  en affiliate links.'
 category: creatie
 rating: 4.6
 priceRange: EUR 0-240/mnd
@@ -14,9 +17,8 @@ cons:
 - Gratis tiers hebben harde limieten
 - Kwaliteit hangt sterk af van prompt-vaardigheid
 affiliateLinks:
-- https://www.taskade.com/?via=aitoolsnl
+- https://taskade.com/?via=55nfr2
 - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
 date: '2026-05-31'
 modelYear: 2026
 featuredTool: Runway
@@ -33,19 +35,20 @@ tools:
   priceRange: EUR 0-28/mnd
   bestFor: Video editing & motion
   rating: 4.6
-  affiliateLink: https://runwayml.com/?via=aitoolsnl
+  affiliateLink: https://runwayml.com/
 - name: Kling AI
-  verdict: Sterk zuid-oost Aziatische concurrent — uitstekend karakterconsistentie en motion
+  verdict: Sterk zuid-oost Aziatische concurrent — uitstekend karakterconsistentie
+    en motion
   priceRange: EUR 5-25/mnd
   bestFor: Social media shorts & character video
   rating: 4.4
-  affiliateLink: https://klingai.com/?ref=aitoolsnl
+  affiliateLink: https://klingai.com/
 - name: Luma AI
   verdict: Website → video en 3D-scene generatie met Dream Machine
   priceRange: EUR 0-30/mnd
   bestFor: Productvideo's & 3D
   rating: 4.5
-  affiliateLink: https://lumalabs.ai/?ref=aitoolsnl
+  affiliateLink: https://lumalabs.ai/
 related:
 - beste-ai-video-tools-2026
 - ai-video-generatie-tools-2026
@@ -53,11 +56,18 @@ related:
 draft: false
 faq:
 - q: Welke AI video generator is het beste voor Nederlandse social media?
-  a: Voor korte, dynamische social media-video's is Runway het meest geschikt door zijn gebruiksgemak en realtime editing. Voor declaratieve productvideo's past Luma Dream Machine beter. Kling is een sterke budgetkeuze voor karaktergerichte content.
+  a: Voor korte, dynamische social media-video's is Runway het meest geschikt door
+    zijn gebruiksgemak en realtime editing. Voor declaratieve productvideo's past
+    Luma Dream Machine beter. Kling is een sterke budgetkeuze voor karaktergerichte
+    content.
 - q: Kan ik AI gegenereerde video's commercieel gebruiken?
-  a: Alle genoemde tools (Sora, Runway, Kling, Luma) bieden betaalde abonnementen met commerciële licenties. Controleer altijd de servicevoorwaarden per tool, vooral bij gebruik voor klantenwerk.
+  a: Alle genoemde tools (Sora, Runway, Kling, Luma) bieden betaalde abonnementen
+    met commerciële licenties. Controleer altijd de servicevoorwaarden per tool, vooral
+    bij gebruik voor klantenwerk.
 - q: Is mijn Nederlandstalige audio geschikt voor AI video generation?
-  a: De meeste AI video generators focust nog primair op video-beelden. Voor NL-audio combineer je een videogenerator met een stemgenerator zoals ElevenLabs of PlayHT. Runway heeft ook text-to-speech integraties.
+  a: De meeste AI video generators focust nog primair op video-beelden. Voor NL-audio
+    combineer je een videogenerator met een stemgenerator zoals ElevenLabs of PlayHT.
+    Runway heeft ook text-to-speech integraties.
 ---
 ---
 

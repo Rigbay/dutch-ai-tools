@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.taskade.com/?via=55nfr2
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://taskade.com/?via=55nfr2
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -40,13 +40,13 @@ tools:
   priceRange: EUR 0-150/mnd
   bestFor: Automatisering
   rating: 4.4
-  affiliateLink: https://zapier.com/?ref=aitoolsnl
+  affiliateLink: https://zapier.com/
 - name: Canva AI
   verdict: Maak professionele visuals zonder designer met AI-hulp
   priceRange: EUR 0-15/mnd
   bestFor: Marketing visuals
   rating: 4.6
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: beehiiv
   verdict: AI-gedreven nieuwsbriefplatform voor groei en monetisatie
   priceRange: EUR 0-50/mnd
@@ -58,13 +58,13 @@ tools:
   priceRange: EUR 0-800/mnd
   bestFor: CRM & marketing
   rating: 4.2
-  affiliateLink: https://www.hubspot.com/?ref=aitoolsnl
+  affiliateLink: https://www.hubspot.com/
 - name: Grammarly Business
   verdict: Professionele schrijfhulp voor foutloze zakelijke communicatie
   priceRange: EUR 15-30/mnd
   bestFor: Zakelijk schrijven
   rating: 4.5
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 related:
 - beste-ai-tools-industriele-productie-maakindustrie-2026
 - beste-ai-sales-tools-2026

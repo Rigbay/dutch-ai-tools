@@ -1,7 +1,8 @@
 ---
 title: 'Todoist vs TickTick vs Things 3 2026: beste AI taakbeheer voor productiviteit'
 slug: todoist-vs-ticktick-vs-things-2026
-description: 'Vergelijk Todoist, TickTick en Things 3 in 2026. Welke taken-app met AI features past het beste bij jouw workflow? Complete gids.'
+description: Vergelijk Todoist, TickTick en Things 3 in 2026. Welke taken-app met
+  AI features past het beste bij jouw workflow? Complete gids.
 category: productiviteit
 rating: 4.5
 priceRange: EUR 0-8/mnd
@@ -14,7 +15,7 @@ cons:
 - Sommige AI features verschillen per abonnementsniveau
 - Tools ontwikkelen snel — check de laatste versies voor aankoop
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-28'
 modelYear: 2026
 featuredTool: Todoist
@@ -25,43 +26,44 @@ tools:
   priceRange: EUR 0-5/mnd
   bestFor: Algemene productiviteit
   rating: 4.7
-  affiliateLink: https://todoist.com/?ref=aitoolsnl
+  affiliateLink: https://todoist.com/
 - name: TickTick
-  verdict: Meeste features voor je geld met ingebouwde kalender, Pomodoro en Eisenhower matrix
+  verdict: Meeste features voor je geld met ingebouwde kalender, Pomodoro en Eisenhower
+    matrix
   priceRange: EUR 0-3/mnd
   bestFor: Feature-rijke workflow
   rating: 4.6
-  affiliateLink: https://ticktick.com/?ref=aitoolsnl
+  affiliateLink: https://ticktick.com/
 - name: Things 3
   verdict: Mooiste en meest intuïtieve taken-app, maar alleen Apple en geen AI features
   priceRange: EUR 10-60 (eenmalig)
   bestFor: Apple gebruikers
   rating: 4.5
-  affiliateLink: https://culturedcode.com/things/?ref=aitoolsnl
+  affiliateLink: https://culturedcode.com/things/
 - name: Motion
   verdict: AI die je agenda automatisch vult op basis van prioriteiten en deadlines
   priceRange: EUR 19-34/mnd
   bestFor: AI agenda planning
   rating: 4.4
-  affiliateLink: https://www.usemotion.com/?ref=aitoolsnl
+  affiliateLink: https://www.usemotion.com/
 - name: Akiflow
   verdict: Time blocking tool met snelle invoer en kalenderintegratie voor power users
   priceRange: EUR 19/mnd
   bestFor: Time blocking
   rating: 4.3
-  affiliateLink: https://akiflow.com/?ref=aitoolsnl
+  affiliateLink: https://akiflow.com/
 - name: Microsoft To Do
   verdict: Gratis en diep geïntegreerd in Microsoft 365 ecosysteem met AI suggesties
   priceRange: Gratis
   bestFor: Microsoft gebruikers
   rating: 4.2
-  affiliateLink: https://todo.microsoft.com/?ref=aitoolsnl
+  affiliateLink: https://todo.microsoft.com/
 - name: Superlist
   verdict: Nieuwe uitdager met prachtige UI, notities en taken in één
   priceRange: EUR 0-10/mnd
   bestFor: Design-liefhebbers
   rating: 4.1
-  affiliateLink: https://www.superlist.com/?ref=aitoolsnl
+  affiliateLink: https://www.superlist.com/
 related:
 - beste-ai-chatbots-2026
 - beste-gratis-ai-tools-2026
@@ -69,11 +71,15 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Todoist de meest complete keuze voor de meeste Nederlandse gebruikers. Het combineert gebruiksgemak, platformondersteuning en AI-features in een betaalbaar pakket.
+  a: Op basis van onze analyse in 2026 is Todoist de meest complete keuze voor de
+    meeste Nederlandse gebruikers. Het combineert gebruiksgemak, platformondersteuning
+    en AI-features in een betaalbaar pakket.
 - q: Zijn er goede gratis alternatieven?
-  a: Ja, zowel Todoist als TickTick hebben stevige gratis versies. Microsoft To Do is volledig gratis en goed geïntegreerd in het Microsoft-ecosysteem.
+  a: Ja, zowel Todoist als TickTick hebben stevige gratis versies. Microsoft To Do
+    is volledig gratis en goed geïntegreerd in het Microsoft-ecosysteem.
 - q: Werken deze tools goed in het Nederlands?
-  a: Ja, Todoist en Microsoft To Do hebben Nederlandse interfaces. TickTick en Things 3 zijn Engelstalig maar ondersteunen Nederlandse data en spraakinvoer.
+  a: Ja, Todoist en Microsoft To Do hebben Nederlandse interfaces. TickTick en Things
+    3 zijn Engelstalig maar ondersteunen Nederlandse data en spraakinvoer.
 ---
 
 ## Lees ook

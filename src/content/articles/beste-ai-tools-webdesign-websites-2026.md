@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.wix.com/?ref=aitoolsnl
-  - https://www.framer.com/?ref=aitoolsnl
-  - https://10web.io/?ref=aitoolsnl
-  - https://www.hostinger.nl/?ref=aitoolsnl
-  - https://www.relume.io/?ref=aitoolsnl
-  - https://durable.co/?ref=aitoolsnl
-  - https://uizard.io/?ref=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.wix.com/
+- https://www.framer.com/
+- https://10web.io/
+- https://www.hostinger.nl/
+- https://www.relume.io/
+- https://durable.co/
+- https://uizard.io/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Wix AI Website Builder
@@ -35,49 +35,49 @@ tools:
   priceRange: EUR 0-27/mnd
   bestFor: Snelle complete websites
   rating: 4.5
-  affiliateLink: https://www.wix.com/?ref=aitoolsnl
+  affiliateLink: https://www.wix.com/
 - name: Framer AI
   verdict: 'Design-first AI: genereer prachtige designs met AI en publiceer direct
     — favoriet bij designers en startups'
   priceRange: EUR 0-25/mnd
   bestFor: Design-kwaliteit & interactiviteit
   rating: 4.6
-  affiliateLink: https://www.framer.com/?ref=aitoolsnl
+  affiliateLink: https://www.framer.com/
 - name: 10Web AI Builder
   verdict: AI bouwt een WordPress-site inclusief hosting in minuten — inclusief AI
     SEO en AI copy
   priceRange: EUR 12-39/mnd
   bestFor: WordPress & SEO-geoptimaliseerd
   rating: 4.4
-  affiliateLink: https://10web.io/?ref=aitoolsnl
+  affiliateLink: https://10web.io/
 - name: Hostinger AI Builder
   verdict: 'Budgetvriendelijk: AI-websitebuilder met NL-domein en hosting in één pakket
     vanaf €2,99'
   priceRange: EUR 3-8/mnd
   bestFor: Budget & beginners
   rating: 4.2
-  affiliateLink: https://www.hostinger.nl/?ref=aitoolsnl
+  affiliateLink: https://www.hostinger.nl/
 - name: Relume
   verdict: 'AI voor wireframes en sitemaps: genereert complete websitestructuren die
     je exporteert naar Webflow of Figma'
   priceRange: EUR 15-38/mnd
   bestFor: Designers & agencies
   rating: 4.3
-  affiliateLink: https://www.relume.io/?ref=aitoolsnl
+  affiliateLink: https://www.relume.io/
 - name: Durable
   verdict: AI bouwt een complete bedrijfswebsite in 30 seconden — met AI-content,
     afbeeldingen en CRM-koppeling
   priceRange: EUR 12-20/mnd
   bestFor: Kleine ondernemers & ZZP
   rating: 4.1
-  affiliateLink: https://durable.co/?ref=aitoolsnl
+  affiliateLink: https://durable.co/
 - name: Uizard
   verdict: 'AI-prototyping: schets op papier → foto → werkbare UI in minuten — ideaal
     voor rapid prototyping en mockups'
   priceRange: EUR 0-39/mnd
   bestFor: UI/UX prototyping
   rating: 4.3
-  affiliateLink: https://uizard.io/?ref=aitoolsnl
+  affiliateLink: https://uizard.io/
 faq:
 - q: Welke tool is het beste voor beginners?
   a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade

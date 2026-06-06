@@ -17,17 +17,17 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.exact.com/nl/exact-online?ref=aitoolsnl
-- https://www.moneybird.nl/?ref=aitoolsnl
-- https://www.e-boekhouden.nl/?ref=aitoolsnl
-- https://www.snelstart.nl/?ref=aitoolsnl
-- https://www.informer.nl/?ref=aitoolsnl
-- https://www.xero.com/nl/?ref=aitoolsnl
-- https://quickbooks.intuit.com/nl/?ref=aitoolsnl
+- https://www.exact.com/nl/exact-online
+- https://www.moneybird.nl/
+- https://www.e-boekhouden.nl/
+- https://www.snelstart.nl/
+- https://www.informer.nl/
+- https://www.xero.com/nl/
+- https://quickbooks.intuit.com/nl/
 related:
-  - beste-ai-tools-ecommerce-2026
-  - beste-ai-tools-boekhouders-accountants-2026
-  - beste-ai-tools-kleine-ondernemers-2026
+- beste-ai-tools-ecommerce-2026
+- beste-ai-tools-boekhouders-accountants-2026
+- beste-ai-tools-kleine-ondernemers-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Exact Online
@@ -39,49 +39,49 @@ tools:
   priceRange: EUR 15-80/mnd
   bestFor: MKB met personeel
   rating: 4.6
-  affiliateLink: https://www.exact.com/nl/exact-online?ref=aitoolsnl
+  affiliateLink: https://www.exact.com/nl/exact-online
 - name: Moneybird
   verdict: AI-gedreven boekhouding speciaal voor zzp'ers — automatische factuurverwerking,
     btw-aangifte en bankkoppeling in één
   priceRange: EUR 15-35/mnd
   bestFor: Zzp'ers & freelancers
   rating: 4.5
-  affiliateLink: https://www.moneybird.nl/?ref=aitoolsnl
+  affiliateLink: https://www.moneybird.nl/
 - name: e-Boekhouden.nl
   verdict: Nederlandse AI-boekhouding met automatische categorisatie van banktransacties
     en slimme btw-herkenning — eenvoudig en betaalbaar
   priceRange: EUR 10-30/mnd
   bestFor: Budgetvriendelijk mkb
   rating: 4.3
-  affiliateLink: https://www.e-boekhouden.nl/?ref=aitoolsnl
+  affiliateLink: https://www.e-boekhouden.nl/
 - name: SnelStart
   verdict: AI-boekhouding met ingebouwde btw-aangifte, automatische factuurscanning
     en realtime rapportages — populaire keuze in Nederland
   priceRange: EUR 20-50/mnd
   bestFor: Groeiende ondernemingen
   rating: 4.4
-  affiliateLink: https://www.snelstart.nl/?ref=aitoolsnl
+  affiliateLink: https://www.snelstart.nl/
 - name: Informer
   verdict: AI-platform met geïntegreerde CRM, voorraadbeheer en boekhouding — automatische
     factuurverwerking en credit management
   priceRange: EUR 25-75/mnd
   bestFor: MKB met voorraad
   rating: 4.2
-  affiliateLink: https://www.informer.nl/?ref=aitoolsnl
+  affiliateLink: https://www.informer.nl/
 - name: Xero
   verdict: Internationale AI-boekhouding met sterke bankkoppelingen, automatische
     reconciliatie en slimme cashflow forecasting
   priceRange: EUR 12-50/mnd
   bestFor: Internationale handel
   rating: 4.5
-  affiliateLink: https://www.xero.com/nl/?ref=aitoolsnl
+  affiliateLink: https://www.xero.com/nl/
 - name: QuickBooks
   verdict: AI-gestuurde boekhouding van Intuit met automatische onkostencategorisatie,
     factuurtracking en belastingvoorbereiding
   priceRange: EUR 15-60/mnd
   bestFor: Amerikaanse connectie
   rating: 4.1
-  affiliateLink: https://quickbooks.intuit.com/nl/?ref=aitoolsnl
+  affiliateLink: https://quickbooks.intuit.com/nl/
 faq:
 - q: Wat is de beste AI boekhouding voor zzp'ers?
   a: Moneybird is de populairste keuze voor Nederlandse zzp'ers vanwege de gebruiksvriendelijke

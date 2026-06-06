@@ -1,55 +1,59 @@
 ---
-title: "AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps"
+title: 'AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps'
 slug: ai-voor-studenten-2026
-description: "De beste AI tools voor studenten in 2026. Vergelijk ChatGPT, Notion AI, Grammarly, Quillbot en meer voor studie en essays."
+description: De beste AI tools voor studenten in 2026. Vergelijk ChatGPT, Notion AI,
+  Grammarly, Quillbot en meer voor studie en essays.
 category: productiviteit
 rating: 4.3
 priceRange: EUR 0-20/mnd
 pros:
-  - Specifiek gericht op studenten
-  - Vergelijking van essay en studie tools
-  - Betaalbare of gratis opties
+- Specifiek gericht op studenten
+- Vergelijking van essay en studie tools
+- Betaalbare of gratis opties
 cons:
-  - Academische integriteit blijft belangrijk
-  - Sommige tools kunnen te generiek zijn
+- Academische integriteit blijft belangrijk
+- Sommige tools kunnen te generiek zijn
 affiliateLinks:
-  - https://www.taskade.com/?via=55nfr2
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://taskade.com/?via=55nfr2
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
-featuredTool: "ChatGPT"
+featuredTool: ChatGPT
 readingTime: 7 min
 tools:
-  - name: "ChatGPT"
-    verdict: "Beste allround studie assistent voor uitleg en research"
-    priceRange: "EUR 0-20/mnd"
-    bestFor: "Algemene studie"
-    rating: 4.6
-    affiliateLink: "https://chat.openai.com/?ref=aitoolsnl"
-  - name: "Notion AI"
-    verdict: "Uitstekend voor studienotities en samenvattingen"
-    priceRange: "EUR 8-15/mnd"
-    bestFor: "Notities & organisatie"
-    rating: 4.5
-    affiliateLink: "https://www.notion.so/?ref=aitoolsnl"
-  - name: "Grammarly"
-    verdict: "Beste voor grammatica en academisch schrijven"
-    priceRange: "EUR 0-12/mnd"
-    bestFor: "Schrijven"
-    rating: 4.4
-    affiliateLink: "https://www.grammarly.com/?ref=aitoolsnl"
+- name: ChatGPT
+  verdict: Beste allround studie assistent voor uitleg en research
+  priceRange: EUR 0-20/mnd
+  bestFor: Algemene studie
+  rating: 4.6
+  affiliateLink: https://chat.openai.com/
+- name: Notion AI
+  verdict: Uitstekend voor studienotities en samenvattingen
+  priceRange: EUR 8-15/mnd
+  bestFor: Notities & organisatie
+  rating: 4.5
+  affiliateLink: https://www.notion.so/
+- name: Grammarly
+  verdict: Beste voor grammatica en academisch schrijven
+  priceRange: EUR 0-12/mnd
+  bestFor: Schrijven
+  rating: 4.4
+  affiliateLink: https://www.grammarly.com/
 related:
 - beste-ai-tools-bouw-2026
 - beste-ai-tools-mode-styling-2026
 - beste-ai-tools-mindmapping-brainstormen-2026
 draft: false
 faq:
-  - q: "Mag ik AI gebruiken voor essays op de universiteit?"
-    a: "Check altijd de richtlijnen van je onderwijsinstelling. AI als hulpmiddel is meestal toegestaan, plagiaat niet."
-  - q: "Welke tool helpt het beste bij samenvattingen maken?"
-    a: "Notion AI en ChatGPT zijn zeer effectief voor het maken van studienotities en samenvattingen."
-  - q: "Zijn er gratis AI tools voor studenten?"
-    a: "Ja, ChatGPT (gratis versie), Grammarly Free en verschillende universiteitslicenties bieden gratis toegang."
+- q: Mag ik AI gebruiken voor essays op de universiteit?
+  a: Check altijd de richtlijnen van je onderwijsinstelling. AI als hulpmiddel is
+    meestal toegestaan, plagiaat niet.
+- q: Welke tool helpt het beste bij samenvattingen maken?
+  a: Notion AI en ChatGPT zijn zeer effectief voor het maken van studienotities en
+    samenvattingen.
+- q: Zijn er gratis AI tools voor studenten?
+  a: Ja, ChatGPT (gratis versie), Grammarly Free en verschillende universiteitslicenties
+    bieden gratis toegang.
 ---
 
 # AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps

@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Popmenu AI
@@ -26,45 +26,45 @@ tools:
   priceRange: EUR 100-400/mnd
   bestFor: Reputatiemanagement
   rating: 4.4
-  affiliateLink: https://www.popmenu.com/?ref=aitoolsnl
+  affiliateLink: https://www.popmenu.com/
 - name: SevenRooms
   verdict: AI gastprofielen en gepersonaliseerde reserveringen voor volwaardige restaurants
   priceRange: EUR 200-800/mnd
   bestFor: Gastbeleving & CRM
   rating: 4.6
-  affiliateLink: https://www.sevenrooms.com/?ref=aitoolsnl
+  affiliateLink: https://www.sevenrooms.com/
 - name: Fourth
   verdict: AI personeelsplanning en voorraadbeheer specifiek voor de hospitality sector
   priceRange: EUR 150-600/mnd
   bestFor: Planning & voorraad
   rating: 4.3
-  affiliateLink: https://www.fourth.com/?ref=aitoolsnl
+  affiliateLink: https://www.fourth.com/
 - name: Toast AI
   verdict: All-in-one restaurant-AI platform met slimme menubeheer en bestelanalyse
   priceRange: EUR 50-300/mnd
   bestFor: Kleine restaurants
   rating: 4.5
-  affiliateLink: https://pos.toasttab.com/?ref=aitoolsnl
+  affiliateLink: https://pos.toasttab.com/
 - name: Formitable
   verdict: Nederlandse AI-reserveringssoftware met slimme tafelindeling en gastherkenning
   priceRange: EUR 50-200/mnd
   bestFor: NL restaurants & reserveringen
   rating: 4.2
-  affiliateLink: https://www.formitable.com/?ref=aitoolsnl
+  affiliateLink: https://www.formitable.com/
 - name: Resengo
   verdict: Belgisch-Nederlandse restaurant-AI voor online boekingen, menukaart en
     reviews
   priceRange: EUR 30-150/mnd
   bestFor: Benelux horeca
   rating: 4.1
-  affiliateLink: https://www.resengo.com/?ref=aitoolsnl
+  affiliateLink: https://www.resengo.com/
 - name: Zonal
   verdict: AI hoteltechnologie — frontdesk, F&B, housekeeping, gastanalyse in één
     platform
   priceRange: EUR 200-1000/mnd
   bestFor: Hotels & ketens
   rating: 4.3
-  affiliateLink: https://www.zonal.co.uk/?ref=aitoolsnl
+  affiliateLink: https://www.zonal.co.uk/
 related:
 - beste-ai-tools-studenten-2026
 - notion-ai-review-nederlands-2026

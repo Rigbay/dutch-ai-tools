@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-21
 modelYear: 2026
 featuredTool: OptimoRoute
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 50-500/mnd
   bestFor: Routeoptimalisatie
   rating: 4.6
-  affiliateLink: https://www.optimoroute.com/?ref=aitoolsnl
+  affiliateLink: https://www.optimoroute.com/
 - name: project44
   verdict: Marktleider real-time supply chain visibility met multimodale tracking
   priceRange: EUR 500-3000/mnd
   bestFor: Supply chain visibility
   rating: 4.7
-  affiliateLink: https://www.project44.com/?ref=aitoolsnl
+  affiliateLink: https://www.project44.com/
 - name: Locus.sh
   verdict: AI dispatch management platform — automatiseert complexe logistieke planning
   priceRange: EUR 200-1000/mnd
   bestFor: Dispatch & planning
   rating: 4.4
-  affiliateLink: https://www.locus.sh/?ref=aitoolsnl
+  affiliateLink: https://www.locus.sh/
 - name: Shipwell
   verdict: AI TMS met voorspellende prijsanalyse en automatische carrier-matching
   priceRange: EUR 100-800/mnd
   bestFor: Transport management
   rating: 4.3
-  affiliateLink: https://www.shipwell.com/?ref=aitoolsnl
+  affiliateLink: https://www.shipwell.com/
 - name: Coupa
   verdict: AI spend management en supply chain design voor grotere logistieke operaties
   priceRange: EUR 1000-5000/mnd
   bestFor: Enterprise supply chain
   rating: 4.5
-  affiliateLink: https://www.coupa.com/?ref=aitoolsnl
+  affiliateLink: https://www.coupa.com/
 - name: Transporeon
   verdict: Europees AI platform voor verlader-carrier matching met CO2-transparantie
   priceRange: EUR 300-1500/mnd
   bestFor: Europese matching
   rating: 4.2
-  affiliateLink: https://www.transporeon.com/?ref=aitoolsnl
+  affiliateLink: https://www.transporeon.com/
 - name: FourKites
   verdict: AI real-time tracking over alle transportmodi — zee, weg, rail, lucht
   priceRange: EUR 300-2000/mnd
   bestFor: Multimodale tracking
   rating: 4.4
-  affiliateLink: https://www.fourkites.com/?ref=aitoolsnl
+  affiliateLink: https://www.fourkites.com/
 related:
 - beste-ai-tools-ouderen-senioren-2026
 - beste-ai-vertaaltools-2026

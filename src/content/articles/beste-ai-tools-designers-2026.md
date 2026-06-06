@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Figma AI
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-55/mnd
   bestFor: UI/UX design
   rating: 4.8
-  affiliateLink: https://www.figma.com/?ref=aitoolsnl
+  affiliateLink: https://www.figma.com/
 - name: Adobe Firefly
   verdict: Commercieel veilige AI beeldgeneratie direct in Creative Cloud
   priceRange: EUR 5-25/mnd
   bestFor: Grafisch ontwerp
   rating: 4.5
-  affiliateLink: https://www.adobe.com/?ref=aitoolsnl
+  affiliateLink: https://www.adobe.com/
 - name: Canva AI
   verdict: Toegankelijke AI design tool voor snelle social graphics en branding
   priceRange: EUR 0-15/mnd
   bestFor: Snelle visuals
   rating: 4.4
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Midjourney
   verdict: Absolute top in AI-beeldkwaliteit voor concept art en inspiratie
   priceRange: EUR 10-60/mnd
   bestFor: Concept & inspiratie
   rating: 4.7
-  affiliateLink: https://www.midjourney.com/?ref=aitoolsnl
+  affiliateLink: https://www.midjourney.com/
 - name: Relume AI
   verdict: AI die wireframes en sitemaps genereert voor webdesign projecten
   priceRange: EUR 30-50/mnd
   bestFor: Webdesign & wireframes
   rating: 4.3
-  affiliateLink: https://www.relume.io/?ref=aitoolsnl
+  affiliateLink: https://www.relume.io/
 - name: Galileo AI
   verdict: AI die UI designs genereert uit tekstbeschrijvingen — razendsnel prototypen
   priceRange: EUR 20-50/mnd
   bestFor: UI generatie
   rating: 4.2
-  affiliateLink: https://www.usegalileo.ai/?ref=aitoolsnl
+  affiliateLink: https://www.usegalileo.ai/
 - name: Khroma
   verdict: AI kleurenpalet-generator die leert van jouw voorkeuren
   priceRange: EUR 0/mnd
   bestFor: Kleurpaletten
   rating: 4.0
-  affiliateLink: https://www.khroma.co/?ref=aitoolsnl
+  affiliateLink: https://www.khroma.co/
 related:
 - beste-ai-tools-3d-modellering-2026
 - elevenlabs-vs-murf-ai-vs-play-ht-2026

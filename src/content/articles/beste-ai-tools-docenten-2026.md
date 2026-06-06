@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.taskade.com/?via=55nfr2
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://taskade.com/?via=55nfr2
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT
@@ -39,13 +39,13 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Visueel lesmateriaal
   rating: 4.7
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: LessonUp
   verdict: Nederlands platform met AI voor interactieve lessen en formatief toetsen
   priceRange: EUR 0-30/mnd
   bestFor: Interactieve lessen
   rating: 4.4
-  affiliateLink: https://www.lessonup.com/?ref=aitoolsnl
+  affiliateLink: https://www.lessonup.com/
 - name: Google Gemini
   verdict: Diepe Google-integratie voor research en Google Classroom workflows
   priceRange: EUR 0-25/mnd
@@ -57,7 +57,7 @@ tools:
   priceRange: EUR 0-8/mnd
   bestFor: Toetsen & stampwerk
   rating: 4.5
-  affiliateLink: https://quizlet.com/?ref=aitoolsnl
+  affiliateLink: https://quizlet.com/
 - name: Notion AI
   verdict: Perfect voor lesplanning, curriculumbeheer en leerlingvolgsysteem
   priceRange: EUR 0-20/mnd

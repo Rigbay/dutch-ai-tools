@@ -16,8 +16,8 @@ cons:
 - AI 3D-modellering is een snel evoluerend veld — tools veranderen maandelijks
 - Sommige output vereist nog handmatige nabewerking voor professioneel gebruik
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Meshy

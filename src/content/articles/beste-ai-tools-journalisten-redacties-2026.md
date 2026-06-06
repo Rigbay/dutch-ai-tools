@@ -1,7 +1,8 @@
 ---
 title: Beste AI Tools voor Journalisten & Redacties 2026
 slug: beste-ai-tools-journalisten-redacties-2026
-description: 'AI tools voor journalisten in 2026: vergelijk Pinpoint, Otter.ai, Grammarly, Perplexity, ChatGPT, Descript en DeepL voor research en factchecking.'
+description: 'AI tools voor journalisten in 2026: vergelijk Pinpoint, Otter.ai, Grammarly,
+  Perplexity, ChatGPT, Descript en DeepL voor research en factchecking.'
 category: creatie
 rating: 4.5
 priceRange: EUR 0-40/mnd
@@ -14,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Google Pinpoint
@@ -53,7 +54,8 @@ tools:
   rating: 4.6
   affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Descript
-  verdict: Beste voor het bewerken van audio/video via tekst — ideaal voor podcasts en videoreportages
+  verdict: Beste voor het bewerken van audio/video via tekst — ideaal voor podcasts
+    en videoreportages
   priceRange: EUR 0-30/mnd
   bestFor: Audio/video montage
   rating: 4.3
@@ -71,11 +73,17 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor journalistiek, nieuwsredacties in 2026?
-  a: Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is Google Pinpoint een uitstekende start. Lees de volledige vergelijking hierboven voor een gedetailleerd advies.
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is Google
+    Pinpoint een uitstekende start. Lees de volledige vergelijking hierboven voor
+    een gedetailleerd advies.
 - q: Zijn er goede gratis AI tools beschikbaar?
-  a: Ja, veel AI tools bieden een gratis tier aan. In deze gids hebben we per tool aangegeven of er een gratis optie is. Gratis versies hebben wel beperkingen in dagelijks gebruik.
+  a: Ja, veel AI tools bieden een gratis tier aan. In deze gids hebben we per tool
+    aangegeven of er een gratis optie is. Gratis versies hebben wel beperkingen in
+    dagelijks gebruik.
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
-  a: Begin met het bepalen van je primaire use case, budget, en of je Nederlandse ondersteuning nodig hebt. Gebruik dan de tabel hierboven om te kiezen op score, prijs en de 'beste voor' kolom.
+  a: Begin met het bepalen van je primaire use case, budget, en of je Nederlandse
+    ondersteuning nodig hebt. Gebruik dan de tabel hierboven om te kiezen op score,
+    prijs en de 'beste voor' kolom.
 ---
 
 # Beste AI Tools voor Journalisten & Redacties 2026: De Nieuwe Generatie Werkpaarden

@@ -16,14 +16,13 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.descript.com/?ref=aitoolsnl
-- https://riverside.fm/?ref=aitoolsnl
-- https://cleanvoice.ai/?ref=aitoolsnl
-- https://auphonic.com/?ref=aitoolsnl
-- https://podcastle.ai/?ref=aitoolsnl
-- https://alitu.com/?ref=aitoolsnl
-- https://podcast.adobe.com/?ref=aitoolsnl
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.descript.com/
+- https://riverside.fm/
+- https://cleanvoice.ai/
+- https://auphonic.com/
+- https://podcastle.ai/
+- https://alitu.com/
+- https://podcast.adobe.com/
 related:
 - beste-ai-research-academische-tools-2026
 - beste-ai-3d-modellering-tools-2026
@@ -39,49 +38,49 @@ tools:
   priceRange: EUR 0-33/mnd
   bestFor: Tekst-gebaseerde audiobewerking
   rating: 4.6
-  affiliateLink: https://www.descript.com/?ref=aitoolsnl
+  affiliateLink: https://www.descript.com/
 - name: Riverside.fm
   verdict: AI-opnameplatform voor remote podcasts — lokale opname in hoge kwaliteit,
     AI-transcriptie, automatische highlights en text-based editing
   priceRange: EUR 0-29/mnd
   bestFor: Remote podcast opname
   rating: 4.7
-  affiliateLink: https://riverside.fm/?ref=aitoolsnl
+  affiliateLink: https://riverside.fm/
 - name: Cleanvoice
   verdict: AI-audioreiniger die automatisch um's, ah's, stiltes, mondgeluiden en achtergrondgeluid
     verwijdert — ideaal voor Nederlandse podcasts
   priceRange: EUR 0-18/mnd
   bestFor: Automatische audiocleanup
   rating: 4.4
-  affiliateLink: https://cleanvoice.ai/?ref=aitoolsnl
+  affiliateLink: https://cleanvoice.ai/
 - name: Auphonic
   verdict: AI-audio post-productie tool voor loudness normalization, ruisonderdrukking
     en niveau-aanpassing — gebruikt door professionele podcasters wereldwijd
   priceRange: EUR 0-150/mnd
   bestFor: Audio leveling & normalization
   rating: 4.5
-  affiliateLink: https://auphonic.com/?ref=aitoolsnl
+  affiliateLink: https://auphonic.com/
 - name: Podcastle
   verdict: Alles-in-één AI-podcastplatform — opname, AI-editing, magic dust ruisverwijdering,
     transcriptie en publicatie in een tool
   priceRange: EUR 0-30/mnd
   bestFor: Alles-in-één podcastplatform
   rating: 4.3
-  affiliateLink: https://podcastle.ai/?ref=aitoolsnl
+  affiliateLink: https://podcastle.ai/
 - name: Alitu
   verdict: AI-podcast automation tool — upload je ruwe opname en Alitu bewerkt, normaliseert,
     voegt intro/outro toe en exporteert automatisch
   priceRange: EUR 33/mnd
   bestFor: Geautomatiseerde post-productie
   rating: 4.2
-  affiliateLink: https://alitu.com/?ref=aitoolsnl
+  affiliateLink: https://alitu.com/
 - name: Adobe Podcast
   verdict: Gratis AI-podcast tool van Adobe — enhance speech voor kristalheldere audio,
     AI-ruisonderdrukking en browsergebaseerde editor
   priceRange: EUR 0 (gratis)
   bestFor: Gratis professionele audio
   rating: 4.4
-  affiliateLink: https://podcast.adobe.com/?ref=aitoolsnl
+  affiliateLink: https://podcast.adobe.com/
 faq:
 - q: Welke AI podcast tool is het beste voor beginners?
   a: Adobe Podcast is gratis en ideaal om te starten met AI-ruisonderdrukking. Riverside

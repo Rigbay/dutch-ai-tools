@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.taskade.com/?via=55nfr2
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.make.com/en/register?pc=hermesai
+- https://taskade.com/?via=55nfr2
+- https://writesonic.com/?via=aitoolsnl
+- https://www.make.com/en/register?pc=hermesai
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -40,19 +40,19 @@ tools:
   priceRange: EUR 50-100/mnd
   bestFor: Marketing content
   rating: 4.3
-  affiliateLink: https://www.jasper.ai/?ref=aitoolsnl
+  affiliateLink: https://www.jasper.ai/
 - name: Make
   verdict: Krachtige automatiseringstool die honderden apps verbindt
   priceRange: EUR 0-35/mnd
   bestFor: Workflow automatisering
   rating: 4.4
-  affiliateLink: https://www.make.com/?ref=aitoolsnl
+  affiliateLink: https://www.make.com/en/register?pc=hermesai
 - name: Grammarly
   verdict: AI schrijfassistent voor foutloze en professionele communicatie
   priceRange: EUR 0-15/mnd
   bestFor: Schrijfkwaliteit
   rating: 4.6
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: Copy.ai
   verdict: Toegankelijke AI copywriter voor social media en advertenties
   priceRange: EUR 0-50/mnd
@@ -64,7 +64,7 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Design & visuals
   rating: 4.5
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 related:
 - beste-ai-tools-non-profits-goede-doelen-2026
 - beste-ai-tools-gaming-2026

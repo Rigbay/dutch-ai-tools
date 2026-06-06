@@ -1,54 +1,57 @@
 ---
-title: "Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland"
+title: 'Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland'
 slug: nederlandse-ai-startups-2026
-description: "Ontdek de beste Nederlandse AI startups in 2026. Van lokale innovaties in healthcare tot fintech en creatieve AI: een complete gids."
+description: 'Ontdek de beste Nederlandse AI startups in 2026. Van lokale innovaties
+  in healthcare tot fintech en creatieve AI: een complete gids.'
 category: business
 rating: 4.1
 priceRange: EUR 0-200/mnd
 pros:
-  - Overzicht van Nederlandse AI innovatie
-  - Focus op lokale bedrijven en oplossingen
-  - Praktische informatie over producten en prijzen
+- Overzicht van Nederlandse AI innovatie
+- Focus op lokale bedrijven en oplossingen
+- Praktische informatie over producten en prijzen
 cons:
-  - AI startup landschap verandert snel
-  - Sommige startups zijn nog in vroege fase
+- AI startup landschap verandert snel
+- Sommige startups zijn nog in vroege fase
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-20
 modelYear: 2026
-featuredTool: "Crisp"
+featuredTool: Crisp
 readingTime: 8 min
 tools:
-  - name: "Crisp"
-    verdict: "Beste Nederlandse AI voor customer support en chatbots"
-    priceRange: "EUR 0-99/mnd"
-    bestFor: "Customer support"
-    rating: 4.5
-    affiliateLink: "https://crisp.chat/?ref=aitoolsnl"
-  - name: "Lenticular"
-    verdict: "Innovatieve AI voor visuele content en design"
-    priceRange: "EUR 15-75/mnd"
-    bestFor: "Design & creatie"
-    rating: 4.3
-    affiliateLink: "https://lenticular.ai/?ref=aitoolsnl"
-  - name: "DataCamp"
-    verdict: "Leidende AI-gedreven leerplatform uit Nederland"
-    priceRange: "EUR 12-39/mnd"
-    bestFor: "Data science onderwijs"
-    rating: 4.6
-    affiliateLink: "https://www.datacamp.com/?ref=aitoolsnl"
+- name: Crisp
+  verdict: Beste Nederlandse AI voor customer support en chatbots
+  priceRange: EUR 0-99/mnd
+  bestFor: Customer support
+  rating: 4.5
+  affiliateLink: https://crisp.chat/
+- name: Lenticular
+  verdict: Innovatieve AI voor visuele content en design
+  priceRange: EUR 15-75/mnd
+  bestFor: Design & creatie
+  rating: 4.3
+  affiliateLink: https://lenticular.ai/
+- name: DataCamp
+  verdict: Leidende AI-gedreven leerplatform uit Nederland
+  priceRange: EUR 12-39/mnd
+  bestFor: Data science onderwijs
+  rating: 4.6
+  affiliateLink: https://www.datacamp.com/
 related:
 - beste-ai-tools-boekhouders-accountants-2026
 - beste-ai-tools-supply-chain-logistiek-2026
 - ai-tools-mkb-starten-2026
 draft: false
 faq:
-  - q: "Zijn Nederlandse AI startups even goed als internationale spelers?"
-    a: "Ja, veel Nederlandse AI bedrijven bieden zeer competitieve oplossingen, vaak met betere privacy en lokale support."
-  - q: "Welke sectoren domineren de Nederlandse AI scene?"
-    a: "Fintech, healthcare, agritech en customer support zijn momenteel de sterkste sectoren."
-  - q: "Kunnen startups meegroeien met mijn bedrijf?"
-    a: "De meeste Nederlandse AI startups bieden schaalbare enterprise plannen."
+- q: Zijn Nederlandse AI startups even goed als internationale spelers?
+  a: Ja, veel Nederlandse AI bedrijven bieden zeer competitieve oplossingen, vaak
+    met betere privacy en lokale support.
+- q: Welke sectoren domineren de Nederlandse AI scene?
+  a: Fintech, healthcare, agritech en customer support zijn momenteel de sterkste
+    sectoren.
+- q: Kunnen startups meegroeien met mijn bedrijf?
+  a: De meeste Nederlandse AI startups bieden schaalbare enterprise plannen.
 ---
 
 # Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland

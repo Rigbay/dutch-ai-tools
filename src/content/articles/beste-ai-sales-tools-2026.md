@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.jasper.ai/partners/affiliates?via=aitoolsnl
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.jasper.ai/partners/affiliates
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Apollo.io
@@ -29,49 +29,49 @@ tools:
   priceRange: EUR 0-100/mnd
   bestFor: Lead gen + outreach
   rating: 4.7
-  affiliateLink: https://www.apollo.io/?ref=aitoolsnl
+  affiliateLink: https://www.apollo.io/
 - name: Lemlist
   verdict: Beste AI-gepersonaliseerde email outreach met dynamische afbeeldingen en
     video — populair in Europa
   priceRange: EUR 30-80/mnd
   bestFor: Email personalisatie
   rating: 4.5
-  affiliateLink: https://www.lemlist.com/?ref=aitoolsnl
+  affiliateLink: https://www.lemlist.com/
 - name: Instantly
   verdict: AI-warmup + outreach platform met de beste deliverability voor cold email
     campagnes
   priceRange: EUR 0-100/mnd
   bestFor: Cold email scale
   rating: 4.4
-  affiliateLink: https://instantly.ai/?ref=aitoolsnl
+  affiliateLink: https://instantly.ai/
 - name: Clay
   verdict: AI-dataverrijking die automatisch 50+ databronnen combineert voor hypergepersonaliseerde
     outreach
   priceRange: EUR 0-200/mnd
   bestFor: Data enrichment
   rating: 4.6
-  affiliateLink: https://www.clay.com/?ref=aitoolsnl
+  affiliateLink: https://www.clay.com/
 - name: Salesforce Einstein GPT
   verdict: Enterprise AI embedded in het grootste CRM — automatische opportunity scoring
     en next-best-action
   priceRange: EUR 50-500/mnd
   bestFor: Enterprise CRM + AI
   rating: 4.3
-  affiliateLink: https://www.salesforce.com/nl/?ref=aitoolsnl
+  affiliateLink: https://www.salesforce.com/nl/
 - name: HubSpot Breeze AI
   verdict: AI-laag in HubSpot CRM met automatische contentgeneratie, voorspellende
     scoring en chatbots
   priceRange: EUR 0-50/mnd
   bestFor: HubSpot AI
   rating: 4.2
-  affiliateLink: https://www.hubspot.com/?ref=aitoolsnl
+  affiliateLink: https://www.hubspot.com/
 - name: Close CRM AI
   verdict: AI-gedreven CRM voor inside sales teams met ingebouwde calling, SMS en
     workflow automation
   priceRange: EUR 50-150/mnd
   bestFor: Inside sales teams
   rating: 4.1
-  affiliateLink: https://www.close.com/?ref=aitoolsnl
+  affiliateLink: https://www.close.com/
 related:
 - ai-voor-data-analyse-2026
 - beste-ai-tools-duurzaamheid-esg-2026

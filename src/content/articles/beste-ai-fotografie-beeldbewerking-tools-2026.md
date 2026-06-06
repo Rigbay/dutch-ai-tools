@@ -17,18 +17,17 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.adobe.com/nl/products/photoshop.html?ref=aitoolsnl
-- https://skylum.com/nl/luminar-neo?ref=aitoolsnl
-- https://www.topazlabs.com/topaz-photo-ai?ref=aitoolsnl
-- https://www.canva.com/?ref=aitoolsnl
-- https://www.captureone.com/?ref=aitoolsnl
-- https://remini.ai/?ref=aitoolsnl
-- https://letsenhance.io/?ref=aitoolsnl
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.adobe.com/nl/products/photoshop.html
+- https://skylum.com/nl/luminar-neo
+- https://www.topazlabs.com/topaz-photo-ai
+- https://www.canva.com/
+- https://www.captureone.com/
+- https://remini.ai/
+- https://letsenhance.io/
 related:
-  - beste-ai-video-editing-bewerking-tools-2026
-  - beste-ai-video-tools-2026
-  - beste-ai-video-generators-nederland-2026
+- beste-ai-video-editing-bewerking-tools-2026
+- beste-ai-video-tools-2026
+- beste-ai-video-generators-nederland-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Adobe Photoshop (AI)
@@ -40,49 +39,49 @@ tools:
   priceRange: EUR 25/mnd
   bestFor: Professionele fotobewerking
   rating: 4.8
-  affiliateLink: https://www.adobe.com/nl/products/photoshop.html?ref=aitoolsnl
+  affiliateLink: https://www.adobe.com/nl/products/photoshop.html
 - name: Luminar Neo
   verdict: AI-gedreven fotobewerking met automatische luchtvervanging, gezichtsverbetering,
     achtergrondverwijdering en AI-verlichting aanpassing
   priceRange: EUR 10-15/mnd
   bestFor: Snelle AI-bewerking
   rating: 4.5
-  affiliateLink: https://skylum.com/nl/luminar-neo?ref=aitoolsnl
+  affiliateLink: https://skylum.com/nl/luminar-neo
 - name: Topaz Photo AI
   verdict: 'AI-gespecialiseerd in foto-optimalisatie: denoise, upscale, sharpen en
     gezichtsherstel in één tool met verbluffende resultaten'
   priceRange: EUR 159/eenmalig
   bestFor: Ruisverwijdering & upscaling
   rating: 4.7
-  affiliateLink: https://www.topazlabs.com/topaz-photo-ai?ref=aitoolsnl
+  affiliateLink: https://www.topazlabs.com/topaz-photo-ai
 - name: Canva Foto AI
   verdict: AI-fotobewerking in Canva's design platform — achtergrondverwijdering,
     AI-magic edit, bulksgewijs bewerken en automatische kleurcorrectie
   priceRange: EUR 0-13/mnd
   bestFor: Social media & marketing visuals
   rating: 4.4
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Capture One (AI)
   verdict: Professionele RAW-ontwikkelaar met AI-gestuurde kleurcorrectie, gezichtsherkenning,
     selectieve aanpassingen en tethered shooting
   priceRange: EUR 24/mnd
   bestFor: RAW-fotografie workflow
   rating: 4.6
-  affiliateLink: https://www.captureone.com/?ref=aitoolsnl
+  affiliateLink: https://www.captureone.com/
 - name: Remini
   verdict: AI-fotoherstel en -verbetering — maakt oude, korrelige of onscherpe foto's
     haarscherp met indrukwekkende AI-upscaling en gezichtsherstel
   priceRange: EUR 0-10/mnd
   bestFor: Oude foto's herstellen
   rating: 4.3
-  affiliateLink: https://remini.ai/?ref=aitoolsnl
+  affiliateLink: https://remini.ai/
 - name: Let's Enhance
   verdict: AI-beeldoptimalisatie voor e-commerce en print — upscale zonder kwaliteitsverlies,
     kleurcorrectie, compressor en formatconversie
   priceRange: EUR 0-10/mnd
   bestFor: E-commerce productfoto's
   rating: 4.2
-  affiliateLink: https://letsenhance.io/?ref=aitoolsnl
+  affiliateLink: https://letsenhance.io/
 faq:
 - q: Wat is de beste AI fotobewerking voor beginners?
   a: Canva Foto AI en Luminar Neo zijn het toegankelijkst — AI voert achtergrondverwijdering

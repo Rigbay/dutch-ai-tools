@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -44,25 +44,25 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Research & fact-check
   rating: 4.4
-  affiliateLink: https://www.perplexity.ai/?ref=aitoolsnl
+  affiliateLink: https://www.perplexity.ai/
 - name: Microsoft Copilot
   verdict: Diepe Office 365 integratie voor zakelijke productiviteit
   priceRange: EUR 0-30/mnd
   bestFor: MS Office gebruikers
   rating: 4.3
-  affiliateLink: https://copilot.microsoft.com/?ref=aitoolsnl
+  affiliateLink: https://copilot.microsoft.com/
 - name: Poe
   verdict: Toegang tot meerdere AI modellen in een app, flexibel abonnement
   priceRange: EUR 0-25/mnd
   bestFor: Multi-model toegang
   rating: 4.2
-  affiliateLink: https://poe.com/?ref=aitoolsnl
+  affiliateLink: https://poe.com/
 - name: DeepSeek
   verdict: Nieuwe uitdager met sterke performance en open-source componenten
   priceRange: EUR 0-5/mnd
   bestFor: Budget powerhouse
   rating: 4.1
-  affiliateLink: https://www.deepseek.com/?ref=aitoolsnl
+  affiliateLink: https://www.deepseek.com/
 related:
 - chatgpt-vs-gemini-vs-claude-nederlands-2026
 - beste-ai-meeting-transcriptie-tools-2026

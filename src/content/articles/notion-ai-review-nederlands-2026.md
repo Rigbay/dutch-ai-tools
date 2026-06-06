@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Notion AI
@@ -32,31 +32,31 @@ tools:
   priceRange: EUR 0-36/mnd
   bestFor: Documenten & data
   rating: 4.3
-  affiliateLink: https://coda.io/?ref=aitoolsnl
+  affiliateLink: https://coda.io/
 - name: Craft
   verdict: Prachtig vormgegeven notitie-app met beperktere AI features
   priceRange: EUR 0-10/mnd
   bestFor: Persoonlijke notities
   rating: 4.1
-  affiliateLink: https://www.craft.do/?ref=aitoolsnl
+  affiliateLink: https://www.craft.do/
 - name: Obsidian
   verdict: Krachtige kennisbeheer met AI plugins voor gevorderden
   priceRange: EUR 0-10/mnd
   bestFor: Kennisbeheer
   rating: 4.2
-  affiliateLink: https://obsidian.md/?ref=aitoolsnl
+  affiliateLink: https://obsidian.md/
 - name: ClickUp AI
   verdict: Projectmanagement met ingebouwde AI voor taken en workflows
   priceRange: EUR 0-12/mnd
   bestFor: Projecten & taken
   rating: 4.0
-  affiliateLink: https://clickup.com/?ref=aitoolsnl
+  affiliateLink: https://clickup.com/
 - name: Anytype
   verdict: Privacy-first alternatief met lokaal opgeslagen AI notities
   priceRange: EUR 0-5/mnd
   bestFor: Privacy
   rating: 3.9
-  affiliateLink: https://anytype.io/?ref=aitoolsnl
+  affiliateLink: https://anytype.io/
 - name: Notion Calendar
   verdict: Nieuwe kalendertool geintegreerd met Notion voor planning
   priceRange: EUR 0/mnd

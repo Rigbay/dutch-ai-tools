@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse nutspraktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of enterprise-only
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: GridOS (GE Vernova)
@@ -27,46 +27,46 @@ tools:
   priceRange: EUR 5000-20000/mnd
   bestFor: Grote netbeheerders en transmissiebedrijven
   rating: 4.8
-  affiliateLink: https://www.gevernova.com/?ref=aitoolsnl
+  affiliateLink: https://www.gevernova.com/
 - name: AutoGrid
   verdict: Platform voor demand response en gedistribueerde energiebronnen optimalisatie
     met AI.
   priceRange: EUR 2000-10000/mnd
   bestFor: Aggregators en nutsbedrijven met DERs
   rating: 4.6
-  affiliateLink: https://www.autogridsystems.com/?ref=aitoolsnl
+  affiliateLink: https://www.autogridsystems.com/
 - name: Stem Inc
   verdict: AI voor energieopslag optimalisatie en batterij management in smart grids.
   priceRange: EUR 1500-8000/mnd
   bestFor: Batterijopslag projecten en VPPs
   rating: 4.5
-  affiliateLink: https://www.stem.com/?ref=aitoolsnl
+  affiliateLink: https://www.stem.com/
 - name: Uplight
   verdict: AI-gedreven klantbetrokkenheid en energiebesparingsprogramma's voor nutsbedrijven.
   priceRange: EUR 1000-6000/mnd
   bestFor: Consumentenprogramma's en demand response
   rating: 4.4
-  affiliateLink: https://www.uplight.com/?ref=aitoolsnl
+  affiliateLink: https://www.uplight.com/
 - name: SparkCognition
   verdict: Predictive maintenance en operationele AI voor energie assets en infrastructuur.
   priceRange: EUR 3000-12000/mnd
   bestFor: Industriële energiecentrales en windparken
   rating: 4.7
-  affiliateLink: https://www.sparkcognition.com/?ref=aitoolsnl
+  affiliateLink: https://www.sparkcognition.com/
 - name: Bidgely
   verdict: AI voor energieverbruiksanalyse en gepersonaliseerde inzichten uit slimme
     meters.
   priceRange: EUR 800-5000/mnd
   bestFor: Klantinzichten en efficiëntieprogramma's
   rating: 4.3
-  affiliateLink: https://www.bidgely.com/?ref=aitoolsnl
+  affiliateLink: https://www.bidgely.com/
 - name: eSmart Systems
   verdict: AI-gedreven inspectie en asset management voor elektriciteitsnetwerken
     met drones.
   priceRange: EUR 2000-9000/mnd
   bestFor: Netinspecties en onderhoudsoptimalisatie
   rating: 4.5
-  affiliateLink: https://www.esmartsystems.com/?ref=aitoolsnl
+  affiliateLink: https://www.esmartsystems.com/
 related:
 - beste-ai-tools-mode-styling-2026
 - beste-ai-tools-retail-2026

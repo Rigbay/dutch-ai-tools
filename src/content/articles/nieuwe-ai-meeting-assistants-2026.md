@@ -1,7 +1,10 @@
 ---
-title: 'Nieuwe AI Meeting Assistants 2026: Granola vs Fireflies vs Otter vs Fathom Vergeleken'
+title: 'Nieuwe AI Meeting Assistants 2026: Granola vs Fireflies vs Otter vs Fathom
+  Vergeleken'
 slug: nieuwe-ai-meeting-assistants-2026
-description: 'Nieuwe en verbeterde AI meeting assistants in 2026: Granola, Fireflies, Otter en Fathom. Vergelijk notuleren, transcriptie, actiepunten en prijs voor Nederlandse teams.'
+description: 'Nieuwe en verbeterde AI meeting assistants in 2026: Granola, Fireflies,
+  Otter en Fathom. Vergelijk notuleren, transcriptie, actiepunten en prijs voor Nederlandse
+  teams.'
 category: productiviteit
 rating: 4.6
 priceRange: EUR 0-50/mnd
@@ -14,8 +17,7 @@ cons:
 - Gratis tiers zijn voor zakelijk gebruik vaak onvoldoende
 - Integraties verschillen per gebruiksscenario
 affiliateLinks:
-- https://www.taskade.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://taskade.com/?via=55nfr2
 date: '2026-05-31'
 modelYear: 2026
 featuredTool: Granola
@@ -26,25 +28,25 @@ tools:
   priceRange: EUR 0-18/mnd
   bestFor: Zakelijke meetingnotities zonder afleiding
   rating: 4.5
-  affiliateLink: https://granola.ai/?via=aitoolsnl
+  affiliateLink: https://granola.ai/
 - name: Fireflies.ai
   verdict: Krachtigste CRM- en kennisbank-integraties in 2026
   priceRange: EUR 0-30/mnd
   bestFor: Sales, projectmanagement & teams
   rating: 4.7
-  affiliateLink: https://fireflies.ai/?ref=aitoolsnl
+  affiliateLink: https://fireflies.ai/
 - name: Otter.ai
   verdict: Live transcriptie en samenwerking voor universiteiten en kenniswerkers
   priceRange: EUR 0-20/mnd
   bestFor: Onderwijs, kwalitatief notuleren
   rating: 4.4
-  affiliateLink: https://otter.ai/?ref=aitoolsnl
+  affiliateLink: https://otter.ai/
 - name: Fathom
   verdict: Snelste realtime samenvatting met zoom/meet native integratie
   priceRange: EUR 0-29/mnd
   bestFor: Individuele professionals & kleine teams
   rating: 4.6
-  affiliateLink: https://fathom.video/?ref=aitoolsnl
+  affiliateLink: https://fathom.video/
 related:
 - otter-ai-vs-fireflies-vs-fathom-2026
 - beste-ai-chatbots-2026
@@ -52,11 +54,17 @@ related:
 draft: false
 faq:
 - q: Welke meeting assistant heeft de beste Nederlandse transcriptie in 2026?
-  a: Fireflies.ai en Granola hebben de meest stabiele Nederlandse transcriptie. Otter en Fathom werken ook, maar lopen nog wat meer achter bij regionale dialecten of snel gesproken gesprekken.
+  a: Fireflies.ai en Granola hebben de meest stabiele Nederlandse transcriptie. Otter
+    en Fathom werken ook, maar lopen nog wat meer achter bij regionale dialecten of
+    snel gesproken gesprekken.
 - q: Zijn deze AI meeting assistants al AVG-proof voor Nederlandse bedrijven?
-  a: Fireflies, Granola en Fathom bieden EU-serveropties of DPA's aan. Otter verwerkt voornamelijk in de VS. Kies een tool met een ondertekende DPA als je persoonlijke of klantgegevens verwerkt.
+  a: Fireflies, Granola en Fathom bieden EU-serveropties of DPA's aan. Otter verwerkt
+    voornamelijk in de VS. Kies een tool met een ondertekende DPA als je persoonlijke
+    of klantgegevens verwerkt.
 - q: Wat blijft als je geen bot in de meeting wilt?
-  a: Granola is het enige van deze vier dat geen bot in de meeting plaatst. Je neemt gewoon op via je laptop/telefoon en Granola vat het bijeen en deeld direct notities, actiepunten en transcripten met je team.
+  a: Granola is het enige van deze vier dat geen bot in de meeting plaatst. Je neemt
+    gewoon op via je laptop/telefoon en Granola vat het bijeen en deeld direct notities,
+    actiepunten en transcripten met je team.
 ---
 ---
 

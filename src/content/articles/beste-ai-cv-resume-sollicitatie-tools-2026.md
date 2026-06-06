@@ -16,13 +16,13 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.rezi.ai/?ref=aitoolsnl
-- https://www.kickresume.com/?ref=aitoolsnl
-- https://enhancv.com/?ref=aitoolsnl
-- https://www.tealhq.com/?ref=aitoolsnl
-- https://www.simplify.jobs/?ref=aitoolsnl
-- https://www.careerflow.ai/?ref=aitoolsnl
-- https://resume.io/?ref=aitoolsnl
+- https://www.rezi.ai/
+- https://www.kickresume.com/
+- https://enhancv.com/
+- https://www.tealhq.com/
+- https://www.simplify.jobs/
+- https://www.careerflow.ai/
+- https://resume.io/
 related:
 - beste-ai-tools-hr-recruitment-2026
 - ai-voor-studenten-2026
@@ -38,48 +38,48 @@ tools:
   priceRange: EUR 0-29/mnd
   bestFor: ATS-optimalisatie
   rating: 4.6
-  affiliateLink: https://www.rezi.ai/?ref=aitoolsnl
+  affiliateLink: https://www.rezi.ai/
 - name: Kickresume
   verdict: Gebruiksvriendelijke AI met professionele templates — schrijft je hele
     CV en sollicitatiebrief in minuten
   priceRange: EUR 0-19/mnd
   bestFor: Snel een professioneel CV
   rating: 4.4
-  affiliateLink: https://www.kickresume.com/?ref=aitoolsnl
+  affiliateLink: https://www.kickresume.com/
 - name: Enhancv
   verdict: Visueel sterke, moderne CV templates met AI-suggesties voor inhoud en bewoording
   priceRange: EUR 0-24/mnd
   bestFor: Visueel opvallende CV's
   rating: 4.3
-  affiliateLink: https://enhancv.com/?ref=aitoolsnl
+  affiliateLink: https://enhancv.com/
 - name: Teal
   verdict: 'Complete AI-sollicitatie-assistent: CV-builder, sollicitatie tracker en
     sollicitatiebrief generator in één'
   priceRange: EUR 0-29/mnd
   bestFor: Volledige sollicitatiecyclus
   rating: 4.5
-  affiliateLink: https://www.tealhq.com/?ref=aitoolsnl
+  affiliateLink: https://www.tealhq.com/
 - name: Simplify
   verdict: Gratis Chrome-extensie die sollicitatieformulieren automatisch invult en
     CV's optimaliseert per vacature
   priceRange: EUR 0 (gratis)
   bestFor: Snelle sollicitaties
   rating: 4.2
-  affiliateLink: https://www.simplify.jobs/?ref=aitoolsnl
+  affiliateLink: https://www.simplify.jobs/
 - name: Careerflow
   verdict: AI-sollicitatieplatform met LinkedIn-optimalisatie, netwerktips en intelligent
     job matching
   priceRange: EUR 0-49/mnd
   bestFor: LinkedIn optimalisatie
   rating: 4.3
-  affiliateLink: https://www.careerflow.ai/?ref=aitoolsnl
+  affiliateLink: https://www.careerflow.ai/
 - name: Resume.io
   verdict: Bewezen CV-builder met AI-templates en begeleiding — duizenden voorbeelden
     per branche en functie
   priceRange: EUR 0-25/mnd
   bestFor: Branche-specifieke CV's
   rating: 4.1
-  affiliateLink: https://resume.io/?ref=aitoolsnl
+  affiliateLink: https://resume.io/
 faq:
 - q: Herken ATS-systemen AI-geoptimaliseerde CV's?
   a: Ja, en dat is precies de bedoeling. Rezi en Simplify optimaliseren specifiek

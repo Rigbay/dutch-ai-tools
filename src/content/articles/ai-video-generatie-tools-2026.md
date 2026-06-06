@@ -15,8 +15,8 @@ cons:
 - Kwaliteit varieert sterk per use case
 - Sommige geavanceerde features vereisen duurdere abonnementen
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Synthesia
@@ -27,25 +27,25 @@ tools:
   priceRange: EUR 29-89/mnd
   bestFor: Zakelijke video's
   rating: 4.7
-  affiliateLink: https://www.synthesia.io/?ref=aitoolsnl
+  affiliateLink: https://www.synthesia.io?via=hermes
 - name: HeyGen
   verdict: Uitstekend voor gepersonaliseerde marketingvideo's en avatars
   priceRange: EUR 24-99/mnd
   bestFor: Marketing & sales
   rating: 4.6
-  affiliateLink: https://www.heygen.com/?ref=aitoolsnl
+  affiliateLink: https://www.heygen.com/
 - name: Runway
   verdict: Krachtigste tool voor creatieve video editing en generatie
   priceRange: EUR 15-76/mnd
   bestFor: Creatieve productie
   rating: 4.5
-  affiliateLink: https://runwayml.com/?ref=aitoolsnl
+  affiliateLink: https://runwayml.com/
 - name: Pika Labs
   verdict: Beste prijs-kwaliteit voor snelle, creatieve video's
   priceRange: EUR 8-20/mnd
   bestFor: Social media content
   rating: 4.3
-  affiliateLink: https://pika.art/?ref=aitoolsnl
+  affiliateLink: https://pika.art/
 related:
 - ai-stemgeneratie-2026
 - beste-ai-tools-interieur-woninginrichting-2026

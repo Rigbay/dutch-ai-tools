@@ -17,17 +17,17 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.freeletics.com/?ref=aitoolsnl
-- https://www.whoop.com/?ref=aitoolsnl
-- https://www.myfitnesspal.com/?ref=aitoolsnl
-- https://www.strava.com/?ref=aitoolsnl
-- https://www.fitbod.me/?ref=aitoolsnl
-- https://aaptiv.com/?ref=aitoolsnl
-- https://www.sleepcycle.com/?ref=aitoolsnl
+- https://www.freeletics.com/
+- https://www.whoop.com/
+- https://www.myfitnesspal.com/
+- https://www.strava.com/
+- https://www.fitbod.me/
+- https://aaptiv.com/
+- https://www.sleepcycle.com/
 related:
-  - beste-ai-tools-wearables-2026
-  - beste-ai-tools-gaming-2026
-  - beste-ai-tools-klimaat-milieu-2026
+- beste-ai-tools-wearables-2026
+- beste-ai-tools-gaming-2026
+- beste-ai-tools-klimaat-milieu-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Freeletics
@@ -39,49 +39,49 @@ tools:
   priceRange: EUR 0-50/jaar
   bestFor: Thuisworkouts zonder apparatuur
   rating: 4.6
-  affiliateLink: https://www.freeletics.com/?ref=aitoolsnl
+  affiliateLink: https://www.freeletics.com/
 - name: Whoop
   verdict: AI-herstel- en prestatie tracker met een slimme band die slaap, herstel,
     belasting en gezondheid 24/7 analyseert met gepersonaliseerd advies
   priceRange: EUR 18/mnd
   bestFor: Herstel & prestatie-optimalisatie
   rating: 4.5
-  affiliateLink: https://www.whoop.com/?ref=aitoolsnl
+  affiliateLink: https://www.whoop.com/
 - name: MyFitnessPal
   verdict: AI-voedings- en calorietracker met de grootste voedingsdatabase — scan
     barcodes, log maaltijden met AI-fotoherkenning en krijg gepersonaliseerde macro-adviezen
   priceRange: EUR 0-20/mnd
   bestFor: Voeding & calorietracking
   rating: 4.4
-  affiliateLink: https://www.myfitnesspal.com/?ref=aitoolsnl
+  affiliateLink: https://www.myfitnesspal.com/
 - name: Strava
   verdict: AI-hardloop- en fietsapp met routeplanning, prestatieanalyse, segmentvergelijkingen
     en een sociale community — onmisbaar voor Nederlandse hardlopers en fietsers
   priceRange: EUR 0-12/mnd
   bestFor: Hardlopen & fietsen
   rating: 4.7
-  affiliateLink: https://www.strava.com/?ref=aitoolsnl
+  affiliateLink: https://www.strava.com/
 - name: Fitbod
   verdict: AI-krachttrainingsapp die op basis van beschikbare apparatuur, spiervolume
     en trainingshistorie elke workout optimaliseert voor maximale spiergroei
   priceRange: EUR 0-13/mnd
   bestFor: Krachttraining in de sportschool
   rating: 4.3
-  affiliateLink: https://www.fitbod.me/?ref=aitoolsnl
+  affiliateLink: https://www.fitbod.me/
 - name: Aaptiv
   verdict: AI-audiogestuurde fitnessapp met duizenden workouts onder begeleiding van
     coaches — van hardlopen tot yoga en krachttraining
   priceRange: EUR 10-15/mnd
   bestFor: Begeleide audio-workouts
   rating: 4.2
-  affiliateLink: https://aaptiv.com/?ref=aitoolsnl
+  affiliateLink: https://aaptiv.com/
 - name: Sleep Cycle
   verdict: AI-slaaptracker die je slaapfasen analyseert via geluidsdetectie en je
     wekt in de lichtste slaapfase voor een fris ontwaken
   priceRange: EUR 0-10/mnd
   bestFor: Slaapoptimalisatie
   rating: 4.4
-  affiliateLink: https://www.sleepcycle.com/?ref=aitoolsnl
+  affiliateLink: https://www.sleepcycle.com/
 faq:
 - q: Wat is de beste AI fitnessapp voor thuis?
   a: Freeletics past elke workout aan op basis van je feedback en herstel. Geen sportschool

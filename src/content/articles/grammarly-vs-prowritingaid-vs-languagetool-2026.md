@@ -1,7 +1,10 @@
 ---
-title: 'Grammarly vs ProWritingAid vs LanguageTool 2026: beste AI schrijfassistent voor Nederlands'
+title: 'Grammarly vs ProWritingAid vs LanguageTool 2026: beste AI schrijfassistent
+  voor Nederlands'
 slug: grammarly-vs-prowritingaid-vs-languagetool-2026
-description: 'Welke AI schrijfassistent is de beste voor Nederlandse teksten in 2026? Vergelijk Grammarly, ProWritingAid, LanguageTool en meer voor foutloos zakelijk schrijven.'
+description: Welke AI schrijfassistent is de beste voor Nederlandse teksten in 2026?
+  Vergelijk Grammarly, ProWritingAid, LanguageTool en meer voor foutloos zakelijk
+  schrijven.
 category: productiviteit
 rating: 4.4
 priceRange: EUR 0-30/mnd
@@ -14,7 +17,7 @@ cons:
 - Gratis versies hebben vaak beperkte AI-features
 - Geen tool is perfect voor elke Nederlandse schrijfstijl
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-25
 modelYear: 2026
 featuredTool: LanguageTool
@@ -25,43 +28,43 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: Allround Schrijfhulp
   rating: 4.7
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: ProWritingAid
   verdict: Diepgaande stijlanalyses en rapporten, ideaal voor auteurs
   priceRange: EUR 0-20/mnd
   bestFor: Stijl & Structuur
   rating: 4.5
-  affiliateLink: https://prowritingaid.com/?ref=aitoolsnl
+  affiliateLink: https://prowritingaid.com/
 - name: LanguageTool
   verdict: Beste native Nederlandse grammaticacontrole, open-source basis
   priceRange: EUR 0-10/mnd
   bestFor: Nederlandse Grammatica
   rating: 4.6
-  affiliateLink: https://languagetool.org/?ref=aitoolsnl
+  affiliateLink: https://languagetool.org/
 - name: DeepL Write
   verdict: Perfect voor vloeiende herschrijvingen in meerdere talen
   priceRange: EUR 0-10/mnd
   bestFor: Herschrijven & Flow
   rating: 4.6
-  affiliateLink: https://www.deepl.com/write?ref=aitoolsnl
+  affiliateLink: https://www.deepl.com/write
 - name: QuillBot
   verdict: Sterk in parafraseren en academisch schrijven
   priceRange: EUR 0-15/mnd
   bestFor: Parafraseren & Academisch
   rating: 4.3
-  affiliateLink: https://quillbot.com/?ref=aitoolsnl
+  affiliateLink: https://quillbot.com/
 - name: Wordtune
   verdict: Beste AI voor toon en stijl, voelt als een menselijke editor
   priceRange: EUR 0-25/mnd
   bestFor: Toon & Helderheid
   rating: 4.5
-  affiliateLink: https://www.wordtune.com/?ref=aitoolsnl
+  affiliateLink: https://www.wordtune.com/
 - name: Slick Write
   verdict: Gratis tool voor snelle grammatica- en stijlchecks
   priceRange: EUR 0/mnd
   bestFor: Gratis & Licht
   rating: 4.0
-  affiliateLink: https://www.slickwrite.com/?ref=aitoolsnl
+  affiliateLink: https://www.slickwrite.com/
 related:
 - beste-ai-schrijftools-nederlands-2026
 - beste-ai-tools-content-creators-2026
@@ -71,9 +74,11 @@ faq:
 - q: Welke tool is het beste voor Nederlandse grammaticacontrole?
   a: LanguageTool is de absolute winnaar voor Nederlands met native grammaticaregels.
 - q: Is Grammarly goed in Nederlands?
-  a: Grammarly's Nederlandse ondersteuning is in 2026 flink verbeterd maar LanguageTool blijft beter voor Nederlands.
+  a: Grammarly's Nederlandse ondersteuning is in 2026 flink verbeterd maar LanguageTool
+    blijft beter voor Nederlands.
 - q: Wat is het verschil tussen een schrijfassistent en ChatGPT?
-  a: Schrijfassistenten corrigeren en verbeteren bestaande tekst; ChatGPT genereert nieuwe tekst vanaf nul.
+  a: Schrijfassistenten corrigeren en verbeteren bestaande tekst; ChatGPT genereert
+    nieuwe tekst vanaf nul.
 ---
 
 # Grammarly vs ProWritingAid vs LanguageTool 2026: welke AI schrijfassistent begrijpt Nederlands écht?

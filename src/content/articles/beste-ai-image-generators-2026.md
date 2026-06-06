@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Midjourney
@@ -27,7 +27,7 @@ tools:
   priceRange: EUR 10-60/mnd
   bestFor: Artistieke kwaliteit
   rating: 4.8
-  affiliateLink: https://www.midjourney.com/?ref=aitoolsnl
+  affiliateLink: https://www.midjourney.com/
 - name: DALL-E 3
   verdict: OpenAI's krachtige generator met uitstekende prompt-begrip
   priceRange: EUR 0-25/mnd
@@ -39,31 +39,31 @@ tools:
   priceRange: EUR 5-25/mnd
   bestFor: Commercieel gebruik
   rating: 4.5
-  affiliateLink: https://www.adobe.com/?ref=aitoolsnl
+  affiliateLink: https://www.adobe.com/
 - name: Stable Diffusion
   verdict: Open-source powerhouse met maximale controle en custom modellen
   priceRange: EUR 0-30/mnd
   bestFor: Technische controle
   rating: 4.4
-  affiliateLink: https://stability.ai/?ref=aitoolsnl
+  affiliateLink: https://stability.ai/
 - name: Leonardo AI
   verdict: Game-changer voor game assets en concept art met fijne controle
   priceRange: EUR 0-50/mnd
   bestFor: Game & concept art
   rating: 4.3
-  affiliateLink: https://leonardo.ai/?ref=aitoolsnl
+  affiliateLink: https://leonardo.ai/
 - name: Canva AI
   verdict: Laagdrempelige AI beeldgeneratie geintegreerd in designplatform
   priceRange: EUR 0-15/mnd
   bestFor: Beginners
   rating: 4.2
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Ideogram
   verdict: Innovatief in tekstintegratie binnen gegenereerde afbeeldingen
   priceRange: EUR 0-25/mnd
   bestFor: Tekst in beelden
   rating: 4.0
-  affiliateLink: https://ideogram.ai/?ref=aitoolsnl
+  affiliateLink: https://ideogram.ai/
 related:
 - midjourney-vs-dall-e-3-vs-stable-diffusion-2026
 - beste-ai-tools-designers-2026

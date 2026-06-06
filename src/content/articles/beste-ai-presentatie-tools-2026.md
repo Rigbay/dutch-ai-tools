@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.jasper.ai/partners/affiliates?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.jasper.ai/partners/affiliates
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Gamma
@@ -28,48 +28,48 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Snelle AI decks
   rating: 4.7
-  affiliateLink: https://gamma.app/?ref=aitoolsnl
+  affiliateLink: https://gamma.app/
 - name: Beautiful.ai
   verdict: Design-automatisering die slides realtime aanpast — altijd professionele
     layout zonder handwerk
   priceRange: EUR 12-50/mnd
   bestFor: Zakelijke presentaties
   rating: 4.5
-  affiliateLink: https://www.beautiful.ai/?ref=aitoolsnl
+  affiliateLink: https://www.beautiful.ai/
 - name: Tome
   verdict: AI storytelling platform dat presentaties bouwt rond een verhaallijn —
     sterk voor pitches
   priceRange: EUR 0-20/mnd
   bestFor: Pitch decks
   rating: 4.4
-  affiliateLink: https://tome.app/?ref=aitoolsnl
+  affiliateLink: https://tome.app/
 - name: Decktopus
   verdict: Snelste AI-deck builder met ingebouwde formulieren en lead-capturing —
     ideaal voor sales
   priceRange: EUR 10-35/mnd
   bestFor: Sales presentaties
   rating: 4.3
-  affiliateLink: https://www.decktopus.com/?ref=aitoolsnl
+  affiliateLink: https://www.decktopus.com/
 - name: Simplified AI
   verdict: All-in-one AI-creatieplatform met sterke presentatie-module plus video,
     social media en copy
   priceRange: EUR 0-25/mnd
   bestFor: Social media decks
   rating: 4.1
-  affiliateLink: https://simplified.com/?ref=aitoolsnl
+  affiliateLink: https://simplified.com/
 - name: Canva AI Presentaties
   verdict: De vertrouwde Canva-interface met nieuwe AI-presentatiegenerator — miljoenen
     Nederlandse gebruikers
   priceRange: EUR 0-13/mnd
   bestFor: Canva-gebruikers
   rating: 4.2
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Prezi AI
   verdict: AI-ondersteunde dynamische presentaties met het kenmerkende zoom/canvas-effect
   priceRange: EUR 0-20/mnd
   bestFor: Visuele storytelling
   rating: 4.0
-  affiliateLink: https://prezi.com/?ref=aitoolsnl
+  affiliateLink: https://prezi.com/
 related:
 - beste-ai-tools-studenten-2026
 - ai-voor-studenten-2026

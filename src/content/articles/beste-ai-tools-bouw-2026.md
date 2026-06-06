@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-21
 modelYear: 2026
 featuredTool: ALICE Technologies
@@ -26,44 +26,44 @@ tools:
   priceRange: EUR 500-2000/mnd
   bestFor: Bouwplanning
   rating: 4.6
-  affiliateLink: https://www.alicetechnologies.com/?ref=aitoolsnl
+  affiliateLink: https://www.alicetechnologies.com/
 - name: Buildots
   verdict: AI die bouwvoortgang tracked met 360-graden cameras en BIM-vergelijking
   priceRange: EUR 300-1500/mnd
   bestFor: Voortgangsbewaking
   rating: 4.5
-  affiliateLink: https://www.buildots.com/?ref=aitoolsnl
+  affiliateLink: https://www.buildots.com/
 - name: OpenSpace
   verdict: AI 360-graden documentatie voor bouwplaatsen met automatische BIM-koppeling
   priceRange: EUR 200-1000/mnd
   bestFor: Bouwdocumentatie
   rating: 4.4
-  affiliateLink: https://www.openspace.ai/?ref=aitoolsnl
+  affiliateLink: https://www.openspace.ai/
 - name: Kreo
   verdict: AI calculatie- en takeoff-software die sneller en preciezer is dan handmatig
   priceRange: EUR 100-500/mnd
   bestFor: Calculatie
   rating: 4.3
-  affiliateLink: https://www.kreo.net/?ref=aitoolsnl
+  affiliateLink: https://www.kreo.net/
 - name: Swapp
   verdict: AI BIM-automatisering die repetitieve modelleertaken elimineert
   priceRange: EUR 200-800/mnd
   bestFor: BIM automatisering
   rating: 4.2
-  affiliateLink: https://www.swapp.ai/?ref=aitoolsnl
+  affiliateLink: https://www.swapp.ai/
 - name: nPlan
   verdict: AI die projectrisico's voorspelt en vertragingen anticipeert met machine
     learning
   priceRange: EUR 300-1000/mnd
   bestFor: Risicomanagement
   rating: 4.4
-  affiliateLink: https://www.nplan.ai/?ref=aitoolsnl
+  affiliateLink: https://www.nplan.ai/
 - name: Procore AI
   verdict: AI laag bovenop marktleider Procore voor slimmere projectinzichten en workflows
   priceRange: EUR 300-1200/mnd
   bestFor: Projectmanagement
   rating: 4.5
-  affiliateLink: https://www.procore.com/?ref=aitoolsnl
+  affiliateLink: https://www.procore.com/
 related:
 - beste-ai-tools-pdf-documenten-2026
 - beste-gratis-ai-tools-2026

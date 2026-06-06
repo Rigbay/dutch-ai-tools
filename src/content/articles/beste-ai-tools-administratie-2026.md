@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Moneybird
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 25-60/mnd
   bestFor: Nederlands boekhouden
   rating: 4.6
-  affiliateLink: https://www.moneybird.nl/?ref=aitoolsnl
+  affiliateLink: https://www.moneybird.nl/
 - name: Exact Online
   verdict: Complete bedrijfssoftware met AI voor MKB-administratie
   priceRange: EUR 40-150/mnd
   bestFor: MKB administratie
   rating: 4.4
-  affiliateLink: https://www.exact.com/?ref=aitoolsnl
+  affiliateLink: https://www.exact.com/
 - name: e-Boekhouden
   verdict: Betaalbare oplossing met AI-hulp voor zzp'ers en klein MKB
   priceRange: EUR 15-45/mnd
   bestFor: ZZP & klein MKB
   rating: 4.2
-  affiliateLink: https://www.e-boekhouden.nl/?ref=aitoolsnl
+  affiliateLink: https://www.e-boekhouden.nl/
 - name: Jortt
   verdict: Gebruiksvriendelijke boekhoudapp met AI functies voor ZZP
   priceRange: EUR 10-30/mnd
   bestFor: Eenvoud & gebruiksgemak
   rating: 4.1
-  affiliateLink: https://www.jortt.nl/?ref=aitoolsnl
+  affiliateLink: https://www.jortt.nl/
 - name: Informer
   verdict: AI-gedreven financieel inzicht voor betere bedrijfsbeslissingen
   priceRange: EUR 50-200/mnd
   bestFor: Financiele analyse
   rating: 4.0
-  affiliateLink: https://www.informer.nl/?ref=aitoolsnl
+  affiliateLink: https://www.informer.nl/
 - name: Yuki
   verdict: Innovatieve boekhoudsoftware met AI documentherkenning
   priceRange: EUR 30-90/mnd
   bestFor: Documentverwerking
   rating: 4.3
-  affiliateLink: https://www.yuki.nl/?ref=aitoolsnl
+  affiliateLink: https://www.yuki.nl/
 - name: SnelStart
   verdict: Populaire starters-oplossing met AI ondersteuning voor aangiftes
   priceRange: EUR 20-50/mnd
   bestFor: Startende ondernemers
   rating: 3.9
-  affiliateLink: https://www.snelstart.nl/?ref=aitoolsnl
+  affiliateLink: https://www.snelstart.nl/
 related:
 - beste-ai-tools-data-analyse-2026
 - beste-ai-tools-klantfeedback-cx-2026

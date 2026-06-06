@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Buffer AI
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-100/mnd
   bestFor: Planning & scheduling
   rating: 4.4
-  affiliateLink: https://buffer.com/?ref=aitoolsnl
+  affiliateLink: https://buffer.com/
 - name: Hootsuite
   verdict: Enterprise social media management met AI analytics
   priceRange: EUR 25-600/mnd
   bestFor: Enterprise social
   rating: 4.3
-  affiliateLink: https://www.hootsuite.com/?ref=aitoolsnl
+  affiliateLink: https://www.hootsuite.com/
 - name: Later
   verdict: Visueel social media platform met sterke AI voor Instagram
   priceRange: EUR 15-80/mnd
   bestFor: Instagram & visueel
   rating: 4.2
-  affiliateLink: https://later.com/?ref=aitoolsnl
+  affiliateLink: https://later.com/
 - name: Canva
   verdict: Complete tool voor social media design met geintegreerde AI
   priceRange: EUR 0-15/mnd
   bestFor: Design & templates
   rating: 4.6
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Jasper AI
   verdict: AI copywriter specifiek geoptimaliseerd voor social media copy
   priceRange: EUR 50-100/mnd
   bestFor: Social media copy
   rating: 4.3
-  affiliateLink: https://www.jasper.ai/?ref=aitoolsnl
+  affiliateLink: https://www.jasper.ai/
 - name: Ocoya
   verdict: Nieuwe speler met AI content creatie en scheduling in een
   priceRange: EUR 15-80/mnd
   bestFor: All-in-one social AI
   rating: 4.0
-  affiliateLink: https://www.ocoya.com/?ref=aitoolsnl
+  affiliateLink: https://www.ocoya.com/
 - name: Predis.ai
   verdict: AI tool die complete social posts genereert uit productdata
   priceRange: EUR 25-140/mnd
   bestFor: E-commerce social
   rating: 3.9
-  affiliateLink: https://predis.ai/?ref=aitoolsnl
+  affiliateLink: https://predis.ai/
 related:
 - beste-ai-tools-email-marketing-2026
 - beste-ai-tools-youtube-videomakers-2026

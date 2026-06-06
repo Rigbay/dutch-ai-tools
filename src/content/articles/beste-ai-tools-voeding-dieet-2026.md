@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: MyFitnessPal AI
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: calorie- en macro-tracking
   rating: 4.6
-  affiliateLink: https://www.myfitnesspal.com/?ref=aitoolsnl
+  affiliateLink: https://www.myfitnesspal.com/
 - name: Lifesum
   verdict: Gepersonaliseerde maaltijdplannen met AI-coaching
   priceRange: EUR 0-15/mnd
   bestFor: gepersonaliseerde dieetplannen
   rating: 4.5
-  affiliateLink: https://lifesum.com/?ref=aitoolsnl
+  affiliateLink: https://lifesum.com/
 - name: Noom AI
   verdict: Psychologie-gedreven AI voor gewichtsverlies en gedragsverandering
   priceRange: EUR 20-50/mnd
   bestFor: duurzaam gewichtsverlies
   rating: 4.4
-  affiliateLink: https://www.noom.com/?ref=aitoolsnl
+  affiliateLink: https://www.noom.com/
 - name: NutriSense
   verdict: AI-gestuurde CGM-data voor gepersonaliseerde voedingsinzichten
   priceRange: EUR 30-80/mnd
   bestFor: glucosemonitoring en metabole gezondheid
   rating: 4.3
-  affiliateLink: https://www.nutrisense.io/?ref=aitoolsnl
+  affiliateLink: https://www.nutrisense.io/
 - name: Yummly AI
   verdict: Slimme receptaanbevelingen op basis van voorkeuren en dieet
   priceRange: EUR 0-5/mnd
   bestFor: receptontdekking en maaltijdplanning
   rating: 4.2
-  affiliateLink: https://www.yummly.com/?ref=aitoolsnl
+  affiliateLink: https://www.yummly.com/
 - name: MealPro AI
   verdict: AI-geoptimaliseerde maaltijdbezorging met voedingskundige precisie
   priceRange: EUR 50-150/week
   bestFor: kant-en-klare gezonde maaltijden
   rating: 4.1
-  affiliateLink: https://www.mealpro.com/?ref=aitoolsnl
+  affiliateLink: https://www.mealpro.com/
 - name: EatLove AI
   verdict: Medisch-geïnformeerde AI voor gepersonaliseerde voedingsadviezen
   priceRange: EUR 10-25/mnd
   bestFor: medische dieetbeperkingen
   rating: 4.3
-  affiliateLink: https://www.eatlove.is/?ref=aitoolsnl
+  affiliateLink: https://www.eatlove.is/
 related:
 - beste-ai-tools-pdf-documenten-2026
 - beste-ai-tools-wetenschappelijk-onderzoek-2026

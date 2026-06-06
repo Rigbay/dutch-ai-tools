@@ -1,79 +1,87 @@
 ---
 title: 'Beste AI Tools voor Sales Automation 2026: top 7 vergeleken'
 slug: beste-ai-tools-sales-automation-2026
-description: "Vergelijk AI sales automation tools voor 2026: Outreach, SalesLoft, Gong, Clari, People.ai, LeadIQ en ZoomInfo AI voor lead scoring, pipeline management en voorspellingen."
+description: 'Vergelijk AI sales automation tools voor 2026: Outreach, SalesLoft,
+  Gong, Clari, People.ai, LeadIQ en ZoomInfo AI voor lead scoring, pipeline management
+  en voorspellingen.'
 category: marketing
 rating: 4.3
 priceRange: EUR 0-500/mnd
 pros:
-  - Eerlijke vergelijking van de beste AI tools in dit segment
-  - Duidelijke prijsranges en verdict per tool
-  - Nederlandstalig en praktijkgericht advies
+- Eerlijke vergelijking van de beste AI tools in dit segment
+- Duidelijke prijsranges en verdict per tool
+- Nederlandstalig en praktijkgericht advies
 cons:
-  - Prijzen kunnen wijzigen, check altijd de aanbieder
-  - Niet elke tool is intensief getest in de praktijk
-  - Sommige AI features zijn nog in beta
+- Prijzen kunnen wijzigen, check altijd de aanbieder
+- Niet elke tool is intensief getest in de praktijk
+- Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-06-02
 modelYear: 2026
-featuredTool: "Gong AI"
+featuredTool: Gong AI
 readingTime: 8 min
 tools:
-  - name: "Gong AI"
-    verdict: "AI-gedreven tool voor gespreksanalyse & coaching"
-    priceRange: "EUR 300-1500/mnd"
-    bestFor: "Gespreksanalyse & coaching"
-    rating: 4.7
-    affiliateLink: "https://www.gong.com/?ref=aitoolsnl"
-  - name: "Outreach AI"
-    verdict: "AI-gedreven tool voor sales engagement platform"
-    priceRange: "EUR 200-1000/mnd"
-    bestFor: "Sales engagement platform"
-    rating: 4.5
-    affiliateLink: "https://www.outreach.com/?ref=aitoolsnl"
-  - name: "SalesLoft AI"
-    verdict: "AI-gedreven tool voor cadence & sequencing"
-    priceRange: "EUR 200-800/mnd"
-    bestFor: "Cadence & sequencing"
-    rating: 4.4
-    affiliateLink: "https://www.salesloft.com/?ref=aitoolsnl"
-  - name: "Clari AI"
-    verdict: "AI-gedreven tool voor revenue intelligence"
-    priceRange: "EUR 300-2000/mnd"
-    bestFor: "Revenue intelligence"
-    rating: 4.5
-    affiliateLink: "https://www.clari.com/?ref=aitoolsnl"
-  - name: "People.ai"
-    verdict: "AI-gedreven tool voor pipeline analytics"
-    priceRange: "EUR 200-1500/mnd"
-    bestFor: "Pipeline analytics"
-    rating: 4.2
-    affiliateLink: "https://www.people.ai.com/?ref=aitoolsnl"
-  - name: "ZoomInfo AI"
-    verdict: "AI-gedreven tool voor data enrichment & prospecting"
-    priceRange: "EUR 500-3000/mnd"
-    bestFor: "Data enrichment & prospecting"
-    rating: 4.3
-    affiliateLink: "https://www.zoominfo.com/?ref=aitoolsnl"
-  - name: "LeadIQ AI"
-    verdict: "AI-gedreven tool voor lead capture & sequencing"
-    priceRange: "EUR 50-200/mnd"
-    bestFor: "Lead capture & sequencing"
-    rating: 4.1
-    affiliateLink: "https://www.leadiq.com/?ref=aitoolsnl"
+- name: Gong AI
+  verdict: AI-gedreven tool voor gespreksanalyse & coaching
+  priceRange: EUR 300-1500/mnd
+  bestFor: Gespreksanalyse & coaching
+  rating: 4.7
+  affiliateLink: https://www.gong.com/
+- name: Outreach AI
+  verdict: AI-gedreven tool voor sales engagement platform
+  priceRange: EUR 200-1000/mnd
+  bestFor: Sales engagement platform
+  rating: 4.5
+  affiliateLink: https://www.outreach.com/
+- name: SalesLoft AI
+  verdict: AI-gedreven tool voor cadence & sequencing
+  priceRange: EUR 200-800/mnd
+  bestFor: Cadence & sequencing
+  rating: 4.4
+  affiliateLink: https://www.salesloft.com/
+- name: Clari AI
+  verdict: AI-gedreven tool voor revenue intelligence
+  priceRange: EUR 300-2000/mnd
+  bestFor: Revenue intelligence
+  rating: 4.5
+  affiliateLink: https://www.clari.com/
+- name: People.ai
+  verdict: AI-gedreven tool voor pipeline analytics
+  priceRange: EUR 200-1500/mnd
+  bestFor: Pipeline analytics
+  rating: 4.2
+  affiliateLink: https://www.people.ai.com/
+- name: ZoomInfo AI
+  verdict: AI-gedreven tool voor data enrichment & prospecting
+  priceRange: EUR 500-3000/mnd
+  bestFor: Data enrichment & prospecting
+  rating: 4.3
+  affiliateLink: https://www.zoominfo.com/
+- name: LeadIQ AI
+  verdict: AI-gedreven tool voor lead capture & sequencing
+  priceRange: EUR 50-200/mnd
+  bestFor: Lead capture & sequencing
+  rating: 4.1
+  affiliateLink: https://www.leadiq.com/
 related:
-  - beste-ai-ab-testing-conversie-optimalisatie-2026
-  - beste-ai-branding-merktools-2026
-  - ai-tools-marketing-teams-2026
+- beste-ai-ab-testing-conversie-optimalisatie-2026
+- beste-ai-branding-merktools-2026
+- ai-tools-marketing-teams-2026
 draft: false
 faq:
-  - q: "Wat is de beste AI tool voor marketing in 2026?"
-    a: "Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is Gong AI een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking voor een gedetailleerd advies."
-  - q: "Zijn er gratis AI marketing tools beschikbaar?"
-    a: "Ja, verschillende tools bieden een gratis tier. Sommige tools zoals WattTime AI en HomeLight bieden gratis basisfunctionaliteit. Bekijk de prijsrange per tool in de vergelijking hierboven."
-  - q: "Hoe kies ik de juiste AI marketing tool?"
-    a: "Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor kolom in de vergelijkingstabel. Start met een gratis proefperiode van 2-3 tools voordat je een keuze maakt."
+- q: Wat is de beste AI tool voor marketing in 2026?
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is Gong AI
+    een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees
+    de volledige vergelijking voor een gedetailleerd advies.
+- q: Zijn er gratis AI marketing tools beschikbaar?
+  a: Ja, verschillende tools bieden een gratis tier. Sommige tools zoals WattTime
+    AI en HomeLight bieden gratis basisfunctionaliteit. Bekijk de prijsrange per tool
+    in de vergelijking hierboven.
+- q: Hoe kies ik de juiste AI marketing tool?
+  a: Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor
+    kolom in de vergelijkingstabel. Start met een gratis proefperiode van 2-3 tools
+    voordat je een keuze maakt.
 ---
 
 # De Toekomst is Nu: De Beste AI Tools voor Sales Automation in 2026

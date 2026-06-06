@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Suno
@@ -28,46 +28,46 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: AI muziekproductie
   rating: 4.7
-  affiliateLink: https://suno.com/?ref=aitoolsnl
+  affiliateLink: https://suno.com/
 - name: ElevenLabs
   verdict: Absolute leider in AI-stemmen met de beste Nederlandse voice cloning en
     text-to-speech
   priceRange: EUR 0-100/mnd
   bestFor: Voice-overs & TTS
   rating: 4.8
-  affiliateLink: https://elevenlabs.io/?ref=aitoolsnl
+  affiliateLink: https://elevenlabs.io/
 - name: Udio
   verdict: Sterke Suno-concurrent met focus op muzikale kwaliteit en langere composities
   priceRange: EUR 0-25/mnd
   bestFor: Muziekcompositie
   rating: 4.4
-  affiliateLink: https://www.udio.com/?ref=aitoolsnl
+  affiliateLink: https://www.udio.com/
 - name: AIVA
   verdict: AI-componist voor klassieke, film- en gamemuziek met professionele partituur-export
   priceRange: EUR 0-50/mnd
   bestFor: Soundtracks & composities
   rating: 4.2
-  affiliateLink: https://www.aiva.ai/?ref=aitoolsnl
+  affiliateLink: https://www.aiva.ai/
 - name: Descript
   verdict: All-in-one audio/video editor met AI transcriptie, filler-word removal
     en stemklonen
   priceRange: EUR 0-30/mnd
   bestFor: Podcast editing
   rating: 4.5
-  affiliateLink: https://www.descript.com/?ref=aitoolsnl
+  affiliateLink: https://www.descript.com/
 - name: Adobe Podcast AI
   verdict: Gratis AI-audioverbetering die elke opname laat klinken als studio-kwaliteit
   priceRange: EUR 0/mnd
   bestFor: Audio cleaning
   rating: 4.3
-  affiliateLink: https://podcast.adobe.com/?ref=aitoolsnl
+  affiliateLink: https://podcast.adobe.com/
 - name: Murf AI
   verdict: Beste AI-stemmen voor e-learning en bedrijfsvideo's met 120+ stemmen in
     20+ talen
   priceRange: EUR 20-60/mnd
   bestFor: E-learning voice-overs
   rating: 4.1
-  affiliateLink: https://murf.ai/?ref=aitoolsnl
+  affiliateLink: https://murf.ai/
 related:
 - beste-ai-schrijftools-nederlands-2026
 - beste-ai-tools-fotografen-2026

@@ -16,15 +16,15 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.midjourney.com/?ref=aitoolsnl
-  - https://www.autodesk.com/products/forma/?ref=aitoolsnl
-  - https://www.finch3d.com/?ref=aitoolsnl
-  - https://www.ark-ai.com/?ref=aitoolsnl
-  - https://www.autodesk.com/products/spacemaker/?ref=aitoolsnl
-  - https://www.evolvelab.io/veras/?ref=aitoolsnl
-  - https://www.maket.ai/?ref=aitoolsnl
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.midjourney.com/
+- https://www.autodesk.com/products/forma/
+- https://www.finch3d.com/
+- https://www.ark-ai.com/
+- https://www.autodesk.com/products/spacemaker/
+- https://www.evolvelab.io/veras/
+- https://www.maket.ai/
+- https://www.synthesia.io?via=hermes
 related:
 - beste-ai-tools-fotografen-2026
 - beste-ai-tools-voice-cloning-voice-over-2026
@@ -41,49 +41,49 @@ tools:
   priceRange: EUR 10-60/mnd
   bestFor: Conceptvisualisatie & renders
   rating: 4.8
-  affiliateLink: https://www.midjourney.com/?ref=aitoolsnl
+  affiliateLink: https://www.midjourney.com/
 - name: Autodesk Forma
   verdict: 'AI-gedreven ontwerpoptimalisatie: analyseert wind, zon, geluid en energie
     direct in je ontwerp — BIM-integratie'
   priceRange: EUR 50-200/mnd
   bestFor: Duurzaamheid & omgevingsanalyse
   rating: 4.6
-  affiliateLink: https://www.autodesk.com/products/forma/?ref=aitoolsnl
+  affiliateLink: https://www.autodesk.com/products/forma/
 - name: Finch 3D
   verdict: AI genereert geoptimaliseerde plattegronden uit bouweisen — iteraties in
     minuten i.p.v. dagen
   priceRange: EUR 35-120/mnd
   bestFor: Plattegrondoptimalisatie & varianten
   rating: 4.4
-  affiliateLink: https://www.finch3d.com/?ref=aitoolsnl
+  affiliateLink: https://www.finch3d.com/
 - name: Ark AI
   verdict: AI-ontwerpassistent die bouwregelgeving en BENG-eisen controleert tijdens
     het ontwerp — voorkomt dure herzieningen
   priceRange: EUR 60-180/mnd
   bestFor: Regelgeving & compliance checks
   rating: 4.5
-  affiliateLink: https://www.ark-ai.com/?ref=aitoolsnl
+  affiliateLink: https://www.ark-ai.com/
 - name: Spacemaker AI
   verdict: 'Autodesk''s AI voor stedenbouwkundige analyses: genereert optimale bouwvolumes
     op klimaateisen en bereikbaarheid'
   priceRange: Op aanvraag
   bestFor: Stedenbouw & volumestudies
   rating: 4.7
-  affiliateLink: https://www.autodesk.com/products/spacemaker/?ref=aitoolsnl
+  affiliateLink: https://www.autodesk.com/products/spacemaker/
 - name: Veras AI
   verdict: AI-rendering binnen SketchUp, Revit en Rhino — geen export nodig; direct
     renderen in je CAD-omgeving
   priceRange: EUR 0-25/mnd
   bestFor: In-app rendering & iteratie
   rating: 4.3
-  affiliateLink: https://www.evolvelab.io/veras/?ref=aitoolsnl
+  affiliateLink: https://www.evolvelab.io/veras/
 - name: Maket
   verdict: AI die complete bouwplannen en materiaalkeuzes genereert op basis van tekstbeschrijving
     — revolutionair voor conceptfase
   priceRange: EUR 25-90/mnd
   bestFor: Conceptueel ontwerp & materiaalstudies
   rating: 4.2
-  affiliateLink: https://www.maket.ai/?ref=aitoolsnl
+  affiliateLink: https://www.maket.ai/
 faq:
 - q: Zijn AI tools veilig voor gevoelige data?
   a: De meeste tools bieden enterprise-grade beveiliging met encryptie, maar check

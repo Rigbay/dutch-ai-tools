@@ -16,8 +16,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.jasper.ai/partners/affiliates?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.jasper.ai/partners/affiliates
 date: 2026-05-20
 modelYear: 2026
 featuredTool: DeepL
@@ -29,46 +29,46 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Professionele vertaling
   rating: 4.9
-  affiliateLink: https://www.deepl.com/?ref=aitoolsnl
+  affiliateLink: https://www.deepl.com/
 - name: ChatGPT
   verdict: Contextbewuste vertaling met toon-aanpassing en uitleg — sterk voor creatieve
     en informele teksten
   priceRange: EUR 0-25/mnd
   bestFor: Conversational & context
   rating: 4.5
-  affiliateLink: https://chatgpt.com/?ref=aitoolsnl
+  affiliateLink: https://chatgpt.com/
 - name: Claude
   verdict: Uitstekende Nederlandse vertaling met ethische nuance en lange documentverwerking
   priceRange: EUR 0-25/mnd
   bestFor: Lange documenten
   rating: 4.4
-  affiliateLink: https://claude.ai/?ref=aitoolsnl
+  affiliateLink: https://claude.ai/
 - name: Google Translate
   verdict: Gratis en alomtegenwoordig met 130+ talen — de go-to voor snelle vertalingen
   priceRange: EUR 0/mnd
   bestFor: Snelle vertalingen
   rating: 4.2
-  affiliateLink: https://translate.google.com/?ref=aitoolsnl
+  affiliateLink: https://translate.google.com/
 - name: DeepL Write
   verdict: AI-schrijfassistent die Nederlandse tekst verbetert op grammatica, stijl
     en toon
   priceRange: EUR 0-15/mnd
   bestFor: Tekstverbetering NL
   rating: 4.3
-  affiliateLink: https://www.deepl.com/write?ref=aitoolsnl
+  affiliateLink: https://www.deepl.com/write
 - name: Mate Translate
   verdict: Browser-extensie voor direct vertalen tijdens browsen — 103 talen, offline
     mode
   priceRange: EUR 0-40/jr
   bestFor: Browser vertalen
   rating: 4.0
-  affiliateLink: https://gikken.co/mate-translate/?ref=aitoolsnl
+  affiliateLink: https://gikken.co/mate-translate/
 - name: Wordvice AI
   verdict: Academische AI-proofreader met vertaalfunctie gericht op studenten en onderzoekers
   priceRange: EUR 0-20/mnd
   bestFor: Academische teksten
   rating: 3.9
-  affiliateLink: https://wordvice.ai/?ref=aitoolsnl
+  affiliateLink: https://wordvice.ai/
 related:
 - beste-ai-tools-juristen-2026
 - beste-ai-tools-persoonlijke-assistenten-2026

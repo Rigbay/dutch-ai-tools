@@ -1,7 +1,8 @@
 ---
 title: 'Framer AI vs Webflow vs Wix Studio 2026: beste AI website builder'
 slug: framer-ai-vs-webflow-vs-wix-studio-2026
-description: 'Vergelijk Framer AI, Webflow en Wix Studio in 2026. Welke AI website builder levert de mooiste, snelste website zonder code?'
+description: Vergelijk Framer AI, Webflow en Wix Studio in 2026. Welke AI website
+  builder levert de mooiste, snelste website zonder code?
 category: creatie
 rating: 4.5
 priceRange: EUR 0-40/mnd
@@ -14,8 +15,8 @@ cons:
 - Sommige AI features verschillen per abonnementsniveau
 - Tools ontwikkelen snel — check de laatste versies voor aankoop
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: '2026-05-28'
 modelYear: 2026
 featuredTool: Framer AI
@@ -26,43 +27,43 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Design portfolio's
   rating: 4.7
-  affiliateLink: https://www.framer.com/?ref=aitoolsnl
+  affiliateLink: https://www.framer.com/
 - name: Webflow
   verdict: Krachtigste visuele builder met CMS, maar steilere leercurve
   priceRange: EUR 0-40/mnd
   bestFor: Professionele sites
   rating: 4.6
-  affiliateLink: https://webflow.com/?ref=aitoolsnl
+  affiliateLink: https://webflow.com/
 - name: Wix Studio
   verdict: Meest complete alles-in-één platform met AI design assistent
   priceRange: EUR 0-35/mnd
   bestFor: Alles-in-één
   rating: 4.5
-  affiliateLink: https://www.wix.com/studio?ref=aitoolsnl
+  affiliateLink: https://www.wix.com/studio
 - name: Hostinger AI Builder
   verdict: Goedkoopste AI builder met hosting inbegrepen, verrassend goede output
   priceRange: EUR 3-8/mnd
   bestFor: Klein budget
   rating: 4.3
-  affiliateLink: https://www.hostinger.com/ai-website-builder?ref=aitoolsnl
+  affiliateLink: https://www.hostinger.com/ai-website-builder
 - name: 10Web
   verdict: AI WordPress builder die bestaande sites kan kopiëren en verbeteren
   priceRange: EUR 6-20/mnd
   bestFor: WordPress fans
   rating: 4.4
-  affiliateLink: https://10web.io/?ref=aitoolsnl
+  affiliateLink: https://10web.io/
 - name: Dorik AI
   verdict: Nieuwe AI builder met verrassend mooie templates en snelle performance
   priceRange: EUR 0-15/mnd
   bestFor: Snelle lancering
   rating: 4.2
-  affiliateLink: https://dorik.com/?ref=aitoolsnl
+  affiliateLink: https://dorik.com/
 - name: Relume
   verdict: AI wireframing en sitemap tool die perfect integreert met Webflow en Figma
   priceRange: EUR 0-30/mnd
   bestFor: Designers & agencies
   rating: 4.5
-  affiliateLink: https://www.relume.io/?ref=aitoolsnl
+  affiliateLink: https://www.relume.io/
 related:
 - beste-ai-chatbots-2026
 - beste-gratis-ai-tools-2026
@@ -70,11 +71,17 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Framer AI de beste keuze voor de meeste Nederlandse gebruikers die snel een mooie website willen. Voor complexere sites met CMS is Webflow de betere optie.
+  a: Op basis van onze analyse in 2026 is Framer AI de beste keuze voor de meeste
+    Nederlandse gebruikers die snel een mooie website willen. Voor complexere sites
+    met CMS is Webflow de betere optie.
 - q: Zijn er goede gratis alternatieven?
-  a: Ja, Framer, Webflow en Wix Studio bieden allemaal gratis plannen (met hun branding). Hostinger AI Builder is de goedkoopste betaalde optie vanaf EUR 3 per maand inclusief hosting.
+  a: Ja, Framer, Webflow en Wix Studio bieden allemaal gratis plannen (met hun branding).
+    Hostinger AI Builder is de goedkoopste betaalde optie vanaf EUR 3 per maand inclusief
+    hosting.
 - q: Werken deze tools goed in het Nederlands?
-  a: Wix Studio heeft de beste Nederlandse ondersteuning met volledig Nederlandse interface. Framer en Webflow zijn Engelstalig maar ondersteunen Nederlandse content prima.
+  a: Wix Studio heeft de beste Nederlandse ondersteuning met volledig Nederlandse
+    interface. Framer en Webflow zijn Engelstalig maar ondersteunen Nederlandse content
+    prima.
 ---
 
 ## Lees ook

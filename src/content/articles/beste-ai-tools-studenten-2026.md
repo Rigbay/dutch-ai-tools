@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.taskade.com/?via=55nfr2
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://taskade.com/?via=55nfr2
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -39,31 +39,31 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Academisch schrijven
   rating: 4.6
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: Quizlet AI
   verdict: Beste voor flashcards, begrippen leren en toetsvoorbereiding
   priceRange: EUR 0-8/mnd
   bestFor: Stampwerk & toetsen
   rating: 4.4
-  affiliateLink: https://quizlet.com/?ref=aitoolsnl
+  affiliateLink: https://quizlet.com/
 - name: Perplexity
   verdict: Beste research tool met bronvermelding voor papers
   priceRange: EUR 0-25/mnd
   bestFor: Onderzoek & bronnen
   rating: 4.3
-  affiliateLink: https://www.perplexity.ai/?ref=aitoolsnl
+  affiliateLink: https://www.perplexity.ai/
 - name: Otter.ai
   verdict: Automatische transcriptie van colleges voor betere aantekeningen
   priceRange: EUR 0-20/mnd
   bestFor: College-opnames
   rating: 4.2
-  affiliateLink: https://otter.ai/?ref=aitoolsnl
+  affiliateLink: https://otter.ai/
 - name: Wolfram Alpha
   verdict: Onmisbaar voor wiskunde, natuurkunde en technische vakken
   priceRange: EUR 0-8/mnd
   bestFor: Bètavakken
   rating: 4.5
-  affiliateLink: https://www.wolframalpha.com/?ref=aitoolsnl
+  affiliateLink: https://www.wolframalpha.com/
 related:
 - beste-ai-tools-persoonlijke-assistenten-2026
 - beste-ai-tools-mindmapping-brainstormen-2026

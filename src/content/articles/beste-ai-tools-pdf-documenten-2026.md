@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://claude.ai/?ref=aitoolsnl
-  - https://chat.openai.com/?ref=aitoolsnl
-  - https://notebooklm.google.com/?ref=aitoolsnl
-  - https://www.chatpdf.com/?ref=aitoolsnl
-  - https://askyourpdf.com/?ref=aitoolsnl
-  - https://pdf.ai/?ref=aitoolsnl
-  - https://www.humata.ai/?ref=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://claude.ai/
+- https://chat.openai.com/
+- https://notebooklm.google.com/
+- https://www.chatpdf.com/
+- https://askyourpdf.com/
+- https://pdf.ai/
+- https://www.humata.ai/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Claude (Anthropic)
@@ -35,49 +35,49 @@ tools:
   priceRange: EUR 0-22/mnd
   bestFor: Lange documenten & diepte-analyse
   rating: 4.8
-  affiliateLink: https://claude.ai/?ref=aitoolsnl
+  affiliateLink: https://claude.ai/
 - name: ChatGPT
   verdict: PDF-uploadmogelijkheid met sterke samenvattingen — goed voor snelle checks
     en vragen stellen over documenten
   priceRange: EUR 0-22/mnd
   bestFor: Snelle document QA
   rating: 4.5
-  affiliateLink: https://chat.openai.com/?ref=aitoolsnl
+  affiliateLink: https://chat.openai.com/
 - name: NotebookLM
   verdict: Google's gratis AI die specifiek is ontworpen voor documentanalyse — meerdere
     bronnen tegelijk, automatische FAQ's en podcasts
   priceRange: EUR 0 (gratis)
   bestFor: Onderzoek & studie
   rating: 4.7
-  affiliateLink: https://notebooklm.google.com/?ref=aitoolsnl
+  affiliateLink: https://notebooklm.google.com/
 - name: ChatPDF
   verdict: 'Eenvoudigste PDF-AI: upload een PDF en stel vragen in gewoon Nederlands
     — geen account nodig voor eerste gebruik'
   priceRange: EUR 0-20/mnd
   bestFor: Eenvoud & snelheid
   rating: 4.2
-  affiliateLink: https://www.chatpdf.com/?ref=aitoolsnl
+  affiliateLink: https://www.chatpdf.com/
 - name: AskYourPDF
   verdict: Chrome-extensie voor directe PDF-analyse in de browser — vergelijkt documentversies
     en extraheert data
   priceRange: EUR 0-15/mnd
   bestFor: Browser-gebaseerd werken
   rating: 4.1
-  affiliateLink: https://askyourpdf.com/?ref=aitoolsnl
+  affiliateLink: https://askyourpdf.com/
 - name: PDF.ai
   verdict: Chat-interface specifiek voor PDF's met OCR — leest gescande documenten,
     facturen en handgeschreven notities
   priceRange: EUR 8-30/mnd
   bestFor: Gescande documenten & OCR
   rating: 4.3
-  affiliateLink: https://pdf.ai/?ref=aitoolsnl
+  affiliateLink: https://pdf.ai/
 - name: Humata AI
   verdict: AI-documentanalyse met nadruk op wetenschap en research — automatische
     citaties en cross-referenties
   priceRange: EUR 0-49/mnd
   bestFor: Wetenschappelijk onderzoek
   rating: 4.4
-  affiliateLink: https://www.humata.ai/?ref=aitoolsnl
+  affiliateLink: https://www.humata.ai/
 faq:
 - q: Welke tool is het beste voor beginners?
   a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade

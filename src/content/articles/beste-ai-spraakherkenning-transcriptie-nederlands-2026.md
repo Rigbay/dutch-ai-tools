@@ -1,7 +1,9 @@
 ---
-title: 'Beste AI Tools voor Spraakherkenning en Transcriptie in het Nederlands 2026 — volledige vergelijking'
+title: Beste AI Tools voor Spraakherkenning en Transcriptie in het Nederlands 2026
+  — volledige vergelijking
 slug: beste-ai-spraakherkenning-transcriptie-nederlands-2026
-description: "Vergelijking van de beste AI-tools voor Nederlandse spraakherkenning en transcriptie in 2026 — objectieve beoordeling, prijzen in euros, praktische keuzehulp."
+description: Vergelijking van de beste AI-tools voor Nederlandse spraakherkenning
+  en transcriptie in 2026 — objectieve beoordeling, prijzen in euros, praktische keuzehulp.
 category: productiviteit
 rating: 4.4
 priceRange: EUR 0-500/maand
@@ -13,66 +15,84 @@ cons:
 - Prijzen en functies veranderen snel
 - Gebaseerd op specificaties, niet op fysieke tests
 affiliateLinks:
-  - https://openai.com/whisper?ref=aitoolsnl
+- https://openai.com/whisper
 date: '2026-06-04'
 modelYear: 2026
 featuredTool: whisper-openai
 readingTime: 9 min
 tools:
 - name: Whisper (OpenAI)
-  verdict: Gouden standaard voor Nederlandse spraakherkenning — nauwkeurig, snel en open-source beschikbaar
+  verdict: Gouden standaard voor Nederlandse spraakherkenning — nauwkeurig, snel en
+    open-source beschikbaar
   priceRange: EUR 0,006/minuut (API) / Gratis (open source)
   bestFor: Beste NL-spraakherkenning via API en offline
   rating: 4.7
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 - name: Sonix AI
-  verdict: Beste voor automatische transcriptie van Nederlandse vergaderingen en interviews met sprekeridentificatie
+  verdict: Beste voor automatische transcriptie van Nederlandse vergaderingen en interviews
+    met sprekeridentificatie
   priceRange: EUR 10-30/u
   bestFor: Automatische transcriptie met NL-ondersteuning
   rating: 4.5
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 - name: Otter.ai
-  verdict: Beste voor live transcriptie in Nederlandse vergaderingen met AI-samenvattingen en actiepunten
+  verdict: Beste voor live transcriptie in Nederlandse vergaderingen met AI-samenvattingen
+    en actiepunten
   priceRange: Gratis-50/mnd
   bestFor: Real-time NL-vergadertranscriptie
   rating: 4.4
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 - name: Amberscript
-  verdict: Nederlands bedrijf gespecialiseerd in NL-spraakherkenning voor media en ondertiteling
+  verdict: Nederlands bedrijf gespecialiseerd in NL-spraakherkenning voor media en
+    ondertiteling
   priceRange: EUR 10-20/u
   bestFor: Nederlandse ondertiteling & AV-compliance
   rating: 4.3
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 - name: Fireflies.ai
-  verdict: Beste voor automatische notulen in Nederlandse meetings met geïntegreerde takenlijst
+  verdict: Beste voor automatische notulen in Nederlandse meetings met geïntegreerde
+    takenlijst
   priceRange: Gratis-19/mnd
   bestFor: NL-vergadernotulen & actiepunten
   rating: 4.2
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 - name: Trint AI
-  verdict: Sterk voor journalistieke transcriptie met Nederlandse taalondersteuning en editor
+  verdict: Sterk voor journalistieke transcriptie met Nederlandse taalondersteuning
+    en editor
   priceRange: EUR 60-75/mnd
   bestFor: Journalistieke transcriptie met NL
   rating: 4.1
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 - name: Descript AI
-  verdict: Unieke combinatie van AI-transcriptie en videobewerking — bewerk video als een Word-document
+  verdict: Unieke combinatie van AI-transcriptie en videobewerking — bewerk video
+    als een Word-document
   priceRange: EUR 24-84/mnd
   bestFor: Video-transcriptie + editing in één
   rating: 4.6
-  affiliateLink: https://openai.com/whisper?ref=aitoolsnl
+  affiliateLink: https://openai.com/whisper
 draft: false
 faq:
-  - q: "Welke AI-tool werkt het beste voor Nederlandse spraakherkenning?"
-    a: "OpenAI Whisper is de gouden standaard voor Nederlandse spraakherkenning — het is gratis, open-source, en je kunt het lokaal draaien zonder data naar de cloud te sturen. Voor real-time vergadertranscriptie is Otter.ai de beste keuze, en voor Nederlandse ondertiteling is Amberscript het enige Nederlandse bedrijf in deze categorie."
-  - q: "Kan ik spraakherkenning gebruiken zonder mijn data naar Amerikaanse servers te sturen?"
-    a: "Ja. Whisper is open-source en kan volledig offline op je eigen computer draaien — geen internetverbinding nodig, geen data die de deur uitgaat. Amberscript (Nederlands bedrijf) biedt GDPR-compliant verwerking. Dit is belangrijk voor vertrouwelijke vergaderingen en medische dictaten."
-  - q: "Hoeveel kost AI-transcriptie voor Nederlands?"
-    a: "Whisper is gratis (open-source) of $0,006/min via de OpenAI API. Sonix en Amberscript kosten €10-20 per uur audio. Otter.ai en Fireflies.ai bieden gratis tiers en betaalde plannen vanaf €15-20/maand. Voor incidenteel gebruik is de gratis Whisper de beste deal — voor dagelijks zakelijk gebruik zijn Otter.ai of Fireflies efficiënter."
+- q: Welke AI-tool werkt het beste voor Nederlandse spraakherkenning?
+  a: OpenAI Whisper is de gouden standaard voor Nederlandse spraakherkenning — het
+    is gratis, open-source, en je kunt het lokaal draaien zonder data naar de cloud
+    te sturen. Voor real-time vergadertranscriptie is Otter.ai de beste keuze, en
+    voor Nederlandse ondertiteling is Amberscript het enige Nederlandse bedrijf in
+    deze categorie.
+- q: Kan ik spraakherkenning gebruiken zonder mijn data naar Amerikaanse servers te
+    sturen?
+  a: Ja. Whisper is open-source en kan volledig offline op je eigen computer draaien
+    — geen internetverbinding nodig, geen data die de deur uitgaat. Amberscript (Nederlands
+    bedrijf) biedt GDPR-compliant verwerking. Dit is belangrijk voor vertrouwelijke
+    vergaderingen en medische dictaten.
+- q: Hoeveel kost AI-transcriptie voor Nederlands?
+  a: Whisper is gratis (open-source) of $0,006/min via de OpenAI API. Sonix en Amberscript
+    kosten €10-20 per uur audio. Otter.ai en Fireflies.ai bieden gratis tiers en betaalde
+    plannen vanaf €15-20/maand. Voor incidenteel gebruik is de gratis Whisper de beste
+    deal — voor dagelijks zakelijk gebruik zijn Otter.ai of Fireflies efficiënter.
 related:
-  - ai-trends-2026-nederland
-  - nederlandse-ai-adoptie-cijfers-2026
-  - ai-avg-compliance-tools-2026
+- ai-trends-2026-nederland
+- nederlandse-ai-adoptie-cijfers-2026
+- ai-avg-compliance-tools-2026
 ---
 
 # Beste AI Tools voor Spraakherkenning en Transcriptie in het Nederlands 2026

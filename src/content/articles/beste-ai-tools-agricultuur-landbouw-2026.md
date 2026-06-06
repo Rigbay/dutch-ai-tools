@@ -1,80 +1,83 @@
 ---
 title: 'Beste AI Tools voor Agricultuur & Landbouw 2026: top 7 vergeleken'
 slug: beste-ai-tools-agricultuur-landbouw-2026
-description: "AI tools voor de landbouw in 2026: John Deere AI, Climate FieldView, Gamaya, CropX, Taranis, FarmBot AI en Agworld AI vergeleken voor precisielandbouw."
+description: 'AI tools voor de landbouw in 2026: John Deere AI, Climate FieldView,
+  Gamaya, CropX, Taranis, FarmBot AI en Agworld AI vergeleken voor precisielandbouw.'
 category: technologie
 rating: 4.3
 priceRange: EUR 0-500/mnd
 pros:
-  - Eerlijke vergelijking van de beste AI tools in dit segment
-  - Duidelijke prijsranges en verdict per tool
-  - Nederlandstalig en praktijkgericht advies
+- Eerlijke vergelijking van de beste AI tools in dit segment
+- Duidelijke prijsranges en verdict per tool
+- Nederlandstalig en praktijkgericht advies
 cons:
-  - Prijzen kunnen wijzigen, check altijd de aanbieder
-  - Niet elke tool is intensief getest in de praktijk
-  - Sommige AI features zijn nog in beta
+- Prijzen kunnen wijzigen, check altijd de aanbieder
+- Niet elke tool is intensief getest in de praktijk
+- Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-06-02
 modelYear: 2026
-featuredTool: "John Deere AI"
+featuredTool: John Deere AI
 readingTime: 8 min
 tools:
-  - name: "John Deere AI"
-    verdict: "AI-gedreven tool voor autonome landbouwmachines"
-    priceRange: "EUR 500-5000/mnd"
-    bestFor: "Autonome landbouwmachines"
-    rating: 4.5
-    affiliateLink: "https://www.john.com/?ref=aitoolsnl"
-  - name: "Climate FieldView"
-    verdict: "AI-gedreven tool voor data-gedreven teeltoptimalisatie"
-    priceRange: "EUR 200-1000/mnd"
-    bestFor: "Data-gedreven teeltoptimalisatie"
-    rating: 4.6
-    affiliateLink: "https://www.climate.com/?ref=aitoolsnl"
-  - name: "Gamaya AI"
-    verdict: "AI-gedreven tool voor drones & spectrale analyse"
-    priceRange: "EUR 300-1500/mnd"
-    bestFor: "Drones & spectrale analyse"
-    rating: 4.3
-    affiliateLink: "https://www.gamaya.com/?ref=aitoolsnl"
-  - name: "CropX AI"
-    verdict: "AI-gedreven tool voor irrigatie & bodemanalyse"
-    priceRange: "EUR 100-500/mnd"
-    bestFor: "Irrigatie & bodemanalyse"
-    rating: 4.4
-    affiliateLink: "https://www.cropx.com/?ref=aitoolsnl"
-  - name: "Taranis AI"
-    verdict: "AI-gedreven tool voor ziektedetectie & gewasmonitoring"
-    priceRange: "EUR 200-1000/mnd"
-    bestFor: "Ziektedetectie & gewasmonitoring"
-    rating: 4.2
-    affiliateLink: "https://www.taranis.com/?ref=aitoolsnl"
-  - name: "FarmBot AI"
-    verdict: "AI-gedreven tool voor precisie landbouw robotica"
-    priceRange: "EUR 0-300/mnd"
-    bestFor: "Precisie landbouw robotica"
-    rating: 4.0
-    affiliateLink: "https://www.farmbot.com/?ref=aitoolsnl"
-  - name: "Agworld AI"
-    verdict: "AI-gedreven tool voor agrarische bedrijfsvoering"
-    priceRange: "EUR 50-200/mnd"
-    bestFor: "Agrarische bedrijfsvoering"
-    rating: 4.1
-    affiliateLink: "https://www.agworld.com/?ref=aitoolsnl"
+- name: John Deere AI
+  verdict: AI-gedreven tool voor autonome landbouwmachines
+  priceRange: EUR 500-5000/mnd
+  bestFor: Autonome landbouwmachines
+  rating: 4.5
+  affiliateLink: https://www.john.com/
+- name: Climate FieldView
+  verdict: AI-gedreven tool voor data-gedreven teeltoptimalisatie
+  priceRange: EUR 200-1000/mnd
+  bestFor: Data-gedreven teeltoptimalisatie
+  rating: 4.6
+  affiliateLink: https://www.climate.com/
+- name: Gamaya AI
+  verdict: AI-gedreven tool voor drones & spectrale analyse
+  priceRange: EUR 300-1500/mnd
+  bestFor: Drones & spectrale analyse
+  rating: 4.3
+  affiliateLink: https://www.gamaya.com/
+- name: CropX AI
+  verdict: AI-gedreven tool voor irrigatie & bodemanalyse
+  priceRange: EUR 100-500/mnd
+  bestFor: Irrigatie & bodemanalyse
+  rating: 4.4
+  affiliateLink: https://www.cropx.com/
+- name: Taranis AI
+  verdict: AI-gedreven tool voor ziektedetectie & gewasmonitoring
+  priceRange: EUR 200-1000/mnd
+  bestFor: Ziektedetectie & gewasmonitoring
+  rating: 4.2
+  affiliateLink: https://www.taranis.com/
+- name: FarmBot AI
+  verdict: AI-gedreven tool voor precisie landbouw robotica
+  priceRange: EUR 0-300/mnd
+  bestFor: Precisie landbouw robotica
+  rating: 4.0
+  affiliateLink: https://www.farmbot.com/
+- name: Agworld AI
+  verdict: AI-gedreven tool voor agrarische bedrijfsvoering
+  priceRange: EUR 50-200/mnd
+  bestFor: Agrarische bedrijfsvoering
+  rating: 4.1
+  affiliateLink: https://www.agworld.com/
 related:
-- beste-ai-tools-gaming-2026
-  - beste-ai-tools-klimaat-milieu-2026
-  - beste-ai-tools-iot-smarthome-domotica-2026
+- beste-ai-tools-gaming-2026 - beste-ai-tools-klimaat-milieu-2026 - beste-ai-tools-iot-smarthome-domotica-2026
   - beste-ai-tools-energiebeheer-2026
 draft: false
 faq:
-  - q: "Wat is de beste AI tool voor technologie in 2026?"
-    a: "Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is John Deere AI een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking voor een gedetailleerd advies."
-  - q: "Zijn er gratis AI technologie tools beschikbaar?"
-    a: "Ja, verschillende tools bieden een gratis tier. Bekijk de prijsrange per tool in de vergelijking hierboven."
-  - q: "Hoe kies ik de juiste AI technologie tool?"
-    a: "Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor kolom in de vergelijkingstabel en start met een gratis proefperiode van 2-3 tools."
+- q: Wat is de beste AI tool voor technologie in 2026?
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is John Deere
+    AI een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees
+    de volledige vergelijking voor een gedetailleerd advies.
+- q: Zijn er gratis AI technologie tools beschikbaar?
+  a: Ja, verschillende tools bieden een gratis tier. Bekijk de prijsrange per tool
+    in de vergelijking hierboven.
+- q: Hoe kies ik de juiste AI technologie tool?
+  a: Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor
+    kolom in de vergelijkingstabel en start met een gratis proefperiode van 2-3 tools.
 ---
 
 # De Toekomst is Nu: De Beste AI-Tools voor de Nederlandse Landbouw in 2026

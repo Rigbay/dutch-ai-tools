@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Nabla Copilot
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 100-500/mnd
   bestFor: Consultverslagen
   rating: 4.7
-  affiliateLink: https://www.nabla.com/?ref=aitoolsnl
+  affiliateLink: https://www.nabla.com/
 - name: DeepScribe
   verdict: AI medische documentatie met diepe EHR-integratie voor specialisten
   priceRange: EUR 150-400/mnd
   bestFor: Specialistische documentatie
   rating: 4.5
-  affiliateLink: https://www.deepscribe.ai/?ref=aitoolsnl
+  affiliateLink: https://www.deepscribe.ai/
 - name: Dragon Medical
   verdict: Marktleider spraakherkenning voor medische professionals, breed ondersteund
   priceRange: EUR 80-300/mnd
   bestFor: Spraak-naar-tekst
   rating: 4.6
-  affiliateLink: https://www.nuance.com/?ref=aitoolsnl
+  affiliateLink: https://www.nuance.com/
 - name: Carepatron
   verdict: All-in-one AI praktijkbeheer voor kleine zorgpraktijken en ZZP'ers
   priceRange: EUR 0-30/mnd
   bestFor: Kleine praktijken
   rating: 4.3
-  affiliateLink: https://www.carepatron.com/?ref=aitoolsnl
+  affiliateLink: https://www.carepatron.com/
 - name: OpenEvidence
   verdict: AI medische literatuur-analyse die klinisch bewijs direct beschikbaar maakt
   priceRange: EUR 0-50/mnd
   bestFor: Evidence-based medicine
   rating: 4.4
-  affiliateLink: https://www.openevidence.com/?ref=aitoolsnl
+  affiliateLink: https://www.openevidence.com/
 - name: Corti
   verdict: AI triage-ondersteuning die gesprekken analyseert voor acute zorgbeslissingen
   priceRange: EUR 300-1000/mnd
   bestFor: Triage & acute zorg
   rating: 4.5
-  affiliateLink: https://www.corti.ai/?ref=aitoolsnl
+  affiliateLink: https://www.corti.ai/
 - name: Autoscriber
   verdict: Nederlandse AI-scribe specifiek ontworpen voor NL/EU zorgtaal en regelgeving
   priceRange: EUR 50-200/mnd
   bestFor: Nederlandse consulten
   rating: 4.2
-  affiliateLink: https://www.autoscriber.com/?ref=aitoolsnl
+  affiliateLink: https://www.autoscriber.com/
 related:
 - beste-ai-tools-pdf-documenten-2026
 - chatgpt-vs-gemini-vs-claude-nederlands-2026

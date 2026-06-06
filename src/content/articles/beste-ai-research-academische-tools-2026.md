@@ -16,13 +16,13 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://elicit.com/?ref=aitoolsnl
-- https://scite.ai/?ref=aitoolsnl
-- https://www.connectedpapers.com/?ref=aitoolsnl
-- https://www.researchrabbit.ai/?ref=aitoolsnl
-- https://www.semanticscholar.org/?ref=aitoolsnl
-- https://paperpile.com/?ref=aitoolsnl
-- https://www.scholarcy.com/?ref=aitoolsnl
+- https://elicit.com/
+- https://scite.ai/
+- https://www.connectedpapers.com/
+- https://www.researchrabbit.ai/
+- https://www.semanticscholar.org/
+- https://paperpile.com/
+- https://www.scholarcy.com/
 related:
 - beste-ai-podcast-productie-tools-2026
 - beste-ai-e-commerce-dropshipping-tools-2026
@@ -38,49 +38,49 @@ tools:
   priceRange: EUR 0-45/mnd
   bestFor: Literatuuronderzoek & data-extractie
   rating: 4.7
-  affiliateLink: https://elicit.com/?ref=aitoolsnl
+  affiliateLink: https://elicit.com/
 - name: Scite
   verdict: AI-citatie-analyse tool die laat zien of een paper wordt geciteerd ter
     ondersteuning, ter weerlegging of neutraal — citation context is key
   priceRange: EUR 0-15/mnd
   bestFor: Citatie-analyse & betrouwbaarheid
   rating: 4.6
-  affiliateLink: https://scite.ai/?ref=aitoolsnl
+  affiliateLink: https://scite.ai/
 - name: Connected Papers
   verdict: AI-visualisatie tool die een grafiek maakt van gerelateerde papers — vind
     vooruitgangen, baanbrekende werken en gerelateerd onderzoek in een oogopslag
   priceRange: EUR 0-5/mnd
   bestFor: Paper-relatie visualisatie
   rating: 4.5
-  affiliateLink: https://www.connectedpapers.com/?ref=aitoolsnl
+  affiliateLink: https://www.connectedpapers.com/
 - name: Research Rabbit
   verdict: AI-referentiebeheer met discovery engine — upload je papers en Research
     Rabbit vindt gerelateerd werk, auteurs en trends in visualisaties
   priceRange: EUR 0 (gratis)
   bestFor: Paper discovery & referencing
   rating: 4.4
-  affiliateLink: https://www.researchrabbit.ai/?ref=aitoolsnl
+  affiliateLink: https://www.researchrabbit.ai/
 - name: Semantic Scholar
   verdict: AI-aangedreven academische zoekmachine van Allen Institute — semantische
     search, TLDR-samenvattingen en API voor ontwikkelaars
   priceRange: EUR 0 (gratis)
   bestFor: AI-zoekmachine voor papers
   rating: 4.5
-  affiliateLink: https://www.semanticscholar.org/?ref=aitoolsnl
+  affiliateLink: https://www.semanticscholar.org/
 - name: Paperpile
   verdict: AI-referentiebeheer tool met Google Docs integratie — automatische citatiegeneratie,
     PDF-beheer en collaboration voor teams
   priceRange: EUR 30/jaar
   bestFor: Referentiebeheer & Google Docs integratie
   rating: 4.3
-  affiliateLink: https://paperpile.com/?ref=aitoolsnl
+  affiliateLink: https://paperpile.com/
 - name: Scholarcy
   verdict: AI-paper summarizer die elk onderzoek samenvat tot overzichtelijke flashcards
     — extracteert methodologie, resultaten, conclusies en kernpunten
   priceRange: EUR 0-10/mnd
   bestFor: Paper samenvatting & flashcards
   rating: 4.2
-  affiliateLink: https://www.scholarcy.com/?ref=aitoolsnl
+  affiliateLink: https://www.scholarcy.com/
 faq:
 - q: Zijn AI research tools accuraat genoeg voor academisch werk?
   a: Ja, mits je de output controleert. Elicit en Semantic Scholar gebruiken peer-reviewed

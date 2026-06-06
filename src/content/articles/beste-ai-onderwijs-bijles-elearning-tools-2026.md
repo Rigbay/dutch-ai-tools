@@ -15,17 +15,17 @@ cons:
 - Prijzen en features kunnen wijzigen — check de actuele aanbieder
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 affiliateLinks:
-- https://www.khanacademy.org/?ref=aitoolsnl
-- https://quizlet.com/?ref=aitoolsnl
-- https://www.duolingo.com/?ref=aitoolsnl
-- https://www.coursera.org/?ref=aitoolsnl
-- https://brilliant.org/?ref=aitoolsnl
-- https://www.grammarly.com/?ref=aitoolsnl
-- https://www.notion.so/?ref=aitoolsnl
+- https://www.khanacademy.org/
+- https://quizlet.com/
+- https://www.duolingo.com/
+- https://www.coursera.org/
+- https://brilliant.org/
+- https://www.grammarly.com/
+- https://www.notion.so/
 related:
-  - beste-ai-tools-docenten-2026
-  - beste-ai-tools-e-learning-cursusontwikkeling-2026
-  - ai-voor-studenten-2026
+- beste-ai-tools-docenten-2026
+- beste-ai-tools-e-learning-cursusontwikkeling-2026
+- ai-voor-studenten-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Khan Academy (Khanmigo)
@@ -37,46 +37,46 @@ tools:
   priceRange: EUR 0 / 44/jaar
   bestFor: AI-gestuurde bijles
   rating: 4.7
-  affiliateLink: https://www.khanacademy.org/?ref=aitoolsnl
+  affiliateLink: https://www.khanacademy.org/
 - name: Quizlet (Q-Chat)
   verdict: AI-leerplatform met Q-Chat, een AI-tutor die overhoringen geeft en gepersonaliseerde
     flashcards genereert
   priceRange: EUR 0-36/jaar
   bestFor: Overhoren & flashcards
   rating: 4.5
-  affiliateLink: https://quizlet.com/?ref=aitoolsnl
+  affiliateLink: https://quizlet.com/
 - name: Duolingo (AI-tutor)
   verdict: AI-gestuurde taalleerapp met adaptieve oefeningen, spraakherkenning en
     AI-roleplay
   priceRange: EUR 0-13/mnd
   bestFor: Talen leren
   rating: 4.6
-  affiliateLink: https://www.duolingo.com/?ref=aitoolsnl
+  affiliateLink: https://www.duolingo.com/
 - name: Coursera (AI-coach)
   verdict: AI-gestuurd online leerplatform met universitaire cursussen en een AI-coach
   priceRange: EUR 0-50/mnd
   bestFor: Universitaire cursussen online
   rating: 4.5
-  affiliateLink: https://www.coursera.org/?ref=aitoolsnl
+  affiliateLink: https://www.coursera.org/
 - name: Brilliant
   verdict: AI-gedreven leerplatform voor wiskunde, programmeren en data science
   priceRange: EUR 15-25/mnd
   bestFor: STEM-onderwijs
   rating: 4.6
-  affiliateLink: https://brilliant.org/?ref=aitoolsnl
+  affiliateLink: https://brilliant.org/
 - name: Grammarly (AI-schrijfcoach)
   verdict: AI-schrijfassistent die schrijfstijl, toon en helderheid analyseert
   priceRange: EUR 0-30/mnd
   bestFor: Schrijfvaardigheid verbeteren
   rating: 4.4
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: Notion AI
   verdict: AI-notitie- en kennismanagementtool die samenvattingen maakt en vragen
     beantwoordt
   priceRange: EUR 0-10/mnd
   bestFor: Studienotities & samenvattingen
   rating: 4.5
-  affiliateLink: https://www.notion.so/?ref=aitoolsnl
+  affiliateLink: https://www.notion.so/
 faq:
 - q: Wat is de beste AI bijlesdocent voor scholieren?
   a: Khan Academy (Khanmigo) is de beste keuze — een AI-tutor die door vragen te stellen

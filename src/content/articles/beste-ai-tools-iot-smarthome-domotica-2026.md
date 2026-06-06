@@ -1,7 +1,9 @@
 ---
-title: "Beste AI Tools voor IoT, Smart Home & Domotica 2026: top 7 vergeleken"
+title: 'Beste AI Tools voor IoT, Smart Home & Domotica 2026: top 7 vergeleken'
 slug: beste-ai-tools-iot-smarthome-domotica-2026
-description: AI tools voor IoT, smart home en domotica in 2026. Vergelijk Google Home, Apple HomeKit, Amazon Alexa, Home Assistant en SmartThings voor een slim Nederlands huishouden.
+description: AI tools voor IoT, smart home en domotica in 2026. Vergelijk Google Home,
+  Apple HomeKit, Amazon Alexa, Home Assistant en SmartThings voor een slim Nederlands
+  huishouden.
 category: technologie
 rating: 4.4
 priceRange: EUR 0-200/mnd
@@ -14,71 +16,83 @@ cons:
 - Niet elke tool is dagelijks getest met intensief Nederlands gebruik
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://store.google.com/nl/?ref=aitoolsnl
-  - https://www.apple.com/home-app/?ref=aitoolsnl
-  - https://www.amazon.nl/alexa/?ref=aitoolsnl
-  - https://www.home-assistant.io/?ref=aitoolsnl
-  - https://hubitat.com/?ref=aitoolsnl
-  - https://www.smartthings.com/?ref=aitoolsnl
-  - https://ifttt.com/?ref=aitoolsnl
+- https://store.google.com/nl/
+- https://www.apple.com/home-app/
+- https://www.amazon.nl/alexa/
+- https://www.home-assistant.io/
+- https://hubitat.com/
+- https://www.smartthings.com/
+- https://ifttt.com/
 related:
-  - beste-ai-tools-gaming-2026
-  - beste-ai-tools-wearables-2026
-  - beste-ai-tools-klimaat-milieu-2026
+- beste-ai-tools-gaming-2026
+- beste-ai-tools-wearables-2026
+- beste-ai-tools-klimaat-milieu-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Google Home (Nest)
 readingTime: 8 min
 tools:
-  - name: Google Home (Nest)
-    verdict: AI-ecosysteem van Google met Nederlands sprekende Google Assistant, zelflerende Nest Thermostat, slimme beveiligingscamera's met gezichtsherkenning — beste integratie met Google-diensten
-    priceRange: EUR 30-300 (apparaten)
-    bestFor: Google-gebruikers & beginners
-    rating: 4.6
-    affiliateLink: https://store.google.com/nl/?ref=aitoolsnl
-  - name: Apple HomeKit
-    verdict: Apple's slimme huisplatform met AI-automatiseringen, Siri-stemassistent en end-to-end encryptie — focus op privacy en naadloze Apple-integratie
-    priceRange: EUR 0 (gratis platform, eigen apparaten)
-    bestFor: Apple-gebruikers & privacybewusten
-    rating: 4.5
-    affiliateLink: https://www.apple.com/home-app/?ref=aitoolsnl
-  - name: Amazon Alexa
-    verdict: Amazon's AI-stemassistent met Nederlands begrip, duizenden Skills, slimme routines en ingebouwde beveiligingsfeatures — breedste apparaatcompatibiliteit
-    priceRange: EUR 25-150 (apparaten)
-    bestFor: Veelzijdige stemassistentie
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/alexa/?ref=aitoolsnl
-  - name: Home Assistant
-    verdict: Open-source AI-huisautomatisering met lokale verwerking, ondersteuning voor 2000+ apparaten en geavanceerde automatiseringen — volledige controle en privacy
-    priceRange: EUR 0 (open source, eigen hardware)
-    bestFor: Tech-liefhebbers & maximale controle
-    rating: 4.8
-    affiliateLink: https://www.home-assistant.io/?ref=aitoolsnl
-  - name: Hubitat
-    verdict: Lokaal AI-domoticaplatform dat zonder cloud werkt — razendsnelle reactietijden, geavanceerde regels en breed apparaatbereik met ingebouwde beveiliging
-    priceRange: EUR 100-200 (hub)
-    bestFor: Lokale automatisering zonder cloud
-    rating: 4.3
-    affiliateLink: https://hubitat.com/?ref=aitoolsnl
-  - name: Samsung SmartThings
-    verdict: AI-slimme huisplatform van Samsung met gebruiksvriendelijke app, slimme routines en brede apparaatondersteuning — goed voor beginners en gevorderden
-    priceRange: EUR 0-80 (hub + apparaten)
-    bestFor: Beginners & Samsung-ecosysteem
-    rating: 4.2
-    affiliateLink: https://www.smartthings.com/?ref=aitoolsnl
-  - name: IFTTT
-    verdict: AI-automatiseringsplatform dat 800+ apps en apparaten verbindt met eenvoudige 'als dit, dan dat'-regels — perfect voor het koppelen van verschillende domoticasystemen
-    priceRange: EUR 0-5/mnd
-    bestFor: Cross-platform automatisering
-    rating: 4.1
-    affiliateLink: https://ifttt.com/?ref=aitoolsnl
+- name: Google Home (Nest)
+  verdict: AI-ecosysteem van Google met Nederlands sprekende Google Assistant, zelflerende
+    Nest Thermostat, slimme beveiligingscamera's met gezichtsherkenning — beste integratie
+    met Google-diensten
+  priceRange: EUR 30-300 (apparaten)
+  bestFor: Google-gebruikers & beginners
+  rating: 4.6
+  affiliateLink: https://store.google.com/nl/
+- name: Apple HomeKit
+  verdict: Apple's slimme huisplatform met AI-automatiseringen, Siri-stemassistent
+    en end-to-end encryptie — focus op privacy en naadloze Apple-integratie
+  priceRange: EUR 0 (gratis platform, eigen apparaten)
+  bestFor: Apple-gebruikers & privacybewusten
+  rating: 4.5
+  affiliateLink: https://www.apple.com/home-app/
+- name: Amazon Alexa
+  verdict: Amazon's AI-stemassistent met Nederlands begrip, duizenden Skills, slimme
+    routines en ingebouwde beveiligingsfeatures — breedste apparaatcompatibiliteit
+  priceRange: EUR 25-150 (apparaten)
+  bestFor: Veelzijdige stemassistentie
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/alexa/
+- name: Home Assistant
+  verdict: Open-source AI-huisautomatisering met lokale verwerking, ondersteuning
+    voor 2000+ apparaten en geavanceerde automatiseringen — volledige controle en
+    privacy
+  priceRange: EUR 0 (open source, eigen hardware)
+  bestFor: Tech-liefhebbers & maximale controle
+  rating: 4.8
+  affiliateLink: https://www.home-assistant.io/
+- name: Hubitat
+  verdict: Lokaal AI-domoticaplatform dat zonder cloud werkt — razendsnelle reactietijden,
+    geavanceerde regels en breed apparaatbereik met ingebouwde beveiliging
+  priceRange: EUR 100-200 (hub)
+  bestFor: Lokale automatisering zonder cloud
+  rating: 4.3
+  affiliateLink: https://hubitat.com/
+- name: Samsung SmartThings
+  verdict: AI-slimme huisplatform van Samsung met gebruiksvriendelijke app, slimme
+    routines en brede apparaatondersteuning — goed voor beginners en gevorderden
+  priceRange: EUR 0-80 (hub + apparaten)
+  bestFor: Beginners & Samsung-ecosysteem
+  rating: 4.2
+  affiliateLink: https://www.smartthings.com/
+- name: IFTTT
+  verdict: AI-automatiseringsplatform dat 800+ apps en apparaten verbindt met eenvoudige
+    'als dit, dan dat'-regels — perfect voor het koppelen van verschillende domoticasystemen
+  priceRange: EUR 0-5/mnd
+  bestFor: Cross-platform automatisering
+  rating: 4.1
+  affiliateLink: https://ifttt.com/
 faq:
-  - q: Wat is de beste AI tool voor dit onderwerp in 2026?
-    a: Dat hangt af van je specifieke behoeften en budget. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.
-  - q: Zijn er goede gratis AI tools beschikbaar in 2026?
-    a: Ja, veel tools bieden een gratis tier of proefperiode aan. Bekijk de prijzen en functies per tool in de vergelijkingstabel.
-  - q: Hoe kies ik de juiste AI tool voor mijn situatie?
-    a: Begin met het bepalen van je belangrijkste behoeften, budget en technische vereisten. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken.
+- q: Wat is de beste AI tool voor dit onderwerp in 2026?
+  a: Dat hangt af van je specifieke behoeften en budget. Lees de volledige vergelijking
+    hierboven voor een gedetailleerd advies per tool.
+- q: Zijn er goede gratis AI tools beschikbaar in 2026?
+  a: Ja, veel tools bieden een gratis tier of proefperiode aan. Bekijk de prijzen
+    en functies per tool in de vergelijkingstabel.
+- q: Hoe kies ik de juiste AI tool voor mijn situatie?
+  a: Begin met het bepalen van je belangrijkste behoeften, budget en technische vereisten.
+    Gebruik dan de vergelijkingstabel hierboven om je keuze te maken.
 ---
 
 # Het Slimme Huis van 2026: De Beste AI-Tools voor Domotica, IoT en Smart Home

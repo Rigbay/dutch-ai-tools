@@ -16,9 +16,9 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.make.com/en/register?pc=hermesai
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.make.com/en/register?pc=hermesai
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT
@@ -29,13 +29,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Algemene assistent
   rating: 4.7
-  affiliateLink: https://chat.openai.com/?ref=aitoolsnl
+  affiliateLink: https://chat.openai.com/
 - name: Canva AI
   verdict: Design maken zonder designer — ideaal voor social posts en presentaties
   priceRange: EUR 0-15/mnd
   bestFor: Design & visuals
   rating: 4.5
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Notion AI
   verdict: Documenten, notities en planning met ingebouwde AI-assistent
   priceRange: EUR 10-20/mnd
@@ -47,7 +47,7 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: Schrijven
   rating: 4.3
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: beehiiv
   verdict: Nieuwsbrieven maken en laten groeien met AI — geen technische kennis nodig
   priceRange: EUR 0-50/mnd
@@ -59,13 +59,13 @@ tools:
   priceRange: EUR 0-70/mnd
   bestFor: Automatisering
   rating: 4.5
-  affiliateLink: https://zapier.com/?ref=aitoolsnl
+  affiliateLink: https://zapier.com/
 - name: Make (Integromat)
   verdict: Visuele workflow automatisering — krachtiger dan Zapier voor complexe taken
   priceRange: EUR 0-30/mnd
   bestFor: Workflows
   rating: 4.3
-  affiliateLink: https://www.make.com/?ref=aitoolsnl
+  affiliateLink: https://www.make.com/en/register?pc=hermesai
 related:
 - beste-ai-tools-verzekeringen-2026
 - ai-voor-data-analyse-2026

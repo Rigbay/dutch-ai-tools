@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Semrush
@@ -28,19 +28,19 @@ tools:
   priceRange: EUR 120-450/mnd
   bestFor: SEO & concurrentieanalyse
   rating: 4.7
-  affiliateLink: https://www.semrush.com/?ref=aitoolsnl
+  affiliateLink: https://www.semrush.com/
 - name: Jasper AI
   verdict: Beste AI schrijftool voor marketingteams met merktemplates
   priceRange: EUR 50-100/mnd
   bestFor: Marketing content
   rating: 4.5
-  affiliateLink: https://www.jasper.ai/?ref=aitoolsnl
+  affiliateLink: https://www.jasper.ai/
 - name: HubSpot AI
   verdict: All-in-one marketingplatform met AI voor campagnes en analyses
   priceRange: EUR 0-800/mnd
   bestFor: Marketing automatisering
   rating: 4.4
-  affiliateLink: https://www.hubspot.com/?ref=aitoolsnl
+  affiliateLink: https://www.hubspot.com/
 - name: beehiiv
   verdict: AI-nieuwsbriefplatform specifiek gericht op groei en engagement
   priceRange: EUR 0-50/mnd
@@ -52,7 +52,7 @@ tools:
   priceRange: EUR 60-200/mnd
   bestFor: Content SEO
   rating: 4.4
-  affiliateLink: https://surferseo.com/?ref=aitoolsnl
+  affiliateLink: https://surferseo.com/
 - name: Copy.ai
   verdict: Snelle AI copywriter voor ad copy, posts en landingspagina's
   priceRange: EUR 0-50/mnd
@@ -64,7 +64,7 @@ tools:
   priceRange: EUR 150-1000/mnd
   bestFor: Content strategie
   rating: 4.1
-  affiliateLink: https://www.marketmuse.com/?ref=aitoolsnl
+  affiliateLink: https://www.marketmuse.com/
 related:
 - beste-ai-copywriting-tools-2026
 - beste-ai-seo-tools-2026

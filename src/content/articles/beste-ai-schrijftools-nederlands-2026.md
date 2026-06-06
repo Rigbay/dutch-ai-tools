@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://synthesia.io/?via=hermes  # Synthesia
-  - https://rytr.me/?via=hermes-affiliates  # Rytr
+- https://writesonic.com/?via=aitoolsnl
+- https://www.synthesia.io?via=hermes
+- https://rytr.me?via=hermes-affiliates
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -40,7 +40,7 @@ tools:
   priceRange: EUR 50-100/mnd
   bestFor: Marketingteksten
   rating: 4.3
-  affiliateLink: https://www.jasper.ai/?ref=aitoolsnl
+  affiliateLink: https://www.jasper.ai/
 - name: Copy.ai
   verdict: Toegankelijke tool voor snelle Nederlandse copy en social posts
   priceRange: EUR 0-50/mnd
@@ -52,19 +52,19 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: Taalcorrectie
   rating: 4.5
-  affiliateLink: https://www.deepl.com/?ref=aitoolsnl
+  affiliateLink: https://www.deepl.com/
 - name: Grammarly
   verdict: Populaire schrijfhulp met basis Nederlandse ondersteuning
   priceRange: EUR 0-15/mnd
   bestFor: Grammatica
   rating: 4.0
-  affiliateLink: https://www.grammarly.com/?ref=aitoolsnl
+  affiliateLink: https://www.grammarly.com/
 - name: Rytr
   verdict: Betaalbare AI schrijftool met acceptabele Nederlandse output
   priceRange: EUR 0-30/mnd
   bestFor: Budget optie
   rating: 3.9
-  affiliateLink: https://rytr.me/?via=aitoolsnl
+  affiliateLink: https://rytr.me?via=hermes-affiliates
 related:
 - beste-ai-tools-fotografen-2026
 - beste-ai-tools-voice-cloning-voice-over-2026

@@ -1,7 +1,8 @@
 ---
 title: 'Beste AI-tools voor sales outreach 2026: Apollo vs Lemlist vs Woodpecker'
 slug: beste-ai-tools-sales-outreach-2026
-description: 'Vergelijk de beste AI-tools voor sales outreach in 2026: Apollo, Lemlist, Woodpecker, Instantly, Mailshake, Reply.io en Outreach. Voor NL sales teams.'
+description: 'Vergelijk de beste AI-tools voor sales outreach in 2026: Apollo, Lemlist,
+  Woodpecker, Instantly, Mailshake, Reply.io en Outreach. Voor NL sales teams.'
 category: marketing
 rating: 4.5
 priceRange: EUR 0-200/mnd
@@ -25,43 +26,43 @@ tools:
   priceRange: EUR 0-89/mnd
   bestFor: Data-gedreven teams
   rating: 4.7
-  affiliateLink: https://apollo.io/?ref=aitoolsnl
+  affiliateLink: https://apollo.io/
 - name: Lemlist
   verdict: Beste voor creatieve outreach met AI-personalisatie en visuele emails
   priceRange: EUR 32-69/mnd
   bestFor: Creatieve personalisatie
   rating: 4.6
-  affiliateLink: https://lemlist.com/?ref=aitoolsnl
+  affiliateLink: https://lemlist.com/
 - name: Woodpecker
   verdict: Beste deliverability met native email warming en bounce-bescherming
   priceRange: EUR 20-55/mnd
   bestFor: Deliverability & Agencies
   rating: 4.4
-  affiliateLink: https://woodpecker.co/?ref=aitoolsnl
+  affiliateLink: https://woodpecker.co/
 - name: Instantly
   verdict: Beste voor cold email scale met unlimited accounts en AI-warmup
   priceRange: EUR 22-79/mnd
   bestFor: High-volume cold email
   rating: 4.5
-  affiliateLink: https://instantly.ai/?ref=aitoolsnl
+  affiliateLink: https://instantly.ai/
 - name: Mailshake
   verdict: Eenvoudig en betaalbaar met AI-assistant voor lead engagement
   priceRange: EUR 22-49/mnd
   bestFor: Eenvoud & Budget
   rating: 4.2
-  affiliateLink: https://mailshake.com/?ref=aitoolsnl
+  affiliateLink: https://mailshake.com/
 - name: Reply.io
   verdict: Sterke multichannel met email, LinkedIn, calls en WhatsApp in een sequence
   priceRange: EUR 49-79/mnd
   bestFor: Multichannel outreach
   rating: 4.3
-  affiliateLink: https://reply.io/?ref=aitoolsnl
+  affiliateLink: https://reply.io/
 - name: Outreach
   verdict: Enterprise-standaard met diepste Salesforce-integratie en AI-forecasting
   priceRange: EUR 99-200/mnd
   bestFor: Enterprise Sales teams
   rating: 4.5
-  affiliateLink: https://outreach.io/?ref=aitoolsnl
+  affiliateLink: https://outreach.io/
 related:
 - ahrefs-vs-semrush-vs-moz-2026
 - ai-agents-vs-ai-workflows-praktijk-nederland-2026

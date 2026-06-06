@@ -16,14 +16,14 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.pharmai.com/?ref=aitoolsnl
-  - https://deepdrug.ai/?ref=aitoolsnl
-  - https://www.benevolent.com/?ref=aitoolsnl
-  - https://www.ibm.com/watson/?ref=aitoolsnl
-  - https://www.medeye.com/?ref=aitoolsnl
-  - https://apotheekai.nl/?ref=aitoolsnl
-  - https://curewiki.ai/?ref=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.pharmai.com/
+- https://deepdrug.ai/
+- https://www.benevolent.com/
+- https://www.ibm.com/watson/
+- https://www.medeye.com/
+- https://apotheekai.nl/
+- https://curewiki.ai/
 related:
 - beste-ai-tools-verzekeringen-2026
 - ai-voor-data-analyse-2026
@@ -40,49 +40,49 @@ tools:
   priceRange: EUR 100-500/mnd
   bestFor: Medicatieveiligheid & interactiechecks
   rating: 4.5
-  affiliateLink: https://www.pharmai.com/?ref=aitoolsnl
+  affiliateLink: https://www.pharmai.com/
 - name: Deep Drug
   verdict: AI-drug discovery platform dat bestaande medicijnen matcht met zeldzame
     aandoeningen via patroonherkenning
   priceRange: EUR 200-800/mnd
   bestFor: Geneesmiddelonderzoek & repurposing
   rating: 4.3
-  affiliateLink: https://deepdrug.ai/?ref=aitoolsnl
+  affiliateLink: https://deepdrug.ai/
 - name: BenevolentAI
   verdict: AI-gedreven medicijnontdekking met kennisgraaf van miljoenen biomedische
     relaties — gebruikt door topfarma
   priceRange: Op aanvraag
   bestFor: Research & ontwikkeling
   rating: 4.6
-  affiliateLink: https://www.benevolent.com/?ref=aitoolsnl
+  affiliateLink: https://www.benevolent.com/
 - name: IBM Watson for Drug Discovery
   verdict: AI die wetenschappelijke literatuur scant voor nieuwe medicijninzichten
     en bijwerkingenpatronen
   priceRange: Op aanvraag
   bestFor: Literatuuronderzoek & bijwerkingenmonitoring
   rating: 4.2
-  affiliateLink: https://www.ibm.com/watson/?ref=aitoolsnl
+  affiliateLink: https://www.ibm.com/watson/
 - name: MedEye
   verdict: AI medicatieverificatie met beeldherkenning — scant medicijnlabels en controleert
     op fouten in real-time
   priceRange: EUR 50-200/mnd
   bestFor: Medicatieverificatie op de werkvloer
   rating: 4.4
-  affiliateLink: https://www.medeye.com/?ref=aitoolsnl
+  affiliateLink: https://www.medeye.com/
 - name: ApotheekAI
   verdict: 'Nederlandse AI-assistent voor apotheekbalies: checkt interacties, genereert
     bijsluiterteksten en ondersteunt bij triage'
   priceRange: EUR 75-300/mnd
   bestFor: Nederlandse apotheekpraktijk
   rating: 4.3
-  affiliateLink: https://apotheekai.nl/?ref=aitoolsnl
+  affiliateLink: https://apotheekai.nl/
 - name: CureWiki AI
   verdict: 'AI-kennisbank voor apothekers en artsen: samenvattingen van klinische
     trials, richtlijnen en farmacotherapeutisch kompas'
   priceRange: EUR 25-100/mnd
   bestFor: Nascholing & richtlijnraadpleging
   rating: 4.1
-  affiliateLink: https://curewiki.ai/?ref=aitoolsnl
+  affiliateLink: https://curewiki.ai/
 faq:
 - q: Zijn AI tools veilig voor gevoelige data?
   a: De meeste tools bieden enterprise-grade beveiliging met encryptie, maar check

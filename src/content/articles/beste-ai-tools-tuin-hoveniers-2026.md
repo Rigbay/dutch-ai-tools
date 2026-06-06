@@ -1,8 +1,8 @@
 ---
 title: 'Beste AI Tools voor Tuin & Hoveniers 2026: top 7 vergeleken'
 slug: beste-ai-tools-tuin-hoveniers-2026
-description: AI tools voor hoveniers, tuinarchitecten, groenvoorziening en landschapsbeheer 2026. Vergelijk AI voor ontwerp,
-  plantherkenning, planning en offertes.
+description: AI tools voor hoveniers, tuinarchitecten, groenvoorziening en landschapsbeheer
+  2026. Vergelijk AI voor ontwerp, plantherkenning, planning en offertes.
 category: business
 rating: 4.4
 priceRange: EUR 0-100/mnd
@@ -22,47 +22,54 @@ featuredTool: PictureThis
 readingTime: 8 min
 tools:
 - name: PictureThis
-  verdict: Beste AI plantherkenning — identificeer 400.000+ planten met één foto en krijg verzorgtips
+  verdict: Beste AI plantherkenning — identificeer 400.000+ planten met één foto en
+    krijg verzorgtips
   priceRange: EUR 0-5/mnd
   bestFor: Plantherkenning
   rating: 4.7
-  affiliateLink: https://picturethisai.com/?ref=aitoolsnl
+  affiliateLink: https://picturethisai.com/
 - name: iScape
-  verdict: AI tuinontwerp-app die in real-time laat zien hoe planten en elementen in jouw tuin staan
+  verdict: AI tuinontwerp-app die in real-time laat zien hoe planten en elementen
+    in jouw tuin staan
   priceRange: EUR 0-30/mnd
   bestFor: Tuinontwerp visualisatie
   rating: 4.5
-  affiliateLink: https://iscapeit.com/?ref=aitoolsnl
+  affiliateLink: https://iscapeit.com/
 - name: Planterra
-  verdict: AI landschapsarchitectuur met automatische beplantingsplannen op basis van bodem en klimaat
+  verdict: AI landschapsarchitectuur met automatische beplantingsplannen op basis
+    van bodem en klimaat
   priceRange: EUR 50-200/mnd
   bestFor: Professioneel ontwerp
   rating: 4.3
-  affiliateLink: https://planterra.com/?ref=aitoolsnl
+  affiliateLink: https://planterra.com/
 - name: Greenwize
-  verdict: Nederlands AI-platform voor slimme irrigatie, watermanagement en klimaatadaptief groen
+  verdict: Nederlands AI-platform voor slimme irrigatie, watermanagement en klimaatadaptief
+    groen
   priceRange: EUR 30-150/mnd
   bestFor: Watermanagement
   rating: 4.2
-  affiliateLink: https://greenwize.nl/?ref=aitoolsnl
+  affiliateLink: https://greenwize.nl/
 - name: LMN
-  verdict: AI hoveniers-software met automatische offertes, planning, urenregistratie en klantbeheer
+  verdict: AI hoveniers-software met automatische offertes, planning, urenregistratie
+    en klantbeheer
   priceRange: EUR 80-250/mnd
   bestFor: Hoveniers administratie
   rating: 4.4
-  affiliateLink: https://lmnsoftware.com/?ref=aitoolsnl
+  affiliateLink: https://lmnsoftware.com/
 - name: PlantSnap
-  verdict: AI plantherkenning met database van 600.000+ soorten — ideaal voor tuinadvies onderweg
+  verdict: AI plantherkenning met database van 600.000+ soorten — ideaal voor tuinadvies
+    onderweg
   priceRange: EUR 0-4/mnd
   bestFor: Snelle planten-ID
   rating: 4.3
-  affiliateLink: https://plantsnap.com/?ref=aitoolsnl
+  affiliateLink: https://plantsnap.com/
 - name: Husqvarna Automower Connect
-  verdict: AI robotmaaier-besturing via app — GPS-gestuurde maaipatronen en weer-adaptief maaien
+  verdict: AI robotmaaier-besturing via app — GPS-gestuurde maaipatronen en weer-adaptief
+    maaien
   priceRange: EUR 0/mnd (bij aanschaf maaier)
   bestFor: Robotmaaier beheer
   rating: 4.5
-  affiliateLink: https://husqvarna.com/?ref=aitoolsnl
+  affiliateLink: https://husqvarna.com/
 related:
 - beste-ai-tools-duurzaamheid-esg-milieu-2026
 - beste-ai-tools-agricultuur-landbouw-2026
@@ -70,16 +77,19 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor business in 2026?
-  a: Dat hangt af van je specifieke behoeften en budget. Voor de meeste gebruikers in deze sector is PictureThis een uitstekende
-    start vanwege de balans tussen functionaliteit, prijs en gebruiksvriendelijkheid. Lees de volledige vergelijking hierboven
-    voor een gedetailleerd advies per tool.
+  a: Dat hangt af van je specifieke behoeften en budget. Voor de meeste gebruikers
+    in deze sector is PictureThis een uitstekende start vanwege de balans tussen functionaliteit,
+    prijs en gebruiksvriendelijkheid. Lees de volledige vergelijking hierboven voor
+    een gedetailleerd advies per tool.
 - q: Zijn er gratis AI tools beschikbaar voor deze sector in 2026?
-  a: Ja, verschillende tools in onze vergelijking hebben gratis tiers of freemium modellen. Deze zijn perfect om mee te beginnen
-    en te testen of AI waarde toevoegt aan jouw werkprocessen, voordat je upgrade naar een betaald abonnement.
+  a: Ja, verschillende tools in onze vergelijking hebben gratis tiers of freemium
+    modellen. Deze zijn perfect om mee te beginnen en te testen of AI waarde toevoegt
+    aan jouw werkprocessen, voordat je upgrade naar een betaald abonnement.
 - q: Hoe kies ik de juiste AI tool voor mijn organisatie?
-  a: Begin met je primaire uitdaging (planning, klantcommunicatie, kwaliteitscontrole, marketing?), je budget, en het aantal
-    medewerkers of locaties. Gebruik de vergelijkingstabel hierboven om te filteren op score, prijs en 'beste voor' — dan
-    vind je snel de tool die past.
+  a: Begin met je primaire uitdaging (planning, klantcommunicatie, kwaliteitscontrole,
+    marketing?), je budget, en het aantal medewerkers of locaties. Gebruik de vergelijkingstabel
+    hierboven om te filteren op score, prijs en 'beste voor' — dan vind je snel de
+    tool die past.
 ---
 # De Groene Revolutie: Top AI Tools voor de Groensector in 2026
 

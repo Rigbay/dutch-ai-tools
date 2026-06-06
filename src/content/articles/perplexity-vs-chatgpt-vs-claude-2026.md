@@ -16,8 +16,8 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.canva.com/?ref=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.canva.com/
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Perplexity AI
@@ -71,7 +71,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Grafisch ontwerp en visuele contentcreatie
   rating: 4.2
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 related:
 - beste-ai-tools-bouw-2026
 - beste-ai-tools-docenten-2026

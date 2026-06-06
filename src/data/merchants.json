@@ -1,14 +1,30 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdated": "2026-06-05T13:30:00+02:00",
-    "updatedBy": "hermes (sync from canonical)",
-    "source": "canonical merchants.json"
+    "schema": "unified-1.0",
+    "lastUpdated": "2026-06-05T14:00:00+02:00",
+    "updatedBy": "hermes (kanban t_04507b44: 5 Impact.com + 5 PartnerStack registry entries)",
+    "source": "normalized from audit-2026-05-27 + 2026-06-05 signups; schema bifurcation resolved",
+    "statusEnum": [
+      "active",
+      "pending",
+      "rejected",
+      "dead"
+    ],
+    "perSiteStatusEnum": [
+      "active",
+      "inactive",
+      "pending",
+      "rejected",
+      "dead"
+    ],
+    "notes": "Single unified schema for every merchant. The old 'live' value is normalized to 'active'. commission is ALWAYS an object {rate (0-1 float or null), type, cookieDays, recurringMonths, notes}. perSite / domainHints / linkTemplate present on every merchant. TradeTracker added (was missing from registry). Backup: merchants.json.bak-20260605-reconcile."
   },
   "merchants": {
     "amazon-nl": {
       "name": "Amazon.nl",
       "program": "Amazon Associates",
+      "platform": "Amazon Associates",
       "status": "active",
       "perSite": {
         "kieskeuken": {
@@ -23,20 +39,25 @@
       "commission": {
         "rate": 0.04,
         "type": "percentage",
+        "cookieDays": 1,
+        "recurringMonths": null,
         "notes": "Standard NL appliances rate"
       },
-      "cookieDurationHours": 24,
       "linkTemplate": "https://www.amazon.nl/dp/{asin}?tag={affiliateId}",
+      "link": null,
       "domainHints": [
         "amazon.nl"
       ],
-      "fallbackUrl": "https://www.amazon.nl",
+      "payout": "bank",
+      "articles": 76,
       "lastVerified": "2026-05-27T10:00:00+02:00",
+      "signedUp": null,
       "notes": "Primary for KiesKeuken. 47/76 articles monetized."
     },
     "bol-com": {
       "name": "Bol.com",
       "program": "Bol.com Partnerprogramma",
+      "platform": "Bol.com",
       "status": "rejected",
       "perSite": {
         "kieskeuken": {
@@ -50,20 +71,27 @@
       },
       "commission": {
         "rate": 0.05,
-        "type": "percentage"
+        "type": "percentage",
+        "cookieDays": 30,
+        "recurringMonths": null,
+        "notes": null
       },
-      "cookieDurationHours": 720,
       "linkTemplate": "https://partner.bol.com/click/click?p={productId}&t=url&s={publisherId}&url={targetUrl}",
+      "link": null,
       "domainHints": [
         "partner.bol.com",
         "bol.com"
       ],
+      "payout": null,
+      "articles": null,
       "lastVerified": "2026-05-26T00:00:00+02:00",
+      "signedUp": null,
       "notes": "REJECTED 2026-05-26. Site ID 1520310. DO NOT USE. 'in behandeling' text in ReviewLayout.astro:156 must be scrubbed."
     },
     "coolblue": {
       "name": "Coolblue",
       "program": "Awin / Coolblue",
+      "platform": "Awin",
       "status": "pending",
       "perSite": {
         "kieskeuken": {
@@ -75,18 +103,28 @@
           "affiliateId": null
         }
       },
-      "commission": null,
-      "cookieDurationHours": null,
+      "commission": {
+        "rate": null,
+        "type": "percentage",
+        "cookieDays": null,
+        "recurringMonths": null,
+        "notes": "7-15% via Awin, confirmed on approval"
+      },
+      "linkTemplate": null,
+      "link": null,
       "domainHints": [
         "coolblue.nl"
       ],
-      "fallbackUrl": "https://www.coolblue.nl",
+      "payout": "Awin",
+      "articles": null,
       "lastVerified": "2026-05-27T00:00:00+02:00",
+      "signedUp": null,
       "notes": "Awin publisher 2899551. Joined Coolblue in My Programs. Awaiting advertiser approval. Link Builder gated until approved."
     },
     "beehiiv": {
       "name": "beehiiv",
       "program": "beehiiv Affiliate (Boost)",
+      "platform": "beehiiv (in-house)",
       "status": "active",
       "perSite": {
         "dutch-ai-tools": {
@@ -97,20 +135,25 @@
       "commission": {
         "rate": 0.5,
         "type": "percentage",
+        "cookieDays": 30,
+        "recurringMonths": null,
         "notes": "50-60% Boost program, recurring"
       },
-      "cookieDurationHours": 720,
       "linkTemplate": "https://www.beehiiv.com/?via={affiliateId}",
+      "link": "https://www.beehiiv.com/?via=anonymous-operator",
       "domainHints": [
         "beehiiv.com"
       ],
-      "fallbackUrl": "https://www.beehiiv.com",
+      "payout": "TBD",
+      "articles": 119,
       "lastVerified": "2026-05-27T00:00:00+02:00",
+      "signedUp": null,
       "notes": "Core for Dutch AI Tools. via=anonymous-operator. ~119/126 AI tools articles monetized."
     },
     "taskade": {
       "name": "Taskade",
       "program": "Taskade Affiliate",
+      "platform": "Taskade (in-house)",
       "status": "active",
       "perSite": {
         "dutch-ai-tools": {
@@ -121,20 +164,25 @@
       "commission": {
         "rate": 0.2,
         "type": "percentage",
+        "cookieDays": 30,
+        "recurringMonths": null,
         "notes": "20% lifetime, recurring"
       },
-      "cookieDurationHours": 720,
       "linkTemplate": "https://taskade.com/?via={affiliateId}",
+      "link": "https://taskade.com/?via=55nfr2",
       "domainHints": [
         "taskade.com"
       ],
-      "fallbackUrl": "https://www.taskade.com",
+      "payout": "TBD",
+      "articles": 14,
       "lastVerified": "2026-05-26T00:00:00+02:00",
+      "signedUp": null,
       "notes": "Code 55nfr2. 14 articles monetized."
     },
     "writesonic": {
       "name": "Writesonic",
       "program": "Writesonic Affiliate",
+      "platform": "Writesonic (in-house)",
       "status": "active",
       "perSite": {
         "dutch-ai-tools": {
@@ -145,20 +193,25 @@
       "commission": {
         "rate": 0.3,
         "type": "percentage",
+        "cookieDays": 30,
+        "recurringMonths": null,
         "notes": "30% lifetime, recurring"
       },
-      "cookieDurationHours": 720,
       "linkTemplate": "https://writesonic.com/?via={affiliateId}",
+      "link": "https://writesonic.com/?via=aitoolsnl",
       "domainHints": [
         "writesonic.com"
       ],
-      "fallbackUrl": "https://www.writesonic.com",
+      "payout": "TBD",
+      "articles": 13,
       "lastVerified": "2026-05-26T00:00:00+02:00",
+      "signedUp": null,
       "notes": "Code aitoolsnl. 13 articles monetized."
     },
     "notion": {
       "name": "Notion",
       "program": "Notion Affiliate",
+      "platform": "none",
       "status": "dead",
       "perSite": {
         "dutch-ai-tools": {
@@ -166,19 +219,29 @@
           "affiliateId": null
         }
       },
-      "commission": null,
-      "cookieDurationHours": null,
+      "commission": {
+        "rate": null,
+        "type": null,
+        "cookieDays": null,
+        "recurringMonths": null,
+        "notes": null
+      },
+      "linkTemplate": null,
+      "link": null,
       "domainHints": [
         "notion.so",
         "affiliate.notion.so"
       ],
-      "fallbackUrl": "https://www.notion.so",
+      "payout": null,
+      "articles": 36,
       "lastVerified": "2026-05-27T00:00:00+02:00",
+      "signedUp": null,
       "notes": "DEAD. 36 references found in Dutch AI Tools. Scrub all and replace with non-affiliate alternatives."
     },
     "copy-ai": {
       "name": "Copy.ai",
       "program": "Copy.ai Affiliate",
+      "platform": "none",
       "status": "dead",
       "perSite": {
         "dutch-ai-tools": {
@@ -186,19 +249,29 @@
           "affiliateId": null
         }
       },
-      "commission": null,
-      "cookieDurationHours": null,
+      "commission": {
+        "rate": null,
+        "type": null,
+        "cookieDays": null,
+        "recurringMonths": null,
+        "notes": null
+      },
+      "linkTemplate": null,
+      "link": null,
       "domainHints": [
         "copy.ai",
         "affiliate.copy.ai"
       ],
-      "fallbackUrl": "https://www.copy.ai",
+      "payout": null,
+      "articles": 16,
       "lastVerified": "2026-05-27T00:00:00+02:00",
+      "signedUp": null,
       "notes": "DEAD. 16 references found. Scrub all."
     },
     "rytr": {
       "name": "Rytr",
       "program": "Rytr Affiliate",
+      "platform": "Tapfiliate",
       "status": "active",
       "perSite": {
         "dutch-ai-tools": {
@@ -209,20 +282,25 @@
       "commission": {
         "rate": 0.3,
         "type": "percentage",
+        "cookieDays": 60,
+        "recurringMonths": 12,
         "notes": "30%/12mo recurring"
       },
-      "cookieDurationHours": 1440,
       "linkTemplate": "https://rytr.me?via={affiliateId}",
+      "link": "https://rytr.me?via=hermes-affiliates",
       "domainHints": [
         "rytr.me"
       ],
-      "fallbackUrl": "https://www.rytr.me",
+      "payout": "PayPal",
+      "articles": 3,
       "lastVerified": "2026-06-05T00:00:00+02:00",
+      "signedUp": "2026-06-05",
       "notes": "Tapfiliate. Code hermes-affiliates. 5 activation bonus."
     },
     "synthesia": {
       "name": "Synthesia",
       "program": "Synthesia Affiliate",
+      "platform": "Rewardful",
       "status": "active",
       "perSite": {
         "dutch-ai-tools": {
@@ -233,20 +311,25 @@
       "commission": {
         "rate": 0.25,
         "type": "percentage",
+        "cookieDays": 60,
+        "recurringMonths": 12,
         "notes": "25%/12mo recurring"
       },
-      "cookieDurationHours": 1440,
       "linkTemplate": "https://www.synthesia.io?via={affiliateId}",
+      "link": "https://www.synthesia.io?via=hermes",
       "domainHints": [
         "synthesia.io"
       ],
-      "fallbackUrl": "https://www.synthesia.io",
+      "payout": "TBD",
+      "articles": 28,
       "lastVerified": "2026-06-05T00:00:00+02:00",
+      "signedUp": "2026-06-05",
       "notes": "Rewardful. Code hermes."
     },
     "make": {
       "name": "Make.com",
       "program": "Make Affiliate",
+      "platform": "Make (in-house)",
       "status": "active",
       "perSite": {
         "dutch-ai-tools": {
@@ -257,20 +340,25 @@
       "commission": {
         "rate": 0.35,
         "type": "percentage",
+        "cookieDays": 90,
+        "recurringMonths": 12,
         "notes": "35%/12mo recurring. Top earner potential."
       },
-      "cookieDurationHours": 2160,
       "linkTemplate": "https://www.make.com/en/register?pc={affiliateId}",
+      "link": "https://www.make.com/en/register?pc=hermesai",
       "domainHints": [
         "make.com"
       ],
-      "fallbackUrl": "https://www.make.com",
+      "payout": "Wise (EUR)",
+      "articles": 48,
       "lastVerified": "2026-06-05T00:00:00+02:00",
+      "signedUp": "2026-06-05",
       "notes": "Make in-house program. Code hermesai. Payout via Wise (anonymous-operator creating Wise as single payout hub). Top earner potential, largest unmonetized recurring gap."
     },
     "frase": {
       "name": "Frase",
       "program": "Frase Affiliate",
+      "platform": "FirstPromoter",
       "status": "pending",
       "perSite": {
         "dutch-ai-tools": {
@@ -281,20 +369,25 @@
       "commission": {
         "rate": 0.3,
         "type": "percentage",
+        "cookieDays": 60,
+        "recurringMonths": 12,
         "notes": "30%/12mo recurring"
       },
-      "cookieDurationHours": 1440,
       "linkTemplate": "https://www.frase.io?via={affiliateId}",
+      "link": null,
       "domainHints": [
         "frase.io"
       ],
-      "fallbackUrl": "https://www.frase.io",
+      "payout": "TBD",
+      "articles": 7,
       "lastVerified": "2026-06-05T00:00:00+02:00",
+      "signedUp": "2026-06-05",
       "notes": "FirstPromoter. Application pending human review (no link issued until approved)."
     },
     "tradetracker": {
       "name": "TradeTracker",
       "program": "TradeTracker Publisher",
+      "platform": "TradeTracker",
       "status": "rejected",
       "perSite": {
         "dutch-ai-tools": {
@@ -302,15 +395,321 @@
           "affiliateId": null
         }
       },
-      "commission": null,
-      "cookieDurationHours": null,
+      "commission": {
+        "rate": null,
+        "type": null,
+        "cookieDays": null,
+        "recurringMonths": null,
+        "notes": null
+      },
+      "linkTemplate": null,
+      "link": null,
       "domainHints": [
         "tradetracker.com",
         "tradetracker.net"
       ],
-      "fallbackUrl": "https://www.tradetracker.com",
+      "payout": null,
+      "articles": null,
       "lastVerified": "2026-06-01T00:00:00+02:00",
+      "signedUp": "2026-05-26",
       "notes": "ARCHIVED 2026-06-01. Registered as HermesAffiliates. .github.io domain likely failed professional review; reapply only from a custom domain. Was referenced in briefs/STRATEGY.md but MISSING from this registry until the 2026-06-05 reconcile."
+    },
+    "grammarly": {
+      "name": "Grammarly",
+      "program": "Grammarly Affiliate",
+      "platform": "Impact.com",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.25,
+        "type": "percentage",
+        "cookieDays": 90,
+        "recurringMonths": null,
+        "notes": "20-30% CPS on premium upgrade + $20 activation bonus per free-signup-install"
+      },
+      "linkTemplate": "https://grammarly.sjv.io/c/{code}",
+      "link": null,
+      "domainHints": [
+        "grammarly.sjv.io",
+        "grammarly.com"
+      ],
+      "payout": "Impact.com",
+      "articles": 12,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "Impact.com. Deploy script ready: partnerstack-links/deploy-grammarly-links.py. One Impact signup unlocks all 5 sjv.io merchants."
+    },
+    "hubspot": {
+      "name": "HubSpot",
+      "program": "HubSpot Affiliate",
+      "platform": "Impact.com",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.3,
+        "type": "percentage",
+        "cookieDays": 180,
+        "recurringMonths": 12,
+        "notes": "30% recurring for 12 months. 180-day cookie tied for longest in stack."
+      },
+      "linkTemplate": "https://hubspot.sjv.io/c/{code}",
+      "link": null,
+      "domainHints": [
+        "hubspot.sjv.io",
+        "hubspot.com"
+      ],
+      "payout": "Impact.com",
+      "articles": 27,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "Impact.com. Deploy script ready: partnerstack-links/deploy-hubspot-links.py. Top-tier recurring earner."
+    },
+    "jasper": {
+      "name": "Jasper",
+      "program": "Jasper AI Affiliate",
+      "platform": "Impact.com",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.275,
+        "type": "percentage",
+        "cookieDays": 45,
+        "recurringMonths": 12,
+        "notes": "25-30% recurring for 12 months"
+      },
+      "linkTemplate": "https://jasper.sjv.io/c/{code}",
+      "link": null,
+      "domainHints": [
+        "jasper.sjv.io",
+        "jasper.ai"
+      ],
+      "payout": "Impact.com",
+      "articles": 22,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "Impact.com. Deploy script ready: partnerstack-links/deploy-jasper-links.py."
+    },
+    "semrush": {
+      "name": "Semrush",
+      "program": "Semrush Affiliate",
+      "platform": "Impact.com",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": null,
+        "type": "cpa",
+        "cookieDays": 120,
+        "recurringMonths": null,
+        "notes": "$200 CPA + $10/trial (annual sub). Tiered: Bronze $200, Silver $250, Gold $300, Platinum $350."
+      },
+      "linkTemplate": "https://semrush.sjv.io/c/{code}/222222/13053",
+      "link": null,
+      "domainHints": [
+        "semrush.sjv.io",
+        "semrush.com"
+      ],
+      "payout": "Impact.com",
+      "articles": 19,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "Impact.com. Deploy script ready: partnerstack-links/deploy-semrush-links.py. Highest CPA in stack."
+    },
+    "adobe": {
+      "name": "Adobe Creative Cloud",
+      "program": "Adobe Affiliate",
+      "platform": "Impact.com",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": null,
+        "type": "cpa",
+        "cookieDays": 30,
+        "recurringMonths": null,
+        "notes": "$43 CPA per new CC or Stock subscription"
+      },
+      "linkTemplate": "https://adobe.sjv.io/c/{code}",
+      "link": null,
+      "domainHints": [
+        "adobe.sjv.io",
+        "adobe.com"
+      ],
+      "payout": "Impact.com",
+      "articles": 22,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "Impact.com. Deploy script ready: partnerstack-links/deploy-adobe-links.py."
+    },
+    "coursera": {
+      "name": "Coursera",
+      "program": "Coursera Affiliate",
+      "platform": "Impact.com",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.2,
+        "type": "percentage",
+        "cookieDays": 30,
+        "recurringMonths": null,
+        "notes": "20-45% baseline. Coursera is on Impact.com (NOT PartnerStack per task body)."
+      },
+      "linkTemplate": null,
+      "link": null,
+      "domainHints": [
+        "coursera.org",
+        "affiliates.coursera.org"
+      ],
+      "payout": "Impact.com",
+      "articles": 4,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "⚠️ Actually on Impact.com (not PartnerStack per task). 1,000+ courses. Needs signup."
+    },
+    "brilliant": {
+      "name": "Brilliant",
+      "program": "Brilliant Affiliate",
+      "platform": "PartnerStack",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.2,
+        "type": "percentage",
+        "cookieDays": 30,
+        "recurringMonths": null,
+        "notes": "20% commission. Signup at affiliates.brilliant.partners (PartnerStack)."
+      },
+      "linkTemplate": null,
+      "link": null,
+      "domainHints": [
+        "brilliant.org",
+        "affiliates.brilliant.partners"
+      ],
+      "payout": "PartnerStack",
+      "articles": 1,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "PartnerStack. Signup at affiliates.brilliant.partners. 1 article found."
+    },
+    "quizlet": {
+      "name": "Quizlet",
+      "program": "Quizlet Affiliate",
+      "platform": "PartnerStack",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": null,
+        "type": null,
+        "cookieDays": null,
+        "recurringMonths": null,
+        "notes": "PartnerStack — commission details NOT confirmed. Needs program verification."
+      },
+      "linkTemplate": null,
+      "link": null,
+      "domainHints": [
+        "quizlet.com"
+      ],
+      "payout": "PartnerStack",
+      "articles": 1,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "PartnerStack (per task). Commission unverified — search returned no program details. Needs signup + verification."
+    },
+    "gitbook": {
+      "name": "GitBook",
+      "program": "GitBook Affiliate",
+      "platform": "PartnerStack",
+      "status": "pending",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "pending",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": 0.2,
+        "type": "percentage",
+        "cookieDays": 60,
+        "recurringMonths": 12,
+        "notes": "20% recurring, 60-day cookie (via openaffiliate.dev). Platform: likely PartnerStack."
+      },
+      "linkTemplate": null,
+      "link": null,
+      "domainHints": [
+        "gitbook.com"
+      ],
+      "payout": "PartnerStack",
+      "articles": 2,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "PartnerStack (per task). 20% recurring / 60d cookie. Needs signup."
+    },
+    "logseq": {
+      "name": "Logseq",
+      "program": "Logseq Affiliate",
+      "platform": "none",
+      "status": "dead",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "dead",
+          "affiliateId": null
+        }
+      },
+      "commission": {
+        "rate": null,
+        "type": null,
+        "cookieDays": null,
+        "recurringMonths": null,
+        "notes": "No affiliate program found. Open-source project."
+      },
+      "linkTemplate": null,
+      "link": null,
+      "domainHints": [
+        "logseq.com"
+      ],
+      "payout": null,
+      "articles": 1,
+      "lastVerified": "2026-06-05T14:00:00+02:00",
+      "signedUp": null,
+      "notes": "DEAD — no affiliate program exists. Open-source. Remove from pending list; any links are dead ?ref=aitoolsnl. 1 article reference."
     }
   }
 }

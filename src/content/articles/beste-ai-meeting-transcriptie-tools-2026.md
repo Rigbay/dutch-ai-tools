@@ -15,8 +15,8 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Fireflies.ai
@@ -28,43 +28,43 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Volledige meeting AI
   rating: 4.6
-  affiliateLink: https://fireflies.ai/?ref=aitoolsnl
+  affiliateLink: https://fireflies.ai/
 - name: Otter.ai
   verdict: Realtime AI-transcriptie met uitstekende Engels-Nederlandse hybrid herkenning
   priceRange: EUR 0-20/mnd
   bestFor: Realtime transcriptie
   rating: 4.5
-  affiliateLink: https://otter.ai/?ref=aitoolsnl
+  affiliateLink: https://otter.ai/
 - name: Fathom
   verdict: Beste gratis AI-notulist met automatische highlight-reels en CRM-sync
   priceRange: EUR 0-35/mnd
   bestFor: Sales calls
   rating: 4.7
-  affiliateLink: https://fathom.video/?ref=aitoolsnl
+  affiliateLink: https://fathom.video/
 - name: Notta
   verdict: Beste meertalige AI-transcriptie met sterke Nederlandse ondersteuning
   priceRange: EUR 0-20/mnd
   bestFor: Meertalige meetings
   rating: 4.3
-  affiliateLink: https://www.notta.ai/?ref=aitoolsnl
+  affiliateLink: https://www.notta.ai/
 - name: tl;dv
   verdict: AI-notulist specifiek voor Zoom/Meet/Teams met timestamp-notities en delen
   priceRange: EUR 0-30/mnd
   bestFor: Video-call notities
   rating: 4.4
-  affiliateLink: https://tldv.io/?ref=aitoolsnl
+  affiliateLink: https://tldv.io/
 - name: Microsoft Teams AI
   verdict: Ingebouwde AI-notulen in de dominante NL-vergadertool — Copilot samenvattingen
   priceRange: EUR 5-30/mnd
   bestFor: Teams-gebruikers
   rating: 4.2
-  affiliateLink: https://www.microsoft.com/nl-nl/microsoft-teams/?ref=aitoolsnl
+  affiliateLink: https://www.microsoft.com/nl-nl/microsoft-teams/
 - name: Gong
   verdict: Enterprise sales intelligence met AI deal-analyses en gespreksinzichten
   priceRange: EUR 100-300/mnd
   bestFor: Sales intelligence
   rating: 4.6
-  affiliateLink: https://www.gong.io/?ref=aitoolsnl
+  affiliateLink: https://www.gong.io/
 related:
 - beste-ai-tools-ouderschap-gezinsmanagement-2026
 - beste-ai-tools-pdf-documenten-2026

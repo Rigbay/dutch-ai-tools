@@ -16,17 +16,17 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.blender.org/?ref=aitoolsnl
-- https://spline.design/?ref=aitoolsnl
-- https://www.meshy.ai/?ref=aitoolsnl
-- https://lumalabs.ai/?ref=aitoolsnl
-- https://www.kaedim.com/?ref=aitoolsnl
-- https://www.masterpiecestudio.com/?ref=aitoolsnl
-- https://www.nvidia.com/nl-nl/omniverse/?ref=aitoolsnl
+- https://www.blender.org/
+- https://spline.design/
+- https://www.meshy.ai/
+- https://lumalabs.ai/
+- https://www.kaedim.com/
+- https://www.masterpiecestudio.com/
+- https://www.nvidia.com/nl-nl/omniverse/
 related:
-  - beste-ai-tools-wearables-2026
-  - beste-ai-tools-gaming-2026
-  - ai-beeldherkenning-2026
+- beste-ai-tools-wearables-2026
+- beste-ai-tools-gaming-2026
+- ai-beeldherkenning-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Blender
@@ -38,49 +38,49 @@ tools:
   priceRange: EUR 0 (gratis)
   bestFor: Professionele 3D gratis
   rating: 4.8
-  affiliateLink: https://www.blender.org/?ref=aitoolsnl
+  affiliateLink: https://www.blender.org/
 - name: Spline
   verdict: Browsergebaseerde 3D-design tool met AI-features voor real-time collaborative
     3D — ideaal voor web- en productdesign
   priceRange: EUR 0-12/mnd
   bestFor: Web 3D & product design
   rating: 4.5
-  affiliateLink: https://spline.design/?ref=aitoolsnl
+  affiliateLink: https://spline.design/
 - name: Meshy
   verdict: AI die 3D-modellen genereert uit tekst of afbeeldingen — inclusief texture
     mapping, animatie en format export voor games
   priceRange: EUR 0-40/mnd
   bestFor: Text-to-3D generatie
   rating: 4.4
-  affiliateLink: https://www.meshy.ai/?ref=aitoolsnl
+  affiliateLink: https://www.meshy.ai/
 - name: Luma AI
   verdict: AI-fotogrammetrie en 3D-generatie — maak 3D-modellen van echte objecten
     met je smartphone of genereer uit tekstbeschrijving
   priceRange: EUR 0-30/mnd
   bestFor: Fotogrammetrie & text-to-3D
   rating: 4.6
-  affiliateLink: https://lumalabs.ai/?ref=aitoolsnl
+  affiliateLink: https://lumalabs.ai/
 - name: Kaedim
   verdict: AI die 2D-concept art omzet in game-ready 3D-modellen — gebruikt door grote
     gamestudio's voor character en asset creatie
   priceRange: EUR 0-100/mnd
   bestFor: Game-ready 3D assets
   rating: 4.3
-  affiliateLink: https://www.kaedim.com/?ref=aitoolsnl
+  affiliateLink: https://www.kaedim.com/
 - name: Masterpiece Studio
   verdict: AI-VR 3D-creatie tool — ontwerp, modelleer en animeer in virtual reality
     met AI-ondersteuning voor sculpting en rigging
   priceRange: EUR 0-90/mnd
   bestFor: VR 3D-creatie & sculpting
   rating: 4.2
-  affiliateLink: https://www.masterpiecestudio.com/?ref=aitoolsnl
+  affiliateLink: https://www.masterpiecestudio.com/
 - name: NVIDIA Omniverse
   verdict: Enterprise-platform voor 3D-simulatie en digital twins — AI-gestuurde physics,
     rendering en collaborative 3D-pipelines
   priceRange: EUR 0 (personal) / custom (enterprise)
   bestFor: Digital twins & simulatie
   rating: 4.7
-  affiliateLink: https://www.nvidia.com/nl-nl/omniverse/?ref=aitoolsnl
+  affiliateLink: https://www.nvidia.com/nl-nl/omniverse/
 faq:
 - q: Kan ik met AI 3D-modellen maken zonder ervaring?
   a: Ja, tools als Meshy en Luma AI genereren 3D-modellen vanuit tekstbeschrijvingen

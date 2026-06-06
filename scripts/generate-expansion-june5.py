@@ -10,6 +10,7 @@ import time
 import subprocess
 from datetime import date
 from pathlib import Path
+import scripts.affiliate_resolver as resolver
 
 SITE_ROOT = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = SITE_ROOT / "src" / "content" / "articles"
@@ -158,6 +159,18 @@ def build_frontmatter(topic):
 
     tools_data = topic['tools']
 
+    # ── Resolve affiliate URL through the registry ──────────────
+    raw_link = topic.get('affiliate_link', '')
+    # Strip old hardcoded ?ref=aitoolsnl
+    clean_url = raw_link.split('?ref=')[0].rstrip('/')
+
+    merchant_id = resolver.resolve_merchant_from_url(clean_url)
+    if merchant_id:
+        resolved_link = resolver.build_affiliate_url(merchant_id, clean_url)
+    else:
+        # Merchant not in registry — return bare URL (no dead ?ref=...)
+        resolved_link = clean_url
+
     fm = f"""---
 title: '{topic["title_prefix"]} — volledige vergelijking'
 slug: {topic["slug"]}
@@ -174,7 +187,7 @@ pros:
         fm += f"- {c}\n"
 
     fm += "affiliateLinks:\n"
-    fm += f"  - {topic['affiliate_link']}\n"
+    fm += f"  - {resolved_link}\n"
     fm += f"date: '{today}'\n"
     fm += "modelYear: 2026\n"
     fm += f"featuredTool: {topic['featured'].lower().replace(' ', '-').replace('(', '').replace(')', '').replace('/', '-')}\n"
@@ -187,7 +200,7 @@ pros:
         fm += f"  priceRange: {t['price']}\n"
         fm += f"  bestFor: {t['best_for']}\n"
         fm += f"  rating: {t['rating']}\n"
-        fm += f"  affiliateLink: {topic['affiliate_link']}\n"
+        fm += f"  affiliateLink: {resolved_link}\n"
 
     fm += "related:\n"
     fm += "  - ai-trends-2026-nederland\n"

@@ -1,7 +1,9 @@
 ---
 title: 'Beste AI Tools voor Logistiek & Transport 2026: top 7 logistieke AI vergeleken'
 slug: beste-ai-tools-logistiek-transport-2026
-description: "Vergelijk de beste AI tools voor logistiek en transport in 2026. Routeoptimalisatie, magazijnbeheer, voorraadplanning en supply chain optimalisatie voor de Nederlandse markt."
+description: Vergelijk de beste AI tools voor logistiek en transport in 2026. Routeoptimalisatie,
+  magazijnbeheer, voorraadplanning en supply chain optimalisatie voor de Nederlandse
+  markt.
 category: productiviteit
 rating: 4.4
 priceRange: EUR 0-200/mnd
@@ -15,7 +17,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
 - https://www.notion.so
-- https://www.beehiiv.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-06-03
 modelYear: 2026
 featuredTool: Locus Robotics
@@ -26,43 +28,45 @@ tools:
   priceRange: EUR 2000-10000/mnd
   bestFor: Magazijn & pickrobotica
   rating: 4.7
-  affiliateLink: https://locusrobotics.com/?ref=aitoolsnl
+  affiliateLink: https://locusrobotics.com/
 - name: project44
   verdict: AI supply chain visibility platform met realtime tracking en voorspellingen
   priceRange: EUR 500-3000/mnd
   bestFor: Supply chain tracking & visibility
   rating: 4.5
-  affiliateLink: https://www.project44.com/?ref=aitoolsnl
+  affiliateLink: https://www.project44.com/
 - name: KeepTruckin (Motive)
   verdict: AI ELD-compliance en wagenparkbeheer met dashcam safety analytics
   priceRange: EUR 30-100/voertuig/mnd
   bestFor: Wagenparkbeheer & compliance
   rating: 4.4
-  affiliateLink: https://gomotive.com/?ref=aitoolsnl
+  affiliateLink: https://gomotive.com/
 - name: Transmetrics
   verdict: AI voor transportcapaciteit optimalisatie en voorspelling van laadvolume
   priceRange: EUR 400-2000/mnd
   bestFor: Capaciteit & laadoptimalisatie
   rating: 4.3
-  affiliateLink: https://transmetrics.ai/?ref=aitoolsnl
+  affiliateLink: https://transmetrics.ai/
 - name: FarEye
   verdict: AI last-mile delivery platform voor routeoptimalisatie en tracking
   priceRange: EUR 300-1500/mnd
   bestFor: Last-mile delivery
   rating: 4.5
-  affiliateLink: https://www.getfareye.com/?ref=aitoolsnl
+  affiliateLink: https://www.getfareye.com/
 - name: 7bridges
-  verdict: AI end-to-end logistiek platform dat vervoerders automatisch matcht met vracht
+  verdict: AI end-to-end logistiek platform dat vervoerders automatisch matcht met
+    vracht
   priceRange: EUR 500-3000/mnd
   bestFor: Vervoerders matching & optimalisatie
   rating: 4.4
-  affiliateLink: https://www.7bridges.com/?ref=aitoolsnl
+  affiliateLink: https://www.7bridges.com/
 - name: RightRoute
-  verdict: AI routeplanner specifiek voor Nederlandse bezorgdiensten met realtime verkeersdata
+  verdict: AI routeplanner specifiek voor Nederlandse bezorgdiensten met realtime
+    verkeersdata
   priceRange: EUR 100-500/mnd
   bestFor: Routeoptimalisatie NL
   rating: 4.2
-  affiliateLink: https://rightroute.nl/?ref=aitoolsnl
+  affiliateLink: https://rightroute.nl/
 related:
 - ai-beeldherkenning-2026
 - ai-stemgeneratie-2026
@@ -70,15 +74,17 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor productiviteit in 2026?
-  a: Dat hangt af van je specifieke behoeften. Voor de meeste professionals is Locus Robotics een uitstekende start vanwege
-    de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per
-    tool.
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste professionals is Locus
+    Robotics een uitstekende start vanwege de balans tussen functionaliteit en prijs.
+    Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.
 - q: Zijn er goede gratis AI tools beschikbaar in 2026?
-  a: 'Ja, veel AI tools bieden gratis tiers aan. ChatGPT, Claude en Canva hebben sterke gratis versies. Let wel: de gratis
-    versies hebben beperkingen in gebruik, maar zijn perfect om mee te beginnen en te testen.'
+  a: 'Ja, veel AI tools bieden gratis tiers aan. ChatGPT, Claude en Canva hebben sterke
+    gratis versies. Let wel: de gratis versies hebben beperkingen in gebruik, maar
+    zijn perfect om mee te beginnen en te testen.'
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
-  a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je budget, en of je Nederlandse taalondersteuning
-    nodig hebt. Gebruik dan de vergelijkingstabel hierboven om te kiezen op basis van score, prijs en 'beste voor'.
+  a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je
+    budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel
+    hierboven om te kiezen op basis van score, prijs en 'beste voor'.
 ---
 # De Toekomst is Nu: De Beste AI Tools voor Logistiek en Transport in Nederland (2026)
 

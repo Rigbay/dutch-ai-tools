@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT
@@ -26,19 +26,19 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Algemene AI
   rating: 4.7
-  affiliateLink: https://chat.openai.com/?ref=aitoolsnl
+  affiliateLink: https://chat.openai.com/
 - name: Google Gemini
   verdict: Google's AI-assistent met sterke integratie in Google Workspace
   priceRange: EUR 0-25/mnd
   bestFor: Google ecosysteem
   rating: 4.4
-  affiliateLink: https://gemini.google.com/?ref=aitoolsnl
+  affiliateLink: https://gemini.google.com/
 - name: Claude
   verdict: Anthropic's AI — sterk in lange documenten en Nederlandse taal
   priceRange: EUR 0-25/mnd
   bestFor: Document analyse
   rating: 4.5
-  affiliateLink: https://claude.ai/?ref=aitoolsnl
+  affiliateLink: https://claude.ai/
 - name: Notion AI
   verdict: Productiviteitsplatform met ingebouwde AI — populair bij kenniswerkers
   priceRange: EUR 10-20/mnd
@@ -50,7 +50,7 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Design
   rating: 4.4
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 related:
 - beste-ai-tools-apotheek-farmacie-2026
 - beste-ai-tools-personal-finance-budgetteren-2026

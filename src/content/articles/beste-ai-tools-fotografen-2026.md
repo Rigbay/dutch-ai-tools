@@ -17,8 +17,8 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse fotografenpraktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Adobe Firefly

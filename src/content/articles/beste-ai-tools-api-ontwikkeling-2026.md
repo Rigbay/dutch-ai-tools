@@ -54,7 +54,7 @@ tools:
   priceRange: EUR 9 - 29/maand
   bestFor: Visuele integraties
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.make.com/en/register?pc=hermesai
 - name: Celigo AI
   verdict: Celigo AI is sterk in e-commerce en ERP-integraties met AI-optimale data synchronisatie.
   priceRange: EUR 150 - 350/maand

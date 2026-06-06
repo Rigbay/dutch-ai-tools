@@ -16,12 +16,12 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.skingpt.com/?ref=aitoolsnl
-- https://www.loreal.com/nl/skin-genius/?ref=aitoolsnl
-- https://www.perfectcorp.com/?ref=aitoolsnl
-- https://www.youcam.com/?ref=aitoolsnl
-- https://www.neutrogena.com/skin360/?ref=aitoolsnl
-- https://chat.openai.com/?ref=aitoolsnl
+- https://www.skingpt.com/
+- https://www.loreal.com/nl/skin-genius/
+- https://www.perfectcorp.com/
+- https://www.youcam.com/
+- https://www.neutrogena.com/skin360/
+- https://chat.openai.com/
 related:
 - beste-ai-tools-content-creators-2026
 - ai-trends-2026-nederland
@@ -37,41 +37,41 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Huidanalyse & diagnose
   rating: 4.4
-  affiliateLink: https://www.skingpt.com/?ref=aitoolsnl
+  affiliateLink: https://www.skingpt.com/
 - name: L'Oréal Skin Genius
   verdict: AI-powered huidanalyse van L'Oréal — scan je huid met je smartphone voor
     een persoonlijke huidscore en productadvies
   priceRange: EUR 0 (gratis)
   bestFor: Gratis professionele huidscan
   rating: 4.5
-  affiliateLink: https://www.loreal.com/nl/skin-genius/?ref=aitoolsnl
+  affiliateLink: https://www.loreal.com/nl/skin-genius/
 - name: Perfect Corp (AI Beauty)
   verdict: Professionele AI-beauty suite voor virtuele try-ons, huidanalyse en gepersonaliseerde
     beauty aanbevelingen
   priceRange: EUR 0 (consumer) / custom (business)
   bestFor: Virtuele make-up try-on
   rating: 4.6
-  affiliateLink: https://www.perfectcorp.com/?ref=aitoolsnl
+  affiliateLink: https://www.perfectcorp.com/
 - name: YouCam Makeup
   verdict: Populairste virtuele make-up app met AI-gezichtsherkenning — probeer duizenden
     producten virtueel
   priceRange: EUR 0-10/mnd
   bestFor: Virtuele make-up & tutorials
   rating: 4.5
-  affiliateLink: https://www.youcam.com/?ref=aitoolsnl
+  affiliateLink: https://www.youcam.com/
 - name: Neutrogena Skin360
   verdict: AI-skin scanner van Neutrogena die poriën, rimpels, pigmentatie en droogheid
     meet
   priceRange: EUR 0 (gratis)
   bestFor: Wetenschappelijke huidanalyse
   rating: 4.3
-  affiliateLink: https://www.neutrogena.com/skin360/?ref=aitoolsnl
+  affiliateLink: https://www.neutrogena.com/skin360/
 - name: ChatGPT (Skincare Assistant)
   verdict: Gratis AI-assistent voor skincare vragen, ingrediëntenanalyse en routine-optimalisatie
   priceRange: EUR 0-22/mnd
   bestFor: Skincare kennis & advies
   rating: 4.2
-  affiliateLink: https://chat.openai.com/?ref=aitoolsnl
+  affiliateLink: https://chat.openai.com/
 faq:
 - q: Zijn AI huidanalyses net zo betrouwbaar als een dermatoloog?
   a: AI huidanalyses zijn een handig hulpmiddel voor screenings en persoonlijk advies,

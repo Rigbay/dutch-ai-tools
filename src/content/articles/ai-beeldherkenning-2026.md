@@ -1,7 +1,8 @@
 ---
 title: 'AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen'
 slug: ai-beeldherkenning-2026
-description: Vergelijk de beste AI beeldherkenning en computer vision tools in 2026. Google Vision, Amazon Rekognition, Azure Vision en meer.
+description: Vergelijk de beste AI beeldherkenning en computer vision tools in 2026.
+  Google Vision, Amazon Rekognition, Azure Vision en meer.
 category: development
 rating: 4.2
 priceRange: EUR 0-500/mnd
@@ -14,7 +15,6 @@ cons:
 - Privacy overwegingen bij beeldanalyse
 affiliateLinks:
 - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Google Vision AI
@@ -25,19 +25,19 @@ tools:
   priceRange: EUR 0-500/mnd
   bestFor: Algemene toepassingen
   rating: 4.6
-  affiliateLink: https://cloud.google.com/vision/?ref=aitoolsnl
+  affiliateLink: https://cloud.google.com/vision/
 - name: Amazon Rekognition
   verdict: Krachtig voor gezichtsherkenning en objectdetectie
   priceRange: EUR 0-400/mnd
   bestFor: Beveiliging & analyse
   rating: 4.5
-  affiliateLink: https://aws.amazon.com/rekognition/?ref=aitoolsnl
+  affiliateLink: https://aws.amazon.com/rekognition/
 - name: Azure Computer Vision
   verdict: Uitstekende integratie met Microsoft ecosysteem
   priceRange: EUR 0-450/mnd
   bestFor: Enterprise
   rating: 4.4
-  affiliateLink: https://azure.microsoft.com/services/cognitive-services/computer-vision/?ref=aitoolsnl
+  affiliateLink: https://azure.microsoft.com/services/cognitive-services/computer-vision/
 related:
 - beste-ai-tools-engineers-2026
 - beste-ai-tools-api-ontwikkeling-2026
@@ -45,7 +45,8 @@ related:
 draft: false
 faq:
 - q: Is beeldherkenning privacyvriendelijk?
-  a: Afhankelijk van de implementatie. Kies altijd voor on-premise of goed beveiligde cloud oplossingen bij gevoelige data.
+  a: Afhankelijk van de implementatie. Kies altijd voor on-premise of goed beveiligde
+    cloud oplossingen bij gevoelige data.
 - q: Kan ik AI beeldherkenning gebruiken zonder programmeerkennis?
   a: Ja, er zijn no-code tools en platforms die computer vision toegankelijk maken.
 - q: Wat zijn populaire use cases in Nederland?

@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://writesonic.com/?via=aitoolsnl
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://writesonic.com/?via=aitoolsnl
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Canva AI
@@ -28,19 +28,19 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Design & visuals
   rating: 4.7
-  affiliateLink: https://www.canva.com/?ref=aitoolsnl
+  affiliateLink: https://www.canva.com/
 - name: Descript
   verdict: Revolutionaire video-editor met AI transcriptie en stemklonen
   priceRange: EUR 0-30/mnd
   bestFor: Video editing
   rating: 4.5
-  affiliateLink: https://www.descript.com/?ref=aitoolsnl
+  affiliateLink: https://www.descript.com/
 - name: Midjourney
   verdict: Beste AI image generator voor creatieve en artistieke visuals
   priceRange: EUR 10-60/mnd
   bestFor: AI beeldcreatie
   rating: 4.8
-  affiliateLink: https://www.midjourney.com/?ref=aitoolsnl
+  affiliateLink: https://www.midjourney.com/
 - name: ChatGPT
   verdict: Veelzijdige AI voor scriptwriting, ideation en content planning
   priceRange: EUR 0-25/mnd
@@ -52,19 +52,19 @@ tools:
   priceRange: EUR 0-10/mnd
   bestFor: Short-form video
   rating: 4.4
-  affiliateLink: https://www.capcut.com/?ref=aitoolsnl
+  affiliateLink: https://www.capcut.com/
 - name: Adobe Firefly
   verdict: Adobe's AI tool voor commercieel veilige beeldgeneratie
   priceRange: EUR 5-25/mnd
   bestFor: Commerciele beelden
   rating: 4.3
-  affiliateLink: https://www.adobe.com/?ref=aitoolsnl
+  affiliateLink: https://www.adobe.com/
 - name: Runway ML
   verdict: Cutting-edge AI video generatie en editing platform
   priceRange: EUR 0-80/mnd
   bestFor: AI video creatie
   rating: 4.2
-  affiliateLink: https://runwayml.com/?ref=aitoolsnl
+  affiliateLink: https://runwayml.com/
 related:
 - beste-ai-tools-podcasters-2026
 - beste-ai-tools-youtube-videomakers-2026

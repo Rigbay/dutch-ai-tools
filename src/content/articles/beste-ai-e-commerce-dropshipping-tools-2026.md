@@ -16,13 +16,13 @@ cons:
 - Niet elke tool dagelijks getest
 - Sommige AI-features nog in beta
 affiliateLinks:
-- https://www.spocket.co/?ref=aitoolsnl
-- https://www.dsers.com/?ref=aitoolsnl
-- https://www.zendrop.com/?ref=aitoolsnl
-- https://www.sellthetrend.com/?ref=aitoolsnl
-- https://ecomhunt.com/?ref=aitoolsnl
-- https://www.nichescraper.com/?ref=aitoolsnl
-- https://www.salehoo.com/?ref=aitoolsnl
+- https://www.spocket.co/
+- https://www.dsers.com/
+- https://www.zendrop.com/
+- https://www.sellthetrend.com/
+- https://ecomhunt.com/
+- https://www.nichescraper.com/
+- https://www.salehoo.com/
 related:
 - beste-ai-interieur-ontwerp-tools-2026
 - beste-ai-podcast-productie-tools-2026
@@ -37,43 +37,43 @@ tools:
   priceRange: EUR 25-100/mnd
   bestFor: Snelle levering EU & VS
   rating: 4.5
-  affiliateLink: https://www.spocket.co/?ref=aitoolsnl
+  affiliateLink: https://www.spocket.co/
 - name: DSers
   verdict: AI-gestuurd order management en product sourcing voor AliExpress
   priceRange: EUR 0-30/mnd
   bestFor: AliExpress dropshipping
   rating: 4.3
-  affiliateLink: https://www.dsers.com/?ref=aitoolsnl
+  affiliateLink: https://www.dsers.com/
 - name: Zendrop
   verdict: AI-order fulfillment platform met eigen magazijn
   priceRange: EUR 0-60/mnd
   bestFor: Branded fulfillment
   rating: 4.2
-  affiliateLink: https://www.zendrop.com/?ref=aitoolsnl
+  affiliateLink: https://www.zendrop.com/
 - name: Sell The Trend
   verdict: AI-product research engine met winstberekening en trendanalyse
   priceRange: EUR 30-80/mnd
   bestFor: AI productonderzoek
   rating: 4.6
-  affiliateLink: https://www.sellthetrend.com/?ref=aitoolsnl
+  affiliateLink: https://www.sellthetrend.com/
 - name: EcomHunt
   verdict: Dagelijkse AI-geselecteerde productvondsten
   priceRange: EUR 0-40/mnd
   bestFor: Dagelijkse product curation
   rating: 4.1
-  affiliateLink: https://ecomhunt.com/?ref=aitoolsnl
+  affiliateLink: https://ecomhunt.com/
 - name: Niche Scraper
   verdict: AI-product scraper en validator
   priceRange: EUR 12-30/mnd
   bestFor: Product validatie
   rating: 4.3
-  affiliateLink: https://www.nichescraper.com/?ref=aitoolsnl
+  affiliateLink: https://www.nichescraper.com/
 - name: SaleHoo
   verdict: AI-leveranciersdirectory met 8000+ geverifieerde groothandels
   priceRange: EUR 60/jaar
   bestFor: Groothandel sourcing
   rating: 4.4
-  affiliateLink: https://www.salehoo.com/?ref=aitoolsnl
+  affiliateLink: https://www.salehoo.com/
 faq:
 - q: Welke AI e-commerce tool is het beste voor beginners?
   a: Voor beginners is Sell The Trend een goede start door de AI-product research

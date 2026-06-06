@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Wysa
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: individuen met stress en angst
   rating: 4.5
-  affiliateLink: https://www.wysa.com/?ref=aitoolsnl
+  affiliateLink: https://www.wysa.com/
 - name: Woebot
   verdict: Gestructureerde CGT-chatbot met wetenschappelijke basis
   priceRange: EUR 0-20/mnd
   bestFor: CGT-zelfhulp en vaardigheden
   rating: 4.4
-  affiliateLink: https://woebothealth.com/?ref=aitoolsnl
+  affiliateLink: https://woebothealth.com/
 - name: Mindler
   verdict: Hybride platform met AI-zelfhulp én erkende psychologen
   priceRange: EUR 15-30/mnd
   bestFor: combinatie AI + menselijke therapie
   rating: 4.3
-  affiliateLink: https://mindler.nl/?ref=aitoolsnl
+  affiliateLink: https://mindler.nl/
 - name: Calm AI
   verdict: Gepersonaliseerde mindfulness en slaapoptimalisatie via AI
   priceRange: EUR 7-20/mnd
   bestFor: slaap en stressmanagement
   rating: 4.6
-  affiliateLink: https://www.calm.com/?ref=aitoolsnl
+  affiliateLink: https://www.calm.com/
 - name: Headspace AI
   verdict: AI-gestuurde meditatie met adaptieve programma's
   priceRange: EUR 8-18/mnd
   bestFor: beginners en doorgewinterde mediteerders
   rating: 4.5
-  affiliateLink: https://www.headspace.com/?ref=aitoolsnl
+  affiliateLink: https://www.headspace.com/
 - name: Reflectly
   verdict: AI-dagboek met stemmingstracking en persoonlijke inzichten
   priceRange: EUR 4-10/mnd
   bestFor: dagelijkse reflectie en stemmingstracking
   rating: 4.2
-  affiliateLink: https://reflectly.app/?ref=aitoolsnl
+  affiliateLink: https://reflectly.app/
 - name: Youper
   verdict: AI-therapeut met emotionele analyse en coping-strategieën
   priceRange: EUR 0-15/mnd
   bestFor: emotieregulatie en zelfinzicht
   rating: 4.3
-  affiliateLink: https://www.youper.ai/?ref=aitoolsnl
+  affiliateLink: https://www.youper.ai/
 related:
 - beste-ai-presentatie-tools-2026
 - beste-ai-tools-persoonlijke-assistenten-2026

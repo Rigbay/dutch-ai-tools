@@ -16,12 +16,12 @@ cons:
 - Niet elke tool dagelijks getest
 - Sommige AI-features nog in beta
 affiliateLinks:
-- https://planner5d.com/?ref=aitoolsnl
-- https://interiorai.com/?ref=aitoolsnl
-- https://homeby.me/?ref=aitoolsnl
-- https://www.roomgpt.io/?ref=aitoolsnl
-- https://www.decormatters.com/?ref=aitoolsnl
-- https://www.hutch.com/?ref=aitoolsnl
+- https://planner5d.com/
+- https://interiorai.com/
+- https://homeby.me/
+- https://www.roomgpt.io/
+- https://www.decormatters.com/
+- https://www.hutch.com/
 related:
 - beste-ai-3d-modellering-tools-2026
 - beste-ai-e-commerce-dropshipping-tools-2026
@@ -36,37 +36,37 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Volledig 3D-interieurontwerp
   rating: 4.6
-  affiliateLink: https://planner5d.com/?ref=aitoolsnl
+  affiliateLink: https://planner5d.com/
 - name: Interior AI
   verdict: AI die fotos omzet in heringerichte ruimtes
   priceRange: EUR 0-20/mnd
   bestFor: Snelle stijl-visualisatie
   rating: 4.5
-  affiliateLink: https://interiorai.com/?ref=aitoolsnl
+  affiliateLink: https://interiorai.com/
 - name: HomeByMe
   verdict: 3D-interieurplatform met AI-room planner
   priceRange: EUR 0-10/mnd
   bestFor: Realistische 3D-plattegronden
   rating: 4.3
-  affiliateLink: https://homeby.me/?ref=aitoolsnl
+  affiliateLink: https://homeby.me/
 - name: RoomGPT
   verdict: AI-remodelling tool die fotos transformeert
   priceRange: EUR 0-15/mnd
   bestFor: Stijl-transformatie fotos
   rating: 4.4
-  affiliateLink: https://www.roomgpt.io/?ref=aitoolsnl
+  affiliateLink: https://www.roomgpt.io/
 - name: DecorMatters
   verdict: AI-interieur app met augmented reality
   priceRange: EUR 0-10/mnd
   bestFor: AR-meubelvisualisatie
   rating: 4.2
-  affiliateLink: https://www.decormatters.com/?ref=aitoolsnl
+  affiliateLink: https://www.decormatters.com/
 - name: Hutch
   verdict: AI-interieur stylist voor complete kamers
   priceRange: EUR 0-30/eenmalig
   bestFor: Complete styling op maat
   rating: 4.1
-  affiliateLink: https://www.hutch.com/?ref=aitoolsnl
+  affiliateLink: https://www.hutch.com/
 faq:
 - q: Werken AI interieur tools ook met Nederlandse maten en meubels?
   a: Ja, Planner 5D en HomeByMe ondersteunen Nederlandse maatvoering. De tools werken

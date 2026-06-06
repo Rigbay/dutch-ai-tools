@@ -15,9 +15,9 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.taskade.com/?via=55nfr2
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://www.make.com/en/register?pc=hermesai
+- https://taskade.com/?via=55nfr2
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.make.com/en/register?pc=hermesai
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Zapier
@@ -28,37 +28,37 @@ tools:
   priceRange: EUR 0-150/mnd
   bestFor: Allround automatisering
   rating: 4.6
-  affiliateLink: https://zapier.com/?ref=aitoolsnl
+  affiliateLink: https://zapier.com/
 - name: Make
   verdict: Krachtige visuele scenario-builder voor complexe workflows
   priceRange: EUR 0-35/mnd
   bestFor: Complexe workflows
   rating: 4.5
-  affiliateLink: https://www.make.com/?ref=aitoolsnl
+  affiliateLink: https://www.make.com/en/register?pc=hermesai
 - name: n8n
   verdict: Beste open-source optie met zelf-host mogelijkheid en privacy
   priceRange: EUR 0-20/mnd
   bestFor: Open-source & privacy
   rating: 4.4
-  affiliateLink: https://n8n.io/?ref=aitoolsnl
+  affiliateLink: https://n8n.io/
 - name: Pipedream
   verdict: Ontwikkelaar-gericht platform voor serverless AI workflows
   priceRange: EUR 0-50/mnd
   bestFor: Developers & code
   rating: 4.2
-  affiliateLink: https://pipedream.com/?ref=aitoolsnl
+  affiliateLink: https://pipedream.com/
 - name: IFTTT
   verdict: Eenvoudigste tool voor snelle persoonlijke automatiseringen
   priceRange: EUR 0-5/mnd
   bestFor: Simpele taken
   rating: 3.8
-  affiliateLink: https://ifttt.com/?ref=aitoolsnl
+  affiliateLink: https://ifttt.com/
 - name: Tray.io
   verdict: Enterprise-grade automatisering voor grote organisaties
   priceRange: EUR 100-2000/mnd
   bestFor: Enterprise
   rating: 4.0
-  affiliateLink: https://tray.io/?ref=aitoolsnl
+  affiliateLink: https://tray.io/
 - name: AI Tool G
   verdict: Extra automatiseringstool in deze vergelijking
   priceRange: EUR 0-30/mnd

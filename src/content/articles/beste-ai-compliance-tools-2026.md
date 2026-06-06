@@ -1,67 +1,74 @@
 ---
 title: 'Beste AI Compliance Tools 2026: Top 5 Vergeleken voor Nederlandse Bedrijven'
 slug: beste-ai-compliance-tools-2026
-description: 'De EU AI Act dwingt compliance af. Vergelijk de beste AI compliance tools voor Nederlandse organisaties: Vanta, Drata, OneTrust, en meer.'
+description: 'De EU AI Act dwingt compliance af. Vergelijk de beste AI compliance
+  tools voor Nederlandse organisaties: Vanta, Drata, OneTrust, en meer.'
 category: business
 rating: 4.4
 priceRange: EUR 0-100/mnd
 pros:
-  - Actueel en gericht op de EU AI Act handhaving vanaf augustus 2026
-  - Nederlands perspectief met praktische stappen
-  - Onafhankelijke vergelijking zonder verkopersbelang
+- Actueel en gericht op de EU AI Act handhaving vanaf augustus 2026
+- Nederlands perspectief met praktische stappen
+- Onafhankelijke vergelijking zonder verkopersbelang
 cons:
-  - Wet- en regelgeving kan nog wijzigen voor augustus 2026
-  - Specifieke compliance-status kan per organisatie verschillen
-  - Niet alle tools hebben hun EU AI Act-classificatie definitief
+- Wet- en regelgeving kan nog wijzigen voor augustus 2026
+- Specifieke compliance-status kan per organisatie verschillen
+- Niet alle tools hebben hun EU AI Act-classificatie definitief
 affiliateLinks:
-  - https://www.vanta.com/?ref=aitoolsnl
+- https://www.vanta.com/
 date: 2026-06-04
 modelYear: 2026
-featuredTool: "Vanta"
+featuredTool: Vanta
 readingTime: 8 min
 tools:
-  - name: "Vanta"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.vanta.com/?ref=aitoolsnl"
-  - name: "Drata"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.drata.com/?ref=aitoolsnl"
-  - name: "OneTrust"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.onetrust.com/?ref=aitoolsnl"
-  - name: "Secureframe"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.secureframe.com/?ref=aitoolsnl"
-  - name: "Thoropass"
-    verdict: "Zie artikel voor volledige analyse"
-    priceRange: "EUR 0-50/mnd"
-    bestFor: "Zakelijk gebruik"
-    rating: 4.3
-    affiliateLink: "https://www.thoropass.com/?ref=aitoolsnl"
+- name: Vanta
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.vanta.com/
+- name: Drata
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.drata.com/
+- name: OneTrust
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.onetrust.com/
+- name: Secureframe
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.secureframe.com/
+- name: Thoropass
+  verdict: Zie artikel voor volledige analyse
+  priceRange: EUR 0-50/mnd
+  bestFor: Zakelijk gebruik
+  rating: 4.3
+  affiliateLink: https://www.thoropass.com/
 related:
-  - ai-avg-compliance-tools-2026
-  - shadow-ai-management-bedrijven-2026
-  - eu-ai-act-compliant-tools-2026
+- ai-avg-compliance-tools-2026
+- shadow-ai-management-bedrijven-2026
+- eu-ai-act-compliant-tools-2026
 draft: false
 faq:
-  - q: "Wanneer wordt de EU AI Act gehandhaafd?"
-    a: "De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen."
-  - q: "Geldt de EU AI Act ook voor kleine bedrijven?"
-    a: "Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten."
-  - q: "Wat zijn de boetes bij overtreding van de EU AI Act?"
-    a: "De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn."
+- q: Wanneer wordt de EU AI Act gehandhaafd?
+  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste
+    bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico.
+    Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
+- q: Geldt de EU AI Act ook voor kleine bedrijven?
+  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet
+    binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt
+    op transparantie en documentatie, niet op dure certificeringstrajecten.
+- q: Wat zijn de boetes bij overtreding van de EU AI Act?
+  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet,
+    afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al
+    te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
 ---
 
 # De EU AI Act nadert: Zo kiezen Nederlandse bedrijven de juiste AI compliance tools in 2026

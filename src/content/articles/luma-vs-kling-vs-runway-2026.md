@@ -1,8 +1,9 @@
 ---
-title: 'Luma Dream Machine vs Kling AI vs Runway Gen-3: De Beste AI Video Generatoren van 2026'
+title: 'Luma Dream Machine vs Kling AI vs Runway Gen-3: De Beste AI Video Generatoren
+  van 2026'
 slug: luma-vs-kling-vs-runway-2026
-description: Welke AI video tool maakt de meest realistische beelden? Een diepgaande vergelijking van Luma Dream Machine,
-  Kling AI en Runway Gen-3 in 2026.
+description: Welke AI video tool maakt de meest realistische beelden? Een diepgaande
+  vergelijking van Luma Dream Machine, Kling AI en Runway Gen-3 in 2026.
 category: creatie
 rating: 4.7
 priceRange: EUR 0-100/mnd
@@ -14,8 +15,8 @@ cons:
 - Snelle marktontwikkeling
 - Prijzen kunnen variëren
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
-  - https://synthesia.io/?via=hermes  # Synthesia
+- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.synthesia.io?via=hermes
 date: '2026-05-24'
 modelYear: 2026
 featuredTool: Luma Dream Machine
@@ -26,43 +27,43 @@ tools:
   priceRange: EUR 0-90/mnd
   bestFor: Cinematische beelden
   rating: 4.8
-  affiliateLink: https://lumalabs.ai/dream-machine?ref=aitoolsnl
+  affiliateLink: https://lumalabs.ai/dream-machine
 - name: Kling AI
   verdict: Indrukwekkend realisme en lange video-generaties (tot 2 minuten)
   priceRange: EUR 0-60/mnd
   bestFor: Fotorealisme & Duur
   rating: 4.9
-  affiliateLink: https://klingai.com/?ref=aitoolsnl
+  affiliateLink: https://klingai.com/
 - name: Runway Gen-3 Alpha
   verdict: De professionele standaard met maximale controle en editing features
   priceRange: EUR 12-76/mnd
   bestFor: Professionele Controle
   rating: 4.7
-  affiliateLink: https://runwayml.com/?ref=aitoolsnl
+  affiliateLink: https://runwayml.com/
 - name: Pika 2.0
   verdict: Beste voor animatie en specifieke visuele effecten
   priceRange: EUR 0-35/mnd
   bestFor: Animatie-stijl
   rating: 4.5
-  affiliateLink: https://pika.art/?ref=aitoolsnl
+  affiliateLink: https://pika.art/
 - name: Sora
   verdict: Extreem krachtig maar beperkt toegankelijk voor het grote publiek
   priceRange: EUR 25-100/mnd
   bestFor: High-end producties
   rating: 4.8
-  affiliateLink: https://openai.com/sora?ref=aitoolsnl
+  affiliateLink: https://openai.com/sora
 - name: HeyGen
   verdict: Onbetwiste leider in AI avatars en videovertalingen
   priceRange: EUR 0-200/mnd
   bestFor: AI Avatars
   rating: 4.6
-  affiliateLink: https://www.heygen.com/?sid=rewardful&via=aitoolsnl
+  affiliateLink: https://www.heygen.com/
 - name: Kaiber
   verdict: Unieke artistieke stijlen en muziek-gedreven video
   priceRange: EUR 5-30/mnd
   bestFor: Muziekvideo's
   rating: 4.3
-  affiliateLink: https://kaiber.ai/?ref=aitoolsnl
+  affiliateLink: https://kaiber.ai/
 related:
 - beste-ai-tools-youtube-videomakers-2026
 - ai-video-generatie-tools-2026
@@ -70,11 +71,13 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze tests in 2026 is Luma Dream Machine de meest complete keuze voor de meeste gebruikers.
+  a: Op basis van onze tests in 2026 is Luma Dream Machine de meest complete keuze
+    voor de meeste gebruikers.
 - q: Zijn er gratis opties beschikbaar?
   a: Ja, de meeste platforms bieden een gratis instapniveau of een proefperiode aan.
 - q: Werken deze tools goed in het Nederlands?
-  a: Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse taal.
+  a: Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse
+    taal.
 ---
 
 Absoluut! Hier is een diepgaand Nederlands artikel over dit onderwerp.
