@@ -22,23 +22,39 @@ if not API_KEY:
     print("ERROR: GEMINI_API_KEY not set")
     exit(1)
 
-API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+API_MODELS = ["gemini-2.5-flash-lite", "gemini-2.5-flash"]
 ARTICLES_DIR = Path("src/content/articles")
 
 def call_gemini(prompt: str, max_tokens: int = 8000) -> str:
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.7, "maxOutputTokens": max_tokens, "topP": 0.95,
-        }
-    }
-    resp = requests.post(
-        f"{API_URL}?key={API_KEY}",
-        headers={"Content-Type": "application/json"},
-        json=payload, timeout=120
-    )
-    resp.raise_for_status()
-    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    last_error = None
+    for model in API_MODELS:
+        for attempt in range(3):
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+            try:
+                payload = {
+                    "contents": [{"parts": [{"text": prompt}]}],
+                    "generationConfig": {
+                        "temperature": 0.7, "maxOutputTokens": max_tokens, "topP": 0.95,
+                    }
+                }
+                resp = requests.post(
+                    f"{url}?key={API_KEY}",
+                    headers={"Content-Type": "application/json"},
+                    json=payload, timeout=180
+                )
+                if resp.status_code == 200:
+                    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+                if resp.status_code == 429:
+                    last_error = f"429 on {model} attempt {attempt+1}"
+                    import time
+                    time.sleep(10 * (attempt + 1))
+                    continue
+                resp.raise_for_status()
+            except Exception as e:
+                last_error = f"{model} attempt {attempt+1}: {e}"
+                import time
+                time.sleep(5)
+    raise Exception(f"All models exhausted. Last: {last_error}")
 
 def clean(text: str) -> str:
     text = text.strip()
