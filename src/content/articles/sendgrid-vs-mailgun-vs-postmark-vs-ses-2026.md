@@ -1,7 +1,7 @@
 ---
 title: 'SendGrid vs Mailgun vs Postmark vs Amazon SES 2026: beste transactional email service voor Nederlandse apps'
 slug: sendgrid-vs-mailgun-vs-postmark-vs-ses-2026
-description: Vergelijk transactional email services in 2026: SendGrid, Mailgun, Postmark, Amazon SES, Resend en Brevo voor delivery rate, prijs, API en betrouwbaarheid vanuit Nederlandse/Europese servers.
+description: 'Vergelijk transactional email services in 2026: SendGrid, Mailgun, Postmark, Amazon SES, Resend en Brevo voor delivery rate, prijs, API en betrouwbaarheid vanuit.'
 category: development
 rating: 4.4
 priceRange: EUR 0-2500/mnd

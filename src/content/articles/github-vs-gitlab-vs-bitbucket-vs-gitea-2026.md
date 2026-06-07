@@ -1,7 +1,7 @@
 ---
 title: 'GitHub vs GitLab vs Bitbucket vs Gitea 2026: beste code hosting platform voor Nederlandse developers'
 slug: github-vs-gitlab-vs-bitbucket-vs-gitea-2026
-description: Vergelijk code hosting platforms in 2026: GitHub, GitLab, Bitbucket en Gitea op prijs, CI/CD, AI features (Copilot), security en self-hosting opties voor Nederlandse developers, startups en enterprises.
+description: 'Vergelijk GitHub, GitLab, Bitbucket en Gitea in 2026: prijs, CI/CD, AI, security en self-hosting voor NL developers en startups.'
 category: development
 rating: 4.4
 priceRange: EUR 0-2500/mnd

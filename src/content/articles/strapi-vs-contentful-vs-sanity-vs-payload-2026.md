@@ -1,7 +1,7 @@
 ---
 title: 'Strapi vs Contentful vs Sanity vs Payload 2026: beste headless CMS voor Nederlandse websites'
 slug: strapi-vs-contentful-vs-sanity-vs-payload-2026
-description: Vergelijk de beste headless CMS in 2026: Strapi, Contentful, Sanity, Payload CMS, Storyblok en Hygraph. Voor Nederlandse developers, agencies en marketing teams die op zoek zijn naar flexibel contentbeheer.
+description: 'Vergelijk de beste headless CMS in 2026: Strapi, Contentful, Sanity, Payload CMS, Storyblok en Hygraph. Voor Nederlandse developers, agencies en marketing teams die op zoek.'
 category: development
 rating: 4.4
 priceRange: EUR 0-2500/mnd

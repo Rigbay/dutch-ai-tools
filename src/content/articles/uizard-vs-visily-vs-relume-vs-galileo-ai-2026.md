@@ -1,7 +1,7 @@
 ---
 title: 'Uizard vs Visily vs Relume vs Galileo AI 2026: beste AI UX design tool'
 slug: uizard-vs-visily-vs-relume-vs-galileo-ai-2026
-description: 'Vergelijk de beste AI tools voor UX design en wireframing in 2026: Uizard, Visily, Relume, Galileo AI, Musho en Attention Insight. Van schets naar prototype AI — vergeleken voor designers en product teams.'
+description: 'Vergelijk de beste AI tools voor UX design en wireframing in 2026: Uizard, Visily, Relume, Galileo AI, Musho en Attention Insight. Van schets naar prototype AI — vergeleken.'
 category: development
 rating: 4.5
 priceRange: EUR 0-150/mnd

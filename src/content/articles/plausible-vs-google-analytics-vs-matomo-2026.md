@@ -1,7 +1,7 @@
 ---
 title: 'Plausible vs Google Analytics vs Matomo 2026: beste privacy-vriendelijke web analytics voor Nederlandse sites'
 slug: plausible-vs-google-analytics-vs-matomo-2026
-description: Vergelijk Plausible, Google Analytics 4, Matomo, Fathom en Simple Analytics in 2026: privacyvriendelijkheid, AVG-compliance, dashboards, prijzen en welke het beste past bij jouw Nederlandse website of webshop.
+description: 'Vergelijk Plausible, Google Analytics 4, Matomo, Fathom en Simple Analytics in 2026: privacyvriendelijkheid, AVG-compliance, dashboards, prijzen en welke het beste past bij.'
 category: marketing
 rating: 4.4
 priceRange: EUR 0-2500/mnd

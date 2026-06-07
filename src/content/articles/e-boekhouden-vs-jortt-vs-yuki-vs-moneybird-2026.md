@@ -1,7 +1,7 @@
 ---
 title: 'e-Boekhouden vs Jortt vs Yuki vs Moneybird 2026: beste Nederlandse boekhoudsoftware'
 slug: e-boekhouden-vs-jortt-vs-yuki-vs-moneybird-2026
-description: 'Vergelijk de beste Nederlandse boekhoudsoftware in 2026: e-Boekhouden, Jortt, Yuki, Moneybird, Snelstart en Exact Online. Voor ZZP, MKB en accountants — eerlijk vergeleken op prijs, gebruiksgemak en AI-features.'
+description: 'Vergelijk NL boekhoudsoftware 2026: e-Boekhouden, Jortt, Yuki, Moneybird, Snelstart en Exact Online. Voor ZZP, MKB en accountants vergeleken op prijs en gemak.'
 category: business
 rating: 4.5
 priceRange: EUR 0-150/mnd

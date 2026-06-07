@@ -1,7 +1,7 @@
 ---
 title: 'Wix AI vs Durable vs 10Web vs Hostinger AI Builder 2026: beste AI website bouwer'
 slug: wix-ai-vs-durable-vs-10web-vs-hostinger-2026
-description: 'Vergelijk de beste AI website builders in 2026: Wix AI, Durable, 10Web, Hostinger AI Builder, Dorik en Relume. Bouw in minuten een volledige website met AI — vergeleken op prijs, design en SEO.'
+description: 'Vergelijk de beste AI website builders in 2026: Wix AI, Durable, 10Web, Hostinger AI Builder, Dorik en Relume. Bouw in minuten een volledige website met AI — vergeleken op.'
 category: development
 rating: 4.4
 priceRange: EUR 3-60/mnd
