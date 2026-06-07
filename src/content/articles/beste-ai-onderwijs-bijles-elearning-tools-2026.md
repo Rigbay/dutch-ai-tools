@@ -21,7 +21,7 @@ affiliateLinks:
 - https://www.coursera.org/
 - https://brilliant.org/
 - https://www.grammarly.com/
-- https://www.notion.so/
+- https://www.notion.so
 related:
 - beste-ai-tools-docenten-2026
 - beste-ai-tools-e-learning-cursusontwikkeling-2026
@@ -76,7 +76,7 @@ tools:
   priceRange: EUR 0-10/mnd
   bestFor: Studienotities & samenvattingen
   rating: 4.5
-  affiliateLink: https://www.notion.so/
+  affiliateLink: https://www.notion.so
 faq:
 - q: Wat is de beste AI bijlesdocent voor scholieren?
   a: Khan Academy (Khanmigo) is de beste keuze — een AI-tutor die door vragen te stellen

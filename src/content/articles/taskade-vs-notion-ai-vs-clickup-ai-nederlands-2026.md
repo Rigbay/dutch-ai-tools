@@ -17,7 +17,7 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://notion.so
+- https://www.notion.so
 - https://clickup.com/
 date: '2026-06-01'
 modelYear: 2026
@@ -36,7 +36,7 @@ tools:
   priceRange: EUR 10-36/mnd (incl. AI add-on)
   bestFor: Allround documentatie & projectmanagement
   rating: 4.5
-  affiliateLink: https://notion.so
+  affiliateLink: https://www.notion.so
 - name: ClickUp AI
   verdict: Meest complete projectmanagementtool met diep geïntegreerde AI-assistent
   priceRange: EUR 7-25/mnd

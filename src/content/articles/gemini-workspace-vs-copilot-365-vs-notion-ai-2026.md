@@ -39,7 +39,7 @@ tools:
   priceRange: EUR 0-10/mnd (add-on)
   bestFor: Kennismanagement
   rating: 4.5
-  affiliateLink: https://www.notion.so/product/ai
+  affiliateLink: https://www.notion.so
 - name: Slack AI
   verdict: AI die je Slack threads, kanalen en gesprekken samenvat en doorzoekbaar
     maakt

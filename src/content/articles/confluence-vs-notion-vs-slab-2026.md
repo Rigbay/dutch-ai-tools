@@ -25,7 +25,7 @@ tools:
   priceRange: EUR 0-12/mnd
   bestFor: Startups en creatieve teams
   rating: 4.7
-  affiliateLink: https://www.notion.so/
+  affiliateLink: https://www.notion.so
 - name: Confluence
   verdict: Enterprise wiki-standaard met Jira integratie en Atlassian AI
   priceRange: EUR 0-11/mnd

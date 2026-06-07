@@ -27,7 +27,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Allround productiviteit en teamgebruik
   rating: 4.5
-  affiliateLink: https://www.notion.so/
+  affiliateLink: https://www.notion.so
 - name: Obsidian
   verdict: De snelste, meest flexibele local-first PKM-tool met ongeëvenaarde plugin-ecosysteem
   priceRange: EUR 0-10/mnd

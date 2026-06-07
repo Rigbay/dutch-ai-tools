@@ -50,7 +50,7 @@ tools:
   priceRange: EUR 10-30/mnd
   bestFor: Organisatie
   rating: 4.1
-  affiliateLink: https://www.notion.so/
+  affiliateLink: https://www.notion.so
 related:
 - ai-voor-ecommerce-2026
 - beste-ai-tools-telecom-communicatie-2026
