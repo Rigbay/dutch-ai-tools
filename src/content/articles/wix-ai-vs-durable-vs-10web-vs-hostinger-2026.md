@@ -24,43 +24,43 @@ tools:
   priceRange: EUR 16-45/mnd
   bestFor: Allround & E-commerce
   rating: 4.7
-  affiliateLink: https://www.wix.com/?ref=aitoolsnl
+  affiliateLink: https://www.wix.com/
 - name: Durable
   verdict: Snelste van prompt naar live site (30 seconden) — perfect voor zzp'ers en kleine bedrijven
   priceRange: EUR 15-35/mnd
   bestFor: Snelle MKB sites
   rating: 4.5
-  affiliateLink: https://durable.co/?ref=aitoolsnl
+  affiliateLink: https://durable.co/
 - name: 10Web AI Builder
   verdict: AI bouwt op WordPress-basis met Google PageSpeed 90+ — beste voor SEO
   priceRange: EUR 12-60/mnd
   bestFor: SEO & WordPress
   rating: 4.6
-  affiliateLink: https://10web.io/?ref=aitoolsnl
+  affiliateLink: https://10web.io/
 - name: Hostinger AI Builder
   verdict: Scherpste prijs inclusief hosting en gratis domein — onverslaanbaar voor budget
   priceRange: EUR 3-8/mnd
   bestFor: Budget & Beginners
   rating: 4.3
-  affiliateLink: https://www.hostinger.nl/ai-website-builder?ref=aitoolsnl
+  affiliateLink: https://www.hostinger.nl/ai-website-builder
 - name: Dorik AI
   verdict: Mooiste AI-designs met CMS-functionaliteit — ideaal voor content-rijke sites
   priceRange: EUR 8-39/mnd
   bestFor: Design & Content
   rating: 4.4
-  affiliateLink: https://dorik.com/?ref=aitoolsnl
+  affiliateLink: https://dorik.com/
 - name: Relume
   verdict: AI wireframe en sitemap generator die exporteert naar Webflow/Figma — beste voor designers
   priceRange: EUR 15-49/mnd
   bestFor: Designers & Bureaus
   rating: 4.5
-  affiliateLink: https://www.relume.io/?ref=aitoolsnl
+  affiliateLink: https://www.relume.io/
 - name: Pineapple Builder
   verdict: Specifiek voor personal brands en portfolio's met strakke AI-designs
   priceRange: EUR 12-30/mnd
   bestFor: Personal Branding
   rating: 4.1
-  affiliateLink: https://pineapple-builder.com/?ref=aitoolsnl
+  affiliateLink: https://pineapple-builder.com/
 related:
 - framer-ai-vs-webflow-vs-wix-studio-2026
 - beste-ai-tools-webdesign-websites-2026

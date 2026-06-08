@@ -25,43 +25,43 @@ tools:
     priceRange: "Gratis (100/dag) - EUR 20-250/mnd"
     bestFor: "Grootste email API"
     rating: 4.5
-    affiliateLink: "https://www.sendgrid.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.sendgrid.com/"
   - name: "Mailgun"
     verdict: "AI-gedreven developer-friendly email"
     priceRange: "Gratis trial - EUR 35-150/mnd"
     bestFor: "Developer-friendly email"
     rating: 4.4
-    affiliateLink: "https://www.mailgun.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.mailgun.com/"
   - name: "Postmark"
     verdict: "AI-gedreven snelste delivery"
     priceRange: "EUR 15-245/mnd"
     bestFor: "Snelste delivery"
     rating: 4.7
-    affiliateLink: "https://www.postmark.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.postmark.com/"
   - name: "Amazon SES"
     verdict: "AI-gedreven goedkoopste bulk email"
     priceRange: "EUR 0,10/1000 emails"
     bestFor: "Goedkoopste bulk email"
     rating: 4.3
-    affiliateLink: "https://www.amazon.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.amazon.com/"
   - name: "Resend"
     verdict: "AI-gedreven moderne email api voor react"
     priceRange: "Gratis (100/dag) - EUR 20/mnd"
     bestFor: "Moderne email API voor React"
     rating: 4.5
-    affiliateLink: "https://www.resend.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.resend.com/"
   - name: "Brevo (Sendinblue)"
     verdict: "AI-gedreven transactioneel + marketing"
     priceRange: "Gratis (300/dag) - EUR 25-65/mnd"
     bestFor: "Transactioneel + marketing"
     rating: 4.2
-    affiliateLink: "https://www.brevo.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.brevo.com/"
   - name: "Mailtrap"
     verdict: "AI-gedreven email testing sandbox"
     priceRange: "Gratis - EUR 15-50/mnd"
     bestFor: "Email testing sandbox"
     rating: 4.1
-    affiliateLink: "https://www.mailtrap.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.mailtrap.com/"
 related:
   - beste-ai-tools-api-development-testing-2026
   - beste-ai-tools-frontend-web-development-2026

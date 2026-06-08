@@ -25,43 +25,43 @@ tools:
     priceRange: "EUR 9-150/mnd"
     bestFor: "Privacy-first web analytics"
     rating: 4.7
-    affiliateLink: "https://www.plausible.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.plausible.com/"
   - name: "Google Analytics 4"
     verdict: "AI-gedreven enterprise analytics"
     priceRange: "Gratis (premium EUR 50K+/jr)"
     bestFor: "Enterprise analytics"
     rating: 4.3
-    affiliateLink: "https://www.google.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.google.com/"
   - name: "Matomo Cloud"
     verdict: "AI-gedreven open-source analytics"
     priceRange: "EUR 20-500/mnd"
     bestFor: "Open-source analytics"
     rating: 4.5
-    affiliateLink: "https://www.matomo.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.matomo.com/"
   - name: "Fathom Analytics"
     verdict: "AI-gedreven simpele privacy analytics"
     priceRange: "EUR 14-54/mnd"
     bestFor: "Simpele privacy analytics"
     rating: 4.6
-    affiliateLink: "https://www.fathom.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.fathom.com/"
   - name: "Simple Analytics"
     verdict: "AI-gedreven zero-tracking analytics"
     priceRange: "EUR 9-35/mnd"
     bestFor: "Zero-tracking analytics"
     rating: 4.2
-    affiliateLink: "https://www.simple.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.simple.com/"
   - name: "Pirsch Analytics"
     verdict: "AI-gedreven duitse privacy analytics"
     priceRange: "EUR 6-30/mnd"
     bestFor: "Duitse privacy analytics"
     rating: 4.1
-    affiliateLink: "https://www.pirsch.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.pirsch.com/"
   - name: "Umami"
     verdict: "AI-gedreven open-source self-hosted"
     priceRange: "Gratis (self-host)"
     bestFor: "Open-source self-hosted"
     rating: 4.4
-    affiliateLink: "https://www.umami.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.umami.com/"
 related:
   - beste-ai-tools-influencer-marketing-2026
   - beste-ai-marketing-tools-2026

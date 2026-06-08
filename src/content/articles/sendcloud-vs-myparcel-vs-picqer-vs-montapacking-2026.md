@@ -24,43 +24,43 @@ tools:
   priceRange: EUR 0-49/mnd + label
   bestFor: Schaalbare webshops
   rating: 4.7
-  affiliateLink: https://www.sendcloud.nl/?ref=aitoolsnl
+  affiliateLink: https://www.sendcloud.nl/
 - name: MyParcel
   verdict: Beste prijs-kwaliteit met strakke PostNL-integratie — top voor Nederlandse MKB webshops
   priceRange: EUR 0-35/mnd + label
   bestFor: NL-gefocuste shops
   rating: 4.5
-  affiliateLink: https://www.myparcel.nl/?ref=aitoolsnl
+  affiliateLink: https://www.myparcel.nl/
 - name: Picqer
   verdict: Volledig WMS met voorraadbeheer en pick-routes — ideaal voor eigen magazijn
   priceRange: EUR 59-299/mnd
   bestFor: Magazijnbeheer
   rating: 4.6
-  affiliateLink: https://picqer.com/nl?ref=aitoolsnl
+  affiliateLink: https://picqer.com/nl
 - name: Montapacking
   verdict: All-in-one fulfilment met 10+ magazijnen — uitbesteden zonder kopzorgen
   priceRange: EUR 100-500+/mnd
   bestFor: Uitbestede logistiek
   rating: 4.4
-  affiliateLink: https://www.montapacking.nl/?ref=aitoolsnl
+  affiliateLink: https://www.montapacking.nl/
 - name: ShippyPro
   verdict: Internationale focus met 180+ carriers — beste voor cross-border e-commerce
   priceRange: EUR 25-199/mnd
   bestFor: Internationaal
   rating: 4.3
-  affiliateLink: https://www.shippypro.com/?ref=aitoolsnl
+  affiliateLink: https://www.shippypro.com/
 - name: Wuunder
   verdict: Slimste carrier-vergelijking per zending met CO2-inzicht — beste voor duurzame shops
   priceRange: EUR 0-15/mnd + label
   bestFor: Duurzaamheid
   rating: 4.2
-  affiliateLink: https://www.wuunder.nl/?ref=aitoolsnl
+  affiliateLink: https://www.wuunder.nl/
 - name: Paazl
   verdict: Premium checkout delivery optimalisatie — top voor grote retail brands
   priceRange: Op aanvraag
   bestFor: Enterprise retail
   rating: 4.1
-  affiliateLink: https://www.paazl.com/nl?ref=aitoolsnl
+  affiliateLink: https://www.paazl.com/nl
 related:
 - shopify-vs-woocommerce-vs-wix-ecommerce-2026
 - beste-ai-tools-ecommerce-2026

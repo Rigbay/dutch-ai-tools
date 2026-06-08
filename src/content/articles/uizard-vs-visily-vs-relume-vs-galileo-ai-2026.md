@@ -24,43 +24,43 @@ tools:
   priceRange: EUR 0-19/mnd
   bestFor: Rapid Prototyping
   rating: 4.6
-  affiliateLink: https://uizard.io/?ref=aitoolsnl
+  affiliateLink: https://uizard.io/
 - name: Visily
   verdict: Krachtige screenshot-naar-editable-Wireframe AI — de snelste manier om inspiratie om te zetten
   priceRange: EUR 0-35/mnd
   bestFor: Wireframing & Ideation
   rating: 4.5
-  affiliateLink: https://www.visily.ai/?ref=aitoolsnl
+  affiliateLink: https://www.visily.ai/
 - name: Relume
   verdict: AI sitemap + wireframe generator met 1000+ componenten — de standaard voor Webflow/Figma designers
   priceRange: EUR 15-49/mnd
   bestFor: Design Systems
   rating: 4.7
-  affiliateLink: https://www.relume.io/?ref=aitoolsnl
+  affiliateLink: https://www.relume.io/
 - name: Galileo AI
   verdict: Prompt-naar-UI in seconden met verrassend goede resultaten — de futurist in de lijst
   priceRange: EUR 12-39/mnd
   bestFor: AI-First Design
   rating: 4.4
-  affiliateLink: https://www.galileo.ai/?ref=aitoolsnl
+  affiliateLink: https://www.galileo.ai/
 - name: Musho
   verdict: AI design companion in Figma — genereert complete pagina's uit prompts binnen je bestaande workflow
   priceRange: EUR 8-29/mnd
   bestFor: Figma Gebruikers
   rating: 4.3
-  affiliateLink: https://musho.ai/?ref=aitoolsnl
+  affiliateLink: https://musho.ai/
 - name: Attention Insight
   verdict: AI voorspelt waar gebruikers kijken — geen echte testers nodig voor eerste validatie
   priceRange: EUR 19-99/mnd
   bestFor: Usability Testing
   rating: 4.2
-  affiliateLink: https://attentioninsight.com/?ref=aitoolsnl
+  affiliateLink: https://attentioninsight.com/
 - name: Mockplus
   verdict: All-in-one prototyping met AI-ondersteuning voor interactie-ontwerp — beste waarde voor teams
   priceRange: EUR 10-35/mnd
   bestFor: Teams & Samenwerking
   rating: 4.1
-  affiliateLink: https://www.mockplus.com/?ref=aitoolsnl
+  affiliateLink: https://www.mockplus.com/
 related:
 - supabase-vs-firebase-vs-appwrite-2026
 - beste-ai-tools-duurzaamheid-esg-milieu-2026

@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: SQL & Open-source
   rating: 4.8
-  affiliateLink: https://supabase.com/?ref=aitoolsnl
+  affiliateLink: https://supabase.com/
 - name: Firebase
   verdict: Google's alles-in-één platform — beste voor snelle prototyping met NoSQL en hosting
   priceRange: EUR 0-pay-as-you-go
   bestFor: Snelle MVP & NoSQL
   rating: 4.6
-  affiliateLink: https://firebase.google.com/?ref=aitoolsnl
+  affiliateLink: https://firebase.google.com/
 - name: Appwrite
   verdict: Open-source BaaS met sterke self-host optie — volledige controle voor privacy-bewuste teams
   priceRange: EUR 0-15/mnd
   bestFor: Self-host & Privacy
   rating: 4.4
-  affiliateLink: https://appwrite.io/?ref=aitoolsnl
+  affiliateLink: https://appwrite.io/
 - name: PocketBase
   verdict: Ultralicht — één binary met SQLite, auth en file storage, draait op een Raspberry Pi
   priceRange: EUR 0 (self-host)
   bestFor: Side Projects & Hobby
   rating: 4.3
-  affiliateLink: https://pocketbase.io/?ref=aitoolsnl
+  affiliateLink: https://pocketbase.io/
 - name: Convex
   verdict: Realtime-first met functionele queries — perfect voor collaborative apps
   priceRange: EUR 0-25/mnd
   bestFor: Realtime & Collaborative
   rating: 4.2
-  affiliateLink: https://www.convex.dev/?ref=aitoolsnl
+  affiliateLink: https://www.convex.dev/
 - name: NHost
   verdict: Supabase + Hasura onder één dak met GraphQL — sterk voor data-heavy apps
   priceRange: EUR 0-25/mnd
   bestFor: GraphQL & Data-heavy
   rating: 4.1
-  affiliateLink: https://nhost.io/?ref=aitoolsnl
+  affiliateLink: https://nhost.io/
 - name: Backendless
   verdict: Volledig visuele backend-bouwer — low-code met echte database-kracht
   priceRange: EUR 0-149/mnd
   bestFor: Low-code & Enterprise
   rating: 3.8
-  affiliateLink: https://backendless.com/?ref=aitoolsnl
+  affiliateLink: https://backendless.com/
 related:
 - ahrefs-vs-semrush-vs-moz-2026
 - ai-agents-vs-ai-workflows-praktijk-nederland-2026

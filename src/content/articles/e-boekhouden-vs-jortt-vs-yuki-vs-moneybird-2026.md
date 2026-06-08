@@ -24,43 +24,43 @@ tools:
   priceRange: EUR 12-35/mnd
   bestFor: Budget ZZP
   rating: 4.6
-  affiliateLink: https://www.e-boekhouden.nl/?ref=aitoolsnl
+  affiliateLink: https://www.e-boekhouden.nl/
 - name: Jortt
   verdict: Gebruiksvriendelijk met slimme factuurherkenning — ideaal voor niet-boekhouders
   priceRange: EUR 17-42/mnd
   bestFor: Gebruiksgemak
   rating: 4.5
-  affiliateLink: https://www.jortt.nl/?ref=aitoolsnl
+  affiliateLink: https://www.jortt.nl/
 - name: Yuki
   verdict: Krachtigste AI-automatisering met documentherkenning — top voor administratiekantoren
   priceRange: EUR 25-75/mnd
   bestFor: Accountants & Admin
   rating: 4.7
-  affiliateLink: https://www.yuki.nl/?ref=aitoolsnl
+  affiliateLink: https://www.yuki.nl/
 - name: Moneybird
   verdict: Mooiste interface met sterke facturatiefeatures — populair bij creatieve zzp'ers
   priceRange: EUR 15-55/mnd
   bestFor: Design & Creatief
   rating: 4.6
-  affiliateLink: https://www.moneybird.nl/?ref=aitoolsnl
+  affiliateLink: https://www.moneybird.nl/
 - name: Snelstart
   verdict: Traditioneel sterk met uitgebreide rapportages — favoriet bij klassieke boekhouders
   priceRange: EUR 20-60/mnd
   bestFor: Traditioneel MKB
   rating: 4.4
-  affiliateLink: https://www.snelstart.nl/?ref=aitoolsnl
+  affiliateLink: https://www.snelstart.nl/
 - name: Exact Online
   verdict: Meest complete ERP-integratie met voorraad, CRM en HRM — de MKB-standaard
   priceRange: EUR 25-110/mnd
   bestFor: MKB & ERP
   rating: 4.8
-  affiliateLink: https://www.exact.com/nl?ref=aitoolsnl
+  affiliateLink: https://www.exact.com/nl
 - name: InformerOnline
   verdict: Slimme BI-laag over bestaande pakketten — voor datagedreven ondernemers
   priceRange: EUR 15-45/mnd
   bestFor: Data & Analyse
   rating: 4.2
-  affiliateLink: https://www.informer.eu/nl?ref=aitoolsnl
+  affiliateLink: https://www.informer.eu/nl
 related:
 - supabase-vs-firebase-vs-appwrite-2026
 - beste-ai-tools-duurzaamheid-esg-milieu-2026

@@ -34,7 +34,7 @@ tools:
   priceRange: EUR 15-115/mnd
   bestFor: Contentoptimalisatie
   rating: 4.6
-  affiliateLink: https://www.frase.io/
+  affiliateLink: https://www.frase.io/?via=hermes10
 - name: Surfer SEO
   verdict: Krachtige content editor met realtime NLP-analyse voor optimale contentstructuur
   priceRange: EUR 50-200/mnd

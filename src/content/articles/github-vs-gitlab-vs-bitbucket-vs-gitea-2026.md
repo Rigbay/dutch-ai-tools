@@ -25,43 +25,43 @@ tools:
     priceRange: "Gratis - EUR 8-25/dev/mnd"
     bestFor: "Grootste developer platform"
     rating: 4.8
-    affiliateLink: "https://www.github.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.github.com/"
   - name: "GitLab"
     verdict: "AI-gedreven all-in-one devops platform"
     priceRange: "Gratis - EUR 29-179/dev/mnd"
     bestFor: "All-in-one DevOps platform"
     rating: 4.6
-    affiliateLink: "https://www.gitlab.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.gitlab.com/"
   - name: "Bitbucket"
     verdict: "AI-gedreven atlassian-integratie"
     priceRange: "Gratis - EUR 3-6/dev/mnd"
     bestFor: "Atlassian-integratie"
     rating: 4.3
-    affiliateLink: "https://www.bitbucket.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.bitbucket.com/"
   - name: "Gitea"
     verdict: "AI-gedreven lichtgewicht self-hosted git"
     priceRange: "Gratis (self-host)"
     bestFor: "Lichtgewicht self-hosted Git"
     rating: 4.4
-    affiliateLink: "https://www.gitea.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.gitea.com/"
   - name: "Azure DevOps"
     verdict: "AI-gedreven enterprise git + ci/cd"
     priceRange: "Gratis (5 devs) - EUR 6-52/dev/mnd"
     bestFor: "Enterprise Git + CI/CD"
     rating: 4.2
-    affiliateLink: "https://www.azure.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.azure.com/"
   - name: "Codeberg"
     verdict: "AI-gedreven privacy-first eu hosting"
     priceRange: "Gratis"
     bestFor: "Privacy-first EU hosting"
     rating: 4.1
-    affiliateLink: "https://www.codeberg.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.codeberg.com/"
   - name: "SourceHut"
     verdict: "AI-gedreven minimalistische workflow"
     priceRange: "EUR 2-10/mnd"
     bestFor: "Minimalistische workflow"
     rating: 4.0
-    affiliateLink: "https://www.sourcehut.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.sourcehut.com/"
 related:
   - beste-ai-tools-learning-development-training-2026
   - beste-ai-tools-api-development-testing-2026

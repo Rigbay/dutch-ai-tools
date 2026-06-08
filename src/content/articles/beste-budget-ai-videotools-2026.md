@@ -14,12 +14,12 @@ cons:
   - Sommige AI-functies zijn nog in beta of early access
   - Niet elke tool is intensief getest in Nederlandse praktijk
 affiliateLinks:
-  - https://www.imagine.art/?ref=aitoolsnl
-  - https://saturaai.com/?ref=aitoolsnl
-  - https://www.capcut.com/?ref=aitoolsnl
-  - https://clipchamp.com/?ref=aitoolsnl
-  - https://www.canva.com/?ref=aitoolsnl
-  - https://pika.art/?ref=aitoolsnl
+  - https://www.imagine.art/
+  - https://saturaai.com/
+  - https://www.capcut.com/
+  - https://clipchamp.com/
+  - https://www.canva.com/
+  - https://pika.art/
 date: '2026-06-06'
 modelYear: 2026
 featuredTool: ImagineArt
@@ -30,37 +30,37 @@ tools:
     priceRange: EUR 8-15/mnd
     bestFor: AI beeld + video combi
     rating: 4.4
-    affiliateLink: https://www.imagine.art/?ref=aitoolsnl
+    affiliateLink: https://www.imagine.art/
   - name: Satura AI
     verdict: Toegankelijke AI videogenerator met sterke tekst-naar-video en creatieve features
     priceRange: EUR 10-15/mnd
     bestFor: Puur AI videogeneratie
     rating: 4.3
-    affiliateLink: https://saturaai.com/?ref=aitoolsnl
+    affiliateLink: https://saturaai.com/
   - name: CapCut AI
     verdict: Gratis videobewerking met ingebouwde AI — populairste keuze onder TikTokkers en YouTubers
     priceRange: EUR 0-10/mnd
     bestFor: Social media shorts
     rating: 4.5
-    affiliateLink: https://www.capcut.com/?ref=aitoolsnl
+    affiliateLink: https://www.capcut.com/
   - name: Clipchamp
     verdict: Microsoft's gratis video-editor met AI — perfect voor Windows-gebruikers en beginners
     priceRange: EUR 0-12/mnd
     bestFor: Windows beginners
     rating: 4.0
-    affiliateLink: https://clipchamp.com/?ref=aitoolsnl
+    affiliateLink: https://clipchamp.com/
   - name: Canva AI Video
     verdict: Canva's AI videomaker voor wie al in het Canva-ecosysteem werkt — naadloze integratie
     priceRange: EUR 0-13/mnd
     bestFor: Canva-gebruikers
     rating: 4.2
-    affiliateLink: https://www.canva.com/?ref=aitoolsnl
+    affiliateLink: https://www.canva.com/
   - name: Pika
     verdict: Innovatieve AI videogenerator met sterke creatieve effecten — ideaal voor experimentele content
     priceRange: EUR 0-10/mnd
     bestFor: Creatieve AI-effecten
     rating: 4.1
-    affiliateLink: https://pika.art/?ref=aitoolsnl
+    affiliateLink: https://pika.art/
 related:
   - beste-ai-video-tools-2026
   - beste-ai-videomakers-content-creators-2026

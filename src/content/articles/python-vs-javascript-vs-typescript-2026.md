@@ -26,43 +26,43 @@ tools:
   priceRange: Gratis (open-source)
   bestFor: AI/ML & Data
   rating: 4.9
-  affiliateLink: https://www.python.org/?ref=aitoolsnl
+  affiliateLink: https://www.python.org/
 - name: JavaScript
   verdict: Draait overal — browser, server, mobile, IoT — breedste inzetbaarheid
   priceRange: Gratis (open-source)
   bestFor: Full-stack Web
   rating: 4.7
-  affiliateLink: https://developer.mozilla.org/en-US/docs/Web/JavaScript/?ref=aitoolsnl
+  affiliateLink: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
 - name: TypeScript
   verdict: JavaScript met superpowers — type-safety maakt grote NL codebases beheersbaar
   priceRange: Gratis (open-source)
   bestFor: Enterprise Web & Teams
   rating: 4.8
-  affiliateLink: https://www.typescriptlang.org/?ref=aitoolsnl
+  affiliateLink: https://www.typescriptlang.org/
 - name: Rust
   verdict: Systeemtaal van de toekomst — Linux kernel, Windows, en nu ook AI-tooling
   priceRange: Gratis (open-source)
   bestFor: Systemen & Performance
   rating: 4.6
-  affiliateLink: https://www.rust-lang.org/?ref=aitoolsnl
+  affiliateLink: https://www.rust-lang.org/
 - name: Go
   verdict: Simpel, snel, schaalbaar — de ruggengraat van cloud-native NL infrastructuren
   priceRange: Gratis (open-source)
   bestFor: Cloud & DevOps
   rating: 4.4
-  affiliateLink: https://go.dev/?ref=aitoolsnl
+  affiliateLink: https://go.dev/
 - name: Kotlin
   verdict: Moderne Java-opvolger — standaard voor Android en groeiend in backend (Spring)
   priceRange: Gratis (open-source)
   bestFor: Mobile & Enterprise
   rating: 4.3
-  affiliateLink: https://kotlinlang.org/?ref=aitoolsnl
+  affiliateLink: https://kotlinlang.org/
 - name: Swift
   verdict: Apple's eigen taal — de enige keuze voor iOS/Mac development in 2026
   priceRange: Gratis (open-source)
   bestFor: Apple Ecosystem
   rating: 4.2
-  affiliateLink: https://www.swift.org/?ref=aitoolsnl
+  affiliateLink: https://www.swift.org/
 related:
 - ahrefs-vs-semrush-vs-moz-2026
 - ai-agents-vs-ai-workflows-praktijk-nederland-2026

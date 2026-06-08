@@ -25,43 +25,43 @@ tools:
     priceRange: "Gratis - EUR 49/dev/mnd"
     bestFor: "Volledige API platform"
     rating: 4.6
-    affiliateLink: "https://www.postman.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.postman.com/"
   - name: "Insomnia"
     verdict: "AI-gedreven simpele rest/graphql client"
     priceRange: "Gratis - EUR 12/dev/mnd"
     bestFor: "Simpele REST/GraphQL client"
     rating: 4.4
-    affiliateLink: "https://www.insomnia.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.insomnia.com/"
   - name: "Bruno"
     verdict: "AI-gedreven git-native api client"
     priceRange: "Gratis (open-source)"
     bestFor: "Git-native API client"
     rating: 4.5
-    affiliateLink: "https://www.bruno.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.bruno.com/"
   - name: "Hoppscotch"
     verdict: "AI-gedreven browser-based api client"
     priceRange: "Gratis - EUR 10/mnd"
     bestFor: "Browser-based API client"
     rating: 4.3
-    affiliateLink: "https://www.hoppscotch.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.hoppscotch.com/"
   - name: "Thunder Client"
     verdict: "AI-gedreven vs code api client"
     priceRange: "Gratis - EUR 6/mnd"
     bestFor: "VS Code API client"
     rating: 4.2
-    affiliateLink: "https://www.thunder.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.thunder.com/"
   - name: "Apidog"
     verdict: "AI-gedreven api design + testing"
     priceRange: "Gratis - EUR 35/mnd"
     bestFor: "API design + testing"
     rating: 4.3
-    affiliateLink: "https://www.apidog.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.apidog.com/"
   - name: "HTTPie"
     verdict: "AI-gedreven cli-first api testing"
     priceRange: "Gratis - EUR 15/mnd"
     bestFor: "CLI-first API testing"
     rating: 4.1
-    affiliateLink: "https://www.httpie.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.httpie.com/"
 related:
   - beste-ai-tools-api-development-testing-2026
   - beste-ai-tools-frontend-web-development-2026

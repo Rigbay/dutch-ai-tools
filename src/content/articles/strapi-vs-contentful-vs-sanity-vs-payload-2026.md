@@ -25,43 +25,43 @@ tools:
     priceRange: "Gratis open-source - EUR 99+/mnd cloud"
     bestFor: "Open-source headless CMS"
     rating: 4.6
-    affiliateLink: "https://www.strapi.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.strapi.com/"
   - name: "Contentful"
     verdict: "AI-gedreven enterprise content platform"
     priceRange: "EUR 300-2500/mnd"
     bestFor: "Enterprise content platform"
     rating: 4.5
-    affiliateLink: "https://www.contentful.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.contentful.com/"
   - name: "Sanity"
     verdict: "AI-gedreven real-time structured content"
     priceRange: "EUR 99-999/mnd"
     bestFor: "Real-time structured content"
     rating: 4.6
-    affiliateLink: "https://www.sanity.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.sanity.com/"
   - name: "Payload CMS"
     verdict: "AI-gedreven typescript-native cms"
     priceRange: "Gratis open-source - EUR 35+/mnd cloud"
     bestFor: "TypeScript-native CMS"
     rating: 4.4
-    affiliateLink: "https://www.payload.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.payload.com/"
   - name: "Storyblok"
     verdict: "AI-gedreven visual editor headless cms"
     priceRange: "EUR 90-800/mnd"
     bestFor: "Visual editor headless CMS"
     rating: 4.5
-    affiliateLink: "https://www.storyblok.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.storyblok.com/"
   - name: "Hygraph"
     verdict: "AI-gedreven graphql-native cms"
     priceRange: "EUR 0-799/mnd"
     bestFor: "GraphQL-native CMS"
     rating: 4.2
-    affiliateLink: "https://www.hygraph.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.hygraph.com/"
   - name: "Directus"
     verdict: "AI-gedreven database-wrapper cms"
     priceRange: "Gratis open-source - EUR 25+/mnd cloud"
     bestFor: "Database-wrapper CMS"
     rating: 4.3
-    affiliateLink: "https://www.directus.com/?ref=aitoolsnl"
+    affiliateLink: "https://www.directus.com/"
 related:
   - beste-ai-tools-learning-development-training-2026
   - beste-ai-tools-api-development-testing-2026

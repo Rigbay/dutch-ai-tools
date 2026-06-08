@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: AI-first Developer
   rating: 4.8
-  affiliateLink: https://cursor.sh/?ref=aitoolsnl
+  affiliateLink: https://cursor.sh/
 - name: GitHub Copilot
   verdict: Grootste ecosysteem — naadloze GitHub-integratie met Copilot Chat en agents
   priceRange: EUR 0-19/mnd
   bestFor: GitHub Teams
   rating: 4.7
-  affiliateLink: https://github.com/features/copilot/?ref=aitoolsnl
+  affiliateLink: https://github.com/features/copilot/
 - name: Windsurf
   verdict: Codeium's AI-native IDE met cascade-modus — sterke multi-file refactoring
   priceRange: EUR 0-15/mnd
   bestFor: Refactoring & Multi-file
   rating: 4.5
-  affiliateLink: https://codeium.com/windsurf/?ref=aitoolsnl
+  affiliateLink: https://codeium.com/windsurf/
 - name: Cline
   verdict: Open-source VS Code agent — volledige autonomie met bestandssysteem en terminal toegang
   priceRange: EUR 0 (open-source + eigen API key)
   bestFor: Autonome Agents & Budget
   rating: 4.3
-  affiliateLink: https://github.com/cline/cline/?ref=aitoolsnl
+  affiliateLink: https://github.com/cline/cline/
 - name: Amazon Q Developer
   verdict: Gratis voor individuen met diepe AWS-integratie — beste voor cloud-native teams
   priceRange: EUR 0-20/mnd
   bestFor: AWS & Cloud-native
   rating: 4.1
-  affiliateLink: https://aws.amazon.com/q/developer/?ref=aitoolsnl
+  affiliateLink: https://aws.amazon.com/q/developer/
 - name: Tabnine
   verdict: Privacy-first met on-premise optie — geschikt voor NL enterprise compliance
   priceRange: EUR 0-39/mnd
   bestFor: Enterprise & Privacy
   rating: 4.0
-  affiliateLink: https://www.tabnine.com/?ref=aitoolsnl
+  affiliateLink: https://www.tabnine.com/
 - name: Codeium
   verdict: Gratis tier met sterke autocomplete — breedste IDE-ondersteuning van alle tools
   priceRange: EUR 0-15/mnd
   bestFor: Multi-IDE & Budget
   rating: 4.2
-  affiliateLink: https://codeium.com/?ref=aitoolsnl
+  affiliateLink: https://codeium.com/
 related:
 - ahrefs-vs-semrush-vs-moz-2026
 - ai-agents-vs-ai-workflows-praktijk-nederland-2026

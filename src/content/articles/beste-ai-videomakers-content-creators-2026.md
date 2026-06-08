@@ -14,13 +14,13 @@ cons:
   - Sommige AI-functies zijn nog in beta of early access
   - Niet elke tool is intensief getest in Nederlandse praktijk
 affiliateLinks:
-  - https://invideo.io/make/ai-video-maker/?ref=aitoolsnl
-  - https://saturaai.com/?ref=aitoolsnl
-  - https://www.imagine.art/?ref=aitoolsnl
-  - https://pictory.ai/?ref=aitoolsnl
-  - https://fliki.ai/?ref=aitoolsnl
-  - https://lumen5.com/?ref=aitoolsnl
-  - https://www.veed.io/?ref=aitoolsnl
+  - https://invideo.io/make/ai-video-maker/
+  - https://saturaai.com/
+  - https://www.imagine.art/
+  - https://pictory.ai/
+  - https://fliki.ai/
+  - https://lumen5.com/
+  - https://www.veed.io/
 date: '2026-06-06'
 modelYear: 2026
 featuredTool: InVideo AI
@@ -31,43 +31,43 @@ tools:
     priceRange: EUR 0-30/mnd
     bestFor: Snelle videoproductie uit tekst
     rating: 4.5
-    affiliateLink: https://invideo.io/make/ai-video-maker/?ref=aitoolsnl
+    affiliateLink: https://invideo.io/make/ai-video-maker/
   - name: Satura AI
     verdict: Nieuwe AI videogenerator met focus op creatieve vrijheid en realistische AI-modellen
     priceRange: EUR 10-40/mnd
     bestFor: Creatieve AI-videogeneratie
     rating: 4.3
-    affiliateLink: https://saturaai.com/?ref=aitoolsnl
+    affiliateLink: https://saturaai.com/
   - name: ImagineArt
     verdict: AI designplatform met sterke videogeneratie — van tekst naar video in seconden
     priceRange: EUR 8-30/mnd
     bestFor: Snelle visuele content met video
     rating: 4.2
-    affiliateLink: https://www.imagine.art/?ref=aitoolsnl
+    affiliateLink: https://www.imagine.art/
   - name: Pictory AI
     verdict: Beste voor het hergebruiken van lange content naar social-mediavideoclips
     priceRange: EUR 19-49/mnd
     bestFor: Content repurposing naar video
     rating: 4.4
-    affiliateLink: https://pictory.ai/?ref=aitoolsnl
+    affiliateLink: https://pictory.ai/
   - name: Fliki AI
     verdict: Tekst-naar-video met realistische AI-stemmen in 75+ talen, inclusief Nederlands
     priceRange: EUR 8-28/mnd
     bestFor: Meertalige videocontent
     rating: 4.3
-    affiliateLink: https://fliki.ai/?ref=aitoolsnl
+    affiliateLink: https://fliki.ai/
   - name: Lumen5
     verdict: AI videoplatform voor bedrijven — zet blogposts en artikelen om in video's
     priceRange: EUR 19-149/mnd
     bestFor: Blog-naar-video voor bedrijven
     rating: 4.1
-    affiliateLink: https://lumen5.com/?ref=aitoolsnl
+    affiliateLink: https://lumen5.com/
   - name: Veed.io AI
     verdict: Gebruiksvriendelijke online video-editor met AI-ondertiteling en social media focus
     priceRange: EUR 12-40/mnd
     bestFor: Social media video editing
     rating: 4.1
-    affiliateLink: https://www.veed.io/?ref=aitoolsnl
+    affiliateLink: https://www.veed.io/
 related:
   - beste-ai-video-tools-2026
   - beste-ai-video-generators-nederland-2026

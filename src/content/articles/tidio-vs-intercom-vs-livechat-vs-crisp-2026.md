@@ -24,43 +24,43 @@ tools:
   priceRange: EUR 0-33/mnd
   bestFor: E-commerce MKB
   rating: 4.6
-  affiliateLink: https://www.tidio.com/?ref=aitoolsnl
+  affiliateLink: https://www.tidio.com/
 - name: Intercom
   verdict: Krachtigste AI-platform met Fin AI-agent — de gouden standaard voor SaaS
   priceRange: EUR 39-139/mnd
   bestFor: SaaS & Scale-ups
   rating: 4.8
-  affiliateLink: https://www.intercom.com/?ref=aitoolsnl
+  affiliateLink: https://www.intercom.com/
 - name: LiveChat
   verdict: Betrouwbaar met uitstekende analytics — ideaal voor sales-gedreven teams
   priceRange: EUR 20-59/mnd
   bestFor: Sales & Conversie
   rating: 4.5
-  affiliateLink: https://www.livechat.com/?ref=aitoolsnl
+  affiliateLink: https://www.livechat.com/
 - name: Crisp
   verdict: Moderne chat met co-browsing en CRM-integratie — populair bij tech-startups
   priceRange: EUR 0-95/mnd
   bestFor: Startups & Tech
   rating: 4.4
-  affiliateLink: https://crisp.chat/?ref=aitoolsnl
+  affiliateLink: https://crisp.chat/
 - name: Tawk.to
   verdict: Volledig gratis met alle basisfeatures — beste prijs-kwaliteit voor kleine ondernemers
   priceRange: EUR 0/mnd
   bestFor: Budget & ZZP
   rating: 4.2
-  affiliateLink: https://www.tawk.to/?ref=aitoolsnl
+  affiliateLink: https://www.tawk.to/
 - name: Chatfuel
   verdict: No-code botbouwer met sterke Facebook/Instagram Messenger integratie
   priceRange: EUR 12-50/mnd
   bestFor: Social Media Bots
   rating: 4.1
-  affiliateLink: https://chatfuel.com/?ref=aitoolsnl
+  affiliateLink: https://chatfuel.com/
 - name: ManyChat
   verdict: Beste voor marketing automatisering via Messenger, Instagram DM en WhatsApp
   priceRange: EUR 15-75/mnd
   bestFor: Marketing Automation
   rating: 4.3
-  affiliateLink: https://manychat.com/?ref=aitoolsnl
+  affiliateLink: https://manychat.com/
 related:
 - supabase-vs-firebase-vs-appwrite-2026
 - beste-ai-tools-duurzaamheid-esg-milieu-2026

@@ -1,8 +1,7 @@
 ---
 title: 'AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking'
 slug: ai-voor-seo-2026
-description: De beste AI SEO tools van 2026 vergeleken. Surfer SEO, Semrush AI, Frase
-  en meer voor content optimalisatie en keyword research.
+description: 'De beste AI SEO tools van 2026 vergeleken. Surfer SEO, Semrush AI, Frase en meer voor content optimalisatie en keyword research.'
 category: marketing
 rating: 4.5
 priceRange: EUR 20-150/mnd
@@ -37,7 +36,7 @@ tools:
   priceRange: EUR 14.5-114.5/mnd
   bestFor: Content research
   rating: 4.4
-  affiliateLink: https://www.frase.io/
+  affiliateLink: https://www.frase.io/?via=hermes10
 related:
 - beste-ai-copywriting-tools-2026
 - beste-ai-seo-tools-2026

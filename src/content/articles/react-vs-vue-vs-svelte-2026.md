@@ -26,43 +26,43 @@ tools:
   priceRange: Gratis (open-source)
   bestFor: Enterprise & Schaalbaar
   rating: 4.8
-  affiliateLink: https://react.dev/?ref=aitoolsnl
+  affiliateLink: https://react.dev/
 - name: Vue
   verdict: Beste balans tussen leercurve en functionaliteit — populair bij NL startups en MKB
   priceRange: Gratis (open-source)
   bestFor: MKB & Snelle MVP
   rating: 4.6
-  affiliateLink: https://vuejs.org/?ref=aitoolsnl
+  affiliateLink: https://vuejs.org/
 - name: Svelte
   verdict: Compile-first met minste boilerplate — razendsnel en groeiend in NL
   priceRange: Gratis (open-source)
   bestFor: Performance & DX
   rating: 4.5
-  affiliateLink: https://svelte.dev/?ref=aitoolsnl
+  affiliateLink: https://svelte.dev/
 - name: Angular
   verdict: Enterprise-grade met sterke typing en Google-backing — voor grote NL teams
   priceRange: Gratis (open-source)
   bestFor: Enterprise & TypeScript
   rating: 4.3
-  affiliateLink: https://angular.dev/?ref=aitoolsnl
+  affiliateLink: https://angular.dev/
 - name: SolidJS
   verdict: React-achtige DX met Svelte-snelheid — signals natively, geen virtual DOM
   priceRange: Gratis (open-source)
   bestFor: Performance & React-fans
   rating: 4.2
-  affiliateLink: https://www.solidjs.com/?ref=aitoolsnl
+  affiliateLink: https://www.solidjs.com/
 - name: Qwik
   verdict: Resumable JS — laadt alleen wat nodig is, perfect voor content-heavy NL sites
   priceRange: Gratis (open-source)
   bestFor: Lighthouse 100 & SEO
   rating: 4.0
-  affiliateLink: https://qwik.dev/?ref=aitoolsnl
+  affiliateLink: https://qwik.dev/
 - name: Astro
   verdict: Zero JS by default — ideaal voor content-sites en marketingpagina's met frameworks naar keuze
   priceRange: Gratis (open-source)
   bestFor: Content & Multi-framework
   rating: 4.4
-  affiliateLink: https://astro.build/?ref=aitoolsnl
+  affiliateLink: https://astro.build/
 related:
 - ahrefs-vs-semrush-vs-moz-2026
 - ai-agents-vs-ai-workflows-praktijk-nederland-2026
