@@ -16,6 +16,7 @@ cons:
 affiliateLinks:
 - https://www.notion.so
   - https://synthesia.io/?via=hermes  # Synthesia
+  - https://www.descript.com/?via=anonymous-operator
 date: '2026-05-27'
 modelYear: 2026
 featuredTool: Descript

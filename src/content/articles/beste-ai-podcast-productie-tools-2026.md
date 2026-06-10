@@ -23,6 +23,7 @@ affiliateLinks:
 - https://podcastle.ai/
 - https://alitu.com/
 - https://podcast.adobe.com/
+  - https://www.descript.com/?via=anonymous-operator
 related:
 - beste-ai-research-academische-tools-2026
 - beste-ai-3d-modellering-tools-2026
