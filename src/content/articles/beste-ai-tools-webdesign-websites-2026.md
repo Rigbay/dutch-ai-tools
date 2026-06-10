@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Webdesign & Website Bouwen 2026: top 7 vergeleken'
 slug: beste-ai-tools-webdesign-websites-2026
 description: AI tools voor webdesign, website bouwen en UI/UX in 2026. Vergelijk de
@@ -80,8 +81,7 @@ tools:
   affiliateLink: https://uizard.io/
 faq:
 - q: Welke tool is het beste voor beginners?
-  a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade
-    naarmate je meer nodig hebt.
+  a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade naarmate je meer nodig hebt.
 - q: Wat kost het gemiddeld per maand?
   a: De tools in deze gids variëren van EUR 0-39/mnd tot EUR 0-27/mnd.
 - q: Zijn deze tools ook in het Nederlands beschikbaar?
@@ -91,6 +91,7 @@ related:
 - beste-ai-tools-persoonlijke-assistenten-2026
 - beste-ai-tools-excel-spreadsheets-2026
 draft: false
+
 ---
 
 # AI Bouwt Complete Websites in Minuten: De Beste Tools voor Webdesign, Website Bouwen en UI/UX in 2026

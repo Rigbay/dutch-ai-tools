@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Fitness, Sport & Gezondheid 2026: top 7 vergeleken'
 slug: beste-ai-fitness-sport-gezondheid-tools-2026
 description: AI tools voor fitness, sport en gezondheid in 2026. Vergelijk Freeletics,
@@ -84,14 +85,12 @@ tools:
   affiliateLink: https://www.sleepcycle.com/
 faq:
 - q: Wat is de beste AI fitnessapp voor thuis?
-  a: Freeletics past elke workout aan op basis van je feedback en herstel. Geen sportschool
-    nodig — alleen je lichaamsgewicht.
+  a: Freeletics past elke workout aan op basis van je feedback en herstel. Geen sportschool nodig — alleen je lichaamsgewicht.
 - q: Hoe betrouwbaar zijn AI-slaaptrackers?
-  a: Ze zijn betrouwbaar voor trendanalyse maar niet medisch nauwkeurig. Sleep Cycle
-    detecteert slaapfasen en wekt je in je lichtste fase.
+  a: Ze zijn betrouwbaar voor trendanalyse maar niet medisch nauwkeurig. Sleep Cycle detecteert slaapfasen en wekt je in je lichtste fase.
 - q: Kunnen deze tools mijn personal trainer vervangen?
-  a: Grotendeels wel voor algemene doelen — Freeletics, Fitbod en Aaptiv bieden gepersonaliseerde
-    schema's. Ze missen alleen fysieke correctie.
+  a: Grotendeels wel voor algemene doelen — Freeletics, Fitbod en Aaptiv bieden gepersonaliseerde schema's. Ze missen alleen fysieke correctie.
+
 ---
 
 

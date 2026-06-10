@@ -1,4 +1,5 @@
 ---
+
 title: 'Nieuwe AI Meeting Assistants 2026: Granola vs Fireflies vs Otter vs Fathom
   Vergeleken'
 slug: nieuwe-ai-meeting-assistants-2026
@@ -54,17 +55,12 @@ related:
 draft: false
 faq:
 - q: Welke meeting assistant heeft de beste Nederlandse transcriptie in 2026?
-  a: Fireflies.ai en Granola hebben de meest stabiele Nederlandse transcriptie. Otter
-    en Fathom werken ook, maar lopen nog wat meer achter bij regionale dialecten of
-    snel gesproken gesprekken.
+  a: Fireflies.ai en Granola hebben de meest stabiele Nederlandse transcriptie. Otter en Fathom werken ook, maar lopen nog wat meer achter bij regionale dialecten of snel gesproken gesprekken.
 - q: Zijn deze AI meeting assistants al AVG-proof voor Nederlandse bedrijven?
-  a: Fireflies, Granola en Fathom bieden EU-serveropties of DPA's aan. Otter verwerkt
-    voornamelijk in de VS. Kies een tool met een ondertekende DPA als je persoonlijke
-    of klantgegevens verwerkt.
+  a: Fireflies, Granola en Fathom bieden EU-serveropties of DPA's aan. Otter verwerkt voornamelijk in de VS. Kies een tool met een ondertekende DPA als je persoonlijke of klantgegevens verwerkt.
 - q: Wat blijft als je geen bot in de meeting wilt?
-  a: Granola is het enige van deze vier dat geen bot in de meeting plaatst. Je neemt
-    gewoon op via je laptop/telefoon en Granola vat het bijeen en deeld direct notities,
-    actiepunten en transcripten met je team.
+  a: Granola is het enige van deze vier dat geen bot in de meeting plaatst. Je neemt gewoon op via je laptop/telefoon en Granola vat het bijeen en deeld direct notities, actiepunten en transcripten met je team.
+
 ---
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: 'Miro vs FigJam vs Mural 2026: Beste AI Whiteboard voor Teams Vergeleken'
 slug: miro-vs-figjam-vs-mural-2026
 description: Miro, FigJam of Mural voor online whiteboards met AI in 2026? Vergelijk brainstormfuncties, templates, realtime samenwerking, integraties en prijs voor Nederlandse teams.
@@ -51,11 +52,12 @@ related:
 draft: false
 faq:
 - q: Welk whiteboard is het beste voor Nederlandse teams met hybride werken?
-  a: 'Miro is de beste keuze voor hybride teams: de AI-assistent (Miro Assist) helpt met samenvatten van brainstormsessies, en de uitgebreide integraties (Slack, Teams, Jira) passen in de meeste Nederlandse bedrijfsworkflows. FigJam is ideaal als je team al Figma gebruikt.'
+  a: "'Miro is de beste keuze voor hybride teams: de AI-assistent (Miro Assist) helpt met samenvatten van brainstormsessies, en de uitgebreide integraties (Slack, Teams, Jira) passen in de meeste Nederlandse bedrijfsworkflows. FigJam is ideaal als je team al Figma gebruikt.'"
 - q: Kan ik gratis een whiteboard gebruiken met mijn team?
-  a: 'Ja: Miro gratis biedt 3 editable boards. FigJam gratis is onbeperkt voor teams tot 3 editors. Mural gratis biedt 3 murals + 1 room. Voor serieus teamgebruik is een betaald plan (vanaf EUR 5-10/mnd/pp) aanbevolen.'
+  a: "'Ja: Miro gratis biedt 3 editable boards. FigJam gratis is onbeperkt voor teams tot 3 editors. Mural gratis biedt 3 murals + 1 room. Voor serieus teamgebruik is een betaald plan (vanaf EUR 5-10/mnd/pp) aanbevolen.'"
 - q: Werken deze tools in het Nederlands?
   a: De UI van alle drie is in het Engels. AI-functies zoals Miro Assist begrijpen Nederlandse prompts goed. Templates en sticky notes kunnen gewoon in het Nederlands. Specifieke NL-sjablonen zijn beperkt — je maakt ze zelf op maat.
+
 ---
 ## Lees ook
 

@@ -1,4 +1,5 @@
 ---
+
 slug: gamma-vs-beautiful-ai-vs-tome-2026
 title: 'Gamma vs Beautiful.ai vs Tome 2026: Beste AI Presentatie Tool Vergeleken'
 description: Gamma, Beautiful.ai of Tome? Vergelijk de 3 beste AI-tools voor presentaties in 2026. Automatisch mooie slides, datavisualisatie en samenwerken in realtime.
@@ -44,12 +45,12 @@ related:
 - ai-tools-marketing-teams-2026
 faq:
 - q: Kan ik AI-presentaties exporteren naar PowerPoint?
-  a: 'Ja, alle drie: Gamma exporteert naar PDF en PPT, Beautiful.ai naar PPTX (met beperkte bewerkbaarheid), Tome naar PDF. Voor volledige PowerPoint-bewerking is Beautiful.ai het beste.'
+  a: "'Ja, alle drie: Gamma exporteert naar PDF en PPT, Beautiful.ai naar PPTX (met beperkte bewerkbaarheid), Tome naar PDF. Voor volledige PowerPoint-bewerking is Beautiful.ai het beste.'"
 - q: Welke tool is het beste voor teams?
-  a: Gamma biedt de beste realtime samenwerking (zoals Google Slides). Beautiful.ai heeft team-accounts met shared libraries. Tome is meer gericht op individuele creators. Voor teams van 5+ is Gamma de
-    beste prijs-kwaliteit.
+  a: Gamma biedt de beste realtime samenwerking (zoals Google Slides). Beautiful.ai heeft team-accounts met shared libraries. Tome is meer gericht op individuele creators. Voor teams van 5+ is Gamma de beste prijs-kwaliteit.
 - q: Hoe zit het met Nederlandse ondersteuning?
   a: Gamma en Tome ondersteunen Nederlands voor AI-tekstgeneratie. Beautiful.ai heeft Nederlandstalige UI maar AI-suggesties primair in Engels. De outputkwaliteit in Nederlands is bij Gamma het hoogst.
+
 ---
 
 ## Lees ook

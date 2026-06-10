@@ -1,4 +1,5 @@
 ---
+
 title: 'Claude 3.5 Sonnet vs GPT-4o vs Gemini 1.5 Pro: Welk AI Model Is Het Beste
   in 2026?'
 slug: claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026
@@ -70,13 +71,12 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze tests in 2026 is Claude 3.5 Sonnet de meest complete keuze
-    voor de meeste gebruikers.
+  a: Op basis van onze tests in 2026 is Claude 3.5 Sonnet de meest complete keuze voor de meeste gebruikers.
 - q: Zijn er gratis opties beschikbaar?
   a: Ja, de meeste platforms bieden een gratis instapniveau of een proefperiode aan.
 - q: Werken deze tools goed in het Nederlands?
-  a: Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse
-    taal.
+  a: Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse taal.
+
 ---
 
 Absoluut! Hier is een diepgaand Nederlands artikel over dit onderwerp.

@@ -1,4 +1,5 @@
 ---
+
 title: 'Bitwarden vs 1Password vs LastPass 2026: beste password manager'
 slug: bitwarden-vs-1password-vs-lastpass-2026
 description: Bitwarden, 1Password of LastPass in 2026? Vergelijk de beste password
@@ -70,12 +71,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste tool?
-  a: Dat hangt af van je situatie. Bitwarden is voor de meeste gebruikers een prima
-    startpunt.
+  a: Dat hangt af van je situatie. Bitwarden is voor de meeste gebruikers een prima startpunt.
 - q: Zijn er gratis alternatieven?
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Wachtwoordmanagers in 2026: Bitwarden vs 1Password vs LastPass en verder
 

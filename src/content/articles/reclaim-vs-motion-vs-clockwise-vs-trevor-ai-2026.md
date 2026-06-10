@@ -1,8 +1,9 @@
 ---
+
 title: 'Beste Reclaim vs Motion vs Clockwise vs Trevor AI — AI agenda en time blocking tools in 2026: Eerlijke Vergelijking + Prijzen'
 slug: 'reclaim-vs-motion-vs-clockwise-vs-trevor-ai-2026'
 description: 'Vergelijk Reclaim AI, Motion, Clockwise & Trevor AI in 2026. Ontdek de beste AI agenda & time blocking tools voor NL gebruikers. Prijzen & features.'
-category: 'business'
+category: business
 rating: 4.4
 priceRange: EUR 0-99/mnd
 pros:
@@ -12,7 +13,8 @@ pros:
 cons:
 - Prijzen kunnen wijzigen — check altijd de actuele aanbieder
 - De beste tool hangt af van je specifieke use case en budget
-affiliateLinks: []
+affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
 date: 2026-06-08
 modelYear: 2026
 featuredTool: Reclaim
@@ -53,6 +55,7 @@ faq:
   a: Ja, er zijn zeker nog degelijke gratis opties. Zowel Reclaim AI als Clockwise bieden een gratis tier die voor individuele gebruikers en kleine teams al zeer nuttig kan zijn. Deze gratis versies bieden vaak basisfuncties voor time blocking en meeting-optimalisatie. Trevor AI heeft ook een gratis instapmodel dat ideaal is voor beginners. Upgraden naar een betaald abonnement is doorgaans pas zinvol wanneer je meer geavanceerde functies nodig hebt, zoals uitgebreide teamplanning, geavanceerde integraties of onbeperkte projecten.
 - q: Wat doet de AI precies in deze time blocking tools en hoe besparen ze mij tijd in 2026?
   a: De AI in deze tools analyseert je agenda, takenlijsten, en soms zelfs je werkpatronen om de meest efficiënte planning te creëren. Reclaim AI gebruikt AI om 'Habits' (zoals sporten of leren) en 'Buffer Time' automatisch in te plannen, en om vergaderingen te 'parkeren' als er conflicten ontstaan. Motion’s AI prioriteert taken en plant ze dynamisch in je agenda op basis van deadlines en belangrijkheid, en past zich aan als je schema verandert. Clockwise optimaliseert vergaderingen door de beste tijden te vinden voor alle deelnemers en creëert automatisch 'Focus Time' blokken. Trevor AI gebruikt AI voor een gestroomlijnde dagelijkse planning, waarbij het taken en afspraken efficiënt indeelt.
+
 ---
 
 # Reclaim vs Motion vs Clockwise vs Trevor AI — AI agenda en time blocking tools 2026: De Ultieme Vergelijking

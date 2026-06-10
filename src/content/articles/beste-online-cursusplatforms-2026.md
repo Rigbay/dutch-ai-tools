@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste online cursusplatforms 2026: Coursera vs Udemy vs edX vergelijking'
 slug: beste-online-cursusplatforms-2026
 description: Coursera, Udemy, edX, Skillshare, Pluralsight, LinkedIn Learning of Udacity?
@@ -72,12 +73,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste tool?
-  a: Dat hangt af van je situatie. Coursera is voor de meeste gebruikers een prima
-    startpunt.
+  a: Dat hangt af van je situatie. Coursera is voor de meeste gebruikers een prima startpunt.
 - q: Zijn er gratis alternatieven?
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # De Toekomst van Online Leren: De Beste Platforms in 2026
 

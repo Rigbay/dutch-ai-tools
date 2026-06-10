@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Automotive & Mobiliteit 2026: top 7 vergeleken'
 slug: beste-ai-tools-automotive-2026
 description: AI tools voor de automotive en mobiliteit sector in 2026. Vergelijk de
@@ -71,17 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor automotive in 2026?
-  a: Dat hangt af van je specifieke behoeften. Voor de meeste professionals is Applied
-    Intuition een uitstekende start vanwege de balans tussen functionaliteit en prijs.
-    Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste professionals is Applied Intuition een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.
 - q: Zijn er goede gratis AI tools beschikbaar in 2026 voor mobiliteit?
-  a: 'Ja, veel AI tools bieden gratis tiers aan. ChatGPT, Claude en Canva hebben sterke
-    gratis versies. Let wel: de gratis versies hebben beperkingen in gebruik, maar
-    zijn perfect om mee te beginnen en te testen.'
+  a: "'Ja, veel AI tools bieden gratis tiers aan. ChatGPT, Claude en Canva hebben sterke gratis versies. Let wel: de gratis versies hebben beperkingen in gebruik, maar zijn perfect om mee te beginnen en te testen.'"
 - q: Hoe kies ik de juiste AI tool voor mijn automotive situatie?
-  a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je
-    budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel
-    hierboven om te kiezen op basis van score, prijs en 'beste voor'.
+  a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om te kiezen op basis van score, prijs en 'beste voor'.
+
 ---
 
 # De Weg naar Slimme Mobiliteit: De Beste AI-Tools voor de Nederlandse Automotive & Mobiliteitsector in 2026

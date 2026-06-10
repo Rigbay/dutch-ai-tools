@@ -1,7 +1,8 @@
 ---
+
 title: 'Knab vs bunq vs Revolut vs N26 Zakelijk 2026: beste zakelijke bankrekening voor Nederlandse ondernemers'
 slug: knab-vs-bunq-vs-revolut-vs-n26-zakelijk-2026
-description: Vergelijk Knab Zakelijk, bunq Business, Revolut Business, N26 Business en ING Zakelijk in 2026: prijzen, functies, boekhoudkoppelingen, internationale betalingen en welke past bij jouw ondernemingsvorm.
+description: "Vergelijk Knab Zakelijk, bunq Business, Revolut Business, N26 Business en ING Zakelijk in 2026: prijzen, functies, boekhoudkoppelingen, internationale betalingen en welke past"
 category: business
 rating: 4.4
 priceRange: EUR 0-100/mnd
@@ -50,6 +51,7 @@ tools:
     bestFor: "Gevestigde ondernemingen & totaalpakket"
     rating: 4.3
     affiliateLink: "https://www.ing.nl/?ref=aitoolsnl"
+
 ---
 
 ## Inleiding: waarom de juiste zakelijke bankrekening kiezen?

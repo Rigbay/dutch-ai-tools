@@ -1,4 +1,5 @@
 ---
+
 title: 'Jira vs Linear vs ClickUp 2026: beste projectmanagement voor ontwikkelteams'
 slug: jira-vs-linear-vs-clickup-2026
 description: Jira, Linear of ClickUp in 2026? Vergelijk de beste projectmanagement
@@ -75,15 +76,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste projectmanagement tool voor developers in 2026?
-  a: Dat hangt van je team af. Linear is top voor startups vanwege snelheid en dev-first
-    UX. Jira is de enterprise-standaard. Lees de volledige vergelijking voor een advies
-    op maat.
+  a: Dat hangt van je team af. Linear is top voor startups vanwege snelheid en dev-first UX. Jira is de enterprise-standaard. Lees de volledige vergelijking voor een advies op maat.
 - q: Zijn er gratis alternatieven voor Jira?
-  a: Ja, Linear, ClickUp en Plane bieden gratis tiers. Plane is volledig open-source
-    en gratis — ideaal voor kleine teams.
+  a: Ja, Linear, ClickUp en Plane bieden gratis tiers. Plane is volledig open-source en gratis — ideaal voor kleine teams.
 - q: Hoe kies ik de juiste projectmanagement tool?
-  a: Begin met teamgrootte, budget en of je GitHub-integratie nodig hebt. Gebruik
-    de vergelijkingstabel om te filteren op score en prijs.
+  a: Begin met teamgrootte, budget en of je GitHub-integratie nodig hebt. Gebruik de vergelijkingstabel om te filteren op score en prijs.
+
 ---
 # Projectmanagement voor Developers in 2026: Jira, Linear of toch een ander alternatief?
 

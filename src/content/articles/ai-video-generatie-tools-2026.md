@@ -1,4 +1,5 @@
 ---
+
 title: 'AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken'
 slug: ai-video-generatie-tools-2026
 description: 'Vergelijk de beste AI video generatie tools in 2026. Synthesia vs HeyGen
@@ -53,14 +54,12 @@ related:
 draft: false
 faq:
 - q: Welke AI video tool is het beste voor beginners in 2026?
-  a: Synthesia en HeyGen zijn het meest gebruiksvriendelijk voor beginners dankzij
-    hun intuïtieve interfaces en kant-en-klare avatars.
+  a: Synthesia en HeyGen zijn het meest gebruiksvriendelijk voor beginners dankzij hun intuïtieve interfaces en kant-en-klare avatars.
 - q: Zijn AI video's herkenbaar als nep?
-  a: In 2026 zijn de beste tools zoals Synthesia en HeyGen extreem realistisch. Alleen
-    experts kunnen het verschil zien bij close-ups.
+  a: In 2026 zijn de beste tools zoals Synthesia en HeyGen extreem realistisch. Alleen experts kunnen het verschil zien bij close-ups.
 - q: Kan ik Nederlandse stemmen en ondertitels gebruiken?
-  a: Ja, zowel Synthesia als HeyGen ondersteunen hoogwaardige Nederlandse stemmen
-    en automatische ondertiteling.
+  a: Ja, zowel Synthesia als HeyGen ondersteunen hoogwaardige Nederlandse stemmen en automatische ondertiteling.
+
 ---
 
 # AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken

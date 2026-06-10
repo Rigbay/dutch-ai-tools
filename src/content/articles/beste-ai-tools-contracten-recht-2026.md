@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Contracten & Recht 2026: top 7 vergeleken'
 slug: beste-ai-tools-contracten-recht-2026
 description: 'AI contract tools voor 2026: Ironclad, Evisort, Linklaters AI, Lawgeex,
@@ -71,17 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor business in 2026?
-  a: Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is Ironclad
-    een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees
-    de volledige vergelijking voor een gedetailleerd advies.
+  a: Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is Ironclad een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking voor een gedetailleerd advies.
 - q: Zijn er gratis AI business tools beschikbaar?
-  a: Ja, verschillende tools bieden een gratis tier. Sommige tools zoals WattTime
-    AI en HomeLight bieden gratis basisfunctionaliteit. Bekijk de prijsrange per tool
-    in de vergelijking hierboven.
+  a: Ja, verschillende tools bieden een gratis tier. Sommige tools zoals WattTime AI en HomeLight bieden gratis basisfunctionaliteit. Bekijk de prijsrange per tool in de vergelijking hierboven.
 - q: Hoe kies ik de juiste AI business tool?
-  a: Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor
-    kolom in de vergelijkingstabel. Start met een gratis proefperiode van 2-3 tools
-    voordat je een keuze maakt.
+  a: Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor kolom in de vergelijkingstabel. Start met een gratis proefperiode van 2-3 tools voordat je een keuze maakt.
+
 ---
 
 # De Beste AI Tools voor Contracten en Recht in 2026: Een Gids voor de Nederlandse Jurist

@@ -1,7 +1,8 @@
 ---
+
 title: "Online Afspraaksoftware 2026: Calendly vs SimplyBook.me vs SuperSaaS vs Bookafy vs Acuity Scheduling — beste boekingssysteem voor Nederland"
 slug: online-afspraaksoftware-vergelijken-calendly-simplybookme-2026
-description: "Vergelijk de 5 beste online afspraak- en boekingssystemen in 2026: Calendly, SimplyBook.me, SuperSaaS, Bookafy en Acuity Scheduling. Welke planningstool past bij jouw agenda, bedrijf of praktijk? Prijzen, Nederlandse features en AI-slimheid vergeleken."
+description: "Vergelijk de 5 beste online afspraak- en boekingssystemen in 2026: Calendly, SimplyBook.me, SuperSaaS, Bookafy en Acuity Scheduling. Welke planningstool past bij jouw agenda,
 category: business
 rating: 4.5
 priceRange: "EUR 0-27/mnd"
@@ -62,6 +63,7 @@ faq:
     a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
   - q: Werken deze tools goed in het Nederlands?
     a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: 'Obsidian vs Notion vs Roam Research 2026: Beste AI Kennisbeheer Tool voor
   Denkers'
 slug: obsidian-vs-notion-vs-roam-research-2026
@@ -53,18 +54,12 @@ related:
 draft: false
 faq:
 - q: Welke tool is het beste voor academisch onderzoek?
-  a: Obsidian is de favoriet van de academische wereld. De Zettelkasten-methode, lokale
-    bestanden (geen vendor lock-in), en plugins voor citaties (Zotero-integratie)
-    maken het ideaal voor PhD-studenten en onderzoekers. Roam is ook populair onder
-    academici maar is duurder en alleen online.
+  a: Obsidian is de favoriet van de academische wereld. De Zettelkasten-methode, lokale bestanden (geen vendor lock-in), en plugins voor citaties (Zotero-integratie) maken het ideaal voor PhD-studenten en onderzoekers. Roam is ook populair onder academici maar is duurder en alleen online.
 - q: Werkt Obsidian ook goed op Nederlands?
-  a: Obsidian's interface is meertalig, maar de ingebouwde AI-plugins zijn Engelstalig.
-    Je notities zelf kunnen uiteraard in het Nederlands. Voor Nederlandstalige AI-ondersteuning
-    is Notion AI de betere keuze — die schrijft en analyseert in vloeiend Nederlands.
+  a: Obsidian's interface is meertalig, maar de ingebouwde AI-plugins zijn Engelstalig. Je notities zelf kunnen uiteraard in het Nederlands. Voor Nederlandstalige AI-ondersteuning is Notion AI de betere keuze — die schrijft en analyseert in vloeiend Nederlands.
 - q: Kan ik Notion offline gebruiken?
-  a: Beperkt. Notion werkt het beste met internetverbinding. Offline pagina's worden
-    lokaal opgeslagen maar synchroniseren pas bij reconnectie. Obsidian werkt volledig
-    offline (bestanden op je eigen harde schijf) en Roam Research is 100% cloud-afhankelijk.
+  a: Beperkt. Notion werkt het beste met internetverbinding. Offline pagina's worden lokaal opgeslagen maar synchroniseren pas bij reconnectie. Obsidian werkt volledig offline (bestanden op je eigen harde schijf) en Roam Research is 100% cloud-afhankelijk.
+
 ---
 
 ## Lees ook

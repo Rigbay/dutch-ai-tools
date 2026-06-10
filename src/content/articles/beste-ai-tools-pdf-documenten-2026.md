@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor PDF & Document Analyse 2026: top 7 vergeleken'
 slug: beste-ai-tools-pdf-documenten-2026
 description: AI tools voor PDF samenvatten, documenten analyseren, contracten checken
@@ -80,8 +81,7 @@ tools:
   affiliateLink: https://www.humata.ai/
 faq:
 - q: Welke tool is het beste voor beginners?
-  a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade
-    naarmate je meer nodig hebt.
+  a: Dit hangt af van je specifieke behoeften. Begin met de goedkoopste optie en upgrade naarmate je meer nodig hebt.
 - q: Wat kost het gemiddeld per maand?
   a: De tools in deze gids variëren van EUR 0-49/mnd tot EUR 0-22/mnd.
 - q: Zijn deze tools ook in het Nederlands beschikbaar?
@@ -91,6 +91,7 @@ related:
 - beste-ai-meeting-transcriptie-tools-2026
 - beste-ai-tools-ouderen-senioren-2026
 draft: false
+
 ---
 
 # AI Leest je Documenten Sneller dan Jij: De Beste Tools voor PDF-Analyse in 2026

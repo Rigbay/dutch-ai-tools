@@ -1,4 +1,5 @@
 ---
+
 title: 'Photoshop AI vs Affinity Photo vs Luminar Neo 2026: beste AI fotobewerking'
 slug: photoshop-ai-vs-affinity-photo-vs-luminar-neo-2026
 description: Vergelijk Adobe Photoshop AI, Affinity Photo en Luminar Neo in 2026.
@@ -71,15 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Adobe Photoshop nog steeds de meest complete
-    keuze voor professionals. De specifieke beste keuze hangt af van je budget en
-    of je een abonnement of eenmalige aankoop prefereert.
+  a: Op basis van onze analyse in 2026 is Adobe Photoshop nog steeds de meest complete keuze voor professionals. De specifieke beste keuze hangt af van je budget en of je een abonnement of eenmalige aankoop prefereert.
 - q: Zijn er goede gratis alternatieven?
-  a: Ja, Photopea is een uitstekend gratis alternatief dat verrassend dicht bij Photoshop
-    komt. Canva Free biedt ook basis AI-fotobewerking.
+  a: Ja, Photopea is een uitstekend gratis alternatief dat verrassend dicht bij Photoshop komt. Canva Free biedt ook basis AI-fotobewerking.
 - q: Werken deze tools goed in het Nederlands?
-  a: Adobe Photoshop en Canva hebben volledige Nederlandse interfaces. Affinity Photo
-    en Luminar Neo zijn Engelstalig maar intuïtief te gebruiken.
+  a: Adobe Photoshop en Canva hebben volledige Nederlandse interfaces. Affinity Photo en Luminar Neo zijn Engelstalig maar intuïtief te gebruiken.
+
 ---
 
 ## Lees ook

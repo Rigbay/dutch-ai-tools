@@ -1,7 +1,8 @@
 ---
+
 title: 'Lucidchart vs draw.io vs Miro vs Visio 2026: beste diagram- en wireframe tool voor teams'
 slug: lucidchart-vs-drawio-vs-miro-vs-visio-2026
-description: Vergelijk Lucidchart, draw.io, Miro, Microsoft Visio en Whimsical in 2026: stroomdiagrammen, wireframes, mindmaps, samenwerking, prijzen en beste keuze voor Nederlandse teams en developers.
+description: "Vergelijk Lucidchart, draw.io, Miro, Microsoft Visio en Whimsical in 2026: stroomdiagrammen, wireframes, mindmaps, samenwerking, prijzen en beste keuze voor Nederlandse teams"
 category: productiviteit
 rating: 4.4
 priceRange: EUR 0-100/mnd
@@ -50,6 +51,7 @@ tools:
     bestFor: "UX designers & product teams"
     rating: 4.4
     affiliateLink: "https://www.whimsical.com/?ref=aitoolsnl"
+
 
 ---
 

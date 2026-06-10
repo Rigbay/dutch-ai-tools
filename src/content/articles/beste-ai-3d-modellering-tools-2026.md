@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI 3D Modellering & AR/VR Tools 2026: top 7 vergeleken'
 slug: beste-ai-3d-modellering-tools-2026
 description: AI tools voor 3D-modellering, AR en VR in 2026. Vergelijk Blender, Spline,
@@ -83,17 +84,12 @@ tools:
   affiliateLink: https://www.nvidia.com/nl-nl/omniverse/
 faq:
 - q: Kan ik met AI 3D-modellen maken zonder ervaring?
-  a: Ja, tools als Meshy en Luma AI genereren 3D-modellen vanuit tekstbeschrijvingen
-    of foto's. Je hebt geen 3D-software-ervaring nodig om basis modellen te maken,
-    al blijft Blender de standaard voor professioneel werk.
+  a: Ja, tools als Meshy en Luma AI genereren 3D-modellen vanuit tekstbeschrijvingen of foto's. Je hebt geen 3D-software-ervaring nodig om basis modellen te maken, al blijft Blender de standaard voor professioneel werk.
 - q: Welke AI 3D tool is het beste voor game-ontwikkeling?
-  a: Voor game-ontwikkeling zijn Kaedim (2D-naar-3D voor game assets) en Blender met
-    AI-plugins het populairst. NVIDIA Omniverse is de keuze voor real-time simulatie
-    en digital twins.
+  a: Voor game-ontwikkeling zijn Kaedim (2D-naar-3D voor game assets) en Blender met AI-plugins het populairst. NVIDIA Omniverse is de keuze voor real-time simulatie en digital twins.
 - q: Zijn AI 3D-tools duur voor hobbyisten?
-  a: Nee, Blender is volledig gratis en Spline heeft een gratis laag. Luma AI en Meshy
-    bieden ook gratis opties. Alleen professionele tools zoals Kaedim en Omniverse
-    vragen hogere tarieven.
+  a: Nee, Blender is volledig gratis en Spline heeft een gratis laag. Luma AI en Meshy bieden ook gratis opties. Alleen professionele tools zoals Kaedim en Omniverse vragen hogere tarieven.
+
 ---
 
 

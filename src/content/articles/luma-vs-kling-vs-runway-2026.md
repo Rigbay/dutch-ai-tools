@@ -1,4 +1,5 @@
 ---
+
 title: 'Luma Dream Machine vs Kling AI vs Runway Gen-3: De Beste AI Video Generatoren
   van 2026'
 slug: luma-vs-kling-vs-runway-2026
@@ -71,13 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze tests in 2026 is Luma Dream Machine de meest complete keuze
-    voor de meeste gebruikers.
+  a: Op basis van onze tests in 2026 is Luma Dream Machine de meest complete keuze voor de meeste gebruikers.
 - q: Zijn er gratis opties beschikbaar?
   a: Ja, de meeste platforms bieden een gratis instapniveau of een proefperiode aan.
 - q: Werken deze tools goed in het Nederlands?
-  a: Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse
-    taal.
+  a: Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse taal.
+
 ---
 
 Absoluut! Hier is een diepgaand Nederlands artikel over dit onderwerp.

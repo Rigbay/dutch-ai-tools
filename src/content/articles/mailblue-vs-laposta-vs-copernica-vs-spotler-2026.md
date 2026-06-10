@@ -1,4 +1,5 @@
 ---
+
 title: 'Mailblue vs Laposta vs Copernica vs Spotler 2026: beste Nederlandse email marketing tools'
 slug: mailblue-vs-laposta-vs-copernica-vs-spotler-2026
 description: Mailblue, Laposta, Copernica of Spotler in 2026? Vergelijk de beste Nederlandse email marketing platforms op
@@ -74,8 +75,8 @@ faq:
 - q: Zijn er gratis alternatieven?
   a: Ja, meerdere tools bieden gratis tiers of open-source self-host opties. Check de prijskolom in de vergelijkingstabel.
 - q: Zijn deze tools AVG-compliant?
-  a: De meeste tools bieden EU-hosting en AVG-verwerkingsovereenkomsten. Europese tools (met EU-hoofdkantoor) hebben hierin
-    een streepje voor. Controleer altijd de DPA van je gekozen tool.
+  a: De meeste tools bieden EU-hosting en AVG-verwerkingsovereenkomsten. Europese tools (met EU-hoofdkantoor) hebben hierin een streepje voor. Controleer altijd de DPA van je gekozen tool.
+
 ---
 # De Ultieme Vergelijking van E-mail Marketing Tools in Nederland (2026): Mailblue, Laposta, Copernica, Spotler en Meer
 

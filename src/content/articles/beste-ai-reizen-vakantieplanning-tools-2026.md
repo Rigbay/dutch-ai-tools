@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Reizen & Vakantieplanning 2026: top 7 vergeleken'
 slug: beste-ai-reizen-vakantieplanning-tools-2026
 description: AI tools voor reisplanning, vluchtboeking en vakantieorganisatie in 2026.
@@ -84,14 +85,12 @@ tools:
   affiliateLink: https://www.roamaround.io/
 faq:
 - q: Wat is de beste AI reisplanner voor 2026?
-  a: Google Travel met Gemini AI biedt de meest complete ervaring. TripIt is beter
-    voor zakenreizigers, Hopper voor prijsbewuste vakantiegangers.
+  a: Google Travel met Gemini AI biedt de meest complete ervaring. TripIt is beter voor zakenreizigers, Hopper voor prijsbewuste vakantiegangers.
 - q: Kan AI echt betere prijzen vinden voor vluchten?
-  a: Ja — Hopper voorspelt prijstrends en adviseert het beste boekmoment. AI kan tot
-    30% besparen door timing te optimaliseren.
+  a: Ja — Hopper voorspelt prijstrends en adviseert het beste boekmoment. AI kan tot 30% besparen door timing te optimaliseren.
 - q: Werken deze tools ook voor treinreizen in Europa?
-  a: Google Travel en Roadtrippers ondersteunen trein- en autoreizen. Voor Europese
-    treinreizen zijn NS International en Trainline goede aanvullingen.
+  a: Google Travel en Roadtrippers ondersteunen trein- en autoreizen. Voor Europese treinreizen zijn NS International en Trainline goede aanvullingen.
+
 ---
 
 

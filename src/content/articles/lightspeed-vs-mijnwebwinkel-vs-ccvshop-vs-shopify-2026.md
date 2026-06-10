@@ -1,4 +1,5 @@
 ---
+
 title: 'Lightspeed vs MijnWebwinkel vs CCV Shop vs Shopify 2026: Beste Webshop Platform Nederland'
 slug: lightspeed-vs-mijnwebwinkel-vs-ccvshop-vs-shopify-2026
 description: Lightspeed, MijnWebwinkel, CCV Shop of Shopify voor je Nederlandse webshop in 2026? Vergelijk prijzen, koppelingen,
@@ -14,7 +15,8 @@ cons:
 - Prijzen en pakketten wijzigen regelmatig
 - Transaction fees verschillen per betaalmethode
 - Niet elke niche-functionaliteit wordt behandeld
-affiliateLinks: []
+affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Shopify
@@ -25,38 +27,37 @@ tools:
   priceRange: EUR 27-300/mnd
   bestFor: Groeiende merken en omnichannel
   rating: 4.7
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: MijnWebwinkel
   verdict: Beste prijs-kwaliteit voor startende Nederlandse webshops — alles in een met NL support
   priceRange: EUR 25-125/mnd
   bestFor: Startende ondernemers
   rating: 4.5
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: CCV Shop
   verdict: Meest uitgebreide Nederlandse features (iDEAL, Klarna, facturatie) — beste voor gevestigde NL webshops
   priceRange: EUR 40-300/mnd
   bestFor: Middelgrote tot grote NL webshops
   rating: 4.4
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 - name: Lightspeed
   verdict: Sterkste kassakoppeling en voorraadbeheer — beste voor fysieke winkels met online uitbreiding
   priceRange: EUR 69-250/mnd
   bestFor: Retail met fysieke vestigingen
   rating: 4.4
+  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
 - adobe-acrobat-vs-smallpdf-vs-ilovepdf-vs-pdf-expert-2026
 - afas-vs-exact-vs-odoo-vs-sap-business-one-2026
 - ahrefs-vs-semrush-vs-moz-2026
 faq:
 - q: Welk webshop platform is het beste voor een startende ondernemer in Nederland?
-  a: MijnWebwinkel biedt de laagste instapkosten (25 EUR/maand) met NL support en vooraf geintegreerde iDEAL-betalingen. Shopify
-    is duurder maar schaalbaarder als je snel wilt groeien. CCV Shop is iets prijziger maar heeft de beste Nederlandse boekhoudkoppelingen.
-    Start met MijnWebwinkel of Shopify's Basic-plan.
+  a: MijnWebwinkel biedt de laagste instapkosten (25 EUR/maand) met NL support en vooraf geintegreerde iDEAL-betalingen. Shopify is duurder maar schaalbaarder als je snel wilt groeien. CCV Shop is iets prijziger maar heeft de beste Nederlandse boekhoudkoppelingen. Start met MijnWebwinkel of Shopify's Basic-plan.
 - q: Kan ik met al deze platforms iDEAL en Klarna aanbieden?
-  a: Ja, alle vier ondersteunen iDEAL en Klarna. CCV Shop en MijnWebwinkel hebben deze standaard ingebouwd zonder extra transactiekosten.
-    Shopify rekent extra over externe payment gateways (tenzij je Shopify Payments gebruikt). Lightspeed ondersteunt iDEAL
-    via Mollie-koppeling.
+  a: Ja, alle vier ondersteunen iDEAL en Klarna. CCV Shop en MijnWebwinkel hebben deze standaard ingebouwd zonder extra transactiekosten. Shopify rekent extra over externe payment gateways (tenzij je Shopify Payments gebruikt). Lightspeed ondersteunt iDEAL via Mollie-koppeling.
 - q: Welk platform is geschikt voor B2B-groothandel?
-  a: 'CCV Shop heeft de beste B2B-features: offertemodule, klantspecifieke prijzen, minimale bestelhoeveelheden en facturatie
-    op rekening — allemaal standaard. Lightspeed biedt B2B-functionaliteit via apps. MijnWebwinkel en Shopify vereisen vaak
-    extra plugins voor volwaardige B2B-functionaliteit.'
+  a: "'CCV Shop heeft de beste B2B-features: offertemodule, klantspecifieke prijzen, minimale bestelhoeveelheden en facturatie op rekening — allemaal standaard. Lightspeed biedt B2B-functionaliteit via apps. MijnWebwinkel en Shopify vereisen vaak extra plugins voor volwaardige B2B-functionaliteit.'"
+
 ---
 
 ## De Beste Webshop Platforms voor Nederlandse Ondernemers in 2026: Een Diepgaande Vergelijking

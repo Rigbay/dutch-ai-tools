@@ -1,4 +1,5 @@
 ---
+
 title: 'Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland'
 slug: nederlandse-ai-startups-2026
 description: 'Ontdek de beste Nederlandse AI startups in 2026. Van lokale innovaties
@@ -45,13 +46,12 @@ related:
 draft: false
 faq:
 - q: Zijn Nederlandse AI startups even goed als internationale spelers?
-  a: Ja, veel Nederlandse AI bedrijven bieden zeer competitieve oplossingen, vaak
-    met betere privacy en lokale support.
+  a: Ja, veel Nederlandse AI bedrijven bieden zeer competitieve oplossingen, vaak met betere privacy en lokale support.
 - q: Welke sectoren domineren de Nederlandse AI scene?
-  a: Fintech, healthcare, agritech en customer support zijn momenteel de sterkste
-    sectoren.
+  a: Fintech, healthcare, agritech en customer support zijn momenteel de sterkste sectoren.
 - q: Kunnen startups meegroeien met mijn bedrijf?
   a: De meeste Nederlandse AI startups bieden schaalbare enterprise plannen.
+
 ---
 
 # Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland

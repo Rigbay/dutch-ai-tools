@@ -1,4 +1,5 @@
 ---
+
 title: 'Gemini in Workspace vs Copilot voor Microsoft 365 vs Notion AI 2026: AI op
   je werk'
 slug: gemini-workspace-vs-copilot-365-vs-notion-ai-2026
@@ -74,17 +75,12 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Microsoft 365 Copilot de meest complete
-    AI werkassistent, vooral voor bedrijven die al in het Microsoft-ecosysteem zitten.
-    De keuze hangt sterk af van welk ecosysteem je al gebruikt.
+  a: Op basis van onze analyse in 2026 is Microsoft 365 Copilot de meest complete AI werkassistent, vooral voor bedrijven die al in het Microsoft-ecosysteem zitten. De keuze hangt sterk af van welk ecosysteem je al gebruikt.
 - q: Zijn er goede gratis alternatieven?
-  a: Google Gemini biedt een gratis tier in Workspace (beperkt). Notion AI heeft een
-    gratis proefperiode. Maar voor serieuze AI-ondersteuning op je werk zul je uiteindelijk
-    moeten betalen.
+  a: Google Gemini biedt een gratis tier in Workspace (beperkt). Notion AI heeft een gratis proefperiode. Maar voor serieuze AI-ondersteuning op je werk zul je uiteindelijk moeten betalen.
 - q: Werken deze tools goed in het Nederlands?
-  a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot
-    en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig
-    maar begrijpt Nederlandse prompts.
+  a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig maar begrijpt Nederlandse prompts.
+
 ---
 
 ## Lees ook

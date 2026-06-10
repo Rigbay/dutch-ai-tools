@@ -1,4 +1,5 @@
 ---
+
 title: 'Notion vs Obsidian vs Logseq 2026: Welke PKM Tool Past Bij Jou?'
 slug: notion-vs-obsidian-vs-logseq-2026
 description: 'Notion, Obsidian en Logseq in 2026 vergeleken: welke personal knowledge
@@ -47,16 +48,12 @@ related:
 draft: false
 faq:
 - q: Wat is het beste notitieprogramma voor personal knowledge management in 2026?
-  a: Obsidian is de beste keuze voor PKM vanwege de lokale bestanden, snelle prestaties,
-    onbeperkte aanpasbaarheid via plugins en sterke backlink-functie.
+  a: Obsidian is de beste keuze voor PKM vanwege de lokale bestanden, snelle prestaties, onbeperkte aanpasbaarheid via plugins en sterke backlink-functie.
 - q: Is Notion of Obsidian beter?
-  a: Notion is beter voor teamgebruik en projectmanagement dankzij databases en collaboratie.
-    Obsidian is beter voor persoonlijke kennismanagement met lokale veiligheid en
-    aanpasbaarheid.
+  a: Notion is beter voor teamgebruik en projectmanagement dankzij databases en collaboratie. Obsidian is beter voor persoonlijke kennismanagement met lokale veiligheid en aanpasbaarheid.
 - q: Is Logseq een goed alternatief voor Obsidian in 2026?
-  a: Ja, Logseq is een uitstekend alternatief, vooral als je een outliner-workflow
-    prefereert boven de document-benadering van Obsidian, of als open-source software
-    belangrijk voor je is.
+  a: Ja, Logseq is een uitstekend alternatief, vooral als je een outliner-workflow prefereert boven de document-benadering van Obsidian, of als open-source software belangrijk voor je is.
+
 ---
 
 # Notion vs Obsidian vs Logseq 2026: Welke Tool Kies Jij?

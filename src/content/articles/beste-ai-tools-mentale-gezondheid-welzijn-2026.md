@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Mentale Gezondheid & Welzijn 2026: top 7 vergeleken'
 slug: beste-ai-tools-mentale-gezondheid-welzijn-2026
 description: 'Vergelijk de beste AI-tools voor mentale gezondheid en welzijn in 2026.
@@ -71,18 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor mentale gezondheid in 2026?
-  a: Wysa is vaak de topkeuze vanwege de combinatie van evidence-based CGT, mindfulness
-    en anonimiteit. Voor specifieke behoeften zoals gestructureerde therapie (Woebot)
-    of slaapoptimalisatie (Calm AI) kan een andere tool beter passen.
+  a: Wysa is vaak de topkeuze vanwege de combinatie van evidence-based CGT, mindfulness en anonimiteit. Voor specifieke behoeften zoals gestructureerde therapie (Woebot) of slaapoptimalisatie (Calm AI) kan een andere tool beter passen.
 - q: Zijn deze mentale gezondheid AI-tools AVG-compliant?
-  a: De meeste internationale tools voldoen aan Europese privacywetgeving, maar controleer
-    zelf de actuele AVG-compliance. Wysa en Mindler zijn expliciet AVG-compliant met
-    EU-servers. Controleer altijd waar gebruikersdata wordt opgeslagen.
+  a: De meeste internationale tools voldoen aan Europese privacywetgeving, maar controleer zelf de actuele AVG-compliance. Wysa en Mindler zijn expliciet AVG-compliant met EU-servers. Controleer altijd waar gebruikersdata wordt opgeslagen.
 - q: Kan een AI-chatbot een menselijke therapeut vervangen?
-  a: AI-tools zijn een waardevolle aanvulling, maar geen volledige vervanging van
-    professionele therapeuten. Voor lichte tot matige klachten kunnen ze uitstekend
-    werken als eerste stap of zelfhulptool. Bij ernstige psychische klachten is professionele
-    hulp noodzakelijk.
+  a: AI-tools zijn een waardevolle aanvulling, maar geen volledige vervanging van professionele therapeuten. Voor lichte tot matige klachten kunnen ze uitstekend werken als eerste stap of zelfhulptool. Bij ernstige psychische klachten is professionele hulp noodzakelijk.
+
 ---
 
 # Beste AI Tools voor Mentale Gezondheid & Welzijn 2026: top 7 vergeleken

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Compliance Tools 2026: Top 5 Vergeleken voor Nederlandse Bedrijven'
 slug: beste-ai-compliance-tools-2026
 description: 'De EU AI Act dwingt compliance af. Vergelijk de beste AI compliance
@@ -58,17 +59,12 @@ related:
 draft: false
 faq:
 - q: Wanneer wordt de EU AI Act gehandhaafd?
-  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste
-    bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico.
-    Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
+  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
 - q: Geldt de EU AI Act ook voor kleine bedrijven?
-  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet
-    binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt
-    op transparantie en documentatie, niet op dure certificeringstrajecten.
+  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.
 - q: Wat zijn de boetes bij overtreding van de EU AI Act?
-  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet,
-    afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al
-    te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
+  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
+
 ---
 
 # De EU AI Act nadert: Zo kiezen Nederlandse bedrijven de juiste AI compliance tools in 2026

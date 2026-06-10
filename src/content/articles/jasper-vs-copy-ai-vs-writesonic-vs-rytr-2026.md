@@ -1,4 +1,5 @@
 ---
+
 title: 'Jasper AI vs Copy.ai vs Writesonic vs Rytr 2026: beste AI copywriting tools'
 slug: jasper-vs-copy-ai-vs-writesonic-vs-rytr-2026
 description: Welke AI copywriting tool is de beste in 2026? Vergelijk Jasper AI, Copy.ai,
@@ -75,8 +76,8 @@ faq:
 - q: Kan ik gratis AI copywriting tools gebruiken?
   a: Ja, Rytr en Copy.ai hebben sterke gratis plannen.
 - q: Zijn AI-gegenereerde teksten SEO-vriendelijk?
-  a: Ja, in 2026 herkent Google AI-content niet meer als negatief — kwaliteit is wat
-    telt.
+  a: Ja, in 2026 herkent Google AI-content niet meer als negatief — kwaliteit is wat telt.
+
 ---
 
 # Jasper AI vs Copy.ai vs Writesonic vs Rytr 2026: welke AI schrijft de beste Nederlandse teksten?

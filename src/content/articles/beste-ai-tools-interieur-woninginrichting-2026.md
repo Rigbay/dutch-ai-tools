@@ -1,4 +1,5 @@
 ---
+
 title: Beste AI Tools voor Interieur & Woninginrichting 2026
 slug: beste-ai-tools-interieur-woninginrichting-2026
 description: AI voor interieurdesign - vergelijk RoomGPT, Interior AI, Planner 5D
@@ -71,20 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor Interieur & Woninginrichting in 2026?
-  a: Dat hangt af van je specifieke behoeften en budget. Voor de meeste gebruikers
-    is RoomGPT een uitstekende start vanwege de balans tussen functionaliteit en prijs.
-    Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool
-    en use case.
+  a: Dat hangt af van je specifieke behoeften en budget. Voor de meeste gebruikers is RoomGPT een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool en use case.
 - q: Zijn deze AI tools beschikbaar in het Nederlands?
-  a: De meeste internationale AI tools hebben Engelse interfaces maar werken prima
-    voor Nederlandse gebruikers. Sommige tools zoals Dyme en Flow Your Money zijn
-    specifiek Nederlands. Check per tool of Nederlandse taal en ondersteuning beschikbaar
-    is.
+  a: De meeste internationale AI tools hebben Engelse interfaces maar werken prima voor Nederlandse gebruikers. Sommige tools zoals Dyme en Flow Your Money zijn specifiek Nederlands. Check per tool of Nederlandse taal en ondersteuning beschikbaar is.
 - q: Hoeveel kost een goede AI tool voor deze toepassing?
-  a: 'De prijzen variëren sterk: van gratis (met beperkingen) tot €100+ per maand
-    voor enterprise features. De meeste tools in dit artikel kosten tussen de €10
-    en €50 per maand. Begin met een gratis trial om te ontdekken wat bij je past voordat
-    je een abonnement afsluit.'
+  a: "'De prijzen variëren sterk: van gratis (met beperkingen) tot €100+ per maand voor enterprise features. De meeste tools in dit artikel kosten tussen de €10 en €50 per maand. Begin met een gratis trial om te ontdekken wat bij je past voordat je een abonnement afsluit.'"
+
 ---
 
 # De Toekomst van Thuis: De Beste AI Tools voor Interieur en Woninginrichting in 2026

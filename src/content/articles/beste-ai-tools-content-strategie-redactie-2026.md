@@ -1,7 +1,8 @@
 ---
+
 title: 'Beste AI Tools voor Content Strategie & Redactie 2026: top 7 vergeleken'
 slug: beste-ai-tools-content-strategie-redactie-2026
-description: "AI content strategie tools voor 2026: MarketMuse, Clearscope, Frase AI, Surfer SEO, Semrush Content AI, WordPress Jetpack AI en Copy.ai vergeleken voor contentplanning en redactie."
+description: "AI content strategie tools voor 2026: MarketMuse, Clearscope, Frase AI, Surfer SEO, Semrush Content AI, WordPress Jetpack AI en Copy.ai vergeleken voor contentplanning en
 category: marketing
 rating: 4.3
 priceRange: EUR 0-500/mnd
@@ -76,6 +77,7 @@ faq:
     a: "Ja, verschillende tools bieden een gratis tier. Bekijk de prijsrange per tool in de vergelijkingstabel. Sommige tools hebben gratis versies met voldoende functionaliteit om te beginnen."
   - q: "Hoe kies ik de juiste AI marketing tool?"
     a: "Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor kolom in de vergelijkingstabel. Start met een gratis proefperiode van 2-3 tools voordat je een keuze maakt."
+
 ---
 
 

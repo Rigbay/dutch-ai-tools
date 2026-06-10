@@ -1,4 +1,5 @@
 ---
+
 title: 'Synthesia vs HeyGen vs Colossyan 2026: de beste AI video avatar tools'
 slug: synthesia-vs-heygen-vs-colossyan-2026
 description: 'Vergelijking van de beste AI video avatar tools in 2026. Welke tool
@@ -71,13 +72,12 @@ related:
 draft: false
 faq:
 - q: Zijn AI-avatars realistisch genoeg voor professionele video's?
-  a: Ja, Synthesia en HeyGen produceren in 2026 avatars die nauwelijks van echt te
-    onderscheiden zijn.
+  a: Ja, Synthesia en HeyGen produceren in 2026 avatars die nauwelijks van echt te onderscheiden zijn.
 - q: Kan ik mijn eigen avatar maken?
-  a: Ja, bij Synthesia en HeyGen kun je met een paar minuten video je eigen AI-avatar
-    trainen.
+  a: Ja, bij Synthesia en HeyGen kun je met een paar minuten video je eigen AI-avatar trainen.
 - q: Ondersteunen deze tools Nederlandse stemmen?
   a: Ja, alle top tools bieden inmiddels natuurlijke Nederlandse stemmen.
+
 ---
 
 # Synthesia vs HeyGen vs Colossyan 2026: welke AI-avatar spreekt jouw publiek aan?

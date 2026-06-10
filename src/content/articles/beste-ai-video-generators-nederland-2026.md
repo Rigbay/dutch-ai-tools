@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Video Generators 2026: Sora vs Runway vs Kling vs Luma voor Nederlandse
   Marketers'
 slug: beste-ai-video-generators-nederland-2026
@@ -56,18 +57,12 @@ related:
 draft: false
 faq:
 - q: Welke AI video generator is het beste voor Nederlandse social media?
-  a: Voor korte, dynamische social media-video's is Runway het meest geschikt door
-    zijn gebruiksgemak en realtime editing. Voor declaratieve productvideo's past
-    Luma Dream Machine beter. Kling is een sterke budgetkeuze voor karaktergerichte
-    content.
+  a: Voor korte, dynamische social media-video's is Runway het meest geschikt door zijn gebruiksgemak en realtime editing. Voor declaratieve productvideo's past Luma Dream Machine beter. Kling is een sterke budgetkeuze voor karaktergerichte content.
 - q: Kan ik AI gegenereerde video's commercieel gebruiken?
-  a: Alle genoemde tools (Sora, Runway, Kling, Luma) bieden betaalde abonnementen
-    met commerciële licenties. Controleer altijd de servicevoorwaarden per tool, vooral
-    bij gebruik voor klantenwerk.
+  a: Alle genoemde tools (Sora, Runway, Kling, Luma) bieden betaalde abonnementen met commerciële licenties. Controleer altijd de servicevoorwaarden per tool, vooral bij gebruik voor klantenwerk.
 - q: Is mijn Nederlandstalige audio geschikt voor AI video generation?
-  a: De meeste AI video generators focust nog primair op video-beelden. Voor NL-audio
-    combineer je een videogenerator met een stemgenerator zoals ElevenLabs of PlayHT.
-    Runway heeft ook text-to-speech integraties.
+  a: De meeste AI video generators focust nog primair op video-beelden. Voor NL-audio combineer je een videogenerator met een stemgenerator zoals ElevenLabs of PlayHT. Runway heeft ook text-to-speech integraties.
+
 ---
 ---
 

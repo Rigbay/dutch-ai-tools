@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Podcasters 2026: top 6 vergeleken'
 slug: beste-ai-tools-podcasters-2026
 description: 'AI voor podcasters in 2026: vergelijk Descript, Opus Clip, Riverside,
@@ -67,10 +68,10 @@ faq:
 - q: Welke AI tool is het beste voor podcast editing?
   a: Descript is de favoriet onder professionele podcasters in 2026.
 - q: Kan AI Nederlandse podcasts goed transcriberen?
-  a: Descript en Riverside hebben goede Nederlandse ondersteuning, maar test altijd
-    even.
+  a: Descript en Riverside hebben goede Nederlandse ondersteuning, maar test altijd even.
 - q: Hoe maak ik virale clips van mijn podcast?
   a: Opus Clip is hiervoor speciaal ontworpen en bespaart uren werk.
+
 ---
 ## Snel advies
 

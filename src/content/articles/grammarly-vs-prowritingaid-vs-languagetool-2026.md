@@ -1,4 +1,5 @@
 ---
+
 title: 'Grammarly vs ProWritingAid vs LanguageTool 2026: beste AI schrijfassistent
   voor Nederlands'
 slug: grammarly-vs-prowritingaid-vs-languagetool-2026
@@ -74,11 +75,10 @@ faq:
 - q: Welke tool is het beste voor Nederlandse grammaticacontrole?
   a: LanguageTool is de absolute winnaar voor Nederlands met native grammaticaregels.
 - q: Is Grammarly goed in Nederlands?
-  a: Grammarly's Nederlandse ondersteuning is in 2026 flink verbeterd maar LanguageTool
-    blijft beter voor Nederlands.
+  a: Grammarly's Nederlandse ondersteuning is in 2026 flink verbeterd maar LanguageTool blijft beter voor Nederlands.
 - q: Wat is het verschil tussen een schrijfassistent en ChatGPT?
-  a: Schrijfassistenten corrigeren en verbeteren bestaande tekst; ChatGPT genereert
-    nieuwe tekst vanaf nul.
+  a: Schrijfassistenten corrigeren en verbeteren bestaande tekst; ChatGPT genereert nieuwe tekst vanaf nul.
+
 ---
 
 # Grammarly vs ProWritingAid vs LanguageTool 2026: welke AI schrijfassistent begrijpt Nederlands écht?

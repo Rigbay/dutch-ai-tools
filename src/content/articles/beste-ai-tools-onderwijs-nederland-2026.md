@@ -1,4 +1,5 @@
 ---
+
 title: Beste AI Tools voor het Onderwijs in Nederland 2026 — volledige vergelijking
 slug: beste-ai-tools-onderwijs-nederland-2026
 description: Vergelijking van de beste ai tools voor het onderwijs in nederland 2026
@@ -76,20 +77,12 @@ related:
 - ai-avg-compliance-tools-2026
 faq:
 - q: Wat is de beste AI-tool voor het Nederlandse onderwijs?
-  a: LessonUp AI is de beste keuze voor interactieve lessen in het primair en voortgezet
-    onderwijs. Voor universiteiten en HBO-instellingen is FeedbackFruits AI de beste
-    optie vanwege de diepe integratie met Canvas en Brightspace, de twee dominante
-    LMS'en in het Nederlandse hoger onderwijs.
+  a: LessonUp AI is de beste keuze voor interactieve lessen in het primair en voortgezet onderwijs. Voor universiteiten en HBO-instellingen is FeedbackFruits AI de beste optie vanwege de diepe integratie met Canvas en Brightspace, de twee dominante LMS'en in het Nederlandse hoger onderwijs.
 - q: Zijn AI-tools in het onderwijs AVG-proof?
-  a: Nederlandse AI-onderwijstools zoals LessonUp, Magister Learn en Snappet zijn
-    AVG-conform en verwerken leerlinggegevens op servers binnen de EU. Voor niet-Nederlandse
-    tools zoals Khanmigo is het belangrijk om het dataverwerkingsovereenkomst (DPA/verwerkersovereenkomst)
-    te controleren voordat je ze met leerlinggegevens gebruikt.
+  a: Nederlandse AI-onderwijstools zoals LessonUp, Magister Learn en Snappet zijn AVG-conform en verwerken leerlinggegevens op servers binnen de EU. Voor niet-Nederlandse tools zoals Khanmigo is het belangrijk om het dataverwerkingsovereenkomst (DPA/verwerkersovereenkomst) te controleren voordat je ze met leerlinggegevens gebruikt.
 - q: Wat kost een AI-onderwijstool gemiddeld?
-  a: De kosten variëren sterk per type tool. Lesplatforms zoals LessonUp en Snappet
-    kosten €5-15 per leerling per jaar. Leerlingvolgsystemen zoals Magister en SOMtoday
-    rekenen €3-10 per leerling per jaar. Internationale tools zoals Khanmigo zijn
-    vaak gratis voor docenten, met premium-opties vanaf $4/maand.
+  a: De kosten variëren sterk per type tool. Lesplatforms zoals LessonUp en Snappet kosten €5-15 per leerling per jaar. Leerlingvolgsystemen zoals Magister en SOMtoday rekenen €3-10 per leerling per jaar. Internationale tools zoals Khanmigo zijn vaak gratis voor docenten, met premium-opties vanaf $4/maand.
+
 ---
 
 # Beste AI Tools voor het Onderwijs in Nederland 2026

@@ -1,4 +1,5 @@
 ---
+
 title: 'AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?'
 slug: ai-tools-mkb-starten-2026
 description: Nog nooit AI gebruikt in je bedrijf? Deze gids helpt MKB-ondernemers
@@ -73,17 +74,12 @@ related:
 draft: false
 faq:
 - q: Is dit artikel gebaseerd op echte data?
-  a: Ja, alle genoemde cijfers komen uit Nederlands marktonderzoek van SearchLab (2026),
-    Lleverage (2026), Newcom (mei 2026), Spicy Advisory/Beeckestijn (2026) en de AI-barometer
-    (feb 2026).
+  a: Ja, alle genoemde cijfers komen uit Nederlands marktonderzoek van SearchLab (2026), Lleverage (2026), Newcom (mei 2026), Spicy Advisory/Beeckestijn (2026) en de AI-barometer (feb 2026).
 - q: Voor wie is dit artikel geschreven?
-  a: Voor Nederlandse professionals, managers en ondernemers die willen weten welke
-    AI tools relevant zijn in 2026. Zowel beginners als gevorderden vinden hier bruikbare
-    inzichten.
+  a: Voor Nederlandse professionals, managers en ondernemers die willen weten welke AI tools relevant zijn in 2026. Zowel beginners als gevorderden vinden hier bruikbare inzichten.
 - q: Hoe actueel is deze informatie?
-  a: Dit artikel is geschreven in mei 2026 en weerspiegelt de stand van de Nederlandse
-    AI-markt op dat moment. De AI-wereld verandert snel — check bij twijfel de actuele
-    prijzen en features bij de aanbieder zelf.
+  a: Dit artikel is geschreven in mei 2026 en weerspiegelt de stand van de Nederlandse AI-markt op dat moment. De AI-wereld verandert snel — check bij twijfel de actuele prijzen en features bij de aanbieder zelf.
+
 ---
 
 Absoluut! Hier is een artikel gericht op MKB-ondernemers die nog geen ervaring hebben met AI, met een focus op praktische toepassingen en beginner-vriendelijke tools.

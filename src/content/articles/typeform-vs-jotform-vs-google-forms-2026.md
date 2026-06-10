@@ -1,4 +1,5 @@
 ---
+
 title: 'Typeform vs Jotform vs Google Forms 2026: Beste Online Formulieren Tool Vergeleken'
 slug: typeform-vs-jotform-vs-google-forms-2026
 description: Typeform, Jotform of Google Forms in 2026? Vergelijk AI-features, designs, prijs en AVG-compliance voor
@@ -46,15 +47,12 @@ related:
 draft: false
 faq:
 - q: Welke formulieren-tool is AVG-compliant?
-  a: 'Alle drie zijn AVG-compliant, maar met verschillen: Jotform biedt EU-datacenters, een Data Processing Agreement (DPA)
-    en HIPAA-compliance. Typeform heeft EU-servers en een DPA. Google Forms valt onder Google Workspace''s AVG-verwerkingsovereenkomst
-    — acceptabel voor niet-gevoelige data.'
+  a: "'Alle drie zijn AVG-compliant, maar met verschillen: Jotform biedt EU-datacenters, een Data Processing Agreement (DPA) en HIPAA-compliance. Typeform heeft EU-servers en een DPA. Google Forms valt onder Google Workspace''s AVG-verwerkingsovereenkomst — acceptabel voor niet-gevoelige data.'"
 - q: Kan ik betalingen ontvangen via deze formulieren?
-  a: Jotform ondersteunt betalingen via Stripe, PayPal, Mollie (Nederlands!) en andere payment gateways. Typeform biedt Stripe-integratie
-    (alleen betaalde plannen). Google Forms ondersteunt geen native betalingen.
+  a: Jotform ondersteunt betalingen via Stripe, PayPal, Mollie (Nederlands!) en andere payment gateways. Typeform biedt Stripe-integratie (alleen betaalde plannen). Google Forms ondersteunt geen native betalingen.
 - q: Wat kost een professioneel formulier per maand?
-  a: Google Forms is gratis (onderdeel Google Workspace). Typeform start bij €25/maand (Basic) tot €55/maand (Business). Jotform
-    start bij gratis (5 formulieren) tot €35/maand (Gold, 100 formulieren).
+  a: Google Forms is gratis (onderdeel Google Workspace). Typeform start bij €25/maand (Basic) tot €55/maand (Business). Jotform start bij gratis (5 formulieren) tot €35/maand (Gold, 100 formulieren).
+
 ---
 
 ## Lees ook

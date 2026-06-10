@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Podcast & Audio Productie Tools 2026: top 7 vergeleken'
 slug: beste-ai-podcast-productie-tools-2026
 description: AI tools voor podcastproductie en audiobewerking in 2026. Vergelijk Descript,
@@ -84,17 +85,12 @@ tools:
   affiliateLink: https://podcast.adobe.com/
 faq:
 - q: Welke AI podcast tool is het beste voor beginners?
-  a: Adobe Podcast is gratis en ideaal om te starten met AI-ruisonderdrukking. Riverside
-    biedt een gratis plan voor remote opnames met lokale kwaliteit. Podcastle combineert
-    opname en editing in één platform.
+  a: Adobe Podcast is gratis en ideaal om te starten met AI-ruisonderdrukking. Riverside biedt een gratis plan voor remote opnames met lokale kwaliteit. Podcastle combineert opname en editing in één platform.
 - q: Kan AI mijn podcast volledig automatisch editen?
-  a: 'Alitu en Cleanvoice doen dit: upload je ruwe opname, en zij verwijderen stiltes,
-    um''s en mondgeluiden, normaliseren het volume en voegen intro/outro toe. Descript
-    laat je daarna nog tekst-gebaseerd fine-tunen.'
+  a: "'Alitu en Cleanvoice doen dit: upload je ruwe opname, en zij verwijderen stiltes, um''s en mondgeluiden, normaliseren het volume en voegen intro/outro toe. Descript laat je daarna nog tekst-gebaseerd fine-tunen.'"
 - q: Is Descript het geld waard voor Nederlandse podcasters?
-  a: Descript ondersteunt Nederlandse transcriptie en is zeer krachtig voor tekst-gebaseerde
-    editing. Voor alleen audio-cleanup is Cleanvoice of Alitu voordeliger. Descript
-    is het best waard als je ook video-podcast maakt.
+  a: Descript ondersteunt Nederlandse transcriptie en is zeer krachtig voor tekst-gebaseerde editing. Voor alleen audio-cleanup is Cleanvoice of Alitu voordeliger. Descript is het best waard als je ook video-podcast maakt.
+
 ---
 
 

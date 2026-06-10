@@ -1,4 +1,5 @@
 ---
+
 title: 'AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen'
 slug: ai-beeldherkenning-2026
 description: Vergelijk de beste AI beeldherkenning en computer vision tools in 2026.
@@ -45,12 +46,12 @@ related:
 draft: false
 faq:
 - q: Is beeldherkenning privacyvriendelijk?
-  a: Afhankelijk van de implementatie. Kies altijd voor on-premise of goed beveiligde
-    cloud oplossingen bij gevoelige data.
+  a: Afhankelijk van de implementatie. Kies altijd voor on-premise of goed beveiligde cloud oplossingen bij gevoelige data.
 - q: Kan ik AI beeldherkenning gebruiken zonder programmeerkennis?
   a: Ja, er zijn no-code tools en platforms die computer vision toegankelijk maken.
 - q: Wat zijn populaire use cases in Nederland?
   a: Retail (productherkenning), beveiliging, agritech en medische beeldanalyse.
+
 ---
 # AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen
 

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Research & Academisch Werk 2026: top 7 vergeleken'
 slug: beste-ai-research-academische-tools-2026
 description: AI tools voor wetenschappelijk onderzoek en academisch schrijven in 2026.
@@ -83,17 +84,12 @@ tools:
   affiliateLink: https://www.scholarcy.com/
 faq:
 - q: Zijn AI research tools accuraat genoeg voor academisch werk?
-  a: Ja, mits je de output controleert. Elicit en Semantic Scholar gebruiken peer-reviewed
-    bronnen en geven directe links naar papers. Gebruik AI als assistent, niet als
-    vervanging van eigen literatuuronderzoek.
+  a: Ja, mits je de output controleert. Elicit en Semantic Scholar gebruiken peer-reviewed bronnen en geven directe links naar papers. Gebruik AI als assistent, niet als vervanging van eigen literatuuronderzoek.
 - q: Welke tool is het beste voor een literatuurstudie?
-  a: 'Elicit is onverslaanbaar voor literatuuronderzoek: stel een vraag en krijg een
-    tabel met bevindingen uit tientallen papers. Research Rabbit helpt bij het ontdekken
-    van gerelateerd werk en auteurs.'
+  a: "'Elicit is onverslaanbaar voor literatuuronderzoek: stel een vraag en krijg een tabel met bevindingen uit tientallen papers. Research Rabbit helpt bij het ontdekken van gerelateerd werk en auteurs.'"
 - q: Kunnen deze tools helpen bij citatiebeheer?
-  a: Paperpile is gespecialiseerd in referentiebeheer met Google Docs integratie.
-    Scite laat zien hoe papers worden geciteerd (ondersteunend, weerleggend of neutraal),
-    wat waardevol is voor citatie-analyse.
+  a: Paperpile is gespecialiseerd in referentiebeheer met Google Docs integratie. Scite laat zien hoe papers worden geciteerd (ondersteunend, weerleggend of neutraal), wat waardevol is voor citatie-analyse.
+
 ---
 
 

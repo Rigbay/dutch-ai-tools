@@ -1,7 +1,8 @@
 ---
+
 title: 'Online Boekhouden 2026: Exact Online vs Moneybird vs Snelstart vs e-Boekhouden vs Yuki — beste boekhoudsoftware voor ZZP en MKB'
 slug: online-boekhouden-vergelijken-exact-moneybird-snelstart-2026
-description: 'Vergelijk de 5 beste online boekhoudpakketten in 2026: Exact Online, Moneybird, Snelstart, e-Boekhouden en Yuki. Welke boekhoudsoftware past bij jouw onderneming? Prijzen, koppelingen met Belastingdienst en AI-features vergeleken.'
+description: 'Vergelijk de 5 beste online boekhoudpakketten in 2026: Exact Online, Moneybird, Snelstart, e-Boekhouden en Yuki. Welke boekhoudsoftware past bij jouw onderneming? Prijzen,
 category: business
 rating: 4.5
 priceRange: EUR 0-110/mnd
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 ---
 
 ## Online Boekhouden 2026

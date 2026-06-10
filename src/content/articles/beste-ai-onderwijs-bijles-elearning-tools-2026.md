@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Onderwijs, Bijles & E-learning 2026: top 7 vergeleken'
 slug: beste-ai-onderwijs-bijles-elearning-tools-2026
 description: AI tools voor onderwijs, bijles en online leren in 2026. Vergelijk Khan
@@ -79,14 +80,12 @@ tools:
   affiliateLink: https://www.notion.so
 faq:
 - q: Wat is de beste AI bijlesdocent voor scholieren?
-  a: Khan Academy (Khanmigo) is de beste keuze — een AI-tutor die door vragen te stellen
-    laat ontdekken. Gratis en dekt alle schoolvakken.
+  a: Khan Academy (Khanmigo) is de beste keuze — een AI-tutor die door vragen te stellen laat ontdekken. Gratis en dekt alle schoolvakken.
 - q: Kan AI helpen bij het leren van talen?
-  a: Ja — Duolingo met AI-tutor biedt adaptieve oefeningen, spraakherkenning en AI-roleplay
-    in meer dan 40 talen.
+  a: Ja — Duolingo met AI-tutor biedt adaptieve oefeningen, spraakherkenning en AI-roleplay in meer dan 40 talen.
 - q: Zijn deze tools geschikt voor het Nederlandse onderwijssysteem?
-  a: Ja — Khan Academy, Quizlet en Grammarly werken met Nederlands lesmateriaal. Duolingo
-    biedt Nederlands als doeltaal.
+  a: Ja — Khan Academy, Quizlet en Grammarly werken met Nederlands lesmateriaal. Duolingo biedt Nederlands als doeltaal.
+
 ---
 
 

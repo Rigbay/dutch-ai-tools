@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken'
 slug: beste-ai-tools-voeding-dieet-2026
 description: AI tools voor voeding en dieet in 2026. Vergelijk MyFitnessPal AI, Lifesum,
@@ -70,18 +71,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI tool voor voeding en dieet in 2026?
-  a: MyFitnessPal AI is de allround topkeuze dankzij de enorme voedingsdatabase en
-    flexibele tracking. Voor gewichtsverlies met gedragsverandering is Noom AI sterker,
-    terwijl Lifesum uitblinkt in gepersonaliseerde maaltijdplannen.
+  a: MyFitnessPal AI is de allround topkeuze dankzij de enorme voedingsdatabase en flexibele tracking. Voor gewichtsverlies met gedragsverandering is Noom AI sterker, terwijl Lifesum uitblinkt in gepersonaliseerde maaltijdplannen.
 - q: Zijn deze voeding-AI-tools AVG-compliant?
-  a: De meeste internationale tools voldoen aan de Europese AVG. MyFitnessPal en Lifesum
-    hebben expliciete EU-compliance. Let bij CGM-gebaseerde tools zoals NutriSense
-    op waar gezondheidsdata wordt opgeslagen en verwerkt.
+  a: De meeste internationale tools voldoen aan de Europese AVG. MyFitnessPal en Lifesum hebben expliciete EU-compliance. Let bij CGM-gebaseerde tools zoals NutriSense op waar gezondheidsdata wordt opgeslagen en verwerkt.
 - q: Hoe kies ik de juiste AI-voedingstool?
-  a: 'Begin met je primaire doel: calorie-tracking (MyFitnessPal), gewichtsverlies
-    (Noom), gepersonaliseerde maaltijden (Lifesum), of medische dieetbeperkingen (EatLove).
-    De meeste tools bieden een gratis proefperiode — probeer er twee of drie voor
-    je beslist.'
+  a: "'Begin met je primaire doel: calorie-tracking (MyFitnessPal), gewichtsverlies (Noom), gepersonaliseerde maaltijden (Lifesum), of medische dieetbeperkingen (EatLove). De meeste tools bieden een gratis proefperiode — probeer er twee of drie voor je beslist.'"
+
 ---
 
 # Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken

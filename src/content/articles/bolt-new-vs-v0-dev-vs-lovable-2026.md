@@ -1,4 +1,5 @@
 ---
+
 title: 'Bolt.new vs v0.dev vs Lovable 2026: de beste AI app builders voor niet-developers'
 slug: bolt-new-vs-v0-dev-vs-lovable-2026
 description: 'Vergelijk Bolt.new, v0.dev en Lovable in 2026: welke AI tool bouwt de
@@ -70,16 +71,12 @@ related:
 draft: false
 faq:
 - q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Bolt.new de meest complete keuze voor de
-    meeste Nederlandse gebruikers. De specifieke beste keuze hangt af van je budget,
-    technische kennis en het type app dat je wilt bouwen.
+  a: Op basis van onze analyse in 2026 is Bolt.new de meest complete keuze voor de meeste Nederlandse gebruikers. De specifieke beste keuze hangt af van je budget, technische kennis en het type app dat je wilt bouwen.
 - q: Zijn er goede gratis alternatieven?
-  a: Ja, Bolt.new, v0.dev en Lovable bieden alle drie een gratis instapniveau. GPT
-    Engineer is volledig open-source en gratis te gebruiken als je het zelf host.
+  a: Ja, Bolt.new, v0.dev en Lovable bieden alle drie een gratis instapniveau. GPT Engineer is volledig open-source en gratis te gebruiken als je het zelf host.
 - q: Werken deze tools goed in het Nederlands?
-  a: De meeste AI app builders werken met Engelse prompts, maar begrijpen ook Nederlandse
-    instructies. De output is doorgaans in het Engels (code) maar de gegenereerde
-    UI-teksten kun je eenvoudig naar het Nederlands vertalen.
+  a: De meeste AI app builders werken met Engelse prompts, maar begrijpen ook Nederlandse instructies. De output is doorgaans in het Engels (code) maar de gegenereerde UI-teksten kun je eenvoudig naar het Nederlands vertalen.
+
 ---
 ## Lees ook
 

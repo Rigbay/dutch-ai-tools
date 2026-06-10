@@ -1,4 +1,5 @@
 ---
+
 title: 'Notion AI vs ClickUp AI vs Monday.com AI 2026: beste AI projectmanagement
   tools'
 slug: notion-ai-vs-clickup-ai-vs-monday-ai-2026
@@ -72,12 +73,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste AI projectmanagement tool?
-  a: Voor de meeste gebruikers is Notion AI de beste keuze vanwege de combinatie van
-    kennisbank en AI-assistentie.
+  a: Voor de meeste gebruikers is Notion AI de beste keuze vanwege de combinatie van kennisbank en AI-assistentie.
 - q: Is er een gratis versie?
   a: Ja, de meeste tools bieden een gratis instapniveau of proefperiode aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools hebben in 2026 uitstekende Nederlandse taalondersteuning.
+
 ---
 
 # Notion AI vs ClickUp AI vs Monday.com AI 2026: welke AI projectmanagement tool past bij jou?

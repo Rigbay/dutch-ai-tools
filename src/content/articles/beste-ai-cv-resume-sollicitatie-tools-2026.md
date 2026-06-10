@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI CV & Sollicitatie Tools 2026: top 7 vergeleken'
 slug: beste-ai-cv-resume-sollicitatie-tools-2026
 description: AI tools voor CV's, sollicitatiebrieven en voorbereiding in 2026. Vergelijk
@@ -82,16 +83,12 @@ tools:
   affiliateLink: https://resume.io/
 faq:
 - q: Herken ATS-systemen AI-geoptimaliseerde CV's?
-  a: Ja, en dat is precies de bedoeling. Rezi en Simplify optimaliseren specifiek
-    voor ATS-leesbaarheid. Het doel is dat jouw CV leesbaar is voor zowel de software
-    als de recruiter.
+  a: Ja, en dat is precies de bedoeling. Rezi en Simplify optimaliseren specifiek voor ATS-leesbaarheid. Het doel is dat jouw CV leesbaar is voor zowel de software als de recruiter.
 - q: Is een AI-CV beter dan een zelfgeschreven CV?
-  a: AI helpt met optimalisatie en bewoording, maar jouw ervaring en persoonlijke
-    verhalen zijn essentieel. Gebruik AI als assistent, niet als vervanger van jouw
-    unieke profiel.
+  a: AI helpt met optimalisatie en bewoording, maar jouw ervaring en persoonlijke verhalen zijn essentieel. Gebruik AI als assistent, niet als vervanger van jouw unieke profiel.
 - q: Zijn deze tools geschikt voor Nederlandse sollicitaties?
-  a: Ja, alle genoemde tools werken met Nederlandse templates. Voor specifiek Nederlandse
-    ATS-systemen zoals Visma | YouServe is Rezi de beste keuze.
+  a: Ja, alle genoemde tools werken met Nederlandse templates. Voor specifiek Nederlandse ATS-systemen zoals Visma | YouServe is Rezi de beste keuze.
+
 ---
 
 # Solliciteren in 2026: De Ultieme Gids voor AI-gedreven Succes

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Sportcoaching 2026: top 7 sportcoaching-AI vergeleken'
 slug: beste-ai-tools-sportcoaching-2026
 description: 'Ontdek de beste AI tools voor sportcoaching in 2026: videoanalyse, wedstrijddata,
@@ -70,14 +71,12 @@ related:
 draft: false
 faq:
 - q: Welke AI tool is het beste voor voetbalcoaches?
-  a: Hudl is de beste allround keuze voor videoanalyse, terwijl Sportlogiq en Playermaker
-    sterker zijn voor respectievelijk tactische tracking en technische spelersdata.
+  a: Hudl is de beste allround keuze voor videoanalyse, terwijl Sportlogiq en Playermaker sterker zijn voor respectievelijk tactische tracking en technische spelersdata.
 - q: Kunnen amateurclubs AI sportanalyse gebruiken?
-  a: Ja. Vooral Veo en Hudl zijn toegankelijk voor clubs die wedstrijden automatisch
-    willen filmen, fragmenten willen delen en spelers gerichte feedback willen geven.
+  a: Ja. Vooral Veo en Hudl zijn toegankelijk voor clubs die wedstrijden automatisch willen filmen, fragmenten willen delen en spelers gerichte feedback willen geven.
 - q: Voorkomt AI blessures volledig?
-  a: Nee. AI kan workload-risico's signaleren en patronen herkennen, maar medische
-    beoordeling, coachingcontext en communicatie met spelers blijven noodzakelijk.
+  a: Nee. AI kan workload-risico's signaleren en patronen herkennen, maar medische beoordeling, coachingcontext en communicatie met spelers blijven noodzakelijk.
+
 ---
 # AI in Sportcoaching: de beste tools voor 2026
 

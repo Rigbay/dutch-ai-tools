@@ -1,7 +1,8 @@
 ---
+
 title: 'Low-Code Platforms 2026: Bubble vs Webflow vs FlutterFlow vs Softr vs Glide — beste no-code tool voor Nederland'
 slug: low-code-platforms-vergelijken-bubble-webflow-flutterflow-2026
-description: 'Vergelijk de 5 beste low-code en no-code platforms in 2026: Bubble, Webflow, FlutterFlow, Softr en Glide. Welke past het beste bij jouw app, website of dashboard? Prijzen, leercurve en AI-features vergeleken.'
+description: 'Vergelijk de 5 beste low-code en no-code platforms in 2026: Bubble, Webflow, FlutterFlow, Softr en Glide. Welke past het beste bij jouw app, website of dashboard? Prijzen,
 category: development
 rating: 4.5
 priceRange: EUR 0-99/mnd
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 ---
 
 ## Low-Code Platforms 2026

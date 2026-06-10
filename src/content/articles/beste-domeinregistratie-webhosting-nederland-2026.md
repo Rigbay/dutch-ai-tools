@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste domeinregistratie en webhosting Nederland 2026: vergelijking'
 slug: beste-domeinregistratie-webhosting-nederland-2026
 description: 'Vergelijk de beste Nederlandse webhosting en domeinregistratie in 2026:
@@ -71,12 +72,12 @@ related:
 draft: false
 faq:
 - q: Wat is de beste tool?
-  a: Dat hangt af van je situatie. Hostinger is voor de meeste gebruikers een prima
-    startpunt.
+  a: Dat hangt af van je situatie. Hostinger is voor de meeste gebruikers een prima startpunt.
 - q: Zijn er gratis alternatieven?
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 ## De Beste Domeinregistratie en Webhosting in Nederland in 2026: Een Diepgaande Vergelijking
 

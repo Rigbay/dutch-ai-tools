@@ -1,7 +1,8 @@
 ---
+
 title: 'Unbounce vs Instapage vs Leadpages vs Carrd 2026: beste landing page builder'
 slug: unbounce-vs-instapage-vs-leadpages-vs-carrd-2026
-description: Vergelijk Unbounce, Instapage, Leadpages en Carrd in 2026. Welke landing page builder past bij jouw campagnes? Prijzen, AI-features en conversie-optimalisatie voor Nederlandse marketers.
+description: Vergelijk Unbounce, Instapage, Leadpages en Carrd in 2026. Welke landing page builder past bij jouw campagnes? Prijzen, AI-features en conversie-optimalisatie voor Nederlandse
 category: marketing
 rating: 4.5
 priceRange: EUR 0-499/mnd
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools ondersteunen Nederlands in 2026, al varieert de kwaliteit van Nederlandstalige interfaces per tool.
+
 ---
 
 

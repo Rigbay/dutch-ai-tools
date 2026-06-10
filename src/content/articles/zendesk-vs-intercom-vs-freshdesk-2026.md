@@ -1,4 +1,5 @@
 ---
+
 title: 'Zendesk vs Intercom vs Freshdesk 2026: beste klantenservice platform voor
   Nederlandse bedrijven'
 slug: zendesk-vs-intercom-vs-freshdesk-2026
@@ -73,15 +74,12 @@ related:
 - beste-ai-tools-ecommerce-2026
 faq:
 - q: Welke klantenservicetool is het beste voor Nederlandse bedrijven?
-  a: Zendesk is de meest complete oplossing met de beste integraties. Intercom is
-    ideaal voor SaaS-bedrijven die proactieve chat willen. Freshdesk biedt de beste
-    prijs-kwaliteit voor groeiende MKBs.
+  a: Zendesk is de meest complete oplossing met de beste integraties. Intercom is ideaal voor SaaS-bedrijven die proactieve chat willen. Freshdesk biedt de beste prijs-kwaliteit voor groeiende MKBs.
 - q: Ondersteunen deze tools Nederlandse meertaligheid?
-  a: Ja, alle drie ondersteunen meertaligheid. Zendesk heeft de beste vertaalfuncties.
-    Intercom biedt AI-gedreven automatische vertaling. Freshdesk ondersteunt 40+ talen.
+  a: Ja, alle drie ondersteunen meertaligheid. Zendesk heeft de beste vertaalfuncties. Intercom biedt AI-gedreven automatische vertaling. Freshdesk ondersteunt 40+ talen.
 - q: Wat kost een klantenserviceplatform voor 5 medewerkers?
-  a: Zendesk Suite Team kost ongeveer 55 EUR/medewerker/maand. Intercom Start kost
-    39 EUR/medewerker/maand. Freshdesk Free is gratis, Growth kost 18 EUR/medewerker/maand.
+  a: Zendesk Suite Team kost ongeveer 55 EUR/medewerker/maand. Intercom Start kost 39 EUR/medewerker/maand. Freshdesk Free is gratis, Growth kost 18 EUR/medewerker/maand.
+
 ---
 
 ## Lees ook

@@ -1,4 +1,5 @@
 ---
+
 title: Beste AI Tools voor Spraakherkenning en Transcriptie in het Nederlands 2026
   — volledige vergelijking
 slug: beste-ai-spraakherkenning-transcriptie-nederlands-2026
@@ -74,26 +75,17 @@ tools:
 draft: false
 faq:
 - q: Welke AI-tool werkt het beste voor Nederlandse spraakherkenning?
-  a: OpenAI Whisper is de gouden standaard voor Nederlandse spraakherkenning — het
-    is gratis, open-source, en je kunt het lokaal draaien zonder data naar de cloud
-    te sturen. Voor real-time vergadertranscriptie is Otter.ai de beste keuze, en
-    voor Nederlandse ondertiteling is Amberscript het enige Nederlandse bedrijf in
-    deze categorie.
+  a: OpenAI Whisper is de gouden standaard voor Nederlandse spraakherkenning — het is gratis, open-source, en je kunt het lokaal draaien zonder data naar de cloud te sturen. Voor real-time vergadertranscriptie is Otter.ai de beste keuze, en voor Nederlandse ondertiteling is Amberscript het enige Nederlandse bedrijf in deze categorie.
 - q: Kan ik spraakherkenning gebruiken zonder mijn data naar Amerikaanse servers te
     sturen?
-  a: Ja. Whisper is open-source en kan volledig offline op je eigen computer draaien
-    — geen internetverbinding nodig, geen data die de deur uitgaat. Amberscript (Nederlands
-    bedrijf) biedt GDPR-compliant verwerking. Dit is belangrijk voor vertrouwelijke
-    vergaderingen en medische dictaten.
+  a: Ja. Whisper is open-source en kan volledig offline op je eigen computer draaien — geen internetverbinding nodig, geen data die de deur uitgaat. Amberscript (Nederlands bedrijf) biedt GDPR-compliant verwerking. Dit is belangrijk voor vertrouwelijke vergaderingen en medische dictaten.
 - q: Hoeveel kost AI-transcriptie voor Nederlands?
-  a: Whisper is gratis (open-source) of $0,006/min via de OpenAI API. Sonix en Amberscript
-    kosten €10-20 per uur audio. Otter.ai en Fireflies.ai bieden gratis tiers en betaalde
-    plannen vanaf €15-20/maand. Voor incidenteel gebruik is de gratis Whisper de beste
-    deal — voor dagelijks zakelijk gebruik zijn Otter.ai of Fireflies efficiënter.
+  a: Whisper is gratis (open-source) of $0,006/min via de OpenAI API. Sonix en Amberscript kosten €10-20 per uur audio. Otter.ai en Fireflies.ai bieden gratis tiers en betaalde plannen vanaf €15-20/maand. Voor incidenteel gebruik is de gratis Whisper de beste deal — voor dagelijks zakelijk gebruik zijn Otter.ai of Fireflies efficiënter.
 related:
 - ai-trends-2026-nederland
 - nederlandse-ai-adoptie-cijfers-2026
 - ai-avg-compliance-tools-2026
+
 ---
 
 # Beste AI Tools voor Spraakherkenning en Transcriptie in het Nederlands 2026

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Apotheken & Farmacie 2026: top 7 vergeleken'
 slug: beste-ai-tools-apotheek-farmacie-2026
 description: AI tools voor apotheken, farmacie en medicijnbeheer in 2026. Van medicatie-interactie
@@ -85,16 +86,12 @@ tools:
   affiliateLink: https://curewiki.ai/
 faq:
 - q: Zijn AI tools veilig voor gevoelige data?
-  a: De meeste tools bieden enterprise-grade beveiliging met encryptie, maar check
-    altijd de AVG-compliance van de aanbieder voor je gevoelige data uploadt. Nederlands-gefocuste
-    tools voldoen aan strengere privacy-eisen.
+  a: De meeste tools bieden enterprise-grade beveiliging met encryptie, maar check altijd de AVG-compliance van de aanbieder voor je gevoelige data uploadt. Nederlands-gefocuste tools voldoen aan strengere privacy-eisen.
 - q: Heb ik technische kennis nodig om deze AI tools te gebruiken?
-  a: De meeste moderne AI tools zijn ontworpen voor eindgebruikers zonder technische
-    achtergrond. Je hebt basis digitale vaardigheden nodig, maar geen programmeerkennis.
+  a: De meeste moderne AI tools zijn ontworpen voor eindgebruikers zonder technische achtergrond. Je hebt basis digitale vaardigheden nodig, maar geen programmeerkennis.
 - q: Wat zijn de maandelijkse kosten van AI tools?
-  a: 'De prijzen variëren sterk: van gratis tiers tot €500+/maand voor enterprise-licenties.
-    Gemiddeld betaal je €15-100/maand voor een professionele AI-tool met volledige
-    functionaliteit.'
+  a: "'De prijzen variëren sterk: van gratis tiers tot €500+/maand voor enterprise-licenties. Gemiddeld betaal je €15-100/maand voor een professionele AI-tool met volledige functionaliteit.'"
+
 ---
 
 # De Toekomst van de Apotheek: De Beste AI Tools voor Farmacie en Medicijnbeheer in 2026

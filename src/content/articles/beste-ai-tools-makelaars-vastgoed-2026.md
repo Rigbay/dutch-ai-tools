@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Makelaars en Vastgoed 2026: top 5 vergeleken'
 slug: beste-ai-tools-makelaars-vastgoed-2026
 description: AI voor makelaars en vastgoedprofessionals in 2026. Vergelijk tools voor
@@ -60,10 +61,10 @@ faq:
 - q: Welke AI tool helpt het meest bij virtuele bezichtigingen?
   a: Matterport is de gouden standaard voor interactieve 3D tours in 2026.
 - q: Kan AI huizenprijzen accuraat voorspellen in Nederland?
-  a: Ja, met lokale data van Funda en Kadaster kunnen AI-modellen zeer accurate schattingen
-    maken.
+  a: Ja, met lokale data van Funda en Kadaster kunnen AI-modellen zeer accurate schattingen maken.
 - q: Is AI veilig voor klantgegevens in vastgoed?
   a: Kies tools met GDPR-compliance en Nederlandse datacenters.
+
 ---
 ## Snel advies
 

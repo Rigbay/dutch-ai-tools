@@ -1,4 +1,5 @@
 ---
+
 title: 'Trello vs Asana vs Monday 2026: Beste AI Projectmanagement Tool Vergeleken'
 slug: trello-vs-asana-vs-monday-2026
 description: Trello, Asana of Monday.com voor projectmanagement in 2026? Vergelijk
@@ -49,16 +50,12 @@ related:
 draft: false
 faq:
 - q: Welke projectmanagement tool is het beste voor ZZP'ers?
-  a: 'Voor ZZP''ers is Trello vaak de beste start: gratis, eenvoudig en Butler AI
-    automatiseert repeterende taken zonder technische kennis. Asana en Monday zijn
-    krachtiger maar hebben een steilere leercurve en hogere kosten.'
+  a: "'Voor ZZP''ers is Trello vaak de beste start: gratis, eenvoudig en Butler AI automatiseert repeterende taken zonder technische kennis. Asana en Monday zijn krachtiger maar hebben een steilere leercurve en hogere kosten.'"
 - q: Hebben deze tools Nederlandse interfaces?
-  a: Ja, alle drie — Trello, Asana en Monday.com — bieden volledige Nederlandse interfaces.
-    Ook de mobiele apps zijn in het Nederlands beschikbaar.
+  a: Ja, alle drie — Trello, Asana en Monday.com — bieden volledige Nederlandse interfaces. Ook de mobiele apps zijn in het Nederlands beschikbaar.
 - q: Wat kosten de AI-functies bij deze tools?
-  a: Trello's Butler AI is gratis bij het gratis plan (beperkt tot 50 automations/maand).
-    Asana's AI-features (Asana Intelligence) zitten in de Advanced-tier (€25/mnd).
-    Monday AI is beschikbaar vanaf het Pro-plan (€20/mnd).
+  a: Trello's Butler AI is gratis bij het gratis plan (beperkt tot 50 automations/maand). Asana's AI-features (Asana Intelligence) zitten in de Advanced-tier (€25/mnd). Monday AI is beschikbaar vanaf het Pro-plan (€20/mnd).
+
 ---
 
 ## Lees ook

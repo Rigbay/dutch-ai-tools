@@ -1,7 +1,8 @@
 ---
+
 title: 'Personio vs BambooHR vs Hooray vs Recruitee 2026: beste HR-software voor Nederlandse bedrijven'
 slug: personio-vs-bamboohr-vs-hooray-vs-recruitee-2026
-description: Vergelijk Personio, BambooHR, Hooray, Recruitee en Homerun in 2026: HR-beheer, recruitment, onboarding, verlofregistratie, prijzen en geschiktheid voor Nederlandse MKB en scale-ups.
+description: "Vergelijk Personio, BambooHR, Hooray, Recruitee en Homerun in 2026: HR-beheer, recruitment, onboarding, verlofregistratie, prijzen en geschiktheid voor Nederlandse MKB en"
 category: business
 rating: 4.4
 priceRange: EUR 0-100/mnd
@@ -50,6 +51,7 @@ tools:
     bestFor: "Employer branding & candidate experience"
     rating: 4.2
     affiliateLink: "https://www.homerun.co/?ref=aitoolsnl"
+
 ---
 
 ## Inleiding: HR-software — de stille motor van je bedrijf

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Interieur & Woonontwerp Tools 2026: top 6 vergeleken'
 slug: beste-ai-interieur-ontwerp-tools-2026
 description: AI tools voor interieurontwerp en woninginrichting in 2026. Vergelijk
@@ -69,16 +70,12 @@ tools:
   affiliateLink: https://www.hutch.com/
 faq:
 - q: Werken AI interieur tools ook met Nederlandse maten en meubels?
-  a: Ja, Planner 5D en HomeByMe ondersteunen Nederlandse maatvoering. De tools werken
-    met algemene meubelafmetingen, maar voor exacte IKEA of Jysk producten moet je
-    soms handmatig de afmetingen controleren.
+  a: Ja, Planner 5D en HomeByMe ondersteunen Nederlandse maatvoering. De tools werken met algemene meubelafmetingen, maar voor exacte IKEA of Jysk producten moet je soms handmatig de afmetingen controleren.
 - q: Kan ik mijn eigen kamer fotograferen en direct een nieuwe inrichting zien?
-  a: 'Interior AI en RoomGPT doen precies dat: upload een foto van je eigen kamer
-    en de AI toont direct hoe deze eruitziet in verschillende woonstijlen. DecorMatters
-    voegt AR toe via je smartphonecamera.'
+  a: "'Interior AI en RoomGPT doen precies dat: upload een foto van je eigen kamer en de AI toont direct hoe deze eruitziet in verschillende woonstijlen. DecorMatters voegt AR toe via je smartphonecamera.'"
 - q: Welke interieur AI tool is het beste voor verhuizing?
-  a: 'Planner 5D is ideaal voor verhuizing: teken de plattegrond van je nieuwe woning,
-    plaats virtuele meubels en bekijk alles in 3D voordat je iets koopt.'
+  a: "'Planner 5D is ideaal voor verhuizing: teken de plattegrond van je nieuwe woning, plaats virtuele meubels en bekijk alles in 3D voordat je iets koopt.'"
+
 ---
 
 
