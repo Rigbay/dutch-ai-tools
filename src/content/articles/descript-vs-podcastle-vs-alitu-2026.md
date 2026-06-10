@@ -1,5 +1,4 @@
 ---
-
 slug: descript-vs-podcastle-vs-alitu-2026
 title: 'Descript vs Podcastle vs Alitu 2026: Beste AI Podcast Tool Vergeleken'
 description: Descript, Podcastle of Alitu voor je podcast in 2026? Vergelijk AI-editing, transcriptie, opruimen van ruis, videopodcasting en publicatie in deze uitgebreide review.
@@ -15,9 +14,9 @@ cons:
 - Prijzen fluctueren
 - Sommige features alleen in duurste plan
 affiliateLinks:
-- https://www.notion.so
-  - https://synthesia.io/?via=hermes  # Synthesia
   - https://www.descript.com/?via=anonymous-operator
+  - https://synthesia.io/?via=hermes  # Synthesia
+  - https://www.notion.so
 date: '2026-05-27'
 modelYear: 2026
 featuredTool: Descript
@@ -52,6 +51,7 @@ faq:
   a: "'Descript en Podcastle ondersteunen videopodcasting. Descript is hierin het sterkst — je kunt video bewerken alsof het een document is. Alitu is puur audio. Voor videopodcasts: kies Descript.'"
 - q: Wat kost podcastsoftware per maand realistisch?
   a: "'Starters: Podcastle gratis of EUR 5,99/mnd. Semi-professioneel: Descript EUR 14-24/mnd. Volledig geautomatiseerd: Alitu EUR 32/mnd. Reken ook op hosting (EUR 10-20/mnd) voor je podcast.'"
+
 
 ---
 
