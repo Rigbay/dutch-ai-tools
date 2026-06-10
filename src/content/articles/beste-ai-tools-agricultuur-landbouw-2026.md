@@ -27,7 +27,7 @@ tools:
   priceRange: EUR 500-5000/mnd
   bestFor: Autonome landbouwmachines
   rating: 4.5
-  affiliateLink: https://www.john.com/
+  affiliateLink: https://www.deere.com/
 - name: Climate FieldView
   verdict: AI-gedreven tool voor data-gedreven teeltoptimalisatie
   priceRange: EUR 200-1000/mnd
@@ -75,6 +75,7 @@ faq:
   a: Ja, verschillende tools bieden een gratis tier. Bekijk de prijsrange per tool in de vergelijking hierboven.
 - q: Hoe kies ik de juiste AI technologie tool?
   a: Bepaal eerst je primaire use case, budget en teamgrootte. Kijk dan naar de beste-voor kolom in de vergelijkingstabel en start met een gratis proefperiode van 2-3 tools.
+
 
 ---
 

@@ -25,31 +25,31 @@ tools:
     priceRange: "EUR 0-16/mnd (Free → Teams)"
     bestFor: "Individuele professionals"
     rating: 4.5
-    affiliateLink: https://online.com
+    affiliateLink: https://calendly.com/
   - name: SimplyBook.me
     verdict: "Beste voor dienstverleners met fysieke afspraken — uitgebreide branchefeatures, POS-integratie, wachtlijst en herinneringen"
     priceRange: "EUR 0-10/mnd (Free → Standard)"
     bestFor: "Afspraakbedrijven (kapper, tandarts)"
     rating: 4.5
-    affiliateLink: https://online.com
+    affiliateLink: https://simplybook.me/
   - name: SuperSaaS
     verdict: "Beste voor complexe planning zoals sportaccommodaties, lesroosters en vergaderruimtes — extreem flexibel met rollen en quota"
     priceRange: "EUR 0-26/mnd (Free → Scale)"
     bestFor: "Complexe roosters"
     rating: 4.5
-    affiliateLink: https://online.com
+    affiliateLink: https://www.supersaas.com/
   - name: Bookafy
     verdict: "Beste voor teams die samen afspraken plannen — round-robin toewijzing, buffer-tijden en ingebouwde videobel-functionaliteit"
     priceRange: "EUR 0-11/mnd (Free → Pro+)"
     bestFor: "Teams & groepsboeking"
     rating: 4.5
-    affiliateLink: https://online.com
+    affiliateLink: https://www.bookafy.com/
   - name: Acuity Scheduling
     verdict: "Beste voor betaalde consulten: intakeformulieren, pakketverkoop, automatische facturatie en diepe integratie met Squarespace — beste voor 1-op-1 diensten"
     priceRange: "EUR 0-27/mnd (Free → Powerhouse)"
     bestFor: "Coaches & consultants"
     rating: 4.5
-    affiliateLink: https://online.com
+    affiliateLink: https://acuityscheduling.com/
 related:
   - beste-ai-meeting-transcriptie-tools-2026
   - reclaim-vs-motion-vs-clockwise-vs-trevor-ai-2026

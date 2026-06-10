@@ -25,31 +25,31 @@ tools:
     priceRange: "EUR 0-10/mnd (15 GB gratis → 2 TB)"
     bestFor: "Google Workspace gebruikers"
     rating: 4.5
-    affiliateLink: https://cloud.com
+    affiliateLink: https://www.google.com/drive/
   - name: Dropbox
     verdict: "Beste bestandssynchronisatie met onovertroffen snelheid, versiegeschiedenis en Dropbox Dash AI — betrouwbaarste voor grote bestanden"
     priceRange: "EUR 0-12/mnd (2 GB gratis → 3 TB)"
     bestFor: "Professionele sync"
     rating: 4.5
-    affiliateLink: https://cloud.com
+    affiliateLink: https://www.dropbox.com/
   - name: Microsoft OneDrive
     verdict: "Beste prijs-kwaliteit met Office-apps inbegrepen, Copilot AI-integratie en naadloze Windows-koppeling — beste voor bedrijven"
     priceRange: "EUR 0-7/mnd (5 GB gratis → 1 TB + Office)"
     bestFor: "Microsoft 365 gebruikers"
     rating: 4.5
-    affiliateLink: https://cloud.com
+    affiliateLink: https://www.microsoft.com/nl-nl/microsoft-365/onedrive/online-storage
   - name: pCloud
     verdict: "Beste eenmalige betaling (levenslang) met zero-knowledge encryptie, EU-servers (Luxemburg) en geen abonnementsstress"
     priceRange: "EUR 0-5/mnd of EUR 199 levenslang (2 TB)"
     bestFor: "Privacy & levenslang"
     rating: 4.5
-    affiliateLink: https://cloud.com
+    affiliateLink: https://www.pcloud.com/
   - name: Internxt
     verdict: "Beste voor privacy-gedreven gebruikers: volledige end-to-end encryptie, open-source, GDPR-compliant en zero-knowledge architectuur"
     priceRange: "EUR 0-11/mnd (10 GB gratis → 2 TB)"
     bestFor: "Maximale privacy"
     rating: 4.5
-    affiliateLink: https://cloud.com
+    affiliateLink: https://internxt.com/
 related:
   - beste-ai-tools-bestandsbeheer-2026
   - beste-ai-tools-documentverwerking-2026

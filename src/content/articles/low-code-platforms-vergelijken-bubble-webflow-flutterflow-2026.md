@@ -25,31 +25,31 @@ tools:
   priceRange: EUR 0-32/mnd (Free → Growth)
   bestFor: Web apps & SaaS
   rating: 4.9
-  affiliateLink: https://low.com
+  affiliateLink: https://bubble.io/
 - name: Webflow
   verdict: Beste voor design-gedreven websites en CMS met pixel-perfect controle — vergelijkbaar met professionele frontend-code
   priceRange: EUR 0-39/mnd (Free → Business)
   bestFor: Visuele websites
   rating: 4.8
-  affiliateLink: https://low.com
+  affiliateLink: https://webflow.com/
 - name: FlutterFlow
   verdict: Beste voor cross-platform mobiele apps (iOS + Android) met Firebase-integratie — exporteert naar echte Flutter-code
   priceRange: EUR 0-30/mnd (Free → Pro)
   bestFor: Mobiele apps
   rating: 4.9
-  affiliateLink: https://low.com
+  affiliateLink: https://flutterflow.io/
 - name: Softr
   verdict: Snelste manier om Airtable/Google Sheets data om te zetten in klantportalen, dashboards en interne tools
   priceRange: EUR 0-49/mnd (Free → Business)
   bestFor: Interne tools & portals
   rating: 4.1
-  affiliateLink: https://low.com
+  affiliateLink: https://www.softr.io/
 - name: Glide
   verdict: Gebruiksvriendelijkste platform voor eenvoudige data-gedreven apps — bouw een app in 5 minuten vanuit een spreadsheet
   priceRange: EUR 0-99/mnd (Free → Business)
   bestFor: Simpele bedrijfsapps
   rating: 4.9
-  affiliateLink: https://low.com
+  affiliateLink: https://www.glideapps.com/
 related:
 - wix-ai-vs-durable-vs-10web-vs-hostinger-2026
 - beste-ai-tools-mkb-starten-2026

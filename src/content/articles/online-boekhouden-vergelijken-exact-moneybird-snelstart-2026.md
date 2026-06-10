@@ -25,31 +25,31 @@ tools:
   priceRange: EUR 0-65/mnd (Zakelijk → Premium)
   bestFor: ZZP en klein MKB
   rating: 5.0
-  affiliateLink: https://online.com
+  affiliateLink: https://www.moneybird.nl/
 - name: Exact Online
   verdict: Meest complete boekhoudsuite voor MKB met voorraadbeheer, CRM, HRM en uitgebreide rapportages — beste voor 5+ medewerkers
   priceRange: EUR 40-110/mnd (Essentials → Premium)
   bestFor: MKB en groeibedrijven
   rating: 4.1
-  affiliateLink: https://online.com
+  affiliateLink: https://www.exact.com/nl/
 - name: Snelstart
   verdict: Meest gebruikt door Nederlandse accountants — naadloze samenwerking met je boekhouder en volledige Grootboek-functionaliteit
   priceRange: EUR 39-79/mnd (Starter → Compleet)
   bestFor: Traditionele boekhouders
   rating: 4.9
-  affiliateLink: https://online.com
+  affiliateLink: https://www.snelstart.nl/
 - name: e-Boekhouden
   verdict: Beste gratis volledige boekhoudpakket in Nederland — facturatie, btw, inkoop en winst/verlies inbegrepen in gratis versie
   priceRange: EUR 0-35/mnd (Gratis → Premium)
   bestFor: Prijsbewuste ZZP-ers
   rating: 4.9
-  affiliateLink: https://online.com
+  affiliateLink: https://www.e-boekhouden.nl/
 - name: Yuki
   verdict: Beste AI-gedreven boekhoudoplossing met automatische factuurherkenning, documentlezen en robotboekhouder-functionaliteit
   priceRange: EUR 35-85/mnd (Start → Pro)
   bestFor: Geautomatiseerd boekhouden
   rating: 4.7
-  affiliateLink: https://online.com
+  affiliateLink: https://www.yuki.nl/
 related:
 - beste-ai-financiele-boekhouding-tools-2026
 - beste-ai-tools-boekhouders-accountants-2026
