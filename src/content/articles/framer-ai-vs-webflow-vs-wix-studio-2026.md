@@ -66,18 +66,17 @@ tools:
   rating: 4.5
   affiliateLink: https://www.relume.io/
 related:
-- beste-ai-chatbots-2026
-- beste-gratis-ai-tools-2026
-- canva-vs-adobe-express-vs-figma-ai-2026
+  - beste-ai-chatbots-2026
+  - beste-gratis-ai-tools-2026
+  - canva-vs-adobe-express-vs-figma-ai-2026
 draft: false
 faq:
-- q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Framer AI de beste keuze voor de meeste Nederlandse gebruikers die snel een mooie website willen. Voor complexere sites met CMS is Webflow de betere optie.
-- q: Zijn er goede gratis alternatieven?
-  a: Ja, Framer, Webflow en Wix Studio bieden allemaal gratis plannen (met hun branding). Hostinger AI Builder is de goedkoopste betaalde optie vanaf EUR 3 per maand inclusief hosting.
-- q: Werken deze tools goed in het Nederlands?
-  a: Wix Studio heeft de beste Nederlandse ondersteuning met volledig Nederlandse interface. Framer en Webflow zijn Engelstalig maar ondersteunen Nederlandse content prima.
-
+- q: "Wat is momenteel de beste tool in deze categorie?"
+  a: 'Op basis van onze analyse in 2026 is Framer AI de beste keuze voor de meeste Nederlandse gebruikers die snel een mooie website willen. Voor complexere sites met CMS is Webflow de betere optie.'
+- q: "Zijn er goede gratis alternatieven?"
+  a: 'Ja, Framer, Webflow en Wix Studio bieden allemaal gratis plannen (met hun branding). Hostinger AI Builder is de goedkoopste betaalde optie vanaf EUR 3 per maand inclusief hosting.'
+- q: "Werken deze tools goed in het Nederlands?"
+  a: 'Wix Studio heeft de beste Nederlandse ondersteuning met volledig Nederlandse interface. Framer en Webflow zijn Engelstalig maar ondersteunen Nederlandse content prima.'
 ---
 
 ## Lees ook

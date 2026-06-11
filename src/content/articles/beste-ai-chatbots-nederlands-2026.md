@@ -40,17 +40,17 @@ tools:
   rating: 4.6
   affiliateLink: https://chatgpt.com
 related:
-- chatgpt-vs-gemini-vs-claude-nederlands-2026
-- beste-ai-schrijftools-nederlands-2026
-- beste-ai-tools-klantenservice-2026
+  - chatgpt-vs-gemini-vs-claude-nederlands-2026
+  - beste-ai-schrijftools-nederlands-2026
+  - beste-ai-tools-klantenservice-2026
 draft: false
 faq:
-- q: Welke AI chatbot is het beste in het Nederlands?
-  a: Claude en Gemini scoren het hoogst op Nederlandse nuances, gevolgd door ChatGPT en lokale opties.
-- q: Zijn er gratis NL-chatbots beschikbaar?
-  a: Ja, de meeste grote platforms bieden een gratis tier, en lokale huishoudnl-Modellen zijn volledig gratis.
-- q: Werken deze chatbots offline?
-  a: Alleen lokale modellen (zoals Llama 3.2) werken volledig offline. Cloudmodellen hebben een internetverbinding nodig.
+- q: "Welke AI chatbot is het beste in het Nederlands?"
+  a: 'Claude en Gemini scoren het hoogst op Nederlandse nuances, gevolgd door ChatGPT en lokale opties.'
+- q: "Zijn er gratis NL-chatbots beschikbaar?"
+  a: 'Ja, de meeste grote platforms bieden een gratis tier, en lokale huishoudnl-Modellen zijn volledig gratis.'
+- q: "Werken deze chatbots offline?"
+  a: 'Alleen lokale modellen (zoals Llama 3.2) werken volledig offline. Cloudmodellen hebben een internetverbinding nodig.'
 ---
 
 # Beste AI Chatbots voor Nederlands 2026: vergelijk ChatGPT, Claude, Gemini en lokale opties

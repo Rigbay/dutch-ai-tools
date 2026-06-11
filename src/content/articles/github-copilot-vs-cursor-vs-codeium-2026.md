@@ -63,17 +63,17 @@ tools:
   rating: 4.5
   affiliateLink: https://about.sourcegraph.com/cody
 related:
-- beste-ai-tools-programmeren-2026
-- ai-beeldherkenning-2026
-- beste-ai-tools-lowcode-nocode-2026
+  - beste-ai-tools-programmeren-2026
+  - ai-beeldherkenning-2026
+  - beste-ai-tools-lowcode-nocode-2026
 draft: false
 faq:
-- q: Wat is de beste tool?
-  a: Voor de meeste gebruikers is GitHub Copilot de beste keuze.
-- q: Is er een gratis versie?
-  a: De meeste tools bieden een beperkte gratis versie aan.
-- q: Werkt het in het Nederlands?
-  a: Ja, alle besproken tools ondersteunen de Nederlandse taal goed.
+- q: "Wat is de beste tool?"
+  a: 'Voor de meeste gebruikers is GitHub Copilot de beste keuze.'
+- q: "Is er een gratis versie?"
+  a: 'De meeste tools bieden een beperkte gratis versie aan.'
+- q: "Werkt het in het Nederlands?"
+  a: 'Ja, alle besproken tools ondersteunen de Nederlandse taal goed.'
 ---
 # De Beste AI Assistenten voor Software Development in 2026: Een Gids
 

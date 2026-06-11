@@ -26,9 +26,9 @@ affiliateLinks:
 - https://packpoint.app/
 - https://www.roamaround.io/
 related:
-- ai-voor-studenten-2026
-- beste-ai-tools-wearables-2026
-- beste-ai-tools-automotive-2026
+  - ai-voor-studenten-2026
+  - beste-ai-tools-wearables-2026
+  - beste-ai-tools-automotive-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Google Travel (Gemini)
@@ -84,13 +84,12 @@ tools:
   rating: 4.1
   affiliateLink: https://www.roamaround.io/
 faq:
-- q: Wat is de beste AI reisplanner voor 2026?
-  a: Google Travel met Gemini AI biedt de meest complete ervaring. TripIt is beter voor zakenreizigers, Hopper voor prijsbewuste vakantiegangers.
-- q: Kan AI echt betere prijzen vinden voor vluchten?
-  a: Ja — Hopper voorspelt prijstrends en adviseert het beste boekmoment. AI kan tot 30% besparen door timing te optimaliseren.
-- q: Werken deze tools ook voor treinreizen in Europa?
-  a: Google Travel en Roadtrippers ondersteunen trein- en autoreizen. Voor Europese treinreizen zijn NS International en Trainline goede aanvullingen.
-
+- q: "Wat is de beste AI reisplanner voor 2026?"
+  a: 'Google Travel met Gemini AI biedt de meest complete ervaring. TripIt is beter voor zakenreizigers, Hopper voor prijsbewuste vakantiegangers.'
+- q: "Kan AI echt betere prijzen vinden voor vluchten?"
+  a: 'Ja — Hopper voorspelt prijstrends en adviseert het beste boekmoment. AI kan tot 30% besparen door timing te optimaliseren.'
+- q: "Werken deze tools ook voor treinreizen in Europa?"
+  a: 'Google Travel en Roadtrippers ondersteunen trein- en autoreizen. Voor Europese treinreizen zijn NS International en Trainline goede aanvullingen.'
 ---
 
 

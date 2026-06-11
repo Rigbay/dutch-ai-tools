@@ -40,17 +40,16 @@ tools:
   rating: 4.3
   affiliateLink: https://www.notion.so
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - ai-beeldherkenning-2026
+  - ai-stemgeneratie-2026
+  - ai-tools-marketing-teams-2026
 faq:
-- q: Kan ik AI-presentaties exporteren naar PowerPoint?
-  a: "'Ja, alle drie: Gamma exporteert naar PDF en PPT, Beautiful.ai naar PPTX (met beperkte bewerkbaarheid), Tome naar PDF. Voor volledige PowerPoint-bewerking is Beautiful.ai het beste.'"
-- q: Welke tool is het beste voor teams?
-  a: Gamma biedt de beste realtime samenwerking (zoals Google Slides). Beautiful.ai heeft team-accounts met shared libraries. Tome is meer gericht op individuele creators. Voor teams van 5+ is Gamma de beste prijs-kwaliteit.
-- q: Hoe zit het met Nederlandse ondersteuning?
-  a: Gamma en Tome ondersteunen Nederlands voor AI-tekstgeneratie. Beautiful.ai heeft Nederlandstalige UI maar AI-suggesties primair in Engels. De outputkwaliteit in Nederlands is bij Gamma het hoogst.
-
+- q: "Kan ik AI-presentaties exporteren naar PowerPoint?"
+  a: 'Ja, alle drie: Gamma exporteert naar PDF en PPT, Beautiful.ai naar PPTX (met beperkte bewerkbaarheid), Tome naar PDF. Voor volledige PowerPoint-bewerking is Beautiful.ai het beste.'
+- q: "Welke tool is het beste voor teams?"
+  a: 'Gamma biedt de beste realtime samenwerking (zoals Google Slides). Beautiful.ai heeft team-accounts met shared libraries. Tome is meer gericht op individuele creators. Voor teams van 5+ is Gamma de beste prijs-kwaliteit.'
+- q: "Hoe zit het met Nederlandse ondersteuning?"
+  a: 'Gamma en Tome ondersteunen Nederlands voor AI-tekstgeneratie. Beautiful.ai heeft Nederlandstalige UI maar AI-suggesties primair in Engels. De outputkwaliteit in Nederlands is bij Gamma het hoogst.'
 ---
 
 ## Lees ook

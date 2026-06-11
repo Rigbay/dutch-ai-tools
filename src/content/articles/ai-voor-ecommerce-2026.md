@@ -39,17 +39,17 @@ tools:
   rating: 4.5
   affiliateLink: https://www.dynamicyield.com/
 related:
-- beste-ai-tools-consultancy-2026
-- beste-ai-tools-financieel-adviseurs-2026
-- beste-ai-tools-telecom-communicatie-2026
+  - beste-ai-tools-consultancy-2026
+  - beste-ai-tools-financieel-adviseurs-2026
+  - beste-ai-tools-telecom-communicatie-2026
 draft: false
 faq:
-- q: Hoeveel tijd bespaar ik met AI productbeschrijvingen?
-  a: Gemiddeld 70-80% tijdswinst bij het schrijven van productteksten.
-- q: Werken AI aanbevelingen echt beter dan handmatige?
-  a: Ja, conversieratio's stijgen gemiddeld 15-30% met goede AI aanbevelingssystemen.
-- q: Is AI geschikt voor kleine webshops?
-  a: Absoluut. Veel tools hebben betaalbare instappakketten voor MKB.
+- q: "Hoeveel tijd bespaar ik met AI productbeschrijvingen?"
+  a: 'Gemiddeld 70-80% tijdswinst bij het schrijven van productteksten.'
+- q: "Werken AI aanbevelingen echt beter dan handmatige?"
+  a: 'Ja, conversieratio''s stijgen gemiddeld 15-30% met goede AI aanbevelingssystemen.'
+- q: "Is AI geschikt voor kleine webshops?"
+  a: 'Absoluut. Veel tools hebben betaalbare instappakketten voor MKB.'
 ---
 
 # AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie

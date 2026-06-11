@@ -25,9 +25,9 @@ affiliateLinks:
 - https://paperpile.com/
 - https://www.scholarcy.com/
 related:
-- beste-ai-podcast-productie-tools-2026
-- beste-ai-e-commerce-dropshipping-tools-2026
-- notion-vs-obsidian-vs-logseq-2026
+  - beste-ai-podcast-productie-tools-2026
+  - beste-ai-e-commerce-dropshipping-tools-2026
+  - notion-vs-obsidian-vs-logseq-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Elicit
@@ -83,13 +83,12 @@ tools:
   rating: 4.2
   affiliateLink: https://www.scholarcy.com/
 faq:
-- q: Zijn AI research tools accuraat genoeg voor academisch werk?
-  a: Ja, mits je de output controleert. Elicit en Semantic Scholar gebruiken peer-reviewed bronnen en geven directe links naar papers. Gebruik AI als assistent, niet als vervanging van eigen literatuuronderzoek.
-- q: Welke tool is het beste voor een literatuurstudie?
-  a: "'Elicit is onverslaanbaar voor literatuuronderzoek: stel een vraag en krijg een tabel met bevindingen uit tientallen papers. Research Rabbit helpt bij het ontdekken van gerelateerd werk en auteurs.'"
-- q: Kunnen deze tools helpen bij citatiebeheer?
-  a: Paperpile is gespecialiseerd in referentiebeheer met Google Docs integratie. Scite laat zien hoe papers worden geciteerd (ondersteunend, weerleggend of neutraal), wat waardevol is voor citatie-analyse.
-
+- q: "Zijn AI research tools accuraat genoeg voor academisch werk?"
+  a: 'Ja, mits je de output controleert. Elicit en Semantic Scholar gebruiken peer-reviewed bronnen en geven directe links naar papers. Gebruik AI als assistent, niet als vervanging van eigen literatuuronderzoek.'
+- q: "Welke tool is het beste voor een literatuurstudie?"
+  a: 'Elicit is onverslaanbaar voor literatuuronderzoek: stel een vraag en krijg een tabel met bevindingen uit tientallen papers. Research Rabbit helpt bij het ontdekken van gerelateerd werk en auteurs.'
+- q: "Kunnen deze tools helpen bij citatiebeheer?"
+  a: 'Paperpile is gespecialiseerd in referentiebeheer met Google Docs integratie. Scite laat zien hoe papers worden geciteerd (ondersteunend, weerleggend of neutraal), wat waardevol is voor citatie-analyse.'
 ---
 
 

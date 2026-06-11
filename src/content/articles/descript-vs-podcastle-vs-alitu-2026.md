@@ -41,18 +41,16 @@ tools:
   rating: 4.2
   affiliateLink: https://www.notion.so
 related:
-- beste-ai-tools-podcasters-2026
-- beste-ai-tools-youtube-videomakers-2026
-- beste-ai-tools-muziekproductie-2026
+  - beste-ai-tools-podcasters-2026
+  - beste-ai-tools-youtube-videomakers-2026
+  - beste-ai-tools-muziekproductie-2026
 faq:
-- q: Welke podcast tool werkt het beste voor Nederlandstalige content?
-  a: Descript heeft de beste Nederlandse transcriptie (via DeepL-integratie). Podcastle ondersteunt Nederlands voor transcriptie maar AI-stemmen zijn Engels. Alitu biedt basis NL-transcriptie. Voor Nederlandstalige podcasts is Descript de beste keuze.
-- q: Kan ik met deze tools ook video opnemen?
-  a: "'Descript en Podcastle ondersteunen videopodcasting. Descript is hierin het sterkst — je kunt video bewerken alsof het een document is. Alitu is puur audio. Voor videopodcasts: kies Descript.'"
-- q: Wat kost podcastsoftware per maand realistisch?
-  a: "'Starters: Podcastle gratis of EUR 5,99/mnd. Semi-professioneel: Descript EUR 14-24/mnd. Volledig geautomatiseerd: Alitu EUR 32/mnd. Reken ook op hosting (EUR 10-20/mnd) voor je podcast.'"
-
-
+- q: "Welke podcast tool werkt het beste voor Nederlandstalige content?"
+  a: 'Descript heeft de beste Nederlandse transcriptie (via DeepL-integratie). Podcastle ondersteunt Nederlands voor transcriptie maar AI-stemmen zijn Engels. Alitu biedt basis NL-transcriptie. Voor Nederlandstalige podcasts is Descript de beste keuze.'
+- q: "Kan ik met deze tools ook video opnemen?"
+  a: 'Descript en Podcastle ondersteunen videopodcasting. Descript is hierin het sterkst — je kunt video bewerken alsof het een document is. Alitu is puur audio. Voor videopodcasts: kies Descript.'
+- q: "Wat kost podcastsoftware per maand realistisch?"
+  a: 'Starters: Podcastle gratis of EUR 5,99/mnd. Semi-professioneel: Descript EUR 14-24/mnd. Volledig geautomatiseerd: Alitu EUR 32/mnd. Reken ook op hosting (EUR 10-20/mnd) voor je podcast.'
 ---
 
 ## Lees ook

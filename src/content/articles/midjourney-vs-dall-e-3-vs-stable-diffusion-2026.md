@@ -65,17 +65,17 @@ tools:
   rating: 4.3
   affiliateLink: https://deepmind.google/technologies/imagen-3/
 related:
-- beste-ai-tools-architecten-bouwkunde-2026
-- elevenlabs-vs-murf-ai-vs-play-ht-2026
-- beste-ai-tools-designers-2026
+  - beste-ai-tools-architecten-bouwkunde-2026
+  - elevenlabs-vs-murf-ai-vs-play-ht-2026
+  - beste-ai-tools-designers-2026
 draft: false
 faq:
-- q: Wat is de beste tool?
-  a: Voor de meeste gebruikers is Midjourney v7 de beste keuze.
-- q: Is er een gratis versie?
-  a: De meeste tools bieden een beperkte gratis versie aan.
-- q: Werkt het in het Nederlands?
-  a: Ja, alle besproken tools ondersteunen de Nederlandse taal goed.
+- q: "Wat is de beste tool?"
+  a: 'Voor de meeste gebruikers is Midjourney v7 de beste keuze.'
+- q: "Is er een gratis versie?"
+  a: 'De meeste tools bieden een beperkte gratis versie aan.'
+- q: "Werkt het in het Nederlands?"
+  a: 'Ja, alle besproken tools ondersteunen de Nederlandse taal goed.'
 ---
 # De Visuele Revolutie: AI Beeldgeneratie in 2026 – Een Diepgaande Vergelijking
 

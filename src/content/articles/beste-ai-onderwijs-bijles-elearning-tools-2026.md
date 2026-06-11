@@ -24,9 +24,9 @@ affiliateLinks:
 - https://www.grammarly.com/
 - https://www.notion.so
 related:
-- beste-ai-tools-docenten-2026
-- beste-ai-tools-e-learning-cursusontwikkeling-2026
-- ai-voor-studenten-2026
+  - beste-ai-tools-docenten-2026
+  - beste-ai-tools-e-learning-cursusontwikkeling-2026
+  - ai-voor-studenten-2026
 date: '2026-06-02'
 modelYear: 2026
 featuredTool: Khan Academy (Khanmigo)
@@ -79,13 +79,12 @@ tools:
   rating: 4.5
   affiliateLink: https://www.notion.so
 faq:
-- q: Wat is de beste AI bijlesdocent voor scholieren?
-  a: Khan Academy (Khanmigo) is de beste keuze — een AI-tutor die door vragen te stellen laat ontdekken. Gratis en dekt alle schoolvakken.
-- q: Kan AI helpen bij het leren van talen?
-  a: Ja — Duolingo met AI-tutor biedt adaptieve oefeningen, spraakherkenning en AI-roleplay in meer dan 40 talen.
-- q: Zijn deze tools geschikt voor het Nederlandse onderwijssysteem?
-  a: Ja — Khan Academy, Quizlet en Grammarly werken met Nederlands lesmateriaal. Duolingo biedt Nederlands als doeltaal.
-
+- q: "Wat is de beste AI bijlesdocent voor scholieren?"
+  a: 'Khan Academy (Khanmigo) is de beste keuze — een AI-tutor die door vragen te stellen laat ontdekken. Gratis en dekt alle schoolvakken.'
+- q: "Kan AI helpen bij het leren van talen?"
+  a: 'Ja — Duolingo met AI-tutor biedt adaptieve oefeningen, spraakherkenning en AI-roleplay in meer dan 40 talen.'
+- q: "Zijn deze tools geschikt voor het Nederlandse onderwijssysteem?"
+  a: 'Ja — Khan Academy, Quizlet en Grammarly werken met Nederlands lesmateriaal. Duolingo biedt Nederlands als doeltaal.'
 ---
 
 

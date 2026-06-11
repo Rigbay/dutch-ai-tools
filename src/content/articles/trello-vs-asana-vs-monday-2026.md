@@ -44,18 +44,17 @@ tools:
   rating: 4.3
   affiliateLink: https://www.notion.so
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - ai-beeldherkenning-2026
+  - ai-stemgeneratie-2026
+  - ai-tools-marketing-teams-2026
 draft: false
 faq:
-- q: Welke projectmanagement tool is het beste voor ZZP'ers?
-  a: "'Voor ZZP''ers is Trello vaak de beste start: gratis, eenvoudig en Butler AI automatiseert repeterende taken zonder technische kennis. Asana en Monday zijn krachtiger maar hebben een steilere leercurve en hogere kosten.'"
-- q: Hebben deze tools Nederlandse interfaces?
-  a: Ja, alle drie — Trello, Asana en Monday.com — bieden volledige Nederlandse interfaces. Ook de mobiele apps zijn in het Nederlands beschikbaar.
-- q: Wat kosten de AI-functies bij deze tools?
-  a: Trello's Butler AI is gratis bij het gratis plan (beperkt tot 50 automations/maand). Asana's AI-features (Asana Intelligence) zitten in de Advanced-tier (€25/mnd). Monday AI is beschikbaar vanaf het Pro-plan (€20/mnd).
-
+- q: "Welke projectmanagement tool is het beste voor ZZP'ers?"
+  a: 'Voor ZZP''''ers is Trello vaak de beste start: gratis, eenvoudig en Butler AI automatiseert repeterende taken zonder technische kennis. Asana en Monday zijn krachtiger maar hebben een steilere leercurve en hogere kosten.'
+- q: "Hebben deze tools Nederlandse interfaces?"
+  a: 'Ja, alle drie — Trello, Asana en Monday.com — bieden volledige Nederlandse interfaces. Ook de mobiele apps zijn in het Nederlands beschikbaar.'
+- q: "Wat kosten de AI-functies bij deze tools?"
+  a: 'Trello''s Butler AI is gratis bij het gratis plan (beperkt tot 50 automations/maand). Asana''s AI-features (Asana Intelligence) zitten in de Advanced-tier (€25/mnd). Monday AI is beschikbaar vanaf het Pro-plan (€20/mnd).'
 ---
 
 ## Lees ook

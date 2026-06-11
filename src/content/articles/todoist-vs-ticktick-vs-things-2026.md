@@ -66,18 +66,17 @@ tools:
   rating: 4.1
   affiliateLink: https://www.superlist.com/
 related:
-- beste-ai-chatbots-2026
-- beste-gratis-ai-tools-2026
-- notion-ai-vs-clickup-ai-vs-monday-ai-2026
+  - beste-ai-chatbots-2026
+  - beste-gratis-ai-tools-2026
+  - notion-ai-vs-clickup-ai-vs-monday-ai-2026
 draft: false
 faq:
-- q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Todoist de meest complete keuze voor de meeste Nederlandse gebruikers. Het combineert gebruiksgemak, platformondersteuning en AI-features in een betaalbaar pakket.
-- q: Zijn er goede gratis alternatieven?
-  a: Ja, zowel Todoist als TickTick hebben stevige gratis versies. Microsoft To Do is volledig gratis en goed geïntegreerd in het Microsoft-ecosysteem.
-- q: Werken deze tools goed in het Nederlands?
-  a: Ja, Todoist en Microsoft To Do hebben Nederlandse interfaces. TickTick en Things 3 zijn Engelstalig maar ondersteunen Nederlandse data en spraakinvoer.
-
+- q: "Wat is momenteel de beste tool in deze categorie?"
+  a: 'Op basis van onze analyse in 2026 is Todoist de meest complete keuze voor de meeste Nederlandse gebruikers. Het combineert gebruiksgemak, platformondersteuning en AI-features in een betaalbaar pakket.'
+- q: "Zijn er goede gratis alternatieven?"
+  a: 'Ja, zowel Todoist als TickTick hebben stevige gratis versies. Microsoft To Do is volledig gratis en goed geïntegreerd in het Microsoft-ecosysteem.'
+- q: "Werken deze tools goed in het Nederlands?"
+  a: 'Ja, Todoist en Microsoft To Do hebben Nederlandse interfaces. TickTick en Things 3 zijn Engelstalig maar ondersteunen Nederlandse data en spraakinvoer.'
 ---
 
 ## Lees ook

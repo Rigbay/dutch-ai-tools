@@ -26,9 +26,9 @@ affiliateLinks:
 - https://podcast.adobe.com/
   - https://www.descript.com/?via=anonymous-operator
 related:
-- beste-ai-research-academische-tools-2026
-- beste-ai-3d-modellering-tools-2026
-- ai-stemgeneratie-2026
+  - beste-ai-research-academische-tools-2026
+  - beste-ai-3d-modellering-tools-2026
+  - ai-stemgeneratie-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Descript
@@ -84,13 +84,12 @@ tools:
   rating: 4.4
   affiliateLink: https://podcast.adobe.com/
 faq:
-- q: Welke AI podcast tool is het beste voor beginners?
-  a: Adobe Podcast is gratis en ideaal om te starten met AI-ruisonderdrukking. Riverside biedt een gratis plan voor remote opnames met lokale kwaliteit. Podcastle combineert opname en editing in één platform.
-- q: Kan AI mijn podcast volledig automatisch editen?
-  a: "'Alitu en Cleanvoice doen dit: upload je ruwe opname, en zij verwijderen stiltes, um''s en mondgeluiden, normaliseren het volume en voegen intro/outro toe. Descript laat je daarna nog tekst-gebaseerd fine-tunen.'"
-- q: Is Descript het geld waard voor Nederlandse podcasters?
-  a: Descript ondersteunt Nederlandse transcriptie en is zeer krachtig voor tekst-gebaseerde editing. Voor alleen audio-cleanup is Cleanvoice of Alitu voordeliger. Descript is het best waard als je ook video-podcast maakt.
-
+- q: "Welke AI podcast tool is het beste voor beginners?"
+  a: 'Adobe Podcast is gratis en ideaal om te starten met AI-ruisonderdrukking. Riverside biedt een gratis plan voor remote opnames met lokale kwaliteit. Podcastle combineert opname en editing in één platform.'
+- q: "Kan AI mijn podcast volledig automatisch editen?"
+  a: 'Alitu en Cleanvoice doen dit: upload je ruwe opname, en zij verwijderen stiltes, um''''s en mondgeluiden, normaliseren het volume en voegen intro/outro toe. Descript laat je daarna nog tekst-gebaseerd fine-tunen.'
+- q: "Is Descript het geld waard voor Nederlandse podcasters?"
+  a: 'Descript ondersteunt Nederlandse transcriptie en is zeer krachtig voor tekst-gebaseerde editing. Voor alleen audio-cleanup is Cleanvoice of Alitu voordeliger. Descript is het best waard als je ook video-podcast maakt.'
 ---
 
 

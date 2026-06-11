@@ -64,18 +64,17 @@ tools:
   rating: 4.3
   affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
-- beste-ai-tools-data-analyse-2026
-- nederlandse-ai-adoptie-cijfers-2026
-- beste-ai-tools-landbouw-2026
+  - beste-ai-tools-data-analyse-2026
+  - nederlandse-ai-adoptie-cijfers-2026
+  - beste-ai-tools-landbouw-2026
 draft: false
 faq:
-- q: Is AI in de verzekeringssector betrouwbaar?
-  a: De tools worden al gebruikt door Nederlandse grootverzekeraars. FRISS verwerkt realtime risicoscoring. DNB vereist dat AI-beslissingen uitlegbaar zijn.
-- q: Wat kost AI voor een kleine verzekeraar?
-  a: "'Kleine spelers kunnen starten met Omnius (EUR 500-2000/mnd). FRISS en Shift Technology bieden modulaire pakketten. Totale instapkosten: circa EUR 800-2000/mnd.'"
-- q: Hoe zit het met AVG bij verzekerings-AI?
-  a: Alle tools opereren onder AVG-compliance. Verzekeraars moeten een DPIA uitvoeren. NL tools zoals FRISS en Anansi hebben AVG ingebouwd.
-
+- q: "Is AI in de verzekeringssector betrouwbaar?"
+  a: 'De tools worden al gebruikt door Nederlandse grootverzekeraars. FRISS verwerkt realtime risicoscoring. DNB vereist dat AI-beslissingen uitlegbaar zijn.'
+- q: "Wat kost AI voor een kleine verzekeraar?"
+  a: 'Kleine spelers kunnen starten met Omnius (EUR 500-2000/mnd). FRISS en Shift Technology bieden modulaire pakketten. Totale instapkosten: circa EUR 800-2000/mnd.'
+- q: "Hoe zit het met AVG bij verzekerings-AI?"
+  a: 'Alle tools opereren onder AVG-compliance. Verzekeraars moeten een DPIA uitvoeren. NL tools zoals FRISS en Anansi hebben AVG ingebouwd.'
 ---
 
      1|# De Toekomst is Nu: Top 7 AI Tools voor de Nederlandse Verzekeringssector in 2026

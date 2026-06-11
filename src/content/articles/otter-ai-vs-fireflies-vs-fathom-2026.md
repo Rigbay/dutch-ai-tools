@@ -40,17 +40,16 @@ tools:
   rating: 4.5
   affiliateLink: https://www.notion.so
 related:
-- ai-beeldherkenning-2026
-- ai-stemgeneratie-2026
-- ai-tools-marketing-teams-2026
+  - ai-beeldherkenning-2026
+  - ai-stemgeneratie-2026
+  - ai-tools-marketing-teams-2026
 faq:
-- q: Welke AI-notulist werkt het beste met Nederlandse gesprekken?
-  a: Fireflies.ai biedt de beste Nederlandse transcriptie. Fathom en Otter.ai ondersteunen Nederlands, maar de nauwkeurigheid is iets lager dan bij Engels. Test alle drie met een Nederlands gesprek voor je een keuze maakt.
-- q: Zijn AI meeting assistants AVG-proof?
-  a: Fireflies.ai en Fathom bieden EU-serveropties. Otter.ai verwerkt data voornamelijk in de VS. Check altijd de DPA (Data Processing Agreement) en informeer deelnemers dat een AI-notulist meeluistert.
-- q: Is de gratis versie voldoende?
-  a: "'Voor incidenteel gebruik: ja. Fireflies gratis: 800 min opgeslagen. Otter gratis: 300 min/maand. Fathom gratis: 5 meetings. Voor dagelijks gebruik is een betaald abonnement nodig.'"
-
+- q: "Welke AI-notulist werkt het beste met Nederlandse gesprekken?"
+  a: 'Fireflies.ai biedt de beste Nederlandse transcriptie. Fathom en Otter.ai ondersteunen Nederlands, maar de nauwkeurigheid is iets lager dan bij Engels. Test alle drie met een Nederlands gesprek voor je een keuze maakt.'
+- q: "Zijn AI meeting assistants AVG-proof?"
+  a: 'Fireflies.ai en Fathom bieden EU-serveropties. Otter.ai verwerkt data voornamelijk in de VS. Check altijd de DPA (Data Processing Agreement) en informeer deelnemers dat een AI-notulist meeluistert.'
+- q: "Is de gratis versie voldoende?"
+  a: 'Voor incidenteel gebruik: ja. Fireflies gratis: 800 min opgeslagen. Otter gratis: 300 min/maand. Fathom gratis: 5 meetings. Voor dagelijks gebruik is een betaald abonnement nodig.'
 ---
 
 ## Lees ook

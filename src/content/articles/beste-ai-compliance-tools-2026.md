@@ -53,18 +53,17 @@ tools:
   rating: 4.3
   affiliateLink: https://www.thoropass.com/
 related:
-- ai-avg-compliance-tools-2026
-- shadow-ai-management-bedrijven-2026
-- eu-ai-act-compliant-tools-2026
+  - ai-avg-compliance-tools-2026
+  - shadow-ai-management-bedrijven-2026
+  - eu-ai-act-compliant-tools-2026
 draft: false
 faq:
-- q: Wanneer wordt de EU AI Act gehandhaafd?
-  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
-- q: Geldt de EU AI Act ook voor kleine bedrijven?
-  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.
-- q: Wat zijn de boetes bij overtreding van de EU AI Act?
-  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
-
+- q: "Wanneer wordt de EU AI Act gehandhaafd?"
+  a: 'De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.'
+- q: "Geldt de EU AI Act ook voor kleine bedrijven?"
+  a: 'Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP''ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.'
+- q: "Wat zijn de boetes bij overtreding van de EU AI Act?"
+  a: 'De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.'
 ---
 
 # De EU AI Act nadert: Zo kiezen Nederlandse bedrijven de juiste AI compliance tools in 2026
@@ -142,3 +141,11 @@ Secureframe maakt gebruik van AI om compliance-processen te stroomlijnen en te a
 *   **Continue monitoring en alerts:** Realtime monitoring van AI-gerelateerde controles en automatische alerts bij afwijkingen of potentiële non-compliance.
 *   **Audit-readiness:** Het genereren van uitgebreide rapporten en bewijsmateriaal ter voorbereiding op audits, inclusief specifieke documentatie voor AI Act-naleving.
 *   **Gebruiksvriendelijkheid:** Een intuïtieve interface die het voor niet-experts gemakkel
+
+---
+
+## Lees ook
+
+- [AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB](/afas-vs-exact-vs-odoo-vs-sap-business-one-2026/)
+- [AI Agents vs AI Workflows: Wat Werkt in de Nederlandse Praktijk?](/ai-agents-vs-ai-workflows-praktijk-nederland-2026/)
+- [Privacy & AI: Welke AI Tools Voldoen aan de AVG in 2026?](/ai-avg-compliance-tools-2026/)

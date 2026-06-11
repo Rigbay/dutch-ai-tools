@@ -67,17 +67,16 @@ tools:
   rating: 4.6
   affiliateLink: https://www.gong.io/
 related:
-- beste-ai-tools-ouderschap-gezinsmanagement-2026
-- beste-ai-tools-pdf-documenten-2026
-- beste-ai-vertaaltools-2026
+  - beste-ai-tools-ouderschap-gezinsmanagement-2026
+  - beste-ai-tools-pdf-documenten-2026
+  - beste-ai-vertaaltools-2026
 faq:
-- q: Wat is de beste AI tool voor dit segment in 2026?
-  a: "'Dat hangt af van je specifieke behoeften en budget. Gebruik de vergelijkingstabel en verdicts hierboven om de tool te kiezen die het beste past bij jouw use case. Voor de meeste gebruikers geldt: begin met de tool die de hoogste score heeft in jouw prijsklasse.'"
-- q: Zijn er goede gratis AI tools beschikbaar?
-  a: Ja, verschillende tools in dit overzicht bieden gratis tiers aan. Let wel op de beperkingen — vaak zijn er limieten op gebruik, features of exportmogelijkheden. De gratis versies zijn perfect om te testen of een tool bij je past voordat je een betaald abonnement afsluit.
-- q: Welke tool ondersteunt het beste Nederlands?
-  a: Niet alle AI tools ondersteunen Nederlands even goed. In onze vergelijking hebben we specifiek gekeken naar Nederlandse taalondersteuning. Check per tool de 'beste-voor' kolom in de tabel en de beschrijving voor details over NL-ondersteuning.
-
+- q: "Wat is de beste AI tool voor dit segment in 2026?"
+  a: 'Dat hangt af van je specifieke behoeften en budget. Gebruik de vergelijkingstabel en verdicts hierboven om de tool te kiezen die het beste past bij jouw use case. Voor de meeste gebruikers geldt: begin met de tool die de hoogste score heeft in jouw prijsklasse.'
+- q: "Zijn er goede gratis AI tools beschikbaar?"
+  a: 'Ja, verschillende tools in dit overzicht bieden gratis tiers aan. Let wel op de beperkingen — vaak zijn er limieten op gebruik, features of exportmogelijkheden. De gratis versies zijn perfect om te testen of een tool bij je past voordat je een betaald abonnement afsluit.'
+- q: "Welke tool ondersteunt het beste Nederlands?"
+  a: 'Niet alle AI tools ondersteunen Nederlands even goed. In onze vergelijking hebben we specifiek gekeken naar Nederlandse taalondersteuning. Check per tool de ''beste-voor'' kolom in de tabel en de beschrijving voor details over NL-ondersteuning.'
 ---
 
 # De Toekomst van Vergaderen: De Beste AI Meeting & Transcriptie Tools in 2026

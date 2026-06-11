@@ -39,17 +39,17 @@ tools:
   rating: 4.2
   affiliateLink: https://www.notion.so
 related:
-- zapier-central-vs-make-ai-vs-relevance-ai-2026
-- beste-ai-tools-consultancy-2026
-- beste-ai-tools-zzpers-2026
+  - zapier-central-vs-make-ai-vs-relevance-ai-2026
+  - beste-ai-tools-consultancy-2026
+  - beste-ai-tools-zzpers-2026
 draft: false
 faq:
-- q: Welke planningstool is het beste voor Nederlandse ZZP'ers?
-  a: "Calendly is de beste keuze voor ZZP'ers: eenvoudig in te stellen, gratis tot 1 agenda, integreert met Google/Outlook, en ondersteunt Nederlandse tijdsweergave. Cal.com is ideaal als je waarde hecht aan privacy en open-source. Doodle is het beste voor eenmalige groepsafspraken zoals vriendenuitjes of vrijwilligersoverleg."
-- q: Is Calendly gratis genoeg?
-  a: "De gratis versie van Calendly biedt 1 actief meeting type, onbeperkt meetings en basisintegraties. Voor de meeste ZZP'ers is dit voldoende. Betaalde plannen (vanaf EUR 10/mnd) bieden extra: meerdere meeting types, teamplanning, AI-suggesties en herinnerings-SMS. Cal.com gratis biedt méér features maar is technischer."
-- q: Hoe veilig zijn mijn agenda-gegevens?
-  a: "Cal.com is het veiligst: open-source, self-host mogelijk, GDPR-compliant met EU-servers. Calendly verwerkt data in de VS (SOC2-gecertificeerd). Doodle's dataverwerking is deels in Zwitserland (sterke privacywetten). Voor vertrouwelijke agenda's van bijv. therapeuten of juristen is Cal.com met self-hosting de beste keuze."
+- q: "Welke planningstool is het beste voor Nederlandse ZZP'ers?"
+  a: 'Calendly is de beste keuze voor ZZP''ers: eenvoudig in te stellen, gratis tot 1 agenda, integreert met Google/Outlook, en ondersteunt Nederlandse tijdsweergave. Cal.com is ideaal als je waarde hecht aan privacy en open-source. Doodle is het beste voor eenmalige groepsafspraken zoals vriendenuitjes of vrijwilligersoverleg.'
+- q: "Is Calendly gratis genoeg?"
+  a: 'De gratis versie van Calendly biedt 1 actief meeting type, onbeperkt meetings en basisintegraties. Voor de meeste ZZP''ers is dit voldoende. Betaalde plannen (vanaf EUR 10/mnd) bieden extra: meerdere meeting types, teamplanning, AI-suggesties en herinnerings-SMS. Cal.com gratis biedt méér features maar is technischer.'
+- q: "Hoe veilig zijn mijn agenda-gegevens?"
+  a: 'Cal.com is het veiligst: open-source, self-host mogelijk, GDPR-compliant met EU-servers. Calendly verwerkt data in de VS (SOC2-gecertificeerd). Doodle''s dataverwerking is deels in Zwitserland (sterke privacywetten). Voor vertrouwelijke agenda''s van bijv. therapeuten of juristen is Cal.com met self-hosting de beste keuze.'
 ---
 
 ## Lees ook

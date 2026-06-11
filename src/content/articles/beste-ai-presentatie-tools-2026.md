@@ -72,17 +72,16 @@ tools:
   rating: 4.0
   affiliateLink: https://prezi.com/
 related:
-- beste-ai-tools-studenten-2026
-- ai-voor-studenten-2026
-- beste-ai-tools-logistiek-2026
+  - beste-ai-tools-studenten-2026
+  - ai-voor-studenten-2026
+  - beste-ai-tools-logistiek-2026
 faq:
-- q: Kan Gamma Nederlandse presentaties maken?
-  a: Ja, Gamma ondersteunt Nederlands. Je kunt Nederlandstalige prompts geven en Gamma genereert de presentatie in het Nederlands. De AI past automatisch de taal van de slides aan op basis van je input.
-- q: Zijn AI-presentatietools gratis te gebruiken?
-  a: De meeste AI-presentatietools hebben een gratis tier. Gamma, Tome en Canva AI bieden gratis plannen met beperkte credits. Beautiful.ai en Decktopus hebben betaalde plannen vanaf EUR 10-12/mnd.
-- q: Kan ik AI-presentaties exporteren naar PowerPoint?
-  a: Ja, de meeste tools ondersteunen PowerPoint-export. Gamma, Beautiful.ai, Decktopus en Canva AI laten je presentaties downloaden als .pptx-bestand. Tome exporteert naar PDF. Check de exportopties per tool — dit verschilt per abonnement.
-
+- q: "Kan Gamma Nederlandse presentaties maken?"
+  a: 'Ja, Gamma ondersteunt Nederlands. Je kunt Nederlandstalige prompts geven en Gamma genereert de presentatie in het Nederlands. De AI past automatisch de taal van de slides aan op basis van je input.'
+- q: "Zijn AI-presentatietools gratis te gebruiken?"
+  a: 'De meeste AI-presentatietools hebben een gratis tier. Gamma, Tome en Canva AI bieden gratis plannen met beperkte credits. Beautiful.ai en Decktopus hebben betaalde plannen vanaf EUR 10-12/mnd.'
+- q: "Kan ik AI-presentaties exporteren naar PowerPoint?"
+  a: 'Ja, de meeste tools ondersteunen PowerPoint-export. Gamma, Beautiful.ai, Decktopus en Canva AI laten je presentaties downloaden als .pptx-bestand. Tome exporteert naar PDF. Check de exportopties per tool — dit verschilt per abonnement.'
 ---
 
 # De Toekomst van Presenteren: De Beste AI Presentatie Tools in 2026

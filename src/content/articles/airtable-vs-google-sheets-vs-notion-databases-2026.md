@@ -44,12 +44,12 @@ related:
   - beste-ai-automation-tools-2026
 draft: false
 faq:
-  - q: "Wat is het verschil tussen een spreadsheet en een database?"
-    a: "Spreadsheets (Google Sheets) zijn ideaal voor losse analyses en ad- ad-hoc berekeningen. Databases (Airtable, Notion) zijn beter voor gestructu gestructureerde, gekoppelde data die je regelmatig wilt filteren, sorteren en automatiseren."
-  - q: "Is Airtable AVG-compliant voor Nederlandse bedrijven?"
-    a: "Ja, Airtable biedt dataopslag in EU-datacenters (Frankfurt) en is S SOC 2 gecertificeerd. Controleer wel altijd je eigen gebruik en verwerkings verwerkingsregister."
-  - q: "Kan ik Google Sheets en Airtable koppelen?"
-    a: "Ja, via Zapier, Make of Airtable's eigen sync-functie kun je data a automatisch tussen Google Sheets en Airtable uitwisselen."
+- q: "Wat is het verschil tussen een spreadsheet en een database?"
+  a: 'Spreadsheets (Google Sheets) zijn ideaal voor losse analyses en ad- ad-hoc berekeningen. Databases (Airtable, Notion) zijn beter voor gestructu gestructureerde, gekoppelde data die je regelmatig wilt filteren, sorteren en automatiseren.'
+- q: "Is Airtable AVG-compliant voor Nederlandse bedrijven?"
+  a: 'Ja, Airtable biedt dataopslag in EU-datacenters (Frankfurt) en is S SOC 2 gecertificeerd. Controleer wel altijd je eigen gebruik en verwerkings verwerkingsregister.'
+- q: "Kan ik Google Sheets en Airtable koppelen?"
+  a: 'Ja, via Zapier, Make of Airtable''s eigen sync-functie kun je data a automatisch tussen Google Sheets en Airtable uitwisselen.'
 ---
 
 ## Lees ook

@@ -76,23 +76,16 @@ related:
   - beste-ai-productivity-tools-2026
 draft: false
 faq:
-  - q: Hoe nauwkeurig zijn AI-recepten wat betreft kooktijden en verhoudingen?
-    a: >-
-      Over het algemeen zijn moderne AI-tools in 2026 zeer nauwkeurig, omdat ze getraind
-      zijn op miljoenen professionele recepten. Toch blijft gezond verstand belangrijk:
-      controleer altijd of de hoeveelheid vloeistof logisch is en houd de pan in de gaten,
-      aangezien ovens en fornuizen onderling verschillen.
-  - q: Kan ik met deze AI-tools rekening houden met specifieke allergieën?
-    a: >-
-      Ja, absoluut. Tools zoals ChefGPT en DishGen hebben ingebouwde filters voor gluten,
-      noten, lactose en andere allergenen. Je kunt zelfs invoeren: "Genereer een diner
-      zonder tomaat en pinda's" en de AI past het recept direct foutloos aan.
-  - q: Zijn deze kook-apps ook in het Nederlands beschikbaar?
-    a: >-
-      Sommige specifieke tools zijn voornamelijk in het Engels, maar platforms zoals ChatGPT
-      en DishGen begrijpen en reageren perfect in het Nederlands. Bovendien kun je met ingebouwde
-      browservertalingen of AI-vertaaltools Engelstalige recepten in een fractie van een seconde
-      vertalen.
+- q: "Hoe nauwkeurig zijn AI-recepten wat betreft kooktijden en verhoudingen?"
+  a: 'Over het algemeen zijn moderne AI-tools in 2026 zeer nauwkeurig, omdat ze getraind zijn op miljoenen professionele recepten. Toch blijft gezond verstand belangrijk: controleer altijd of de hoeveelheid vloeistof logisch is en houd de pan in de gaten, aangezien ovens en fornuizen onderling verschillen.'
+- q: "Zijn deze tools ook geschikt voor Nederlandse recepten?"
+  a: 'Ja, de meeste AI-kooktools ondersteunen meerdere talen en keukens, inclusief de Nederlandse. Je kunt specifiek vragen om Hollandse gerechten zoals stamppot of erwtensoep.'
+- q: "Kan ik dieetwensen en allergieën instellen?"
+  a: 'De meeste tools laten je dieetvoorkeuren en allergieën instellen in je profiel. De AI houdt hier dan automatisch rekening mee bij het genereren van recepten en boodschappenlijsten.'
+- q: "Kan ik met deze AI-tools rekening houden met specifieke allergieën?"
+  a: '>- Ja, absoluut. Tools zoals ChefGPT en DishGen hebben ingebouwde filters voor gluten, noten, lactose en andere allergenen. Je kunt zelfs invoeren: "Genereer een diner zonder tomaat en pinda''s" en de AI past het recept direct foutloos aan.'
+- q: "Zijn deze kook-apps ook in het Nederlands beschikbaar?"
+  a: '>- Sommige specifieke tools zijn voornamelijk in het Engels, maar platforms zoals ChatGPT en DishGen begrijpen en reageren perfect in het Nederlands. Bovendien kun je met ingebouwde browservertalingen of AI-vertaaltools Engelstalige recepten in een fractie van een seconde vertalen.'
 ---
 
 De keuken van 2026 is slimmer, efficiënter en creatiever dan ooit tevoren. Waar we vroeger uren bladerden door kookboeken of moedeloos naar een halflege koelkast staarden, nemen **AI kooktools** nu het denkwerk uit handen. Of je nu wilt besparen op je boodschappen, voedselverspilling wilt tegengaan, of een strikt dieet volgt: kunstmatige intelligentie is jouw nieuwe souschef.

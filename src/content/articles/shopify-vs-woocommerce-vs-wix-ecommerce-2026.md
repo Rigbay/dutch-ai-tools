@@ -44,12 +44,12 @@ related:
   - beste-ai-automation-tools-2026
 draft: false
 faq:
-  - q: "Welk ecommerce platform is het beste voor een startende webshop in Nederland?"
-    a: "Voor starters zonder technische kennis is Wix Ecommerce de snelste start. Shopify biedt de beste schaalbaarheid voor serieuze groei. WooCommer WooCommerce is ideaal als je al een WordPress site hebt en technische onder ondersteuning beschikbaar is."
-  - q: "Kan ik iDEAL-betalingen accepteren op deze platformen?"
-    a: "Ja, alle drie ondersteunen iDEAL via Mollie of Stripe. Shopify en W Wix hebben native iDEAL-integraties. WooCommerce vereist de gratis Mollie-p Mollie-plugin voor iDEAL."
-  - q: "Wat zijn de maandelijkse kosten inclusief AI-features?"
-    a: "Shopify AI (Magic) vanaf €25/maand, WooCommerce AI-plugins €0-30/ma €0-30/maand (afhankelijk van extensies), Wix AI-builder vanaf €15/maand."
+- q: "Welk ecommerce platform is het beste voor een startende webshop in Nederland?"
+  a: 'Voor starters zonder technische kennis is Wix Ecommerce de snelste start. Shopify biedt de beste schaalbaarheid voor serieuze groei. WooCommer WooCommerce is ideaal als je al een WordPress site hebt en technische onder ondersteuning beschikbaar is.'
+- q: "Kan ik iDEAL-betalingen accepteren op deze platformen?"
+  a: 'Ja, alle drie ondersteunen iDEAL via Mollie of Stripe. Shopify en W Wix hebben native iDEAL-integraties. WooCommerce vereist de gratis Mollie-p Mollie-plugin voor iDEAL.'
+- q: "Wat zijn de maandelijkse kosten inclusief AI-features?"
+  a: 'Shopify AI (Magic) vanaf €25/maand, WooCommerce AI-plugins €0-30/ma €0-30/maand (afhankelijk van extensies), Wix AI-builder vanaf €15/maand.'
 ---
 
 ## Lees ook

@@ -69,18 +69,17 @@ tools:
   rating: 4.2
   affiliateLink: https://www.dentally.com/
 related:
-- beste-ai-tools-zorg-2026
-- beste-ai-tools-apotheek-farmacie-2026
-- beste-ai-tools-data-privacy-avg-2026
+  - beste-ai-tools-zorg-2026
+  - beste-ai-tools-apotheek-farmacie-2026
+  - beste-ai-tools-data-privacy-avg-2026
 draft: false
 faq:
-- q: Mag AI zelfstandig diagnoses stellen in de tandheelkunde?
-  a: Nee. AI kan afwijkingen markeren en metingen ondersteunen, maar de tandarts blijft verantwoordelijk voor diagnose, behandelplan en patiëntcommunicatie.
-- q: Welke AI tool is het beste voor röntgenfoto's?
-  a: Pearl AI en Overjet zijn de sterkste opties voor algemene röntgenanalyse. Pearl blinkt uit in visuele patiëntuitleg, Overjet in meetbare klinische inzichten.
-- q: Is tandheelkundige AI geschikt voor kleine praktijken?
-  a: Ja, vooral voor praktijken met veel bitewings, OPG's of paro-controles. Let wel op maandkosten, koppelingen met je PMS en lokale regelgeving rond medische data.
-
+- q: "Mag AI zelfstandig diagnoses stellen in de tandheelkunde?"
+  a: 'Nee. AI kan afwijkingen markeren en metingen ondersteunen, maar de tandarts blijft verantwoordelijk voor diagnose, behandelplan en patiëntcommunicatie.'
+- q: "Welke AI tool is het beste voor röntgenfoto's?"
+  a: 'Pearl AI en Overjet zijn de sterkste opties voor algemene röntgenanalyse. Pearl blinkt uit in visuele patiëntuitleg, Overjet in meetbare klinische inzichten.'
+- q: "Is tandheelkundige AI geschikt voor kleine praktijken?"
+  a: 'Ja, vooral voor praktijken met veel bitewings, OPG''s of paro-controles. Let wel op maandkosten, koppelingen met je PMS en lokale regelgeving rond medische data.'
 ---
 # AI in de Tandheelkunde: de beste tools voor 2026
 

@@ -60,18 +60,17 @@ tools:
   rating: 4.2
   affiliateLink: https://www.capcut.com/
 related:
-- ai-video-generatie-tools-2026
-- beste-ai-tools-media-entertainment-2026
-- elevenlabs-vs-murf-ai-vs-play-ht-2026
+  - ai-video-generatie-tools-2026
+  - beste-ai-tools-media-entertainment-2026
+  - elevenlabs-vs-murf-ai-vs-play-ht-2026
 draft: false
 faq:
-- q: Welke AI tool is het beste voor podcast editing?
-  a: Descript is de favoriet onder professionele podcasters in 2026.
-- q: Kan AI Nederlandse podcasts goed transcriberen?
-  a: Descript en Riverside hebben goede Nederlandse ondersteuning, maar test altijd even.
-- q: Hoe maak ik virale clips van mijn podcast?
-  a: Opus Clip is hiervoor speciaal ontworpen en bespaart uren werk.
-
+- q: "Welke AI tool is het beste voor podcast editing?"
+  a: 'Descript is de favoriet onder professionele podcasters in 2026.'
+- q: "Kan AI Nederlandse podcasts goed transcriberen?"
+  a: 'Descript en Riverside hebben goede Nederlandse ondersteuning, maar test altijd even.'
+- q: "Hoe maak ik virale clips van mijn podcast?"
+  a: 'Opus Clip is hiervoor speciaal ontworpen en bespaart uren werk.'
 ---
 ## Snel advies
 

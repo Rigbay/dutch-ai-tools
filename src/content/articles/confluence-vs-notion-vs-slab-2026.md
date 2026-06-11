@@ -67,17 +67,16 @@ draft: false
 date: 2026-05-29
 modelYear: 2026
 related:
-- beste-ai-tools-projectmanagement-2026
-- airtable-vs-google-sheets-vs-notion-databases-2026
-- beste-ai-automation-tools-2026
+  - beste-ai-tools-projectmanagement-2026
+  - airtable-vs-google-sheets-vs-notion-databases-2026
+  - beste-ai-automation-tools-2026
 faq:
-- q: Welke documentatietool is het beste voor Nederlandse teams?
-  a: Notion is het meest veelzijdig met de beste Nederlandstalige ondersteuning. Confluence is de standaard voor enterprise-teams die al Jira gebruiken. Slab is het beste voor technische teams die een simpele kennisdatabase willen.
-- q: Kan ik deze tools gebruiken voor technische documentatie?
-  a: Ja, alle drie ondersteunen technische documentatie met codeblokken en syntax highlighting. Confluence heeft de beste integraties met Jira en Bitbucket voor ontwikkelteams.
-- q: Wat kost een kennisdatabase voor een team van 10 personen?
-  a: Confluence kost ongeveer 55 EUR/maand, Notion 36 EUR/maand en Slab 72 EUR/maand. Notion biedt de beste prijs-kwaliteitverhouding voor kleinere teams.
-
+- q: "Welke documentatietool is het beste voor Nederlandse teams?"
+  a: 'Notion is het meest veelzijdig met de beste Nederlandstalige ondersteuning. Confluence is de standaard voor enterprise-teams die al Jira gebruiken. Slab is het beste voor technische teams die een simpele kennisdatabase willen.'
+- q: "Kan ik deze tools gebruiken voor technische documentatie?"
+  a: 'Ja, alle drie ondersteunen technische documentatie met codeblokken en syntax highlighting. Confluence heeft de beste integraties met Jira en Bitbucket voor ontwikkelteams.'
+- q: "Wat kost een kennisdatabase voor een team van 10 personen?"
+  a: 'Confluence kost ongeveer 55 EUR/maand, Notion 36 EUR/maand en Slab 72 EUR/maand. Notion biedt de beste prijs-kwaliteitverhouding voor kleinere teams.'
 ---
 
 ## Lees ook

@@ -44,12 +44,12 @@ related:
   - beste-ai-automation-tools-2026
 draft: false
 faq:
-  - q: "Welke betaalprovider is het goedkoopst voor een startende webshop?"
-    a: "Mollie heeft de laagste instapdrempel zonder maandelijkse kosten, alleen transactiekosten (€0,25 voor iDEAL, 2,9% + €0,25 voor creditcards). Stripe heeft vergelijkbare tarieven maar iets complexere setup."
-  - q: "Kan ik AI gebruiken voor fraudepreventie bij betalingen?"
-    a: "Ja, alle drie bieden AI-gedreven fraud detection. Stripe Radar gebruikt machine learning om verdachte transacties te blokkeren. Adyen's RevenueProtect is marktleider in enterprise fraud prevention."
-  - q: "Ondersteunen deze providers achteraf betalen (Klarna/Riverty)?"
-    a: "Ja, Mollie biedt Klarna en Riverty native aan. Stripe ondersteunt Klarna via de API. Adyen biedt vrijwel alle Nederlandse achteraf-betaalmethoden via één integratie."
+- q: "Welke betaalprovider is het goedkoopst voor een startende webshop?"
+  a: 'Mollie heeft de laagste instapdrempel zonder maandelijkse kosten, alleen transactiekosten (€0,25 voor iDEAL, 2,9% + €0,25 voor creditcards). Stripe heeft vergelijkbare tarieven maar iets complexere setup.'
+- q: "Kan ik AI gebruiken voor fraudepreventie bij betalingen?"
+  a: 'Ja, alle drie bieden AI-gedreven fraud detection. Stripe Radar gebruikt machine learning om verdachte transacties te blokkeren. Adyen''s RevenueProtect is marktleider in enterprise fraud prevention.'
+- q: "Ondersteunen deze providers achteraf betalen (Klarna/Riverty)?"
+  a: 'Ja, Mollie biedt Klarna en Riverty native aan. Stripe ondersteunt Klarna via de API. Adyen biedt vrijwel alle Nederlandse achteraf-betaalmethoden via één integratie.'
 ---
 
 ## Lees ook

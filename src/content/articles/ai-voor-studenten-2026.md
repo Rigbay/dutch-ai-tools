@@ -41,18 +41,17 @@ tools:
   rating: 4.4
   affiliateLink: https://www.grammarly.com/
 related:
-- beste-ai-tools-bouw-2026
-- beste-ai-tools-mode-styling-2026
-- beste-ai-tools-mindmapping-brainstormen-2026
+  - beste-ai-tools-bouw-2026
+  - beste-ai-tools-mode-styling-2026
+  - beste-ai-tools-mindmapping-brainstormen-2026
 draft: false
 faq:
-- q: Mag ik AI gebruiken voor essays op de universiteit?
-  a: Check altijd de richtlijnen van je onderwijsinstelling. AI als hulpmiddel is meestal toegestaan, plagiaat niet.
-- q: Welke tool helpt het beste bij samenvattingen maken?
-  a: Notion AI en ChatGPT zijn zeer effectief voor het maken van studienotities en samenvattingen.
-- q: Zijn er gratis AI tools voor studenten?
-  a: Ja, ChatGPT (gratis versie), Grammarly Free en verschillende universiteitslicenties bieden gratis toegang.
-
+- q: "Mag ik AI gebruiken voor essays op de universiteit?"
+  a: 'Check altijd de richtlijnen van je onderwijsinstelling. AI als hulpmiddel is meestal toegestaan, plagiaat niet.'
+- q: "Welke tool helpt het beste bij samenvattingen maken?"
+  a: 'Notion AI en ChatGPT zijn zeer effectief voor het maken van studienotities en samenvattingen.'
+- q: "Zijn er gratis AI tools voor studenten?"
+  a: 'Ja, ChatGPT (gratis versie), Grammarly Free en verschillende universiteitslicenties bieden gratis toegang.'
 ---
 
 # AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps

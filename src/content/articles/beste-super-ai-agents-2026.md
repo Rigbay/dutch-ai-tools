@@ -41,18 +41,17 @@ tools:
   rating: 4.6
   affiliateLink: https://cognition.ai/
 related:
-- beste-ai-tools-programmeren-2026
-- beste-ai-automation-tools-2026
-- beste-super-ai-agents-2026
+  - beste-ai-tools-programmeren-2026
+  - beste-ai-automation-tools-2026
+  - beste-super-ai-agents-2026
 draft: false
 faq:
-- q: Wat is een super AI agent in 2026?
-  a: Een autonome AI die complexe taken self-repairing en zelfstandig uitvoert, meestal met eigen toolgebruik.
-- q: Is manus echt autonoom?
-  a: Ja, manus is een van de meest daadwerkelijk zelfstandige agents in 2026 — het kan complexe taken end-to-end uitvoeren.
-- q: Kan ik een super AI agent zelf hosten?
-  a: Ja, open-source alternatieven zoals Devika en zelfbouw-frameworks maken dit mogelijk op eigen hardware.
-
+- q: "Wat is een super AI agent in 2026?"
+  a: 'Een autonome AI die complexe taken self-repairing en zelfstandig uitvoert, meestal met eigen toolgebruik.'
+- q: "Is manus echt autonoom?"
+  a: 'Ja, manus is een van de meest daadwerkelijk zelfstandige agents in 2026 — het kan complexe taken end-to-end uitvoeren.'
+- q: "Kan ik een super AI agent zelf hosten?"
+  a: 'Ja, open-source alternatieven zoals Devika en zelfbouw-frameworks maken dit mogelijk op eigen hardware.'
 ---
 ---
 

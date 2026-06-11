@@ -40,17 +40,17 @@ tools:
   rating: 4.4
   affiliateLink: https://www.notion.so
 related:
-- beste-ai-sales-tools-2026
-- beste-ai-marketing-tools-2026
-- beste-ai-tools-kleine-ondernemers-2026
+  - beste-ai-sales-tools-2026
+  - beste-ai-marketing-tools-2026
+  - beste-ai-tools-kleine-ondernemers-2026
 draft: false
 faq:
-- q: Welk CRM is het beste voor een Nederlands MKB-bedrijf met 5-20 medewerkers?
-  a: "HubSpot is de beste keuze voor de meeste Nederlandse MKB-bedrijven. Het gratis plan is volwaardig, de AI-features (Breeze AI) worden continu verbeterd, en de Nederlandstalige interface en support zijn uitstekend. Pipedrive is een goed alternatief voor pure sales-teams die vooral een pijplijn willen beheren."
-- q: Zijn deze CRMs AVG-compliant?
-  a: "Alle drie bieden EU-serveropties en AVG-verwerkingsovereenkomsten. HubSpot heeft servers in Frankfurt, Salesforce in Dublin en Frankfurt, Pipedrive (Ests bedrijf) heeft servers in de EU. Controleer altijd het Data Processing Agreement van je abonnementsvorm."
-- q: Wat kost een AI CRM per maand realistisch?
-  a: "HubSpot: gratis tot EUR 100 p.p./mnd voor volledige AI. Salesforce: EUR 25-300 p.p./mnd. Pipedrive: EUR 14-99 p.p./mnd. Voor een team van 5: reken op EUR 250-750/maand voor een professionele AI CRM."
+- q: "Welk CRM is het beste voor een Nederlands MKB-bedrijf met 5-20 medewerkers?"
+  a: 'HubSpot is de beste keuze voor de meeste Nederlandse MKB-bedrijven. Het gratis plan is volwaardig, de AI-features (Breeze AI) worden continu verbeterd, en de Nederlandstalige interface en support zijn uitstekend. Pipedrive is een goed alternatief voor pure sales-teams die vooral een pijplijn willen beheren.'
+- q: "Zijn deze CRMs AVG-compliant?"
+  a: 'Alle drie bieden EU-serveropties en AVG-verwerkingsovereenkomsten. HubSpot heeft servers in Frankfurt, Salesforce in Dublin en Frankfurt, Pipedrive (Ests bedrijf) heeft servers in de EU. Controleer altijd het Data Processing Agreement van je abonnementsvorm.'
+- q: "Wat kost een AI CRM per maand realistisch?"
+  a: 'HubSpot: gratis tot EUR 100 p.p./mnd voor volledige AI. Salesforce: EUR 25-300 p.p./mnd. Pipedrive: EUR 14-99 p.p./mnd. Voor een team van 5: reken op EUR 250-750/maand voor een professionele AI CRM.'
 ---
 
 ## Lees ook

@@ -44,12 +44,12 @@ related:
   - beste-ai-automation-tools-2026
 draft: false
 faq:
-  - q: "Welke videobel tool heeft de beste AI-samenvatting van meetings?"
-    a: "Microsoft Teams Copilot levert de meest complete en actiegerichte s samenvattingen omdat het de volledige Office-context meeneemt (e-mails, doc documenten, chat). Zoom AI Companion is een sterke tweede met focus op high highlights en actiepunten."
-  - q: "Zijn deze tools AVG-compliant voor Nederlandse bedrijven?"
-    a: "Alle drie bieden EU-datacenter opties en zijn AVG-compliant mits co correct geconfigureerd. Microsoft en Google hebben uitgebreide compliance-d compliance-documentatie beschikbaar."
-  - q: "Kan ik gratis videobellen met grote groepen?"
-    a: "Google Meet biedt 60 minuten voor groepen tot 100 personen gratis. Zoom gratis is beperkt tot 40 minuten. Teams gratis staat 60 minuten toe me met maximaal 100 deelnemers."
+- q: "Welke videobel tool heeft de beste AI-samenvatting van meetings?"
+  a: 'Microsoft Teams Copilot levert de meest complete en actiegerichte s samenvattingen omdat het de volledige Office-context meeneemt (e-mails, doc documenten, chat). Zoom AI Companion is een sterke tweede met focus op high highlights en actiepunten.'
+- q: "Zijn deze tools AVG-compliant voor Nederlandse bedrijven?"
+  a: 'Alle drie bieden EU-datacenter opties en zijn AVG-compliant mits co correct geconfigureerd. Microsoft en Google hebben uitgebreide compliance-d compliance-documentatie beschikbaar.'
+- q: "Kan ik gratis videobellen met grote groepen?"
+  a: 'Google Meet biedt 60 minuten voor groepen tot 100 personen gratis. Zoom gratis is beperkt tot 40 minuten. Teams gratis staat 60 minuten toe me met maximaal 100 deelnemers.'
 ---
 
 ## Lees ook

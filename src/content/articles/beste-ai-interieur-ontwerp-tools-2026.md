@@ -24,9 +24,9 @@ affiliateLinks:
 - https://www.decormatters.com/
 - https://www.hutch.com/
 related:
-- beste-ai-3d-modellering-tools-2026
-- beste-ai-e-commerce-dropshipping-tools-2026
-- ai-beeldherkenning-2026
+  - beste-ai-3d-modellering-tools-2026
+  - beste-ai-e-commerce-dropshipping-tools-2026
+  - ai-beeldherkenning-2026
 date: '2026-06-01'
 modelYear: 2026
 featuredTool: Planner 5D
@@ -69,13 +69,12 @@ tools:
   rating: 4.1
   affiliateLink: https://www.hutch.com/
 faq:
-- q: Werken AI interieur tools ook met Nederlandse maten en meubels?
-  a: Ja, Planner 5D en HomeByMe ondersteunen Nederlandse maatvoering. De tools werken met algemene meubelafmetingen, maar voor exacte IKEA of Jysk producten moet je soms handmatig de afmetingen controleren.
-- q: Kan ik mijn eigen kamer fotograferen en direct een nieuwe inrichting zien?
-  a: "'Interior AI en RoomGPT doen precies dat: upload een foto van je eigen kamer en de AI toont direct hoe deze eruitziet in verschillende woonstijlen. DecorMatters voegt AR toe via je smartphonecamera.'"
-- q: Welke interieur AI tool is het beste voor verhuizing?
-  a: "'Planner 5D is ideaal voor verhuizing: teken de plattegrond van je nieuwe woning, plaats virtuele meubels en bekijk alles in 3D voordat je iets koopt.'"
-
+- q: "Werken AI interieur tools ook met Nederlandse maten en meubels?"
+  a: 'Ja, Planner 5D en HomeByMe ondersteunen Nederlandse maatvoering. De tools werken met algemene meubelafmetingen, maar voor exacte IKEA of Jysk producten moet je soms handmatig de afmetingen controleren.'
+- q: "Kan ik mijn eigen kamer fotograferen en direct een nieuwe inrichting zien?"
+  a: 'Interior AI en RoomGPT doen precies dat: upload een foto van je eigen kamer en de AI toont direct hoe deze eruitziet in verschillende woonstijlen. DecorMatters voegt AR toe via je smartphonecamera.'
+- q: "Welke interieur AI tool is het beste voor verhuizing?"
+  a: 'Planner 5D is ideaal voor verhuizing: teken de plattegrond van je nieuwe woning, plaats virtuele meubels en bekijk alles in 3D voordat je iets koopt.'
 ---
 
 

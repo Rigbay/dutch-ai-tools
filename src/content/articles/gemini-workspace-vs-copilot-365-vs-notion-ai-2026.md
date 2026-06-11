@@ -69,18 +69,17 @@ tools:
   rating: 4.3
   affiliateLink: https://coda.io/product/ai
 related:
-- beste-ai-chatbots-2026
-- beste-gratis-ai-tools-2026
-- chatgpt-vs-gemini-vs-claude-nederlands-2026
+  - beste-ai-chatbots-2026
+  - beste-gratis-ai-tools-2026
+  - chatgpt-vs-gemini-vs-claude-nederlands-2026
 draft: false
 faq:
-- q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Microsoft 365 Copilot de meest complete AI werkassistent, vooral voor bedrijven die al in het Microsoft-ecosysteem zitten. De keuze hangt sterk af van welk ecosysteem je al gebruikt.
-- q: Zijn er goede gratis alternatieven?
-  a: Google Gemini biedt een gratis tier in Workspace (beperkt). Notion AI heeft een gratis proefperiode. Maar voor serieuze AI-ondersteuning op je werk zul je uiteindelijk moeten betalen.
-- q: Werken deze tools goed in het Nederlands?
-  a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig maar begrijpt Nederlandse prompts.
-
+- q: "Wat is momenteel de beste tool in deze categorie?"
+  a: 'Op basis van onze analyse in 2026 is Microsoft 365 Copilot de meest complete AI werkassistent, vooral voor bedrijven die al in het Microsoft-ecosysteem zitten. De keuze hangt sterk af van welk ecosysteem je al gebruikt.'
+- q: "Zijn er goede gratis alternatieven?"
+  a: 'Google Gemini biedt een gratis tier in Workspace (beperkt). Notion AI heeft een gratis proefperiode. Maar voor serieuze AI-ondersteuning op je werk zul je uiteindelijk moeten betalen.'
+- q: "Werken deze tools goed in het Nederlands?"
+  a: 'Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig maar begrijpt Nederlandse prompts.'
 ---
 
 ## Lees ook

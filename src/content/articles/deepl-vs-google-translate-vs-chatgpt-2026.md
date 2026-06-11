@@ -40,17 +40,17 @@ tools:
   rating: 4.4
   affiliateLink: https://www.notion.so
 related:
-- beste-ai-vertaaltools-2026
-- beste-ai-tools-tolken-vertalingen-2026
-- beste-ai-schrijftools-nederlands-2026
+  - beste-ai-vertaaltools-2026
+  - beste-ai-tools-tolken-vertalingen-2026
+  - beste-ai-schrijftools-nederlands-2026
 draft: false
 faq:
-- q: Welke AI-vertaaltool is het beste voor Nederlands?
-  a: DeepL scoort consistent het hoogst voor Nederlands-Engels en Nederlands-Duits. Voor minder gangbare talen is Google Translate sterker. ChatGPT blinkt uit in contextgevoelige vertalingen zoals marketingteksten.
-- q: Is DeepL gratis genoeg voor professioneel gebruik?
-  a: De gratis versie van DeepL is geschikt voor kleine vertalingen (max 1500 tekens). Voor professioneel gebruik is DeepL Pro (EUR 8,99-24,99/mnd) aanbevolen vanwege onbeperkt vertalen, glossary-features en betere privacy.
-- q: Hoe zit het met privacy bij AI-vertaaltools?
-  a: DeepL Pro biedt GDPR/AVG-compliance met servers in de EU. Google Translate en ChatGPT verwerken data deels op Amerikaanse servers. Voor gevoelige bedrijfsdocumenten is DeepL de veiligste keuze.
+- q: "Welke AI-vertaaltool is het beste voor Nederlands?"
+  a: 'DeepL scoort consistent het hoogst voor Nederlands-Engels en Nederlands-Duits. Voor minder gangbare talen is Google Translate sterker. ChatGPT blinkt uit in contextgevoelige vertalingen zoals marketingteksten.'
+- q: "Is DeepL gratis genoeg voor professioneel gebruik?"
+  a: 'De gratis versie van DeepL is geschikt voor kleine vertalingen (max 1500 tekens). Voor professioneel gebruik is DeepL Pro (EUR 8,99-24,99/mnd) aanbevolen vanwege onbeperkt vertalen, glossary-features en betere privacy.'
+- q: "Hoe zit het met privacy bij AI-vertaaltools?"
+  a: 'DeepL Pro biedt GDPR/AVG-compliance met servers in de EU. Google Translate en ChatGPT verwerken data deels op Amerikaanse servers. Voor gevoelige bedrijfsdocumenten is DeepL de veiligste keuze.'
 ---
 
 ## Lees ook

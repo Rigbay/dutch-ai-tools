@@ -66,18 +66,17 @@ tools:
   rating: 4.2
   affiliateLink: https://www.photopea.com/
 related:
-- beste-ai-chatbots-2026
-- beste-gratis-ai-tools-2026
-- midjourney-vs-dall-e-3-vs-stable-diffusion-2026
+  - beste-ai-chatbots-2026
+  - beste-gratis-ai-tools-2026
+  - midjourney-vs-dall-e-3-vs-stable-diffusion-2026
 draft: false
 faq:
-- q: Wat is momenteel de beste tool in deze categorie?
-  a: Op basis van onze analyse in 2026 is Adobe Photoshop nog steeds de meest complete keuze voor professionals. De specifieke beste keuze hangt af van je budget en of je een abonnement of eenmalige aankoop prefereert.
-- q: Zijn er goede gratis alternatieven?
-  a: Ja, Photopea is een uitstekend gratis alternatief dat verrassend dicht bij Photoshop komt. Canva Free biedt ook basis AI-fotobewerking.
-- q: Werken deze tools goed in het Nederlands?
-  a: Adobe Photoshop en Canva hebben volledige Nederlandse interfaces. Affinity Photo en Luminar Neo zijn Engelstalig maar intuïtief te gebruiken.
-
+- q: "Wat is momenteel de beste tool in deze categorie?"
+  a: 'Op basis van onze analyse in 2026 is Adobe Photoshop nog steeds de meest complete keuze voor professionals. De specifieke beste keuze hangt af van je budget en of je een abonnement of eenmalige aankoop prefereert.'
+- q: "Zijn er goede gratis alternatieven?"
+  a: 'Ja, Photopea is een uitstekend gratis alternatief dat verrassend dicht bij Photoshop komt. Canva Free biedt ook basis AI-fotobewerking.'
+- q: "Werken deze tools goed in het Nederlands?"
+  a: 'Adobe Photoshop en Canva hebben volledige Nederlandse interfaces. Affinity Photo en Luminar Neo zijn Engelstalig maar intuïtief te gebruiken.'
 ---
 
 ## Lees ook

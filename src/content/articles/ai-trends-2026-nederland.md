@@ -41,18 +41,17 @@ tools:
   rating: 4.6
   affiliateLink: https://cognition.ai/
 related:
-- beste-ai-tools-energiebeheer-2026
-- nederlandse-ai-adoptie-cijfers-2026
-- nederlandse-ai-startups-2026
+  - beste-ai-tools-energiebeheer-2026
+  - nederlandse-ai-adoptie-cijfers-2026
+  - nederlandse-ai-startups-2026
 draft: false
 faq:
-- q: Wat is de grootste AI trend in Nederland 2026?
-  a: Lokale en soevereine AI-modellen nemen flink toe, mede door EU AI Act en toenemende data-beschermingseisen.
-- q: Moet het MKB nu al op AI springen?
-  a: Ja, vooral voor repetitieve taken zoals klantenservice en planning zijn de tools volwassen en betaalbaar.
-- q: Wat is de impact van de EU AI Act?
-  a: De wet dwingt tot transparantie en risk management, en opent de deur voor Europese AI-aanbieders.
-
+- q: "Wat is de grootste AI trend in Nederland 2026?"
+  a: 'Lokale en soevereine AI-modellen nemen flink toe, mede door EU AI Act en toenemende data-beschermingseisen.'
+- q: "Moet het MKB nu al op AI springen?"
+  a: 'Ja, vooral voor repetitieve taken zoals klantenservice en planning zijn de tools volwassen en betaalbaar.'
+- q: "Wat is de impact van de EU AI Act?"
+  a: 'De wet dwingt tot transparantie en risk management, en opent de deur voor Europese AI-aanbieders.'
 ---
 
 # AI Trends 2026 in Nederland: van autonomere agents tot lokale modellen en EU-compliance

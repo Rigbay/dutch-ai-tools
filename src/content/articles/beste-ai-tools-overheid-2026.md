@@ -72,17 +72,16 @@ tools:
   rating: 3.9
   affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
 related:
-- shadow-ai-werkvloer-management-2026
-- beste-ai-tools-financieel-2026
-- ai-tools-mkb-starten-2026
+  - shadow-ai-werkvloer-management-2026
+  - beste-ai-tools-financieel-2026
+  - ai-tools-mkb-starten-2026
 faq:
-- q: Is AI in de Nederlandse overheid AVG-compliant?
-  a: Ja, mits correct geïmplementeerd. De Nederlandse overheid hanteert strikte richtlijnen voor AI-gebruik, waaronder transparantie, menselijke tussenkomst bij beslissingen en dataminimalisatie. Tools als IBM watsonx.governance zijn specifiek ontworpen voor gereguleerde sectoren.
-- q: Welke AI-tool past het best bij een gemeente?
-  a: Voor gemeenten is OBI4wan de beste start — het biedt burgercommunicatie, webcare en een chatbot in één platform. Voor documentverwerking is Microsoft Copilot for Government een logische keuze omdat de meeste gemeenten al op Microsoft werken.
-- q: Hoe zit het met aanbesteding bij AI-tools voor de overheid?
-  a: AI-tools vallen onder de reguliere aanbestedingsregels. Enterprise-tools zoals Palantir en IBM worden doorgaans via een openbare aanbesteding aangeschaft. Kleinere tools zoals Textgain kunnen via een meervoudig onderhandse procedure.
-
+- q: "Is AI in de Nederlandse overheid AVG-compliant?"
+  a: 'Ja, mits correct geïmplementeerd. De Nederlandse overheid hanteert strikte richtlijnen voor AI-gebruik, waaronder transparantie, menselijke tussenkomst bij beslissingen en dataminimalisatie. Tools als IBM watsonx.governance zijn specifiek ontworpen voor gereguleerde sectoren.'
+- q: "Welke AI-tool past het best bij een gemeente?"
+  a: 'Voor gemeenten is OBI4wan de beste start — het biedt burgercommunicatie, webcare en een chatbot in één platform. Voor documentverwerking is Microsoft Copilot for Government een logische keuze omdat de meeste gemeenten al op Microsoft werken.'
+- q: "Hoe zit het met aanbesteding bij AI-tools voor de overheid?"
+  a: 'AI-tools vallen onder de reguliere aanbestedingsregels. Enterprise-tools zoals Palantir en IBM worden doorgaans via een openbare aanbesteding aangeschaft. Kleinere tools zoals Textgain kunnen via een meervoudig onderhandse procedure.'
 ---
 
 # De Toekomst van Bestuur: De Beste AI-Tools voor de Nederlandse Overheid in 2026

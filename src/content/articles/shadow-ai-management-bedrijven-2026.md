@@ -65,18 +65,17 @@ tools:
   rating: 4.3
   affiliateLink: https://www.microsoft.com/
 related:
-- ai-trends-2026-nederland
-- nederlandse-ai-adoptie-cijfers-2026
-- beste-ai-compliance-tools-2026
+  - ai-trends-2026-nederland
+  - nederlandse-ai-adoptie-cijfers-2026
+  - beste-ai-compliance-tools-2026
 draft: false
 faq:
-- q: Wanneer wordt de EU AI Act gehandhaafd?
-  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
-- q: Geldt de EU AI Act ook voor kleine bedrijven?
-  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.
-- q: Wat zijn de boetes bij overtreding van de EU AI Act?
-  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
-
+- q: "Wanneer wordt de EU AI Act gehandhaafd?"
+  a: 'De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.'
+- q: "Geldt de EU AI Act ook voor kleine bedrijven?"
+  a: 'Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP''ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.'
+- q: "Wat zijn de boetes bij overtreding van de EU AI Act?"
+  a: 'De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.'
 ---
 
 # Shadow AI: De Onzichtbare Revolutie op de Werkplek – Kansen Benutten, Risico’s Beheren
@@ -137,3 +136,11 @@ Stel je voor dat een marketeer ChatGPT vraagt om een interne analyse van een aan
 ### 2. Compliance-schendingen (AVG, EU AI Act)
 *   **Algemene Verordening Gegevensbescherming (AVG/GDPR):** Het inplakken van persoonsgegevens (namen, e-mailadressen, contactgegevens van klanten of medewerkers) in publieke AI-modellen is een directe schending van de AVG. Organisaties zijn verplicht om persoonsgegevens te beschermen en mogen deze niet zonder expliciete toestemming en duidelijke grondslag verwerken. Datalekken als gevolg van Shadow AI kunnen leiden tot hoge boetes van de Autoriteit Persoonsgegevens.
 *   **EU AI Act:** Hoewel de EU AI Act nog in de implementatiefase zit, zal deze wetgeving de eisen aan AI-systemen en hun gebruik verder aanscherpen, vooral voor 'hoog-risico' AI-toepassingen. Organisaties zullen verantwoordelijk worden voor de AI-systemen die ze gebruiken, zelfs als die onofficieel via Shadow AI in omloop zijn.
+
+---
+
+## Lees ook
+
+- [AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB](/afas-vs-exact-vs-odoo-vs-sap-business-one-2026/)
+- [AI Agents vs AI Workflows: Wat Werkt in de Nederlandse Praktijk?](/ai-agents-vs-ai-workflows-praktijk-nederland-2026/)
+- [Privacy & AI: Welke AI Tools Voldoen aan de AVG in 2026?](/ai-avg-compliance-tools-2026/)

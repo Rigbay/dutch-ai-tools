@@ -65,18 +65,17 @@ tools:
   rating: 4.3
   affiliateLink: https://www.adobe.com/
 related:
-- ai-trends-2026-nederland
-- nederlandse-ai-adoptie-cijfers-2026
-- beste-ai-compliance-tools-2026
+  - ai-trends-2026-nederland
+  - nederlandse-ai-adoptie-cijfers-2026
+  - beste-ai-compliance-tools-2026
 draft: false
 faq:
-- q: Wanneer wordt de EU AI Act gehandhaafd?
-  a: De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.
-- q: Geldt de EU AI Act ook voor kleine bedrijven?
-  a: Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP'ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.
-- q: Wat zijn de boetes bij overtreding van de EU AI Act?
-  a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
-
+- q: "Wanneer wordt de EU AI Act gehandhaafd?"
+  a: 'De EU AI Act wordt gefaseerd ingevoerd. Vanaf augustus 2026 worden de eerste bepalingen gehandhaafd, waaronder de regels voor AI-modellen met een beperkt risico. Hoog-risico AI-systemen krijgen meer tijd om te voldoen.'
+- q: "Geldt de EU AI Act ook voor kleine bedrijven?"
+  a: 'Ja, de EU AI Act geldt voor elke organisatie die AI-systemen gebruikt of inzet binnen de EU. Voor MKB en ZZP''ers zijn de verplichtingen lichter — de focus ligt op transparantie en documentatie, niet op dure certificeringstrajecten.'
+- q: "Wat zijn de boetes bij overtreding van de EU AI Act?"
+  a: 'De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.'
 ---
 
 # De EU AI Act: Wat Nederlandse Bedrijven Moeten Weten Voor Augustus 2026
@@ -179,3 +178,11 @@ Microsoft Copilot is een AI-assistent die wordt geïntegreerd in de Microsoft 36
 **Wat zijn de compliance-implicaties?**
 *   **Transparantie:** Als Copilot content genereert die u direct deelt met derden, moet u overwegen hoe u de AI-oorsprong ervan communiceert. Bijvoorbeeld, als Copilot een concept-e-mail schrijft, en u stuurt deze door, is het uw verantwoordelijkheid om de ontvanger te informeren als dat relevant is.
 *   **Context is cruciaal:** Hoewel Copilot zelf als GPAI beperkt risico is, kan het
+
+---
+
+## Lees ook
+
+- [AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB](/afas-vs-exact-vs-odoo-vs-sap-business-one-2026/)
+- [AI Agents vs AI Workflows: Wat Werkt in de Nederlandse Praktijk?](/ai-agents-vs-ai-workflows-praktijk-nederland-2026/)
+- [Privacy & AI: Welke AI Tools Voldoen aan de AVG in 2026?](/ai-avg-compliance-tools-2026/)

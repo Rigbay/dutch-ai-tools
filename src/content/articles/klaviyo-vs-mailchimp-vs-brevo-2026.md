@@ -40,18 +40,17 @@ tools:
   rating: 4.4
   affiliateLink: https://www.notion.so
 related:
-- ai-voor-ecommerce-2026
-- beste-ai-tools-ecommerce-2026
-- beste-ai-copywriting-tools-2026
+  - ai-voor-ecommerce-2026
+  - beste-ai-tools-ecommerce-2026
+  - beste-ai-copywriting-tools-2026
 draft: false
 faq:
-- q: Welke e-mailmarketingtool is het beste voor Nederlandse webshops?
-  a: Klaviyo is specifiek gebouwd voor e-commerce en integreert diep met Shopify, WooCommerce en Magento. De AI voorspelt koopgedrag en segmenteert klanten automatisch. Voor GDPR-compliance is Brevo de beste keuze (Franse servers, AVG-proof). Mailchimp is de beste allrounder als je ook nieuwsbrieven en landingspagina's wilt.
-- q: Wat kost e-mailmarketing voor 1000 contacten?
-  a: "'Klaviyo: EUR 20/mnd (500 contacten gratis). Mailchimp: EUR 13/mnd (500 contacten gratis). Brevo: EUR 25/mnd (onbeperkt contacten, betalen per e-mailvolume van 20.000/maand). Brevo is vaak voordeliger bij grote lijsten met lage verzendfrequentie.'"
-- q: Hoe zit het met AVG/GDPR bij deze tools?
-  a: "'Brevo is de veiligste keuze: Franse servers, volledig AVG-compliant, DPA standaard beschikbaar. Mailchimp verwerkt data in de VS (Privacy Shield-gecertificeerd). Klaviyo biedt EU-serveropties in hogere plannen. Voor strikte GDPR: Brevo of Klaviyo met EU-datacenter.'"
-
+- q: "Welke e-mailmarketingtool is het beste voor Nederlandse webshops?"
+  a: 'Klaviyo is specifiek gebouwd voor e-commerce en integreert diep met Shopify, WooCommerce en Magento. De AI voorspelt koopgedrag en segmenteert klanten automatisch. Voor GDPR-compliance is Brevo de beste keuze (Franse servers, AVG-proof). Mailchimp is de beste allrounder als je ook nieuwsbrieven en landingspagina''s wilt.'
+- q: "Wat kost e-mailmarketing voor 1000 contacten?"
+  a: 'Klaviyo: EUR 20/mnd (500 contacten gratis). Mailchimp: EUR 13/mnd (500 contacten gratis). Brevo: EUR 25/mnd (onbeperkt contacten, betalen per e-mailvolume van 20.000/maand). Brevo is vaak voordeliger bij grote lijsten met lage verzendfrequentie.'
+- q: "Hoe zit het met AVG/GDPR bij deze tools?"
+  a: 'Brevo is de veiligste keuze: Franse servers, volledig AVG-compliant, DPA standaard beschikbaar. Mailchimp verwerkt data in de VS (Privacy Shield-gecertificeerd). Klaviyo biedt EU-serveropties in hogere plannen. Voor strikte GDPR: Brevo of Klaviyo met EU-datacenter.'
 ---
 ## Lees ook
 
