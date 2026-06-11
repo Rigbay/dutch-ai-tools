@@ -78,6 +78,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
   a: Begin met het bepalen van je primaire use case (schrijven, automatiseren, analyseren, design), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken op basis van score, prijs en de 'beste voor' kolom.
 
+
 ---
 Absoluut! Hier is een Nederlands artikel van 1200-1500 woorden over de beste AI-tools voor studenten in 2026, inclusief een markdown-tabel en 3 FAQ's.
 

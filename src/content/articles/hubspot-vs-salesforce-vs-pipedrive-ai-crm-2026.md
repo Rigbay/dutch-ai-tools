@@ -1,4 +1,5 @@
 ---
+
 title: 'HubSpot AI vs Salesforce Einstein vs Pipedrive AI 2026: Beste AI CRM voor Nederlandse Bedrijven'
 slug: hubspot-vs-salesforce-vs-pipedrive-ai-crm-2026
 description: HubSpot, Salesforce of Pipedrive met AI in 2026? Vergelijk AI-functies, prijzen, integraties en gebruiksgemak voor Nederlandse MKB en enterprise in deze CRM-vergelijking.
@@ -51,6 +52,7 @@ faq:
   a: "Alle drie bieden EU-serveropties en AVG-verwerkingsovereenkomsten. HubSpot heeft servers in Frankfurt, Salesforce in Dublin en Frankfurt, Pipedrive (Ests bedrijf) heeft servers in de EU. Controleer altijd het Data Processing Agreement van je abonnementsvorm."
 - q: Wat kost een AI CRM per maand realistisch?
   a: "HubSpot: gratis tot EUR 100 p.p./mnd voor volledige AI. Salesforce: EUR 25-300 p.p./mnd. Pipedrive: EUR 14-99 p.p./mnd. Voor een team van 5: reken op EUR 250-750/maand voor een professionele AI CRM."
+
 ---
 
 ## Lees ook

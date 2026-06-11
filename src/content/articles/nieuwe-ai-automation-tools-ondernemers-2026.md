@@ -68,6 +68,7 @@ faq:
 - q: Wat is het verschil tussen een automation tool en een AI agent platform?
   a: Automation tools (n8n, Make, Zapier) voeren vooraf bepaalde stappen uit. Een AI agent (Zapier Central, Relevance AI) kan zelfstandig beslissingen nemen en eisen analyseren zonder dat je elk pad vooraf hoeft te programmeren. Voor een ZZP die simpele processen wil automatiseren is een klassieke automation tool voldoende. Voor complexe bedrijfsprocessen met veel variabelen is een AI agent vaak efficiënter.
 
+
 ---
 ---
 

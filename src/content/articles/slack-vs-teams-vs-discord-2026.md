@@ -53,6 +53,7 @@ faq:
 - q: Kan ik gratis beginnen met deze tools?
   a: "'Ja: Slack Free (90 dagen berichtgeschiedenis), Microsoft Teams Free (onbeperkt chatten, 60 min videobellen), Discord (volledig gratis met beperkte bestandsuploads). Voor professioneel gebruik is een betaald plan sterk aanbevolen.'"
 
+
 ---
 
 ## Lees ook

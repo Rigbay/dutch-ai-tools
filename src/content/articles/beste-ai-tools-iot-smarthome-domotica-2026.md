@@ -92,6 +92,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
   a: Begin met het bepalen van je belangrijkste behoeften, budget en technische vereisten. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken.
 
+
 ---
 
 # Het Slimme Huis van 2026: De Beste AI-Tools voor Domotica, IoT en Smart Home

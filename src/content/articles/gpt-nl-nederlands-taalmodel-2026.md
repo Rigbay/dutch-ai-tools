@@ -1,4 +1,5 @@
 ---
+
 title: 'GPT-NL: Het Nederlandse AI-Taalmodel 2026 — volledige vergelijking'
 slug: gpt-nl-nederlands-taalmodel-2026
 description: "Vergelijking van GPT-NL: het Nederlandse AI-taalmodel 2026 — objectieve beoordeling, prijzen in euros, praktische keuzehulp."
@@ -73,6 +74,7 @@ related:
   - ai-trends-2026-nederland
   - nederlandse-ai-adoptie-cijfers-2026
   - ai-avg-compliance-tools-2026
+
 ---
 
 # GPT-NL: Het Nederlandse AI-Taalmodel 2026

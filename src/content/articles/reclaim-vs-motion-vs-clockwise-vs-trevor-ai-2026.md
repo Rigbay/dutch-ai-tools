@@ -56,6 +56,7 @@ faq:
 - q: Wat doet de AI precies in deze time blocking tools en hoe besparen ze mij tijd in 2026?
   a: De AI in deze tools analyseert je agenda, takenlijsten, en soms zelfs je werkpatronen om de meest efficiënte planning te creëren. Reclaim AI gebruikt AI om 'Habits' (zoals sporten of leren) en 'Buffer Time' automatisch in te plannen, en om vergaderingen te 'parkeren' als er conflicten ontstaan. Motion’s AI prioriteert taken en plant ze dynamisch in je agenda op basis van deadlines en belangrijkheid, en past zich aan als je schema verandert. Clockwise optimaliseert vergaderingen door de beste tijden te vinden voor alle deelnemers en creëert automatisch 'Focus Time' blokken. Trevor AI gebruikt AI voor een gestroomlijnde dagelijkse planning, waarbij het taken en afspraken efficiënt indeelt.
 
+
 ---
 
 # Reclaim vs Motion vs Clockwise vs Trevor AI — AI agenda en time blocking tools 2026: De Ultieme Vergelijking

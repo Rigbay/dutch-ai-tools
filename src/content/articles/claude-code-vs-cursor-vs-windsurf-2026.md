@@ -58,6 +58,7 @@ faq:
 - q: Kan ik gratis starten met AI coding tools?
   a: "'Ja: Cursor heeft een gratis Hobby-plan (2000 completions/maand). Claude Code werkt met de gratis Claude-API-tier (beperkt). Windsurf biedt een gratis Community-versie met basisfunctionaliteit. Voor professioneel gebruik is een betaald plan (EUR 15-45/mnd) aanbevolen.'"
 
+
 ---
 ## Lees ook
 

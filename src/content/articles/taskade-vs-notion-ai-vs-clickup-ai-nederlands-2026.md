@@ -57,6 +57,7 @@ faq:
 - q: Wat kost AI projectmanagement écht per maand voor een 5-koppig team?
   a: Taskade is het voordeligst met 25 EUR/maand voor een heel team (ongelimiteerd). Notion AI kost 36 EUR/maand voor 5 gebruikers met AI. ClickUp AI kost ongeveer 35 EUR/maand voor 5 gebruikers. Taskade biedt de beste prijs-kwaliteitverhouding in deze categorie.
 
+
 ---
 
 # Taskade vs Notion AI vs ClickUp AI 2026: Beste AI Projectmanagement Tool voor Nederlandse Teams

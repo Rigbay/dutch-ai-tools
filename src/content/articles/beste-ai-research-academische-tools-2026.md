@@ -90,6 +90,7 @@ faq:
 - q: Kunnen deze tools helpen bij citatiebeheer?
   a: Paperpile is gespecialiseerd in referentiebeheer met Google Docs integratie. Scite laat zien hoe papers worden geciteerd (ondersteunend, weerleggend of neutraal), wat waardevol is voor citatie-analyse.
 
+
 ---
 
 

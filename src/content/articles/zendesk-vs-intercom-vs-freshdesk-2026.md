@@ -80,6 +80,7 @@ faq:
 - q: Wat kost een klantenserviceplatform voor 5 medewerkers?
   a: Zendesk Suite Team kost ongeveer 55 EUR/medewerker/maand. Intercom Start kost 39 EUR/medewerker/maand. Freshdesk Free is gratis, Growth kost 18 EUR/medewerker/maand.
 
+
 ---
 
 ## Lees ook

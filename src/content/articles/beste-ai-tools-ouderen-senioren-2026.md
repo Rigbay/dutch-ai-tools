@@ -89,6 +89,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor ouderen en senioren?
   a: "'Begin met de grootste uitdaging: is het valpreventie, medicatiebeheer, sociale isolatie, of het ondersteunen van mantelzorg? Overweeg het budget, het installatiegemak, de benodigde technische kennis, en de taalondersteuning (Nederlands is essentieel). Veel van deze tools bieden een gratis proefperiode of demo, maak daar gebruik van om te testen wat het beste past.'"
 
+
 ---
 
 # Beste AI Tools voor Ouderen & Senioren 2026: top 7 vergeleken

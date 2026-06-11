@@ -80,6 +80,7 @@ faq:
 - q: Hoe actueel is deze informatie?
   a: Dit artikel is geschreven in mei 2026 en weerspiegelt de stand van de Nederlandse AI-markt op dat moment. De AI-wereld verandert snel — check bij twijfel de actuele prijzen en features bij de aanbieder zelf.
 
+
 ---
 
 Absoluut! Hier is een artikel gericht op MKB-ondernemers die nog geen ervaring hebben met AI, met een focus op praktische toepassingen en beginner-vriendelijke tools.

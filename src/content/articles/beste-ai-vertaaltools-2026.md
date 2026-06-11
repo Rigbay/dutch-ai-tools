@@ -82,6 +82,7 @@ faq:
 - q: Welke AI-vertaaltool is het beste voor ZZP'ers?
   a: DeepL is de beste keuze voor Nederlandse ZZP'ers. Het gratis plan dekt de meeste behoeften, en het Pro-abonnement (EUR 10-25/mnd) biedt onbeperkt vertalen, glossaria en teamfuncties voor als je groeit.
 
+
 ---
 
 # De Toekomst van Communicatie: De Beste AI Vertaaltools in 2026

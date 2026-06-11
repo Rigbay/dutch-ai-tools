@@ -4,7 +4,7 @@ slug: streamingdiensten-vergelijken-netflix-videoland-disney-hbo-viaplay-npo-202
 description: Netflix, Videoland, Disney+, HBO Max, Viaplay of NPO Start in 2026? Vergelijk prijs, aanbod, Nederlands ondertiteld en 4K-kwaliteit.
 category: business
 rating: 4.3
-priceRange: EUR 0-100/mnd
+priceRange: "EUR 0-100/mnd"
 pros:
 - Uitgebreide 2026 vergelijking
 - Duidelijke prijsranges en use cases
@@ -22,37 +22,37 @@ readingTime: 9 min
 tools:
 - name: Netflix
   verdict: Grootste internationale aanbod — series, films, docs, steeds meer Nederlands ondertiteld en origineel
-  priceRange: €7,99-19,99/mnd
+  priceRange: "€7,99-19,99/mnd"
   bestFor: Internationale series & films
   rating: 4.7
   affiliateLink: https://netflix.com/nl/
 - name: Videoland
   verdict: Beste Nederlandse content — Gooische Vrouwen, Mocro Maffia, Echte Meisjes in de Jungle, RTL-content
-  priceRange: €4,99-9,99/mnd
+  priceRange: "€4,99-9,99/mnd"
   bestFor: Nederlandse series & reality
   rating: 4.3
   affiliateLink: https://videoland.com/
 - name: Disney+
   verdict: Familie-aanbod — Disney, Pixar, Marvel, Star Wars, National Geographic, Star voor volwassenen
-  priceRange: €5,99-13,99/mnd
+  priceRange: "€5,99-13,99/mnd"
   bestFor: Families & Disney/Marvel fans
   rating: 4.5
   affiliateLink: https://disneyplus.com/nl-nl/
 - name: HBO Max
   verdict: Premium kwaliteit — HBO Originals, Warner Bros, DC, Harry Potter, Game of Thrones-spin-offs
-  priceRange: €5,99-13,99/mnd
+  priceRange: "€5,99-13,99/mnd"
   bestFor: Premium series & films
   rating: 4.4
   affiliateLink: https://hbomax.com/nl-nl/
 - name: Viaplay
   verdict: Sport + entertainment — F1, Premier League, Formule 1, darts, Scandinavische series
-  priceRange: €15,99/mnd
+  priceRange: "€15,99/mnd"
   bestFor: Sportfans & Scandinavië
   rating: 4.0
   affiliateLink: https://viaplay.nl/
 - name: NPO Start
   verdict: Gratis Nederlandse content — NPO-programma's, journaal, documentaires, series, geen abonnement
-  priceRange: Gratis (NPO Plus €2,95/mnd)
+  priceRange: "Gratis (NPO Plus €2,95/mnd)"
   bestFor: Publieke omroep & gratis kijken
   rating: 4.2
   affiliateLink: https://npostart.nl/

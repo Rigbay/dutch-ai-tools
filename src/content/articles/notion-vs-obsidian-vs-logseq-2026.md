@@ -54,6 +54,7 @@ faq:
 - q: Is Logseq een goed alternatief voor Obsidian in 2026?
   a: Ja, Logseq is een uitstekend alternatief, vooral als je een outliner-workflow prefereert boven de document-benadering van Obsidian, of als open-source software belangrijk voor je is.
 
+
 ---
 
 # Notion vs Obsidian vs Logseq 2026: Welke Tool Kies Jij?

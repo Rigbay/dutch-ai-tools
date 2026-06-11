@@ -1,4 +1,5 @@
 ---
+
 title: 'Sendcloud vs MyParcel vs Picqer vs Montapacking 2026: beste bezorgplatform voor webshops'
 slug: sendcloud-vs-myparcel-vs-picqer-vs-montapacking-2026
 description: 'Vergelijk de beste Nederlandse bezorg- en fulfilmentplatforms in 2026: Sendcloud, MyParcel, Picqer, Montapacking, ShippyPro en Wuunder. Met prijzen, carrier-integraties en.'
@@ -73,6 +74,7 @@ faq:
   a: Ja, alle besproken platforms ondersteunen internationale verzending. ShippyPro heeft het breedste carrier-netwerk (180+) voor cross-border, gevolgd door Sendcloud.
 - q: Wat kost een verzendlabel gemiddeld in 2026?
   a: Een standaard PostNL-pakketlabel kost €4-6 via deze platforms (excl. abonnementskosten), afhankelijk van volume en onderhandelde tarieven. Internationale zendingen beginnen bij €8-12.
+
 ---
 
 # Bezorgplatforms voor webshops in 2026: complete vergelijking

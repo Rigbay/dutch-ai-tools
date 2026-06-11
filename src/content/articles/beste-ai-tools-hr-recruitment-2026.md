@@ -78,6 +78,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
   a: Begin met je primaire use case, bepaal je budget en kijk welke tools Nederlandse ondersteuning bieden. Gebruik de vergelijkingstabel in dit artikel om de tools naast elkaar te leggen op prijs, rating en 'beste voor' categorie.
 
+
 ---
 Absoluut! Hier is een artikel over de beste AI-tools voor HR en recruitment in 2026, met een focus op snelheid en biasvermindering, geschreven in een toegankelijke stijl en met de gevraagde structuur.
 

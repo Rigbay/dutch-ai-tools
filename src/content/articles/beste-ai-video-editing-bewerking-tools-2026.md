@@ -90,6 +90,7 @@ faq:
 - q: Heb ik een dure computer nodig voor AI video editing?
   a: Niet per se. Veed.io en CapCut werken volledig in de browser. Voor DaVinci Resolve en Premiere Pro wordt een dedicated GPU aanbevolen, maar moderne mid-range laptops zijn voldoende.
 
+
 ---
 
 # De Toekomst van Videobewerking: De Beste AI Video Editing Tools in 2026

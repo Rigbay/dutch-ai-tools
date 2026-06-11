@@ -63,6 +63,7 @@ faq:
 - q: Is mijn Nederlandstalige audio geschikt voor AI video generation?
   a: De meeste AI video generators focust nog primair op video-beelden. Voor NL-audio combineer je een videogenerator met een stemgenerator zoals ElevenLabs of PlayHT. Runway heeft ook text-to-speech integraties.
 
+
 ---
 ---
 

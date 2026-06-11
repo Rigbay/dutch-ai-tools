@@ -4,7 +4,7 @@ slug: leaseauto-vergelijken-leasplan-justlease-alphabet-athlon-2026
 description: Private Lease vergelijken in 2026? LeasePlan, Justlease, Alphabet, Athlon of ANWB Lease op prijs, voorwaarden, contractduur en kilometerbundel.
 category: business
 rating: 4.3
-priceRange: EUR 0-100/mnd
+priceRange: "EUR 0-100/mnd"
 pros:
 - Uitgebreide 2026 vergelijking
 - Duidelijke prijsranges en use cases
@@ -22,31 +22,31 @@ readingTime: 9 min
 tools:
 - name: LeasePlan
   verdict: Grootste leasemaatschappij — breedste aanbod, flexibele contracten, incl. verzekering en onderhoud
-  priceRange: €250-600/mnd
+  priceRange: "€250-600/mnd"
   bestFor: Keuzevrijheid & flexibiliteit
   rating: 4.6
   affiliateLink: https://leaseplan.com/nl-nl/
 - name: Justlease
   verdict: Scherpe prijzen — jonge occasions mogelijk, korte looptijden (12 maanden), transparant
-  priceRange: €220-550/mnd
+  priceRange: "€220-550/mnd"
   bestFor: Lage instap & flexibele duur
   rating: 4.4
   affiliateLink: https://justlease.nl/
 - name: Alphabet
   verdict: Premium zakelijke leasemaatschappij — ook private lease, duurzaam aanbod, EV-specialist
-  priceRange: €300-700/mnd
+  priceRange: "€300-700/mnd"
   bestFor: EV-rijders & premium
   rating: 4.3
   affiliateLink: https://alphabet.com/nl-nl/
 - name: Athlon
   verdict: Internationaal en innovatief — sterke EV-focus, mobiliteitsbudget in plaats van vaste auto
-  priceRange: €280-650/mnd
+  priceRange: "€280-650/mnd"
   bestFor: Duurzaamheid & mobiliteitsoplossingen
   rating: 4.2
   affiliateLink: https://athlon.com/nl-nl/
 - name: ANWB Lease
   verdict: Betrouwbaar & ledenvoordeel — ANWB-service, uitgebreide pechhulp, vertrouwde naam
-  priceRange: €270-600/mnd
+  priceRange: "€270-600/mnd"
   bestFor: Betrouwbaarheid & ANWB-leden
   rating: 4.5
   affiliateLink: https://anwb.nl/private-lease/

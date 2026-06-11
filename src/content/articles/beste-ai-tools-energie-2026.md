@@ -81,6 +81,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn nutsbedrijf?
   a: "'Begin met je primaire uitdaging: grid stability (GridOS/AutoGrid), klantbetrokkenheid (Uplight/Bidgely), opslag (Stem) of inspecties (eSmart). Overweeg budget, integratie met bestaande systemen en Nederlandse compliance.'"
 
+
 ---
 # De Energietransitie Versneld: De Beste AI-Tools voor de Nederlandse Energiesector & Nutsbedrijven in 2026
 

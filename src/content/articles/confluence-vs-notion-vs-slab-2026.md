@@ -78,6 +78,7 @@ faq:
 - q: Wat kost een kennisdatabase voor een team van 10 personen?
   a: Confluence kost ongeveer 55 EUR/maand, Notion 36 EUR/maand en Slab 72 EUR/maand. Notion biedt de beste prijs-kwaliteitverhouding voor kleinere teams.
 
+
 ---
 
 ## Lees ook

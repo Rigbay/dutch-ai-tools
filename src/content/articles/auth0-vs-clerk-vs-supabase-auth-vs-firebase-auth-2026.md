@@ -1,4 +1,5 @@
 ---
+
 title: 'Auth0 vs Clerk vs Supabase Auth vs Firebase Auth 2026: beste authenticatie voor developers'
 slug: auth0-vs-clerk-vs-supabase-auth-vs-firebase-auth-2026
 description: Auth0, Clerk, Supabase Auth of Firebase Auth in 2026? Vergelijk de beste auth-platforms op prijs, features, developer
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Authenticatie in 2026: Een Diepgaande Vergelijking van Auth0, Clerk, Supabase Auth, Firebase Auth, WorkOS, Kinde en Keycloak
 

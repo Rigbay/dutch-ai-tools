@@ -1,4 +1,5 @@
 ---
+
 title: 'Calendly vs Cal.com vs Doodle 2026: Beste AI Planningstool Vergeleken'
 slug: calendly-vs-cal-com-vs-doodle-2026
 description: Calendly, Cal.com of Doodle voor slim afspraken plannen met AI in 2026? Vergelijk automatische agenda's, teamplanning, integraties, privacy en prijs voor Nederlandse professionals.
@@ -50,6 +51,7 @@ faq:
   a: "De gratis versie van Calendly biedt 1 actief meeting type, onbeperkt meetings en basisintegraties. Voor de meeste ZZP'ers is dit voldoende. Betaalde plannen (vanaf EUR 10/mnd) bieden extra: meerdere meeting types, teamplanning, AI-suggesties en herinnerings-SMS. Cal.com gratis biedt méér features maar is technischer."
 - q: Hoe veilig zijn mijn agenda-gegevens?
   a: "Cal.com is het veiligst: open-source, self-host mogelijk, GDPR-compliant met EU-servers. Calendly verwerkt data in de VS (SOC2-gecertificeerd). Doodle's dataverwerking is deels in Zwitserland (sterke privacywetten). Voor vertrouwelijke agenda's van bijv. therapeuten of juristen is Cal.com met self-hosting de beste keuze."
+
 ---
 
 ## Lees ook

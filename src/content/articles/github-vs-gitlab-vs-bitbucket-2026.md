@@ -1,4 +1,5 @@
 ---
+
 title: 'GitHub vs GitLab vs Bitbucket 2026: beste code-hosting en CI/CD platform'
 slug: github-vs-gitlab-vs-bitbucket-2026
 description: GitHub, GitLab of Bitbucket in 2026? Vergelijk de beste DevSecOps-platforms
@@ -76,6 +77,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Code-hosting in 2026: GitHub, GitLab, Bitbucket en de Opkomst van EU-soevereiniteit
 

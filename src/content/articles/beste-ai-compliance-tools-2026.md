@@ -65,6 +65,7 @@ faq:
 - q: Wat zijn de boetes bij overtreding van de EU AI Act?
   a: De boetes kunnen oplopen tot €35 miljoen of 7% van de wereldwijde jaaromzet, afhankelijk van de ernst van de overtreding. Het is daarom verstandig om nu al te inventariseren welke AI tools je gebruikt en of ze compliant zijn.
 
+
 ---
 
 # De EU AI Act nadert: Zo kiezen Nederlandse bedrijven de juiste AI compliance tools in 2026

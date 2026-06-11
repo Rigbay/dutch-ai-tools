@@ -79,6 +79,7 @@ faq:
 - q: Wat is het verschil tussen een schrijfassistent en ChatGPT?
   a: Schrijfassistenten corrigeren en verbeteren bestaande tekst; ChatGPT genereert nieuwe tekst vanaf nul.
 
+
 ---
 
 # Grammarly vs ProWritingAid vs LanguageTool 2026: welke AI schrijfassistent begrijpt Nederlands écht?

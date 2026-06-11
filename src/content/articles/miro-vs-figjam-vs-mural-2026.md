@@ -58,6 +58,7 @@ faq:
 - q: Werken deze tools in het Nederlands?
   a: De UI van alle drie is in het Engels. AI-functies zoals Miro Assist begrijpen Nederlandse prompts goed. Templates en sticky notes kunnen gewoon in het Nederlands. Specifieke NL-sjablonen zijn beperkt — je maakt ze zelf op maat.
 
+
 ---
 ## Lees ook
 

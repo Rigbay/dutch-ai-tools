@@ -1,4 +1,5 @@
 ---
+
 title: 'Wix AI vs Durable vs 10Web vs Hostinger AI Builder 2026: beste AI website bouwer'
 slug: wix-ai-vs-durable-vs-10web-vs-hostinger-2026
 description: 'Vergelijk de beste AI website builders in 2026: Wix AI, Durable, 10Web, Hostinger AI Builder, Dorik en Relume. Bouw in minuten een volledige website met AI — vergeleken op.'
@@ -73,6 +74,7 @@ faq:
   a: 10Web scoort het beste op SEO omdat het op WordPress draait met PageSpeed 90+. Wix AI en Hostinger hebben ook sterke SEO-features. De content-kwaliteit hangt af van hoe goed je de AI instrueert.
 - q: Wat gebeurt er met mijn data bij AI website builders? Is het AVG-proof?
   a: De meeste platforms voldoen aan AVG-richtlijnen. Hostinger en 10Web bieden EU-servers. Check altijd de Data Processing Agreement (DPA) van het platform voordat je klantgegevens verwerkt.
+
 ---
 
 # AI Website Builders in 2026: van prompt naar live site in minuten

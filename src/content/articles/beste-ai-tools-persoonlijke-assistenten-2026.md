@@ -85,6 +85,7 @@ faq:
 - q: Kan een AI-assistent een menselijke personal assistant (PA) volledig vervangen?
   a: In 2026 kunnen AI-assistenten routinetaken zoals agendabeheer, e-mailsortering en basisadministratie uitstekend zelfstandig afhandelen. Toch blijft menselijke empathie, strategisch inzicht en complexe probleemoplossing het domein van menselijke assistenten. De beste resultaten ontstaan vaak door een samenwerking tussen beide.
 
+
 ---
 
 De tijd dat een 'persoonlijke assistent' alleen weggelegd was voor directeurs en topmanagers ligt definitief achter ons. In 2026 is de markt voor **AI persoonlijke assistenten** volwassen geworden. Dankzij de opkomst van zogenaamde *AI-agents* – systemen die niet alleen teksten genereren, maar ook daadwerkelijk acties voor je kunnen uitvoeren op het internet – is het hebben van een digitale rechterhand toegankelijker dan ooit.

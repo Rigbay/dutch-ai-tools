@@ -81,6 +81,7 @@ faq:
 - q: Welke AI beauty tool is het beste voor dagelijks gebruik?
   a: YouCam Makeup is het beste voor dagelijks virtueel make-up testen, terwijl ChatGPT als skincare assistent perfect is voor productvragen en routine-advies zonder extra app.
 
+
 ---
 
 # De Toekomst van Schoonheid: Top AI Tools voor Huidverzorging in 2026

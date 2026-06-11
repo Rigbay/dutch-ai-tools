@@ -77,6 +77,7 @@ faq:
 - q: Hoeveel kost een goede AI tool voor deze toepassing?
   a: "'De prijzen variëren sterk: van gratis (met beperkingen) tot €100+ per maand voor enterprise features. De meeste tools in dit artikel kosten tussen de €10 en €50 per maand. Begin met een gratis trial om te ontdekken wat bij je past voordat je een abonnement afsluit.'"
 
+
 ---
 
 # De Toekomst van Persoonlijke Financiën: Beste AI Tools voor Budgetteren in 2026 (Nederland)

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI-tools voor sales outreach 2026: Apollo vs Lemlist vs Woodpecker'
 slug: beste-ai-tools-sales-outreach-2026
 description: 'Vergelijk de beste AI-tools voor sales outreach in 2026: Apollo, Lemlist,
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # De Toekomst van Sales Outreach: De Beste AI-Tools voor 2026
 

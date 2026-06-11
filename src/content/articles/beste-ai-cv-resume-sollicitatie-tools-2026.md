@@ -89,6 +89,7 @@ faq:
 - q: Zijn deze tools geschikt voor Nederlandse sollicitaties?
   a: Ja, alle genoemde tools werken met Nederlandse templates. Voor specifiek Nederlandse ATS-systemen zoals Visma | YouServe is Rezi de beste keuze.
 
+
 ---
 
 # Solliciteren in 2026: De Ultieme Gids voor AI-gedreven Succes

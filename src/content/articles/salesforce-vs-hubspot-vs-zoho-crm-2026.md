@@ -87,6 +87,7 @@ faq:
 - q: Is een gratis CRM voldoende of moet ik meteen betalen?
   a: Voor solo-ondernemers en kleine teams (1-5 personen) is een gratis CRM vaak voldoende. HubSpot's gratis plan en Zoho CRM's gratis tier bieden verrassend veel functionaliteit. Beperkingen zitten meestal in rapportages, automatiseringen en API-toegang. Zodra je team groeit naar 5+ gebruikers of je geavanceerde automatisering, AI-features of integraties nodig hebt, is een betaald plan aan te raden. Begin gratis en upgrade wanneer je tegen de limieten aanloopt.
 
+
 ---
 
 ## Lees ook

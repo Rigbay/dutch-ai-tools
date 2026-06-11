@@ -59,6 +59,7 @@ faq:
 - q: Kan ik mijn merkstem overbrengen in deze tools?
   a: Jasper is hier het sterkste in met brand voice-instellingen tot op zinsniveau. Writesonic heeft brand voice maar op een hoger niveau. ChatGPT werkt via system prompts — ideaal voor ervaren users maar minder gestructureerd dan de speciale copywriting tools.
 
+
 ---
 
 # Writesonic vs Jasper vs ChatGPT 2026: Beste AI Copywriting Tool voor Nederlandse Teksten

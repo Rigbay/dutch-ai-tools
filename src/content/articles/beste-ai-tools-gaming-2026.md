@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Gaming & Game-Ontwikkeling 2026: NPC''s, Assets & QA'
 slug: beste-ai-tools-gaming-2026
 description: 'AI gaming tools in 2026: vergelijk AI-tools voor NPC-gedrag, world-building, asset-creatie, QA-testing en game-ontwikkeling.'
@@ -73,6 +74,7 @@ faq:
   a: Ja, verschillende tools bieden gratis tiers of open-source licenties.
 - q: Werken deze tools in het Nederlands?
   a: De meeste tools hebben Engelse interfaces maar zijn prima bruikbaar voor Nederlandse gebruikers.
+
 ---
 
 ## De Toekomst Speelt: De Beste AI-tools voor Gaming en Game-ontwikkeling in 2026

@@ -73,6 +73,7 @@ faq:
 - q: Wat kost een goede AI tool gemiddeld per maand?
   a: De prijzen variëren sterk — van gratis tiers tot EUR 300+ per maand voor enterprise. De meeste MKB-geschikte tools kosten EUR 20-100 per gebruiker per maand. Veel tools bieden een gratis proefperiode.
 
+
 ---
 
 ## Introductie

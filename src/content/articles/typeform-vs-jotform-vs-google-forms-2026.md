@@ -53,6 +53,7 @@ faq:
 - q: Wat kost een professioneel formulier per maand?
   a: Google Forms is gratis (onderdeel Google Workspace). Typeform start bij €25/maand (Basic) tot €55/maand (Business). Jotform start bij gratis (5 formulieren) tot €35/maand (Gold, 100 formulieren).
 
+
 ---
 
 ## Lees ook

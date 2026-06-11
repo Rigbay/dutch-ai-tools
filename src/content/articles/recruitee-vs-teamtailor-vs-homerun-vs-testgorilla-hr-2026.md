@@ -63,6 +63,7 @@ faq:
 - q: Is een Applicant Tracking System (ATS) noodzakelijk voor elk bedrijf?
   a: Een ATS is essentieel voor bedrijven die structureel vacatures plaatsen en efficiënt met sollicitanten willen omgaan. Voor kleine bedrijven met weinig vacatures kan een eenvoudiger systeem zoals Homerun volstaan. Grotere organisaties profiteren enorm van de geavanceerde functies van Recruitee of Teamtailor.
 
+
 ---
 
 # Recruitee vs Teamtailor vs Homerun vs TestGorilla: De Ultieme Recruitment HR Tool Vergelijking 2026

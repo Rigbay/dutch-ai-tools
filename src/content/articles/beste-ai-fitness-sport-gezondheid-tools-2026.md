@@ -91,6 +91,7 @@ faq:
 - q: Kunnen deze tools mijn personal trainer vervangen?
   a: Grotendeels wel voor algemene doelen — Freeletics, Fitbod en Aaptiv bieden gepersonaliseerde schema's. Ze missen alleen fysieke correctie.
 
+
 ---
 
 

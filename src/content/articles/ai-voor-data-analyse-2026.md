@@ -1,4 +1,5 @@
 ---
+
 title: 'AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business
   Intelligence'
 slug: ai-voor-data-analyse-2026
@@ -51,6 +52,7 @@ faq:
   a: Gebruik enterprise versies en controleer privacybeleid bij gevoelige data.
 - q: Welke tool is het beste voor Excel gebruikers?
   a: ChatGPT Advanced Data Analysis en Polymer werken uitstekend met spreadsheets.
+
 ---
 
 # AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence

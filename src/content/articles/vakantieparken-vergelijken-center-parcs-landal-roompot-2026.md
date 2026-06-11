@@ -1,4 +1,5 @@
 ---
+
 title: 'Vakantieparken Vergelijken 2026: Center Parcs vs Landal vs Roompot vs EuroParcs'
 slug: vakantieparken-vergelijken-center-parcs-landal-roompot-2026
 description: Center Parcs, Landal, Roompot of EuroParcs in 2026? Vergelijk de beste Nederlandse vakantieparken op prijs, faciliteiten, kindvriendelijkheid en last-minute aanbiedingen.
@@ -74,6 +75,7 @@ faq:
   a: Ja, meerdere opties hebben gratis tiers of proefperiodes. Perfect om te beginnen.
 - q: Hoe kies ik de juiste optie?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Vakantieparken Vergelijken in 2026: Jouw Ideale Staycation Gids
 

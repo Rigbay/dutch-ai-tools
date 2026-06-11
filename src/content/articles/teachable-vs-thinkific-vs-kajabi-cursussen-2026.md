@@ -57,6 +57,7 @@ faq:
 - q: Welk platform biedt de beste AI-features voor cursusmakers in 2026?
   a: In 2026 integreren alle top platforms AI, maar Kajabi en Thinkific lopen voorop met de meest geavanceerde AI-features. Kajabi excelleert in AI voor marketing, zoals contentgeneratie voor e-mails en landingspagina's, en AI-gestuurde studentenondersteuning. Thinkific focust op AI voor gepersonaliseerd leren, cursuscontent creatie en diepgaande studentenanalyse, ideaal voor de professionalisering van je cursusaanbod.
 
+
 ---
 
 # Beste Teachable vs Thinkific vs Kajabi online cursus platforms in 2026: Eerlijke Vergelijking + Prijzen

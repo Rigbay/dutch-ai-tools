@@ -78,6 +78,7 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: Adobe Photoshop en Canva hebben volledige Nederlandse interfaces. Affinity Photo en Luminar Neo zijn Engelstalig maar intuïtief te gebruiken.
 
+
 ---
 
 ## Lees ook

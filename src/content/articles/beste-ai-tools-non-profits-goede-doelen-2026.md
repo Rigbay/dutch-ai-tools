@@ -91,6 +91,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor non-profits en goede doelen?
   a: "'Begin met je primaire uitdaging: wil je de fondsenwerving verhogen, donateurcommunicatie verbeteren, subsidies binnenhalen of vrijwilligers efficiënter coördineren? Overweeg budget, integratie met bestaande systemen en Nederlands/Vlaamse taalondersteuning. De meeste tools bieden een gratis proefperiode om te testen.'"
 
+
 ---
 
 # Beste AI Tools voor Non-profits & Goede Doelen 2026: top 7 vergeleken

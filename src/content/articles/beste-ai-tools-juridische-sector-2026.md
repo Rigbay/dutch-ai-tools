@@ -55,6 +55,7 @@ faq:
 - q: Vervangt AI advocaten en juristen?
   a: Nee — AI automatiseert routinematig werk (contract review, due diligence, precedent-zoeken) maar kan niet strategisch adviseren, onderhandelen of pleiten. De Nederlandse Orde van Advocaten ziet AI als ondersteunend, niet vervangend. Het stelt juristen in staat om meer tijd te besteden aan complex juridisch werk en cliëntrelaties.
 
+
 ---
 
 # De Toekomst is Nu: De Beste AI Tools voor de Juridische Sector in 2026

@@ -52,6 +52,7 @@ faq:
 - q: Kunnen startups meegroeien met mijn bedrijf?
   a: De meeste Nederlandse AI startups bieden schaalbare enterprise plannen.
 
+
 ---
 
 # Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland

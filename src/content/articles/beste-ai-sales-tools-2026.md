@@ -85,6 +85,7 @@ faq:
 - q: Welke AI-sales tool is het beste voor het MKB?
   a: Apollo.io is de beste allround keuze voor het Nederlandse MKB. Het combineert lead-database, AI-scoring en outreach in één platform, heeft een gratis tier, en de Europese contactdatabase is uitgebreid. Voor pure e-mailpersonalisatie is Lemlist sterker.
 
+
 ---
 
 # De Beste AI Sales Tools in 2026: Een Gids voor de Nederlandse Markt

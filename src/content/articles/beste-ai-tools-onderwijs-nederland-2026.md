@@ -83,6 +83,7 @@ faq:
 - q: Wat kost een AI-onderwijstool gemiddeld?
   a: De kosten variëren sterk per type tool. Lesplatforms zoals LessonUp en Snappet kosten €5-15 per leerling per jaar. Leerlingvolgsystemen zoals Magister en SOMtoday rekenen €3-10 per leerling per jaar. Internationale tools zoals Khanmigo zijn vaak gratis voor docenten, met premium-opties vanaf $4/maand.
 
+
 ---
 
 # Beste AI Tools voor het Onderwijs in Nederland 2026

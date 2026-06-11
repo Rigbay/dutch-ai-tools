@@ -78,6 +78,7 @@ faq:
 - q: Zijn deze platforms geschikt voor compliance met de EU AI Act?
   a: Ja, de meeste tools bieden nu transparantie over AI-gebruik, audit logs en opties om AI-functies uit te schakelen. Controleer altijd de specifieke compliance-documentatie van de leverancier, vooral bij gevoelige data.
 
+
 ---
 # Beste AI Low-Code & No-Code Platforms 2026: top 7 vergeleken
 

@@ -80,6 +80,7 @@ faq:
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
 
+
 ---
 # Boekhoudsoftware in 2026: Een Diepgaande Vergelijking Tussen Exact Online, Moneybird, Snelstart en Meer
 

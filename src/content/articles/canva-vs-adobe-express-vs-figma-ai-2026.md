@@ -78,6 +78,7 @@ faq:
 - q: Wat is het verschil tussen Canva en Figma?
   a: Canva is voor marketing en social media design; Figma is voor UI/UX en productontwerp.
 
+
 ---
 
 # Canva vs Adobe Express vs Figma AI 2026: welke AI design tool maakt jou een designer?

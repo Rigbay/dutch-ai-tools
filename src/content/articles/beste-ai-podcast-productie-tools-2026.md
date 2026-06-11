@@ -91,6 +91,7 @@ faq:
 - q: Is Descript het geld waard voor Nederlandse podcasters?
   a: Descript ondersteunt Nederlandse transcriptie en is zeer krachtig voor tekst-gebaseerde editing. Voor alleen audio-cleanup is Cleanvoice of Alitu voordeliger. Descript is het best waard als je ook video-podcast maakt.
 
+
 ---
 
 

@@ -85,6 +85,7 @@ faq:
 - q: Hoeveel gratis opslagruimte heb ik nodig?
   a: "'De meeste gebruikers redden het met 15-100GB voor documenten, foto''s en lichte backups. Google Drive biedt 15GB gratis (gedeeld met Gmail en Google Photos). iCloud geeft 5GB gratis. Voor back-ups van video''s, RAW-foto''s of volledige systeembackups heb je 1-2TB nodig. Tip: kijk eerst hoeveel data je daadwerkelijk gebruikt voordat je een abonnement afsluit. De meeste mensen overschatten hun opslagbehoefte.'"
 
+
 ---
 
 ## Lees ook

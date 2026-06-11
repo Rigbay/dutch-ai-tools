@@ -1,4 +1,5 @@
 ---
+
 title: 'Online Boodschappen Vergelijken 2026: Picnic vs AH vs Jumbo vs Crisp vs Flink'
 slug: online-boodschappen-vergelijken-picnic-ah-jumbo-crisp-2026
 description: Picnic, Albert Heijn Online, Jumbo, Crisp of Flink in 2026? Vergelijk de beste online boodschappendiensten op prijs, bezorgkosten, assortiment en duurzaamheid.
@@ -74,6 +75,7 @@ faq:
   a: Ja, meerdere opties hebben gratis tiers of proefperiodes. Perfect om te beginnen.
 - q: Hoe kies ik de juiste optie?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # De Ultieme Gids voor Online Boodschappen Vergelijken in 2026: Gemak, Prijs en Duurzaamheid
 

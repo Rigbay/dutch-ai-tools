@@ -1,4 +1,5 @@
 ---
+
 title: 'Tidio vs Intercom vs LiveChat vs Crisp 2026: beste AI chatbot voor je website'
 slug: tidio-vs-intercom-vs-livechat-vs-crisp-2026
 description: 'Vergelijk de beste AI chatbots voor websites in 2026: Tidio, Intercom, LiveChat, Crisp, Tawk.to en Chatfuel. Met NL-taalondersteuning, prijzen en AI-automatisering vergeleken.'
@@ -73,6 +74,7 @@ faq:
   a: De meeste tools bieden een gratis tier of proefperiode aan. Zie de prijsranges per tool.
 - q: Werkt dit in het Nederlands?
   a: Ja, alle besproken tools ondersteunen Nederlands of hebben een Nederlandse interface.
+
 ---
 
 # AI Chatbots voor Websites in 2026: De Toekomst van Klantenservice en Marketing

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Landbouw & Agri-Tech 2026: Precisielandbouw & Gewasmonitoring'
 slug: beste-ai-tools-landbouw-2026
 description: 'AI landbouw tools in 2026: vergelijk AI-gestuurde precisielandbouw, gewasmonitoring, oogstvoorspelling en veestapelbeheer
@@ -74,6 +75,7 @@ faq:
   a: Ja, verschillende tools bieden gratis tiers of open-source licenties.
 - q: Werken deze tools in het Nederlands?
   a: De meeste tools hebben Engelse interfaces maar zijn prima bruikbaar voor Nederlandse gebruikers.
+
 ---
 
 ## De Toekomst van het Veld: De Beste AI-Tools voor Landbouw en Agri-Tech in 2026

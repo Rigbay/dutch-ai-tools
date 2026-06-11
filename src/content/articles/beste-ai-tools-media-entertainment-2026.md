@@ -86,6 +86,7 @@ faq:
 - q: Zijn er goede gratis of betaalbare AI tools voor kleinere media bedrijven?
   a: Ja, Runway en ElevenLabs bieden sterke gratis tiers. Pika en Descript hebben betaalbare instapmodellen die perfect zijn voor startende content creators en kleinere productiehuizen.
 
+
 ---
 
 # Beste AI Tools voor Media & Entertainment in 2026: de ultieme vergelijking

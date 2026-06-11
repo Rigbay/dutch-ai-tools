@@ -83,6 +83,7 @@ faq:
 - q: Wat kost AI-e-commerce software gemiddeld per maand?
   a: De meeste tools bieden gratis basisplannen. Voor serieuze dropshipping reken je op EUR 30-80 per maand voor premium functies zoals AI-productanalyse, automatisering en uitgebreide leveranciersdatabases.
 
+
 ---
 
 

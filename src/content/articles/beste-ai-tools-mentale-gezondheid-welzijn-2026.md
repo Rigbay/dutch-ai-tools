@@ -78,6 +78,7 @@ faq:
 - q: Kan een AI-chatbot een menselijke therapeut vervangen?
   a: AI-tools zijn een waardevolle aanvulling, maar geen volledige vervanging van professionele therapeuten. Voor lichte tot matige klachten kunnen ze uitstekend werken als eerste stap of zelfhulptool. Bij ernstige psychische klachten is professionele hulp noodzakelijk.
 
+
 ---
 
 # Beste AI Tools voor Mentale Gezondheid & Welzijn 2026: top 7 vergeleken

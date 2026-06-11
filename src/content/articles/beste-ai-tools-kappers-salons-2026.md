@@ -78,6 +78,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn organisatie?
   a: Begin met je primaire uitdaging (planning, klantcommunicatie, kwaliteitscontrole, marketing?), je budget, en het aantal medewerkers of locaties. Gebruik de vergelijkingstabel hierboven om te filteren op score, prijs en 'beste voor' — dan vind je snel de tool die past.
 
+
 ---
 # AI in de Nederlandse Beauty- en Kappersbranche 2026: De Essentiële Tools
 

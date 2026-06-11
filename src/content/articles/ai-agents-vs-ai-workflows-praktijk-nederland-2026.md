@@ -62,6 +62,7 @@ faq:
 - q: Kan ik agents en workflows combineren?
   a: Ja — platforms zoals Zapier Central en n8n bieden hybride modellen waarbij AI agents specifieke stappen in een grotere workflow autonoom uitvoeren. Dit is in 2026 de snelst groeiende benadering in de Nederlandse markt.
 
+
 ---
 
 ## AI Agents vs AI Workflows: Waarom dit onderwerp in 2026 cruciaal is voor Nederlandse bedrijven

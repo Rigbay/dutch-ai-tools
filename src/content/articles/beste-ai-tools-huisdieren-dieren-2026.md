@@ -77,6 +77,7 @@ faq:
 - q: Werkt biometrische AI-identificatie echt bij huisdieren?
   a: Ja, de AI-algoritmen van bijvoorbeeld Petnow kunnen de unieke neusafdruk van een hond of de gezichtskenmerken van een kat met extreem hoge precisie scannen en opslaan, vergelijkbaar met vingerafdrukscanners op onze smartphones.
 
+
 ---
 
 Onze huisdieren maken onlosmakelijk deel uit van het gezin. We willen dan ook niets liever dan dat ze gezond, gelukkig en vitaal blijven. In **2026** heeft kunstmatige intelligentie de wereld van de dierenzorg stormachtig veroverd. Waar we voorheen voor elk klein twijfelgeval direct naar de kliniek moesten rijden, kunnen we nu rekenen op geavanceerde **AI tools voor huisdieren & dierenverzorging**. 

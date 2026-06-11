@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Klantenservice & Support 2026: top 7 vergeleken'
 slug: beste-ai-tools-klantenservice-support-2026
 description: 'Vergelijk de beste AI tools voor klantenservice en customer support in 2026. Van Zendesk AI tot Intercom Fin: welke support AI tool past bij jouw bedrijf?'
@@ -84,6 +85,7 @@ faq:
       bieden EU-datacenter opties en Data Processing Agreements (DPA). Zoho Desk heeft servers
       in Amsterdam. Met de EU AI Act die augustus 2026 van kracht wordt, is het extra belangrijk
       om te kiezen voor tools met transparant AI-beleid en EU-hosting.'
+
 ---
 
 # Beste AI Tools voor Klantenservice & Support 2026: top 7 vergeleken

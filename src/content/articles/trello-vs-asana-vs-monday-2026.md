@@ -56,6 +56,7 @@ faq:
 - q: Wat kosten de AI-functies bij deze tools?
   a: Trello's Butler AI is gratis bij het gratis plan (beperkt tot 50 automations/maand). Asana's AI-features (Asana Intelligence) zitten in de Advanced-tier (€25/mnd). Monday AI is beschikbaar vanaf het Pro-plan (€20/mnd).
 
+
 ---
 
 ## Lees ook

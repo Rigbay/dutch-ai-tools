@@ -4,7 +4,7 @@ slug: beste-ai-tools-uitzendbureaus-detachering-2026
 description: Ontdek de beste AI tools voor uitzendbureaus en detacheringsbureaus in 2026. Van matching-technologie tot HR-automatisering — vergelijk de top 6 tools.
 category: business
 rating: 4.3
-priceRange: EUR 0-500/mnd
+priceRange: "EUR 0-500/mnd"
 pros:
 - Actuele 2026 AI-toolvergelijking voor deze sector
 - Praktisch advies per type praktijk of gebruiker
@@ -22,37 +22,37 @@ readingTime: 10 min
 tools:
 - name: Textkernel
   verdict: AI-matching van CV's op vacatures — semantisch zoeken, skills-extractie, gebruikt door Randstad en Adecco
-  priceRange: Op aanvraag (enterprise)
+  priceRange: "Op aanvraag (enterprise)"
   bestFor: CV-matching op schaal
   rating: 4.6
   affiliateLink: https://textkernel.com/
 - name: Bullhorn
   verdict: All-in-one recruitment CRM met AI — kandidatenbeheer, matching, analytics voor uitzendbranche
-  priceRange: €100-300/mnd per gebruiker
+  priceRange: "€100-300/mnd per gebruiker"
   bestFor: Full-service uitzendbureaus
   rating: 4.4
   affiliateLink: https://bullhorn.com/
 - name: Carerix
   verdict: Nederlands recruitmentplatform — flexkracht-dashboard, timesheets, urenregistratie AI-gedreven
-  priceRange: €80-200/mnd per gebruiker
+  priceRange: "€80-200/mnd per gebruiker"
   bestFor: Nederlandse uitzendbureaus
   rating: 4.3
   affiliateLink: https://carerix.com/
 - name: Harver
   verdict: Pre-employment assessments met AI — game-based assessments, personality matching, volume hiring
-  priceRange: €200-600/mnd
+  priceRange: "€200-600/mnd"
   bestFor: Volume recruitment & assessments
   rating: 4.5
   affiliateLink: https://harver.com/
 - name: Planys
   verdict: Nederlandse planning- en rooster AI — specifiek voor uitzendkrachten en flexwerkers
-  priceRange: €50-150/mnd
+  priceRange: "€50-150/mnd"
   bestFor: Flexkracht planning & roosters
   rating: 4.1
   affiliateLink: https://planys.nl/
 - name: Nétive VMS
   verdict: Vendor Management Systeem met AI — inhuurprocessen, contracten, facturatie geautomatiseerd
-  priceRange: Op aanvraag
+  priceRange: "Op aanvraag"
   bestFor: Enterprise inhuur management
   rating: 4.2
   affiliateLink: https://netive.nl/

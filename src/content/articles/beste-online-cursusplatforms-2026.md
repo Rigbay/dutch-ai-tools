@@ -79,6 +79,7 @@ faq:
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
 
+
 ---
 # De Toekomst van Online Leren: De Beste Platforms in 2026
 

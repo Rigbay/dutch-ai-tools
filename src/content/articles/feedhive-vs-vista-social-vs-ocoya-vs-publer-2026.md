@@ -56,6 +56,7 @@ faq:
 - q: Wat doet de AI precies in deze social media tools en hoe besparen ze tijd?
   a: De AI in deze tools automatiseert tijdrovende taken. FeedHive gebruikt AI voor het optimaliseren van posts en het slim hergebruiken van content. Vista Social helpt met AI-gegenereerde captions en social listening. Ocoya blinkt uit in AI-contentcreatie met ingebouwde tekst- en beeldgeneratoren. Publer integreert AI voor het verbeteren van je social media strategie en analytics. Samen besparen ze uren aan plannen, schrijven en ontwerpen.
 
+
 ---
 
 # FeedHive vs Vista Social vs Ocoya vs Publer — De Ultieme Vergelijking van AI Social Media Scheduling Tools in 2026

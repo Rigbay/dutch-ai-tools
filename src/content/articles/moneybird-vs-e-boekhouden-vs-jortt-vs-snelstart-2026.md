@@ -64,6 +64,7 @@ faq:
 - q: Moet ik verplicht overstappen naar online boekhouden?
   a: Voor btw-aangifte is online boekhouden niet verplicht, maar het scheelt enorm veel tijd. Alle genoemde tools zijn erkend door de Belastingdienst en ondersteunen automatische btw-aangifte via Digipoort.
 
+
 ---
 
 ## Moneybird vs e-Boekhouden vs Jortt vs Snelstart: beste boekhoudsoftware

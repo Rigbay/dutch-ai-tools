@@ -63,6 +63,7 @@ faq:
 - q: Hebben PDF tools in 2026 AI-functionaliteit?
   a: Ja, Adobe Acrobat Pro heeft AI Assistant die documenten kan samenvatten, vragen beantwoorden over de inhoud en formulieren automatisch herkent. Smallpdf biedt AI-ondersteunde OCR die ook handschrift herkent. De andere tools zijn op dit vlak minder ver ontwikkeld.
 
+
 ---
 
 ## Adobe Acrobat vs Smallpdf vs iLovePDF vs PDF Expert

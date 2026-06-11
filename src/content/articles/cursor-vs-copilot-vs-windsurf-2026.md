@@ -1,4 +1,5 @@
 ---
+
 title: 'Cursor vs Copilot vs Windsurf 2026: beste AI-code assistant voor developers'
 slug: cursor-vs-copilot-vs-windsurf-2026
 description: Cursor, GitHub Copilot of Windsurf in 2026? Vergelijk de beste AI-coding assistants op code-generatie, context-begrip,
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers of open-source opties. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs voor jouw situatie.
+
 ---
 # AI-Codering in 2026: Van Autocomplete naar Autonome Agents – Een Vergelijking voor de Nederlandse Ontwikkelaar
 

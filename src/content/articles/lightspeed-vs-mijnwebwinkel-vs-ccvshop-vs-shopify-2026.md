@@ -58,6 +58,7 @@ faq:
 - q: Welk platform is geschikt voor B2B-groothandel?
   a: "'CCV Shop heeft de beste B2B-features: offertemodule, klantspecifieke prijzen, minimale bestelhoeveelheden en facturatie op rekening — allemaal standaard. Lightspeed biedt B2B-functionaliteit via apps. MijnWebwinkel en Shopify vereisen vaak extra plugins voor volwaardige B2B-functionaliteit.'"
 
+
 ---
 
 ## De Beste Webshop Platforms voor Nederlandse Ondernemers in 2026: Een Diepgaande Vergelijking

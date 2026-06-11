@@ -81,6 +81,7 @@ faq:
 - q: Hoe zit het met de privacy en dataveiligheid bij het gebruik van AI tools?
   a: Privacy en dataveiligheid zijn cruciale overwegingen. Kies altijd tools van gerenommeerde aanbieders die duidelijke privacybeleidsregels hebben en voldoen aan relevante wetgeving zoals de AVG. Vermijd het invoeren van gevoelige of vertrouwelijke informatie, tenzij de tool expliciet veilige verwerking garandeert.
 
+
 ---
 
 # Beste AI Tools voor E-learning & Cursusontwikkeling 2026: top 7 vergeleken

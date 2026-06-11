@@ -4,7 +4,7 @@ slug: beste-ai-tools-verzekeringstussenpersonen-2026
 description: Welke AI tools gebruiken verzekeringsadviseurs en tussenpersonen in 2026? Vergelijk offerte-software, claim-afhandeling en klantbeheer voor verzekeringen.
 category: business
 rating: 4.3
-priceRange: EUR 0-500/mnd
+priceRange: "EUR 0-500/mnd"
 pros:
 - Actuele 2026 AI-toolvergelijking voor deze sector
 - Praktisch advies per type praktijk of gebruiker
@@ -22,37 +22,37 @@ readingTime: 10 min
 tools:
 - name: AnVA
   verdict: Nederlands standaardpakket — kantoorautomatisering, offertes, polisbeheer, declaraties
-  priceRange: €100-300/mnd
+  priceRange: "€100-300/mnd"
   bestFor: Totaaloplossing assurantiekantoor
   rating: 4.5
   affiliateLink: https://anva.nl/
 - name: SVC Kinnik
   verdict: Modern assurantieplatform — API-koppelingen, digitaal klantportaal, AI-risicoprofilering
-  priceRange: €80-250/mnd
+  priceRange: "€80-250/mnd"
   bestFor: Modern digitaal kantoor
   rating: 4.3
   affiliateLink: https://kinnik.nl/
 - name: PolisAI
   verdict: AI-polisdatamining — analyseert polissen op dekking, vergelijkt, signaleert onderverzekering
-  priceRange: €75-200/mnd
+  priceRange: "€75-200/mnd"
   bestFor: Polisanalyse & advies
   rating: 4.4
   affiliateLink: https://polisai.nl/
 - name: Freshworks AI
   verdict: AI-helpdesk — automatische claimintake, chatbot, ticket-routing, kennisbank met NLP
-  priceRange: €40-120/mnd
+  priceRange: "€40-120/mnd"
   bestFor: Klantenservice & claimintake
   rating: 4.2
   affiliateLink: https://freshworks.com/
 - name: Figlo
   verdict: Financieel plannen met AI — pensioen, hypotheek, inkomen, nalatenschap, holistisch advies
-  priceRange: €60-180/mnd
+  priceRange: "€60-180/mnd"
   bestFor: Financieel advies & planning
   rating: 4.1
   affiliateLink: https://figlo.com/
 - name: Riskifier
   verdict: AI-risicoanalyse — voorspelt schadeverloop, fraudedetectie, portfolio-analyse voor verzekeraars
-  priceRange: Op aanvraag
+  priceRange: "Op aanvraag"
   bestFor: Risicomanagement & analytics
   rating: 4.0
   affiliateLink: https://riskifier.com/

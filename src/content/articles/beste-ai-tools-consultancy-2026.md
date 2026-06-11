@@ -83,6 +83,7 @@ faq:
 - q: Zijn AI-tools veilig voor vertrouwelijke klantinformatie?
   a: De meeste genoemde tools hebben enterprise-grade beveiliging en SOC 2-certificering. Controleer altijd de Data Processing Agreement (DPA) en of data binnen de EU blijft — relevant voor Nederlandse consultants met AVG-verplichtingen.
 
+
 ---
 
 # De Transformatie van Advies: De Beste AI Tools voor Consultancybureaus in 2026

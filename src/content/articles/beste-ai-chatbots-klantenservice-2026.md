@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI-chatbots voor klantenservice 2026: Tidio vs Intercom vs Zendesk'
 slug: beste-ai-chatbots-klantenservice-2026
 description: 'Vergelijk de beste AI-chatbots voor klantenservice in 2026: Tidio, Intercom,
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # De Beste AI-Chatbots voor Klantenservice in 2026: Een Diepgaande Analyse
 

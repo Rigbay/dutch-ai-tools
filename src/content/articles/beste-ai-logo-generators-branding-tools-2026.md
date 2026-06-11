@@ -90,6 +90,7 @@ faq:
 - q: Hoe uniek is een AI-gegenereerd logo?
   a: AI tools combineren elementen uit hun database. Hoewel geen twee exact hetzelfde zijn, kunnen vergelijkbare ontwerpen voorkomen. Brandmark en Looka bieden de meest unieke, abstracte creaties.
 
+
 ---
 
 # De Toekomst van Merkidentiteit: Beste AI Logo Generatoren en Branding Tools in 2026

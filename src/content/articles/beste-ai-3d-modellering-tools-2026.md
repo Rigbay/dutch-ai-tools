@@ -90,6 +90,7 @@ faq:
 - q: Zijn AI 3D-tools duur voor hobbyisten?
   a: Nee, Blender is volledig gratis en Spline heeft een gratis laag. Luma AI en Meshy bieden ook gratis opties. Alleen professionele tools zoals Kaedim en Omniverse vragen hogere tarieven.
 
+
 ---
 
 

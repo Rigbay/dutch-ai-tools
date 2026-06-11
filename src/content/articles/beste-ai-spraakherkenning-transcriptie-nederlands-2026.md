@@ -86,6 +86,7 @@ related:
 - nederlandse-ai-adoptie-cijfers-2026
 - ai-avg-compliance-tools-2026
 
+
 ---
 
 # Beste AI Tools voor Spraakherkenning en Transcriptie in het Nederlands 2026

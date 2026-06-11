@@ -1,4 +1,5 @@
 ---
+
 title: 'Ziggo vs KPN vs Odido vs Delta Glasvezel 2026: beste internet, tv en alles-in-1 provider'
 slug: ziggo-vs-kpn-vs-odido-vs-delta-glasvezel-2026
 description: Ziggo, KPN, Odido of Delta in 2026? Vergelijk de beste Nederlandse providers voor internet, tv en alles-in-1 pakketten op snelheid, prijs en klantenservice.
@@ -74,6 +75,7 @@ faq:
   a: Ja, meerdere opties hebben gratis tiers of proefperiodes. Perfect om te beginnen.
 - q: Hoe kies ik de juiste optie?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Internet en TV Vergelijken in 2026: De Ultieme Gids voor de Nederlandse Markt
 

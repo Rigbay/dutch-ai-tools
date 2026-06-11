@@ -1,4 +1,5 @@
 ---
+
 title: 'Midjourney vs DALL-E 3 vs Stable Diffusion 2026: welke AI beeldgenerator is
   de beste?'
 slug: midjourney-vs-dall-e-3-vs-stable-diffusion-2026
@@ -76,6 +77,7 @@ faq:
   a: De meeste tools bieden een beperkte gratis versie aan.
 - q: Werkt het in het Nederlands?
   a: Ja, alle besproken tools ondersteunen de Nederlandse taal goed.
+
 ---
 # De Visuele Revolutie: AI Beeldgeneratie in 2026 – Een Diepgaande Vergelijking
 

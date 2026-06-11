@@ -14,7 +14,8 @@ cons:
 - LLM observability markt ontwikkelt razendsnel — features kunnen wijzigen
 - Prijzen zijn indicatief en afhankelijk van API-volume
 - Zelf-host opties verschillen per platform — check actuele documentatie
-affiliateLinks: []
+affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Langfuse
@@ -79,6 +80,10 @@ faq:
   a: Langfuse is open-source en platform-agnostisch — het werkt met elke LLM (OpenAI, Anthropic, Mistral, etc.) en elk framework.
     LangSmith is het officiële platform voor LangChain/LangGraph en biedt diepere integratie met dat ecosysteem. Kies Langfuse
     voor flexibiliteit, LangSmith als je al volledig op LangChain draait.
+- q: Kan ik meerdere tools combineren?
+  a: Ja, veel bedrijven gebruiken een combinatie van tools voor verschillende workflows. Begin met wat je nodig hebt en bouw uit.
+- q: Zijn de prijzen inclusief BTW?
+  a: De genoemde prijzen zijn indicatief. Check de website van de aanbieder voor de meest actuele tarieven en of BTW is inbegrepen.
 ---
 
 # LLM Observability in 2026: Vlieg Niet Langer Blind — Een Vergelijking voor Nederlandse AI-Teams

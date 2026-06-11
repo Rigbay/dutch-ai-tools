@@ -1,4 +1,5 @@
 ---
+
 title: 'Indeed vs LinkedIn Jobs vs Monsterboard vs Nationale Vacaturebank 2026: beste Nederlandse vacatureplatform'
 slug: indeed-vs-linkedin-jobs-vs-monsterboard-vs-nationale-vacaturebank-2026
 description: Vergelijk Indeed, LinkedIn Jobs, Monsterboard en Nationale Vacaturebank in 2026. Welk vacatureplatform levert de beste resultaten voor werkzoekenden en werkgevers in Nederland?
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 
 ---
 

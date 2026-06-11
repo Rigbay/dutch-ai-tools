@@ -1,4 +1,5 @@
 ---
+
 title: 'Thuisbezorgd vs Uber Eats vs Deliveroo vs Flink 2026: beste bezorgplatform voor consument en restaurant'
 slug: thuisbezorgd-vs-uber-eats-vs-deliveroo-vs-flink-2026
 description: Vergelijk Thuisbezorgd, Uber Eats, Deliveroo en Flink in 2026. Welk bezorgplatform past bij jou als klant en ondernemer? Prijzen, bezorgkosten en dekking in Nederland.
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 
 ---
 

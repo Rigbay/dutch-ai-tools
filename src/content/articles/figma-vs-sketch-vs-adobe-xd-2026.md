@@ -57,6 +57,7 @@ faq:
 - q: Wat zijn de kosten voor een klein Nederlands design team?
   a: Figma Professional is €12/editor/maand. Sketch kost €10/maand (Mac only). Adobe XD is inbegrepen bij Creative Cloud (€60/maand voor alle apps) apps) of €12/maand los.
 
+
 ---
 
 ## Lees ook

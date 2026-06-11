@@ -61,6 +61,7 @@ faq:
 - q: Wat blijft als je geen bot in de meeting wilt?
   a: Granola is het enige van deze vier dat geen bot in de meeting plaatst. Je neemt gewoon op via je laptop/telefoon en Granola vat het bijeen en deeld direct notities, actiepunten en transcripten met je team.
 
+
 ---
 ---
 

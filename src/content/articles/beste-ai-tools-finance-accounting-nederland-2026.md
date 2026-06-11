@@ -83,6 +83,7 @@ faq:
 - q: Wat kost een AI-boekhoudtool gemiddeld per maand?
   a: "'De prijzen variëren sterk: eenvoudige tools zoals Invoice2go beginnen bij €5/maand, Moneybird kost €28-55/maand, en uitgebreide ERP-systemen zoals Exact Online kosten €40-120/maand. De meeste tools bieden een gratis proefperiode van 14-30 dagen.'"
 
+
 ---
 
 # Beste AI Tools voor Finance en Accounting in Nederland 2026

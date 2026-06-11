@@ -60,6 +60,7 @@ faq:
 - q: Kan ik Notion offline gebruiken?
   a: Beperkt. Notion werkt het beste met internetverbinding. Offline pagina's worden lokaal opgeslagen maar synchroniseren pas bij reconnectie. Obsidian werkt volledig offline (bestanden op je eigen harde schijf) en Roam Research is 100% cloud-afhankelijk.
 
+
 ---
 
 ## Lees ook

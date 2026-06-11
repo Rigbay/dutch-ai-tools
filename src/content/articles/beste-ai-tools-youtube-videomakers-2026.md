@@ -83,6 +83,7 @@ faq:
 - q: Zijn er goede gratis AI-videotools in 2026?
   a: CapCut is de beste gratis optie met uitgebreide AI-features zoals automatische ondertiteling, stem-naar-tekst en AI-effecten. Canva biedt ook een robuuste gratis tier.
 
+
 ---
 
 # Beste AI Tools voor YouTube & Videomakers in 2026

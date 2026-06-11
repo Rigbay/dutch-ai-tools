@@ -51,6 +51,7 @@ faq:
 - q: Is het de investering waard voor een kleine website?
   a: "'Voor websites met >10.000 bezoekers/maand: absoluut. Start met SurferSEO Essential (EUR 59/mnd). Voor kleinere sites: focus eerst op gratis tools zoals Google Search Console. De AI-SEO tools renderen pas bij serieuze contentvolumes.'"
 
+
 ---
 
 ## Lees ook

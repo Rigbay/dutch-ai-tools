@@ -1,4 +1,5 @@
 ---
+
 title: 'Supabase vs Firebase vs Appwrite 2026: beste backend-as-a-service platform'
 slug: supabase-vs-firebase-vs-appwrite-2026
 description: Supabase, Firebase of Appwrite in 2026? Vergelijk de beste BaaS-platforms op database, auth, realtime-functies,
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers of open-source opties. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs voor jouw situatie.
+
 ---
 # Backend-as-a-Service in 2026: Een Diepgaande Vergelijking voor Nederlandse Startups
 

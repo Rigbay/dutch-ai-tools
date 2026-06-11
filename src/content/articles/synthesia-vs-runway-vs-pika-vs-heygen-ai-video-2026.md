@@ -57,6 +57,7 @@ faq:
 - q: Kan ik met deze tools ook Nederlandstalige video's maken met authentieke stemmen?
   a: Ja, Synthesia en HeyGen blinken uit in meertaligheid. Synthesia biedt meer dan 120 talen, waaronder Nederlands, met een ruime keuze aan AI-stemmen. HeyGen is ook sterk in het klonen van stemmen en vertalen naar meerdere talen, wat het ideaal maakt voor gepersonaliseerde content. Runway en Pika Labs zijn meer gericht op visuele generatie, maar de audio-integratie verbetert snel.
 
+
 ---
 
 # Synthesia vs Runway vs Pika Labs vs HeyGen AI Video Generatie Tools 2026: De Ultieme Vergelijking

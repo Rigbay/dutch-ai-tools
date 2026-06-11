@@ -91,6 +91,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
   a: Begin met het bepalen van je belangrijkste behoeften, budget en technische vereisten. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken.
 
+
 ---
 # AI in QA en Testautomatisering 2026: De Onmisbare Tools voor Nederlandse Teams
 

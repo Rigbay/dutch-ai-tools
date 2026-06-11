@@ -78,6 +78,7 @@ faq:
 - q: Wat kost social media management per maand voor een Nederlands team?
   a: Buffer start bij 6 EUR/maand voor een kanaal, Hootsuite bij 28 EUR/maand voor 10 kanalen, en Later bij 25 EUR/maand voor een profiel. Voor MKB met 3-5 kanalen is Buffer de voordeligste optie.
 
+
 ---
 
 ## Lees ook

@@ -52,6 +52,7 @@ faq:
 - q: Welke cloud provider voldoet aan AVG/GDPR?
   a: Alle drie voldoen aan AVG/GDPR — maar de implementatie verschilt. Azure en Google Cloud hebben Nederlandse datacenters wat datasoevereiniteit vereenvoudigt. AWS biedt uitgebreide compliance-certificeringen en EU-dataresidency via Frankfurt. Kies op basis van waar je data fysiek moet staan, niet alleen op papier.
 
+
 ---
 
 # AWS vs Microsoft Azure vs Google Cloud: Welke Cloudprovider Past Bij Jouw Nederlandse Bedrijf in 2026?

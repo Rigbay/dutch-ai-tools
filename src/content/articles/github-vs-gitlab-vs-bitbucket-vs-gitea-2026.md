@@ -1,4 +1,5 @@
 ---
+
 title: 'GitHub vs GitLab vs Bitbucket vs Gitea 2026: beste code hosting platform voor Nederlandse developers'
 slug: github-vs-gitlab-vs-bitbucket-vs-gitea-2026
 description: 'Vergelijk GitHub, GitLab, Bitbucket en Gitea in 2026: prijs, CI/CD, AI, security en self-hosting voor NL developers en startups.'
@@ -74,6 +75,7 @@ faq:
     a: "Ja, veel tools bieden een gratis tier of open-source versie. GitHub biedt bijvoorbeeld een gratis startoptie. Bekijk de prijsrange per tool in de vergelijkingstabel hierboven."
   - q: "Hoe kies ik de juiste tool voor mijn behoeften?"
     a: "Bepaal eerst je budget, teamgrootte en belangrijkste vereisten. Kijk dan naar de Beste voor-kolom in de vergelijkingstabel. Probeer 2-3 tools met een gratis trial voordat je een definitieve keuze maakt."
+
 ---
 
 

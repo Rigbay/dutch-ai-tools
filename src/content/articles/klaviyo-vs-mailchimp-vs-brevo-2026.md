@@ -52,6 +52,7 @@ faq:
 - q: Hoe zit het met AVG/GDPR bij deze tools?
   a: "'Brevo is de veiligste keuze: Franse servers, volledig AVG-compliant, DPA standaard beschikbaar. Mailchimp verwerkt data in de VS (Privacy Shield-gecertificeerd). Klaviyo biedt EU-serveropties in hogere plannen. Voor strikte GDPR: Brevo of Klaviyo met EU-datacenter.'"
 
+
 ---
 ## Lees ook
 

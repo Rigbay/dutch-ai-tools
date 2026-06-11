@@ -51,6 +51,7 @@ faq:
 - q: Hoe snel zie ik resultaten met AI SEO tools?
   a: Meestal binnen 4-12 weken bij consistente toepassing.
 
+
 ---
 
 # AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking

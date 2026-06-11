@@ -92,6 +92,7 @@ related:
 - beste-ai-tools-retail-2026
 draft: false
 
+
 ---
 
 ## AI en Spreadsheets in 2026: De Revolutie op je Werkblad

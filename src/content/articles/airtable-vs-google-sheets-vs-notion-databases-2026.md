@@ -1,4 +1,5 @@
 ---
+
 title: 'Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool'
 slug: airtable-vs-google-sheets-vs-notion-databases-2026
 description: 'Airtable, Google Sheets en Notion databases vergeleken in 2026: AI-automatiseringen, AVG-compliance, schaalbaarheid en kosten voor Nederlandse teams en ZZP-ers.'
@@ -50,6 +51,7 @@ faq:
     a: "Ja, Airtable biedt dataopslag in EU-datacenters (Frankfurt) en is S SOC 2 gecertificeerd. Controleer wel altijd je eigen gebruik en verwerkings verwerkingsregister."
   - q: "Kan ik Google Sheets en Airtable koppelen?"
     a: "Ja, via Zapier, Make of Airtable's eigen sync-functie kun je data a automatisch tussen Google Sheets en Airtable uitwisselen."
+
 ---
 
 ## Lees ook

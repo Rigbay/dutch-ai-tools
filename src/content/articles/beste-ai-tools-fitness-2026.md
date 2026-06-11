@@ -76,6 +76,7 @@ faq:
 - q: Zijn AI-gezondheidsapps veilig met mijn data?
   a: De meeste tools voldoen aan GDPR/AVG. Whoop en Oura hebben SOC 2-certificering. Lees altijd de privacyvoorwaarden.
 
+
 ---
 
      1|**De Slimste Workout: Top 7 AI Fitness Tools die je Training in 2026 Revolutioneren**

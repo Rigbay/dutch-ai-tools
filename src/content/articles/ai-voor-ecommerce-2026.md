@@ -1,4 +1,5 @@
 ---
+
 title: 'AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie'
 slug: ai-voor-ecommerce-2026
 description: Ontdek de beste AI tools voor e-commerce in 2026. Vergelijk tools voor
@@ -50,6 +51,7 @@ faq:
   a: Ja, conversieratio's stijgen gemiddeld 15-30% met goede AI aanbevelingssystemen.
 - q: Is AI geschikt voor kleine webshops?
   a: Absoluut. Veel tools hebben betaalbare instappakketten voor MKB.
+
 ---
 
 # AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie

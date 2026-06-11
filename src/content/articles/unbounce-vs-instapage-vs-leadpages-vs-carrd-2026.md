@@ -64,6 +64,7 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools ondersteunen Nederlands in 2026, al varieert de kwaliteit van Nederlandstalige interfaces per tool.
 
+
 ---
 
 

@@ -78,6 +78,7 @@ faq:
 - q: Wat kost een BI-tool voor een MKB?
   a: Looker Studio is gratis. Power BI Pro kost 10 EUR/gebruiker/maand. Tableau Creator kost ongeveer 75 EUR/gebruiker/maand. Voor de meeste MKBs is Power BI de beste prijs-kwaliteitkeuze.
 
+
 ---
 
 ## Lees ook

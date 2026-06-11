@@ -1,4 +1,5 @@
 ---
+
 title: 'Stripe vs Mollie vs Adyen 2026: Beste AI Betaalprovider voor Nederlandse Webshops'
 slug: stripe-vs-mollie-vs-adyen-2026
 description: 'Stripe, Mollie en Adyen vergeleken in 2026: AI-fraud detectie, transactiekosten, iDEAL integraties en schaalbaarheid voor Nederlandse webshops van starter tot enterprise.'
@@ -50,6 +51,7 @@ faq:
     a: "Ja, alle drie bieden AI-gedreven fraud detection. Stripe Radar gebruikt machine learning om verdachte transacties te blokkeren. Adyen's RevenueProtect is marktleider in enterprise fraud prevention."
   - q: "Ondersteunen deze providers achteraf betalen (Klarna/Riverty)?"
     a: "Ja, Mollie biedt Klarna en Riverty native aan. Stripe ondersteunt Klarna via de API. Adyen biedt vrijwel alle Nederlandse achteraf-betaalmethoden via één integratie."
+
 ---
 
 ## Lees ook

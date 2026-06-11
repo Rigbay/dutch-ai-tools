@@ -76,6 +76,7 @@ faq:
 - q: Welke interieur AI tool is het beste voor verhuizing?
   a: "'Planner 5D is ideaal voor verhuizing: teken de plattegrond van je nieuwe woning, plaats virtuele meubels en bekijk alles in 3D voordat je iets koopt.'"
 
+
 ---
 
 

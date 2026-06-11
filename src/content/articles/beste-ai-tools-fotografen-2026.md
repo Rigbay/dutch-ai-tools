@@ -91,6 +91,7 @@ faq:
 - q: Welke tool is het snelst voor batchbewerking van trouwfoto's?
   a: Imagen AI is specifiek ontworpen voor batchbewerking van grote fotoseries. Het leert je bewerkingsstijl en past die consistent toe op honderden foto's tegelijk — ideaal voor trouw- en eventfotografen met strakke deadlines.
 
+
 ---
 
 # Beste AI Tools voor Fotografen 2026: Top 7 AI Tools voor Beeldbewerking en Workflow

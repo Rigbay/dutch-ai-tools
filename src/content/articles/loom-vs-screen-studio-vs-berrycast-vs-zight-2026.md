@@ -1,4 +1,5 @@
 ---
+
 title: 'Loom vs Screen Studio vs Berrycast vs Zight 2026: beste screen recording tool'
 slug: loom-vs-screen-studio-vs-berrycast-vs-zight-2026
 description: Vergelijk Loom, Screen Studio, Berrycast en Zight in 2026. Welke screen recording tool past bij jouw team? Prijzen, AI-features en async communicatie voor remote teams.
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools ondersteunen Nederlands in 2026, al varieert de kwaliteit van Nederlandstalige interfaces per tool.
+
 ---
 
 

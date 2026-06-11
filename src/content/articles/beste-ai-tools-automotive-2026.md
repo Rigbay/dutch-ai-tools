@@ -78,6 +78,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn automotive situatie?
   a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om te kiezen op basis van score, prijs en 'beste voor'.
 
+
 ---
 
 # De Weg naar Slimme Mobiliteit: De Beste AI-Tools voor de Nederlandse Automotive & Mobiliteitsector in 2026

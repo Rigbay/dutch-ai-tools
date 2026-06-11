@@ -60,6 +60,7 @@ faq:
 - q: Kan ik Nederlandse stemmen en ondertitels gebruiken?
   a: Ja, zowel Synthesia als HeyGen ondersteunen hoogwaardige Nederlandse stemmen en automatische ondertiteling.
 
+
 ---
 
 # AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken

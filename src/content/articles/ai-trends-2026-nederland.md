@@ -53,6 +53,7 @@ faq:
 - q: Wat is de impact van de EU AI Act?
   a: De wet dwingt tot transparantie en risk management, en opent de deur voor Europese AI-aanbieders.
 
+
 ---
 
 # AI Trends 2026 in Nederland: van autonomere agents tot lokale modellen en EU-compliance

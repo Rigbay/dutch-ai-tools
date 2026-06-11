@@ -78,6 +78,7 @@ faq:
 - q: Welke tool ondersteunt het beste Nederlands?
   a: Niet alle AI tools ondersteunen Nederlands even goed. In onze vergelijking hebben we specifiek gekeken naar Nederlandse taalondersteuning. Check per tool de 'beste-voor' kolom in de tabel en de beschrijving voor details over NL-ondersteuning.
 
+
 ---
 
 # De Beste AI SEO Tools in 2026: Een Gids voor de Nederlandse Markt

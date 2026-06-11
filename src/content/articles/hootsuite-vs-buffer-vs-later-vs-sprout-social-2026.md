@@ -64,6 +64,7 @@ faq:
 - q: Kan ik Instagram Reels en TikTok inplannen?
   a: Later is de sterkste keuze voor visuele platforms en biedt directe publicatie voor Instagram en TikTok. Buffer en Hootsuite ondersteunen dit ook, maar met beperktere preview-mogelijkheden. Let op dat TikTok direct publishing per tool verschilt.
 
+
 ---
 
 ## Hootsuite vs Buffer vs Later vs Sprout Social

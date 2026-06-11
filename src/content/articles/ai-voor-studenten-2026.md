@@ -53,6 +53,7 @@ faq:
 - q: Zijn er gratis AI tools voor studenten?
   a: Ja, ChatGPT (gratis versie), Grammarly Free en verschillende universiteitslicenties bieden gratis toegang.
 
+
 ---
 
 # AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps

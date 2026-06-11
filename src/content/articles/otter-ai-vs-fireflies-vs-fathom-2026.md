@@ -51,6 +51,7 @@ faq:
 - q: Is de gratis versie voldoende?
   a: "'Voor incidenteel gebruik: ja. Fireflies gratis: 800 min opgeslagen. Otter gratis: 300 min/maand. Fathom gratis: 5 meetings. Voor dagelijks gebruik is een betaald abonnement nodig.'"
 
+
 ---
 
 ## Lees ook

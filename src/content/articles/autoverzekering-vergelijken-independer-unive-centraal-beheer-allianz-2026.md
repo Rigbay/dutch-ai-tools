@@ -4,7 +4,7 @@ slug: autoverzekering-vergelijken-independer-unive-centraal-beheer-allianz-2026
 description: Independer, Univé, Centraal Beheer (Even Apeldoorn Bellen), Allianz Direct of FBTO in 2026? Vergelijk WA, WA+ en All-risk autoverzekeringen op prijs en service.
 category: business
 rating: 4.3
-priceRange: EUR 0-100/mnd
+priceRange: "EUR 0-100/mnd"
 pros:
 - Uitgebreide 2026 vergelijking
 - Duidelijke prijsranges en use cases
@@ -22,31 +22,31 @@ readingTime: 9 min
 tools:
 - name: Independer
   verdict: Beste vergelijkingssite — alle verzekeraars in één overzicht, heldere filters, jaarlijks bespaaradvies
-  priceRange: Gratis te gebruiken
+  priceRange: "Gratis te gebruiken"
   bestFor: Objectief vergelijken & besparen
   rating: 4.6
   affiliateLink: https://independer.nl/
 - name: Univé
   verdict: Coöperatief met ledenvoordeel — geen winstoogmerk, elk jaar winstdeling, hoge klanttevredenheid
-  priceRange: WA: €25-55/mnd
+  priceRange: "WA: €25-55/mnd"
   bestFor: Klantvriendelijk & ledengericht
   rating: 4.5
   affiliateLink: https://unive.nl/
 - name: Centraal Beheer
   verdict: Even Apeldoorn bellen — beste bereikbaarheid, 24/7 schadeservice, scherpe premie via online afsluiten
-  priceRange: WA: €22-50/mnd
+  priceRange: "WA: €22-50/mnd"
   bestFor: Service & bereikbaarheid
   rating: 4.4
   affiliateLink: https://centraalbeheer.nl/
 - name: Allianz Direct
   verdict: Online prijsvechter — direct online afsluiten, scherpe premies, onderdeel van wereldwijde Allianz-groep
-  priceRange: WA: €20-45/mnd
+  priceRange: "WA: €20-45/mnd"
   bestFor: Online afsluiten & lage premie
   rating: 4.3
   affiliateLink: https://allianzdirect.nl/
 - name: FBTO
   verdict: Eenvoudig & transparant — heldere polissen, goede prijs/kwaliteit, geen poespas
-  priceRange: WA: €23-48/mnd
+  priceRange: "WA: €23-48/mnd"
   bestFor: Eenvoud & transparantie
   rating: 4.3
   affiliateLink: https://fbto.nl/

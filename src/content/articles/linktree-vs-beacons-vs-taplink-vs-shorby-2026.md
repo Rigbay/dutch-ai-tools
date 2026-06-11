@@ -1,4 +1,5 @@
 ---
+
 title: 'Linktree vs Beacons vs Taplink vs Shor.by 2026: beste link-in-bio tool'
 slug: linktree-vs-beacons-vs-taplink-vs-shorby-2026
 description: Vergelijk Linktree, Beacons, Taplink en Shor.by in 2026. Welke link-in-bio tool past bij jouw social media strategie? Prijzen, features en AI-mogelijkheden voor content creators.
@@ -63,6 +64,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools ondersteunen Nederlands in 2026, al varieert de kwaliteit van Nederlandstalige interfaces per tool.
+
 
 ---
 

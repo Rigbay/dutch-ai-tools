@@ -81,6 +81,7 @@ faq:
 - q: Is tandheelkundige AI geschikt voor kleine praktijken?
   a: Ja, vooral voor praktijken met veel bitewings, OPG's of paro-controles. Let wel op maandkosten, koppelingen met je PMS en lokale regelgeving rond medische data.
 
+
 ---
 # AI in de Tandheelkunde: de beste tools voor 2026
 

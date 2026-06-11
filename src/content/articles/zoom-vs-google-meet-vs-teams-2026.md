@@ -1,4 +1,5 @@
 ---
+
 title: 'Zoom vs Google Meet vs Microsoft Teams 2026: Beste AI Videobellen Tool'
 slug: zoom-vs-google-meet-vs-teams-2026
 description: 'Zoom, Google Meet en Microsoft Teams vergeleken in 2026: AI-meeting samenvattingen, vertaling, transcriptie en beveiliging voor Nederlandse bedrijven en teams.'
@@ -50,6 +51,7 @@ faq:
     a: "Alle drie bieden EU-datacenter opties en zijn AVG-compliant mits co correct geconfigureerd. Microsoft en Google hebben uitgebreide compliance-d compliance-documentatie beschikbaar."
   - q: "Kan ik gratis videobellen met grote groepen?"
     a: "Google Meet biedt 60 minuten voor groepen tot 100 personen gratis. Zoom gratis is beperkt tot 40 minuten. Teams gratis staat 60 minuten toe me met maximaal 100 deelnemers."
+
 ---
 
 ## Lees ook

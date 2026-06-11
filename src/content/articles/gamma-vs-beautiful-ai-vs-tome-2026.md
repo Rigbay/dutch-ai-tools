@@ -51,6 +51,7 @@ faq:
 - q: Hoe zit het met Nederlandse ondersteuning?
   a: Gamma en Tome ondersteunen Nederlands voor AI-tekstgeneratie. Beautiful.ai heeft Nederlandstalige UI maar AI-suggesties primair in Engels. De outputkwaliteit in Nederlands is bij Gamma het hoogst.
 
+
 ---
 
 ## Lees ook

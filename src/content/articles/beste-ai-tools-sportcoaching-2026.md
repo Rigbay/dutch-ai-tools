@@ -77,6 +77,7 @@ faq:
 - q: Voorkomt AI blessures volledig?
   a: Nee. AI kan workload-risico's signaleren en patronen herkennen, maar medische beoordeling, coachingcontext en communicatie met spelers blijven noodzakelijk.
 
+
 ---
 # AI in Sportcoaching: de beste tools voor 2026
 

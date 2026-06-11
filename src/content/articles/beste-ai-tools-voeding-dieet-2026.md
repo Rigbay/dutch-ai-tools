@@ -77,6 +77,7 @@ faq:
 - q: Hoe kies ik de juiste AI-voedingstool?
   a: "'Begin met je primaire doel: calorie-tracking (MyFitnessPal), gewichtsverlies (Noom), gepersonaliseerde maaltijden (Lifesum), of medische dieetbeperkingen (EatLove). De meeste tools bieden een gratis proefperiode — probeer er twee of drie voor je beslist.'"
 
+
 ---
 
 # Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken

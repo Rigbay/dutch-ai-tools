@@ -1,4 +1,5 @@
 ---
+
 title: 'Zorgverzekering Vergelijken 2026: Zilveren Kruis vs CZ vs VGZ vs Menzis vs Ditzo'
 slug: zorgverzekering-vergelijken-2026-zilveren-kruis-cz-vgz-menzis
 description: Zilveren Kruis, CZ, VGZ, Menzis of Ditzo in 2026? Vergelijk de beste Nederlandse zorgverzekeringen op prijs, dekking, vrije zorgkeuze en aanvullende pakketten.
@@ -74,6 +75,7 @@ faq:
   a: Ja, meerdere opties hebben gratis tiers of proefperiodes. Perfect om te beginnen.
 - q: Hoe kies ik de juiste optie?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Zorgverzekeringen Vergelijken in 2026: Jouw Wegwijzer naar de Beste Keuze
 

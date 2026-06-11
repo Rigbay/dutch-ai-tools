@@ -83,6 +83,7 @@ faq:
 - q: Hoe zit het met aanbesteding bij AI-tools voor de overheid?
   a: AI-tools vallen onder de reguliere aanbestedingsregels. Enterprise-tools zoals Palantir en IBM worden doorgaans via een openbare aanbesteding aangeschaft. Kleinere tools zoals Textgain kunnen via een meervoudig onderhandse procedure.
 
+
 ---
 
 # De Toekomst van Bestuur: De Beste AI-Tools voor de Nederlandse Overheid in 2026

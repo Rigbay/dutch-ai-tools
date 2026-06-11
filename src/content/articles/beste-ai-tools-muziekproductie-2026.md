@@ -79,6 +79,7 @@ faq:
 - q: Kan ik AI-muziek commercieel gebruiken?
   a: Ja, maar lees de licentievoorwaarden per tool. De meeste betaalde abonnementen geven commerciële rechten. Gratis versies hebben vaak beperkingen of moeten naamsvermelding geven.
 
+
 ---
 
 # De Beste AI Tools voor Muziekproductie in 2026

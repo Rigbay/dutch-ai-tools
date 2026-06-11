@@ -92,6 +92,7 @@ faq:
 - q: Wat zijn de maandelijkse kosten van AI tools?
   a: "'De prijzen variëren sterk: van gratis tiers tot €500+/maand voor enterprise-licenties. Gemiddeld betaal je €15-100/maand voor een professionele AI-tool met volledige functionaliteit.'"
 
+
 ---
 
 # De Toekomst van de Apotheek: De Beste AI Tools voor Farmacie en Medicijnbeheer in 2026

@@ -81,6 +81,7 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, alle drie de hoofdplatformen ondersteunen Nederlands. Microsoft 365 Copilot en Google Gemini hebben de beste Nederlandse taalondersteuning. Notion AI is Engelstalig maar begrijpt Nederlandse prompts.
 
+
 ---
 
 ## Lees ook

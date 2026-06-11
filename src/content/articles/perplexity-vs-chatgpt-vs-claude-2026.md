@@ -90,6 +90,7 @@ faq:
 - q: Wat is het grootste verschil tussen ChatGPT, Claude en Perplexity AI in 2026?
   a: In 2026 onderscheidt ChatGPT zich door zijn veelzijdigheid en creativiteit, Claude door zijn focus op veiligheid en lange-context begrip, en Perplexity AI door zijn superieure bronvermelding en real-time onderzoekscapaciteiten.
 
+
 ---
 
 ## Perplexity AI vs ChatGPT vs Claude 2026: Welke AI Assistent Past Bij Jou?

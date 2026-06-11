@@ -56,6 +56,7 @@ faq:
 - q: Wat doet de AI precies in deze contract management tools en hoe bespaart het tijd?
   a: De AI in deze tools automatiseert tijdrovende taken zoals het analyseren van contracten op risico’s en afwijkingen (AI-review), het genereren van documenten op basis van templates (AI-creatie), het automatisch aanvullen van contractgegevens (data-extractie) en het voorstellen van standaard clausules of wijzigingen (AI-redlining). Dit bespaart juridische teams en ondernemers uren aan handmatig werk, vermindert fouten en versnelt het gehele contractproces aanzienlijk.
 
+
 ---
 
 # Juro vs Ironclad vs SpotDraft vs Contractbook — AI Contract Management en Legal Ops Tools 2026

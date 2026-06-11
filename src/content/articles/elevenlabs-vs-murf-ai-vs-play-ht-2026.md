@@ -1,4 +1,5 @@
 ---
+
 title: 'ElevenLabs vs Murf AI vs Play.ht 2026: de beste AI stemmen vergeleken'
 slug: elevenlabs-vs-murf-ai-vs-play-ht-2026
 description: Welke AI voice generator is de beste in 2026? Vergelijk ElevenLabs, Murf
@@ -75,6 +76,7 @@ faq:
   a: De meeste tools bieden een beperkte gratis versie aan.
 - q: Werkt het in het Nederlands?
   a: Ja, alle besproken tools ondersteunen de Nederlandse taal goed.
+
 ---
 # De Stem van de Toekomst: De Beste AI Voice Generators in 2026
 

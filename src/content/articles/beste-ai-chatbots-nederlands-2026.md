@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Chatbots voor Nederlands 2026: vergelijk ChatGPT, Claude, Gemini en lokale opties'
 slug: beste-ai-chatbots-nederlands-2026
 description: 'Vergelijk de beste AI chatbots voor Nederlands in 2026. ChatGPT, Claude, Gemini en meer — welke chatbot leest en schrijft het beste Nederlands?'
@@ -51,6 +52,7 @@ faq:
   a: Ja, de meeste grote platforms bieden een gratis tier, en lokale huishoudnl-Modellen zijn volledig gratis.
 - q: Werken deze chatbots offline?
   a: Alleen lokale modellen (zoals Llama 3.2) werken volledig offline. Cloudmodellen hebben een internetverbinding nodig.
+
 ---
 
 # Beste AI Chatbots voor Nederlands 2026: vergelijk ChatGPT, Claude, Gemini en lokale opties

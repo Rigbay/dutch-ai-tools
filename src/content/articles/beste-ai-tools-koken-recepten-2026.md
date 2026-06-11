@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Koken & Recepten 2026: top 6 tools vergeleken'
 slug: beste-ai-tools-koken-recepten-2026
 description: >-
@@ -93,6 +94,7 @@ faq:
       en DishGen begrijpen en reageren perfect in het Nederlands. Bovendien kun je met ingebouwde
       browservertalingen of AI-vertaaltools Engelstalige recepten in een fractie van een seconde
       vertalen.
+
 ---
 
 De keuken van 2026 is slimmer, efficiënter en creatiever dan ooit tevoren. Waar we vroeger uren bladerden door kookboeken of moedeloos naar een halflege koelkast staarden, nemen **AI kooktools** nu het denkwerk uit handen. Of je nu wilt besparen op je boodschappen, voedselverspilling wilt tegengaan, of een strikt dieet volgt: kunstmatige intelligentie is jouw nieuwe souschef.

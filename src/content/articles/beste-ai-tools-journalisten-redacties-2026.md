@@ -80,6 +80,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
   a: Begin met het bepalen van je primaire use case, budget, en of je Nederlandse ondersteuning nodig hebt. Gebruik dan de tabel hierboven om te kiezen op score, prijs en de 'beste voor' kolom.
 
+
 ---
 
 # Beste AI Tools voor Journalisten & Redacties 2026: De Nieuwe Generatie Werkpaarden

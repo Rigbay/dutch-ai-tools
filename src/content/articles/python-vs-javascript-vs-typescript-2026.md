@@ -1,4 +1,5 @@
 ---
+
 title: 'Python vs JavaScript vs TypeScript 2026: welke programmeertaal moet je leren?'
 slug: python-vs-javascript-vs-typescript-2026
 description: Python, JavaScript of TypeScript in 2026? Vergelijk de populairste programmeertalen op toepassingen, salaris,
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers of open-source opties. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs voor jouw situatie.
+
 ---
 # Programmeertalen in 2026: De Strijd om Dominantie in het AI-Tijdperk
 

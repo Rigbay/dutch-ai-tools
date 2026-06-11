@@ -52,6 +52,7 @@ faq:
 - q: Wat is het verschil tussen DeepL Write en DeepL Translate?
   a: DeepL Translate vertaalt tussen talen. DeepL Write is een schrijfassistent die binnen één taal werkt — het verbetert stijl, toon, woordkeuze en grammatica zonder te vertalen. Beide tools zijn onderdeel van hetzelfde DeepL-abonnement (Write Pro is €8,99/maand, inclusief Translate).
 
+
 ---
 
 # De Beste AI-schrijfassistenten van 2026: Grammarly vs DeepL Write vs LanguageTool — Focus op Nederlands

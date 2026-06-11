@@ -81,6 +81,7 @@ faq:
 - q: Wat is het verschil tussen vertaling en lokalisatie?
   a: Vertaling zet tekst om naar een andere taal. Lokalisatie past ook toon, context, interface, cultuur, terminologie en productervaring aan de doelgroep aan.
 
+
 ---
 # AI voor Tolken en Vertalingen: de beste tools voor 2026
 

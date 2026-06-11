@@ -81,6 +81,7 @@ faq:
 - q: Werken prompts hetzelfde op verschillende AI-modellen?
   a: Nee, elk model reageert anders op dezelfde prompt. GPT-4, Claude, Gemini en andere LLM's hebben elk hun eigen sterktes en zwaktes. Tools zoals PromptPerfect en Portkey helpen je prompts te optimaliseren voor specifieke modellen.
 
+
 ---
 
 De wereld van kunstmatige intelligentie evolueert razendsnel, en 2026 belooft wederom een jaar te worden waarin AI niet langer een futuristisch concept is, maar een onmisbaar fundament voor succesvolle ondernemingen. Voor Nederlandse ondernemers betekent dit dat de efficiëntie en effectiviteit waarmee je AI inzet direct impact heeft op je concurrentiepositie en je bedrijfsresultaten. En precies hierin speelt prompt engineering een cruciale rol. Het gaat er niet langer alleen om *welke* AI-modellen je gebruikt, maar vooral *hoe* je deze modellen aanstuurt om de best mogelijke resultaten te leveren.

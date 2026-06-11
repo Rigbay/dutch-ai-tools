@@ -76,6 +76,7 @@ faq:
 - q: Hoe zit het met AVG bij verzekerings-AI?
   a: Alle tools opereren onder AVG-compliance. Verzekeraars moeten een DPIA uitvoeren. NL tools zoals FRISS en Anansi hebben AVG ingebouwd.
 
+
 ---
 
      1|# De Toekomst is Nu: Top 7 AI Tools voor de Nederlandse Verzekeringssector in 2026

@@ -78,6 +78,7 @@ faq:
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
 
+
 ---
 ## De Beste Domeinregistratie en Webhosting in Nederland in 2026: Een Diepgaande Vergelijking
 

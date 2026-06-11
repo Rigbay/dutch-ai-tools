@@ -78,6 +78,7 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, Todoist en Microsoft To Do hebben Nederlandse interfaces. TickTick en Things 3 zijn Engelstalig maar ondersteunen Nederlandse data en spraakinvoer.
 
+
 ---
 
 ## Lees ook

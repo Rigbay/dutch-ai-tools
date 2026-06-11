@@ -72,6 +72,7 @@ faq:
 - q: Kan ik AI gebruiken voor belastingaangifte in Nederland?
   a: Ja, tools als Taxfix en QuickBooks hebben specifieke Nederlandse modules voor IB en BTW.
 
+
 ---
 ## Snel advies
 

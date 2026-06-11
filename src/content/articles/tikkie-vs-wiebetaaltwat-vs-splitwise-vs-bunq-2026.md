@@ -1,4 +1,5 @@
 ---
+
 title: 'Tikkie vs WieBetaaltWat vs Splitwise vs bunq 2026: beste betaalverzoek-apps vergeleken'
 slug: tikkie-vs-wiebetaaltwat-vs-splitwise-vs-bunq-2026
 description: Tikkie, WieBetaaltWat, Splitwise of bunq in 2026? Vergelijk de beste Nederlandse betaalverzoek-apps op gemak, kosten, groepsfunctionaliteit en privacy.
@@ -74,6 +75,7 @@ faq:
   a: Ja, meerdere opties hebben gratis tiers of proefperiodes. Perfect om te beginnen.
 - q: Hoe kies ik de juiste optie?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 ## Betaalverzoeken 2026: Wie Is de Koning van de Groepsfinanciën?
 

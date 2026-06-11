@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor HR & Recruitment in Nederland 2026'
 slug: beste-ai-tools-hr-recruitment-nederland-2026
 description: 'Van cv-screening tot talentvoorspelling, dit zijn de 7 beste AI tools voor HR-professionals en recruiters in Nederland met prijzen, functies en AVG-compliance.'
@@ -47,6 +48,7 @@ faq:
   a: "Nederlandse tools (Textkernel, Recruitee, Harver) zijn ontworpen met AVG-compliance vanaf de basis. Let op: geautomatiseerde besluitvorming (artikel 22 AVG) mag alleen met expliciete toestemming."
 - q: "Kan AI onbewuste vooroordelen in recruitment verminderen?"
   a: "AI kan helpen mits goed getraind op diverse datasets en getest op bias. Tools zoals Textkernel en Harver monitoren actief op bias. Menselijke controle en diversiteitsbewustzijn blijven essentieel."
+
 ---
 
 ## De Noodzaak van AI in HR & Recruitment in Nederland anno 2026

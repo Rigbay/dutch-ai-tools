@@ -1,4 +1,5 @@
 ---
+
 title: 'Hypotheekvergelijking 2026: De Hypotheker vs Hypotheekshop vs Independer vs Viisi — beste hypotheekadvies in Nederland'
 slug: hypotheekvergelijking-vs-hypotheker-vs-de-hypotheekshop-vs-online-hypotheek-2026
 description: Vergelijk De Hypotheker, Hypotheekshop, Independer en Viisi in 2026. Welke hypotheekvergelijking past bij jouw woonsituatie? Prijzen, advieskwaliteit en digitale tools vergeleken.
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 
 ---
 

@@ -85,6 +85,7 @@ faq:
 - q: Is er een betaalbare AI-tool voor kleine accountantskantoren?
   a: DataSnipper biedt een mid-market tier voor kleinere kantoren — vanaf ongeveer 100 euro per gebruiker per maand. Voor documentverwerking is Ocrolus toegankelijker qua prijsstelling. De combinatie dekt audit en documentverwerking voor een klein kantoor voor circa 200 tot 400 euro per maand.
 
+
 ---
 
 # De Toekomst van Financiële Technologie: De Beste AI Tools voor de Nederlandse Sector in 2026

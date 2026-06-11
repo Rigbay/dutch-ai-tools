@@ -1,4 +1,5 @@
 ---
+
 title: 'Shopify vs WooCommerce vs Wix Ecommerce 2026: Beste AI Webshop Platform'
 slug: shopify-vs-woocommerce-vs-wix-ecommerce-2026
 description: 'Shopify, WooCommerce en Wix vergeleken in 2026: AI-ecommerce features, iDEAL/Mollie integraties en prijzen voor Nederlandse webshops van starter tot MKB.'
@@ -50,6 +51,7 @@ faq:
     a: "Ja, alle drie ondersteunen iDEAL via Mollie of Stripe. Shopify en W Wix hebben native iDEAL-integraties. WooCommerce vereist de gratis Mollie-p Mollie-plugin voor iDEAL."
   - q: "Wat zijn de maandelijkse kosten inclusief AI-features?"
     a: "Shopify AI (Magic) vanaf €25/maand, WooCommerce AI-plugins €0-30/ma €0-30/maand (afhankelijk van extensies), Wix AI-builder vanaf €15/maand."
+
 ---
 
 ## Lees ook

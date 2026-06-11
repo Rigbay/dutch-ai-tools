@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken'
 slug: beste-ai-copywriting-tools-2026
 description: Vergelijk de beste AI copywriting tools voor marketing en sales in 2026.
@@ -64,6 +65,7 @@ faq:
   a: Ja, met custom templates en brand voice training in tools als Jasper.
 - q: Is AI copywriting legaal voor commerciële doeleinden?
   a: Ja, maar altijd controleren op plagiaat en feitelijke juistheid.
+
 ---
 ## Snel advies
 

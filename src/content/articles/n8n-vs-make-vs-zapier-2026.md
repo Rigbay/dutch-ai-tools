@@ -63,6 +63,7 @@ faq:
 - q: Is n8n echt gratis?
   a: n8n is open-source en volledig gratis als je het zelf host. De cloudversie kost vanaf €20/maand. Zelf hosten vereist wel technische kennis van Docker of servers.
 
+
 ---
 
 # n8n vs Make vs Zapier 2026: Welke Automatiseringstool Kies Jij?

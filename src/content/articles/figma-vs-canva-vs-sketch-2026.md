@@ -85,6 +85,7 @@ faq:
 - q: Is Figma nog steeds de beste tool na de mislukte Adobe-overname?
   a: Ja, Figma is in 2026 sterker dan ooit. De mislukte Adobe-overname (geblokkeerd door EU- en UK-mededingingsautoriteiten in 2024) heeft Figma gedwongen om zelfstandig te innoveren — met indrukwekkend resultaat. Figma AI, Dev Mode en verbeterde samenwerkingsfeatures zijn allemaal ná de blokkering versneld uitgebracht. Ironisch genoeg is Figma beter af als onafhankelijk bedrijf dan het onder Adobe zou zijn geweest.
 
+
 ---
 
 ## Lees ook

@@ -83,6 +83,7 @@ faq:
 - q: Hoe kies ik de juiste tool voor mijn situatie?
   a: Begin met je primaire use case, budget en aantal gebruikers. Gebruik de vergelijkingstabel hierboven om te filteren op score, prijs en 'beste voor' — dan vind je snel de tool die bij jouw situatie past.
 
+
 ---
 # SEO in 2026: Ahrefs vs Semrush vs Moz en de Toekomst van de Nederlandse Markt
 

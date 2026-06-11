@@ -1,4 +1,5 @@
 ---
+
 title: 'Plausible vs Google Analytics vs Matomo 2026: beste privacy-vriendelijke web analytics voor Nederlandse sites'
 slug: plausible-vs-google-analytics-vs-matomo-2026
 description: 'Vergelijk Plausible, Google Analytics 4, Matomo, Fathom en Simple Analytics in 2026: privacyvriendelijkheid, AVG-compliance, dashboards, prijzen en welke het beste past bij.'
@@ -74,6 +75,7 @@ faq:
     a: "Ja, veel tools bieden een gratis tier of open-source versie. Plausible Analytics biedt bijvoorbeeld een gratis startoptie. Bekijk de prijsrange per tool in de vergelijkingstabel hierboven."
   - q: "Hoe kies ik de juiste tool voor mijn behoeften?"
     a: "Bepaal eerst je budget, teamgrootte en belangrijkste vereisten. Kijk dan naar de Beste voor-kolom in de vergelijkingstabel. Probeer 2-3 tools met een gratis trial voordat je een definitieve keuze maakt."
+
 ---
 
 

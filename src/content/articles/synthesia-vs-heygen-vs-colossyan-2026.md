@@ -78,6 +78,7 @@ faq:
 - q: Ondersteunen deze tools Nederlandse stemmen?
   a: Ja, alle top tools bieden inmiddels natuurlijke Nederlandse stemmen.
 
+
 ---
 
 # Synthesia vs HeyGen vs Colossyan 2026: welke AI-avatar spreekt jouw publiek aan?

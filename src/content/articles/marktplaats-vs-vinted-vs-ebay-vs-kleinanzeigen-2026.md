@@ -1,4 +1,5 @@
 ---
+
 title: 'Marktplaats vs Vinted vs eBay vs Kleinanzeigen 2026: beste tweedehands platform in Nederland'
 slug: marktplaats-vs-vinted-vs-ebay-vs-kleinanzeigen-2026
 description: Vergelijk Marktplaats, Vinted, eBay en Kleinanzeigen in 2026. Welk tweedehands platform werkt het beste in Nederland? Prijzen, bereik en gebruiksvriendelijkheid.
@@ -62,6 +63,7 @@ faq:
   a: Ja, de meeste tools bieden een gratis proefperiode of beperkt gratis abonnement aan.
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools zijn volledig Nederlandstalig of specifiek voor de Nederlandse markt ontworpen.
+
 
 ---
 

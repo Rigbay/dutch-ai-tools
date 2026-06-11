@@ -57,6 +57,7 @@ faq:
 - q: Kan een AI-chatbot ook helpen bij het verhogen van mijn online verkopen?
   a: Absoluut. AI-chatbots zoals Tidio en Intercom kunnen proactief bezoekers benaderen, gepersonaliseerde aanbiedingen doen, veelgestelde vragen direct beantwoorden en zelfs helpen bij het afronden van aankopen door het bieden van realtime ondersteuning.
 
+
 ---
 
 # Tidio vs Crisp vs Intercom vs Zendesk AI: De Ultieme Vergelijking van AI Chatbots en Customer Service Tools in 2026

@@ -64,6 +64,7 @@ faq:
 - q: Kan ik webinars direct koppelen aan mijn e-mailmarketing?
   a: Ja. Livestorm en Demio bieden de beste kant-en-klare integraties (HubSpot, Mailchimp, ActiveCampaign). WebinarGeek koppelt met Nederlandse tools zoals Copernica en Spotler.
 
+
 ---
 
 ## Livestorm vs WebinarGeek vs Demio vs GoToWebinar

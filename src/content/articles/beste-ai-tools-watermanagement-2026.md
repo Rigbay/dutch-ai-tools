@@ -78,6 +78,7 @@ faq:
 - q: Is watermanagement-AI alleen voor grote utilities?
   a: Nee. Grote platforms zijn vaak enterprisegericht, maar gemeenten, industriebedrijven en vastgoedportefeuilles kunnen ook waarde halen uit water- en klimaatrisicoanalyse.
 
+
 ---
 # AI in Watermanagement: de beste tools voor 2026
 

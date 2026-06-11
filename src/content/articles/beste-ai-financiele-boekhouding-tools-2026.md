@@ -91,6 +91,7 @@ faq:
 - q: Zijn AI boekhoudtools veilig voor Nederlandse bankkoppelingen?
   a: Ja — Exact Online, Moneybird en SnelStart gebruiken PSD2-veilige bankkoppelingen en voldoen aan de AVG. Je bankgegevens worden versleuteld opgeslagen.
 
+
 ---
 
 

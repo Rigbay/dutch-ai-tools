@@ -82,6 +82,7 @@ faq:
 - q: Hoe kies ik de juiste projectmanagement tool?
   a: Begin met teamgrootte, budget en of je GitHub-integratie nodig hebt. Gebruik de vergelijkingstabel om te filteren op score en prijs.
 
+
 ---
 # Projectmanagement voor Developers in 2026: Jira, Linear of toch een ander alternatief?
 

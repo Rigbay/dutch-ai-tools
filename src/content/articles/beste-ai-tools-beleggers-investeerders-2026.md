@@ -74,6 +74,7 @@ faq:
 - q: Zijn er gratis AI-beleggingstools in 2026?
   a: Ja, AlphaVantage AI heeft een gratis tier met beperkte API-calls. Yahoo Finance AI biedt ook gratis basisfunctionaliteit. FinChat en TrendSpider hebben beperkte gratis versies.
 
+
 ---
 
 # Beste AI Tools voor Beleggers & Investeerders 2026

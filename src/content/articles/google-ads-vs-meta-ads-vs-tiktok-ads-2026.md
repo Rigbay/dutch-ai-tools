@@ -86,6 +86,7 @@ faq:
 - q: Zijn AI-campagnes beter dan handmatige campagnes?
   a: "'In 2026 zijn AI-gestuurde campagnes (Google Performance Max, Meta Advantage+, TikTok Smart Performance) voor de meeste adverteerders effectiever dan handmatige campagnes. De AI optimaliseert real-time op biedingen, doelgroepen en creatives — iets wat handmatig niet te doen is. Voor nichemarkten met zeer specifieke targeting blijft handmatige controle soms beter. Advies: start met AI-campagnes en schakel pas naar handmatig als de resultaten tegenvallen.'"
 
+
 ---
 
 ## Lees ook

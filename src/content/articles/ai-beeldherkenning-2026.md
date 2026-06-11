@@ -52,6 +52,7 @@ faq:
 - q: Wat zijn populaire use cases in Nederland?
   a: Retail (productherkenning), beveiliging, agritech en medische beeldanalyse.
 
+
 ---
 # AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen
 

@@ -77,6 +77,7 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: De meeste AI app builders werken met Engelse prompts, maar begrijpen ook Nederlandse instructies. De output is doorgaans in het Engels (code) maar de gegenereerde UI-teksten kun je eenvoudig naar het Nederlands vertalen.
 
+
 ---
 ## Lees ook
 

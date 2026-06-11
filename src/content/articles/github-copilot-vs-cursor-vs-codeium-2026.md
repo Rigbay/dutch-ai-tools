@@ -1,4 +1,5 @@
 ---
+
 title: 'GitHub Copilot vs Cursor vs Codeium 2026: de beste AI code editors'
 slug: github-copilot-vs-cursor-vs-codeium-2026
 description: 'Vergelijking van de beste AI tools voor programmeurs in 2026. Welke
@@ -74,6 +75,7 @@ faq:
   a: De meeste tools bieden een beperkte gratis versie aan.
 - q: Werkt het in het Nederlands?
   a: Ja, alle besproken tools ondersteunen de Nederlandse taal goed.
+
 ---
 # De Beste AI Assistenten voor Software Development in 2026: Een Gids
 

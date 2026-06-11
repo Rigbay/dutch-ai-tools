@@ -53,6 +53,7 @@ faq:
 - q: Kan ik mijn eigen stem clonen?
   a: Ja, ElevenLabs en enkele andere tools bieden voice cloning functionaliteit.
 
+
 ---
 
 # AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools

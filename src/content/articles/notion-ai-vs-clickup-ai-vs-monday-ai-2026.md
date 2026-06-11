@@ -79,6 +79,7 @@ faq:
 - q: Werken deze tools goed in het Nederlands?
   a: Ja, de besproken tools hebben in 2026 uitstekende Nederlandse taalondersteuning.
 
+
 ---
 
 # Notion AI vs ClickUp AI vs Monday.com AI 2026: welke AI projectmanagement tool past bij jou?

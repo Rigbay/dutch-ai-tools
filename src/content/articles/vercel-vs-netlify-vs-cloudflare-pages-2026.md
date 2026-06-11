@@ -1,4 +1,5 @@
 ---
+
 title: 'Vercel vs Netlify vs Cloudflare Pages 2026: beste hosting voor moderne webapps'
 slug: vercel-vs-netlify-vs-cloudflare-pages-2026
 description: Vercel, Netlify of Cloudflare Pages in 2026? Vergelijk de beste Jamstack
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # Webhosting 2026: De Strijd om de Edge – Vercel vs. Netlify vs. Cloudflare Pages en Meer
 

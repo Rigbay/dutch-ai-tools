@@ -4,7 +4,7 @@ slug: datingapps-vergelijken-tinder-bumble-happn-breeze-lexa-2026
 description: Tinder, Bumble, Happn, Breeze of Lexa in 2026? Vergelijk de beste datingapps op prijs, type relatie, matching-methode en succesratio.
 category: business
 rating: 4.3
-priceRange: EUR 0-100/mnd
+priceRange: "EUR 0-100/mnd"
 pros:
 - Uitgebreide 2026 vergelijking
 - Duidelijke prijsranges en use cases
@@ -22,31 +22,31 @@ readingTime: 9 min
 tools:
 - name: Tinder
   verdict: Grootste gebruikersbasis — swipen, hoog volume, voor casual tot serieus, wereldwijd de standaard
-  priceRange: Gratis / Tinder Plus €7,99/mnd / Gold €24,99/mnd
+  priceRange: "Gratis / Tinder Plus €7,99/mnd / Gold €24,99/mnd"
   bestFor: Grootste bereik, casual tot serieus
   rating: 4.5
   affiliateLink: https://tinder.com/
 - name: Bumble
   verdict: Vrouwen maken eerste zet — feministisch model, ook Bumble BFF en Bumble Bizz, kwaliteit boven kwantiteit
-  priceRange: Gratis / Premium €14,99/mnd
+  priceRange: "Gratis / Premium €14,99/mnd"
   bestFor: Vrouwen die controle willen, serieus daten
   rating: 4.4
   affiliateLink: https://bumble.com/
 - name: Happn
   verdict: Real-life ontmoetingen — match met mensen die je fysiek bent tegengekomen, locatie-gebaseerd
-  priceRange: Gratis / Premium €19,99/mnd
+  priceRange: "Gratis / Premium €19,99/mnd"
   bestFor: Spontane ontmoetingen, stedelijk
   rating: 4.1
   affiliateLink: https://happn.com/
 - name: Breeze
   verdict: Geen chatten — meteen op date, AI-match, volledig Nederlands concept, innovatief
-  priceRange: €9 per date
+  priceRange: "€9 per date"
   bestFor: Geen chatgedoe, meteen echt daten
   rating: 4.3
   affiliateLink: https://breeze.social/
 - name: Lexa
   verdict: Serieuze relaties — grootste Nederlandse datingplatform voor lange termijn, profiel-gedreven
-  priceRange: €20-30/mnd
+  priceRange: "€20-30/mnd"
   bestFor: Serieuze relatiezoekers, 30+
   rating: 4.2
   affiliateLink: https://lexa.nl/

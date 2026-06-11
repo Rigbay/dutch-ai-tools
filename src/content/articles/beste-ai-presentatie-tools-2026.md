@@ -83,6 +83,7 @@ faq:
 - q: Kan ik AI-presentaties exporteren naar PowerPoint?
   a: Ja, de meeste tools ondersteunen PowerPoint-export. Gamma, Beautiful.ai, Decktopus en Canva AI laten je presentaties downloaden als .pptx-bestand. Tome exporteert naar PDF. Check de exportopties per tool — dit verschilt per abonnement.
 
+
 ---
 
 # De Toekomst van Presenteren: De Beste AI Presentatie Tools in 2026

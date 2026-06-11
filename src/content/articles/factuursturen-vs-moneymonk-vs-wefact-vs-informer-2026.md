@@ -65,6 +65,7 @@ faq:
   a: Ja, de besproken tools ondersteunen Nederlands in 2026, al varieert de kwaliteit van Nederlandstalige interfaces per tool.
 
 
+
 ---
 
 ## Factuursturen vs MoneyMonk vs WeFact vs Informer 2026

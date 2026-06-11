@@ -1,4 +1,5 @@
 ---
+
 title: 'AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB'
 slug: afas-vs-exact-vs-odoo-vs-sap-business-one-2026
 description: AFAS, Exact, Odoo of SAP Business One in 2026? Vergelijk de beste ERP-pakketten voor Nederlands MKB op prijs,
@@ -75,6 +76,7 @@ faq:
   a: Ja, meerdere tools hebben gratis tiers. Perfect om te beginnen.
 - q: Hoe kies ik de juiste tool?
   a: Begin met je use case en budget. Filter de tabel op score en prijs.
+
 ---
 # ERP-software in 2026: Een Strategische Vergelijking voor de Nederlandse Markt
 

@@ -53,6 +53,7 @@ faq:
 - q: Kan ik een super AI agent zelf hosten?
   a: Ja, open-source alternatieven zoals Devika en zelfbouw-frameworks maken dit mogelijk op eigen hardware.
 
+
 ---
 ---
 

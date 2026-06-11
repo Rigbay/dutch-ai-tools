@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Content Marketing 2026: top 8 vergeleken'
 slug: beste-ai-tools-content-marketing-2026
 description: 'Van strategie tot publicatie: vergelijk de beste AI tools voor content marketing in 2026. Jasper AI, Surfer SEO, Clearscope, MarketMuse en meer.'
@@ -93,6 +94,7 @@ faq:
       keuze — het analyseert top-rankende content en geeft een "content grade" met exacte
       term-frequenties, maar is duur ($170+/mnd). Frase.io combineert SEO-briefs, AI-schrijven
       én content optimalisatie in één tool, en is de meest betaalbare all-in-one optie ($15/maand).'
+
 ---
 # Beste AI Tools voor Content Marketing 2026: top 8 vergeleken
 

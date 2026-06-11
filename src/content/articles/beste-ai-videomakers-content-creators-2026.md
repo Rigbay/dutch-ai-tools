@@ -1,7 +1,7 @@
 ---
 title: 'Beste AI Videomakers voor Content Creators 2026: top 7 tools vergeleken'
 slug: beste-ai-videomakers-content-creators-2026
-description: 'Vergelijk de beste AI videomakers voor content creators in 2026: InVideo, Satura, ImagineArt, Pictory, Fliki, Lumen5 en Veed.io. Prijzen, features en welke past bij jouw workflow.'
+description: 'Vergelijk de beste AI videomakers voor content creators in 2026: InVideo, Satura, ImagineArt, Pictory, Fliki, Lumen5 en Veed.io. Prijzen, features en welke past bij jouw.'
 category: creatie
 rating: 4.4
 priceRange: EUR 0-50/mnd

@@ -79,6 +79,7 @@ faq:
 - q: Kan AI pedagogisch medewerkers vervangen?
   a: Nee. AI kan administratie, planning en documentatie versnellen, maar interactie, veiligheid en pedagogisch oordeel blijven menselijke kerntaken.
 
+
 ---
 # AI in de Kinderopvang: de beste tools voor 2026
 

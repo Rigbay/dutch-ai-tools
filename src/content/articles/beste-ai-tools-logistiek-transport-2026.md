@@ -81,6 +81,7 @@ faq:
 - q: Hoe kies ik de juiste AI tool voor mijn situatie?
   a: Begin met je primaire use case (wat wil je automatiseren of verbeteren?), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om te kiezen op basis van score, prijs en 'beste voor'.
 
+
 ---
 # De Toekomst is Nu: De Beste AI Tools voor Logistiek en Transport in Nederland (2026)
 

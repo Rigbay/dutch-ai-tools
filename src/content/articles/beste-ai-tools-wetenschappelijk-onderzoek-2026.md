@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste AI Tools voor Wetenschappelijk Onderzoek 2026: top 7 vergeleken'
 slug: beste-ai-tools-wetenschappelijk-onderzoek-2026
 description: 'AI tools voor literatuuronderzoek, data-analyse en paper schrijven in 2026. Vergelijk Elicit, Scite, Consensus en meer voor Nederlandse academici.'
@@ -74,6 +75,7 @@ faq:
   a: Ethische overwegingen omvatten data-privacy, transparantie over het gebruik van AI, het voorkomen van bias in algoritmes en het waarborgen van academische integriteit. Het is cruciaal om AI als een hulpmiddel te zien en niet als een vervanging voor menselijk intellect en verantwoordelijkheid.
 - q: Kan AI mijn hele onderzoekspaper schrijven?
   a: Hoewel AI-tools kunnen helpen bij het genereren van concepten, samenvattingen, of het herformuleren van zinnen, kunnen ze geen volledig origineel, kritisch en diepgaand onderzoekspaper schrijven. De menselijke inbreng voor analyse, argumentatie en ethische overwegingen blijft onmisbaar.
+
 ---
 
 # Beste AI Tools voor Wetenschappelijk Onderzoek 2026: top 7 vergeleken

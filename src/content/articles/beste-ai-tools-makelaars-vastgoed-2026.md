@@ -65,6 +65,7 @@ faq:
 - q: Is AI veilig voor klantgegevens in vastgoed?
   a: Kies tools met GDPR-compliance en Nederlandse datacenters.
 
+
 ---
 ## Snel advies
 

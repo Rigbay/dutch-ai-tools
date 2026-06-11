@@ -57,6 +57,7 @@ faq:
 - q: Welke AI-muziekgenerator is het beste voor beginners?
   a: Suno is het meest toegankelijk voor beginners dankzij de simpele interface en directe resultaten. Je typt een beschrijving en krijgt binnen seconden een compleet liedje.
 
+
 ---
 
 # Suno vs Udio vs Musicfy 2026: Welke AI Muziekgenerator Kies Jij?

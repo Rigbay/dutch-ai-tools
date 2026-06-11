@@ -64,6 +64,7 @@ faq:
 - q: Kan ik ook nieuwswebsites en forums monitoren?
   a: Ja, alle tools monitoren sociale media én websources (nieuws, blogs, forums). Talkwalker heeft de breedste dekking van nieuwsbronnen wereldwijd. Awario biedt verrassend goede webmonitoring voor zijn prijs.
 
+
 ---
 
 ## Brandwatch vs Mention vs Brand24 vs Talkwalker

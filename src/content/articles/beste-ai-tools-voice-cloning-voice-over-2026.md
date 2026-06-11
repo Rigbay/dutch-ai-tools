@@ -85,6 +85,7 @@ faq:
 - q: Wat is het verschil tussen text-to-speech (TTS) en voice cloning?
   a: Text-to-speech (TTS) zet geschreven tekst om in gesproken audio met behulp van vooraf getrainde, synthetische stemmen. Voice cloning gaat een stap verder; het creëert een unieke, synthetische versie van een specifieke menselijke stem, gebaseerd op een korte audio-opname, en gebruikt die om tekst om te zetten in spraak.
 
+
 ---
 
 # Beste AI Tools voor Voice Cloning & Voice-over 2026: top 7 vergeleken

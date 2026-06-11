@@ -57,6 +57,7 @@ faq:
 - q: Is een AI website builder geschikt voor complexe webshops of uitgebreide bedrijfswebsites in 2026?
   a: Ja, tools zoals Wix AI en 10Web bieden steeds meer functionaliteit voor complexere projecten. Wix AI ondersteunt uitgebreide e-commerce features, terwijl 10Web uitblinkt met WordPress integratie, wat een zeer flexibele basis biedt voor grotere websites en webshops. Framer AI is primair gericht op design, minder op pure functionaliteit voor complexe e-commerce.
 
+
 ---
 
 # Wix AI vs Durable vs 10Web vs Framer AI: De Ultieme Vergelijking van AI Website Builders in 2026

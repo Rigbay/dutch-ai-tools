@@ -83,6 +83,7 @@ faq:
 - q: Zijn AI-gegenereerde ontwerpen auteursrechtelijk beschermd?
   a: De juridische status verschilt per tool en rechtsgebied. Adobe Firefly traint op gelicenseerde content en biedt IP-indemnification. Midjourney's standaardplan geeft volledige gebruiksrechten. Check de Terms of Service en raadpleeg bij twijfel een jurist.
 
+
 ---
 
 # Beste AI Tools voor Grafisch Ontwerp & Branding 2026: top 7 vergeleken

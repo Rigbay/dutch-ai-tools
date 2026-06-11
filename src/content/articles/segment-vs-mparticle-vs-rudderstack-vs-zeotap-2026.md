@@ -77,6 +77,7 @@ faq:
 - q: Zijn deze tools AVG-compliant?
   a: De meeste tools bieden EU-hosting en AVG-verwerkingsovereenkomsten. Europese tools (met EU-hoofdkantoor) hebben hierin een streepje voor. Controleer altijd de DPA van je gekozen tool.
 
+
 ---
 # Customer Data Platforms in 2026: Een Cruciale Gids voor de Cookieloze Toekomst
 

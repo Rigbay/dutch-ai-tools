@@ -86,6 +86,7 @@ faq:
 - q: Zijn deze tools geschikt voor het Nederlandse onderwijssysteem?
   a: Ja — Khan Academy, Quizlet en Grammarly werken met Nederlands lesmateriaal. Duolingo biedt Nederlands als doeltaal.
 
+
 ---
 
 

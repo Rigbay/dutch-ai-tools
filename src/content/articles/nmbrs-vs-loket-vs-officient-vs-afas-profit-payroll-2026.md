@@ -13,7 +13,8 @@ cons:
   - Prijzen en features kunnen na publicatie wijzigen
   - Sommige tools alleen in het Engels beschikbaar
   - Niet alle tools bieden gratis trial of demo
-affiliateLinks: []
+affiliateLinks:
+- https://www.beehiiv.com/?via=anonymous-operator
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Nmbrs

@@ -4,7 +4,7 @@ slug: fitness-apps-vergelijken-strava-runkeeper-fitbit-apple-fitness-fitnotes-20
 description: Strava, Runkeeper, Fitbit Premium, Apple Fitness+ of FitNotes in 2026? Vergelijk de beste fitness apps op sporttracking, coaching, community en prijs.
 category: business
 rating: 4.3
-priceRange: EUR 0-100/mnd
+priceRange: "EUR 0-100/mnd"
 pros:
 - Uitgebreide 2026 vergelijking
 - Duidelijke prijsranges en use cases
@@ -22,31 +22,31 @@ readingTime: 9 min
 tools:
 - name: Strava
   verdict: Beste community — hardlopen + fietsen, segmenten, challenges, wereldwijde sportcommunity
-  priceRange: Gratis / €5,99/mnd Premium
+  priceRange: "Gratis / €5,99/mnd Premium"
   bestFor: Sportcommunity & competities
   rating: 4.7
   affiliateLink: https://strava.com/
 - name: Runkeeper
   verdict: Beste voor beginners — hardloop-trainingen, ASICS-oefeningen, eenvoudig instappen
-  priceRange: Gratis / Go Premium €9,99/mnd
+  priceRange: "Gratis / Go Premium €9,99/mnd"
   bestFor: Beginnende hardlopers
   rating: 4.3
   affiliateLink: https://runkeeper.com/
 - name: Fitbit Premium
   verdict: Holistisch — slaap, stress, voeding + activiteit, koppeling met Fitbit wearables
-  priceRange: €8,99/mnd
+  priceRange: "€8,99/mnd"
   bestFor: Allround gezondheid & wearables
   rating: 4.4
   affiliateLink: https://fitbit.com/nl/premium
 - name: Apple Fitness+
   verdict: Beste geleide workouts — HIIT, yoga, kracht, meditatie, naadloos met Apple Watch
-  priceRange: €9,99/mnd (of in Apple One)
+  priceRange: "€9,99/mnd (of in Apple One)"
   bestFor: Apple-gebruikers met Watch
   rating: 4.5
   affiliateLink: https://apple.com/nl/apple-fitness-plus/
 - name: FitNotes
   verdict: No-nonsense krachttraining log — gratis, offline, geen social features, puur notities
-  priceRange: Gratis
+  priceRange: "Gratis"
   bestFor: Krachtsporters & minimalisten
   rating: 4.2
   affiliateLink: https://fitnotes.app/
