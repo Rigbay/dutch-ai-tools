@@ -2,7 +2,7 @@
 title: 'Fitness Apps Vergelijken 2026: Strava vs Runkeeper vs Fitbit Premium vs Apple Fitness+ vs FitNotes'
 slug: fitness-apps-vergelijken-strava-runkeeper-fitbit-apple-fitness-fitnotes-2026
 description: Strava, Runkeeper, Fitbit Premium, Apple Fitness+ of FitNotes in 2026? Vergelijk de beste fitness apps op sporttracking, coaching, community en prijs.
-category: lifestyle
+category: business
 rating: 4.3
 priceRange: EUR 0-100/mnd
 pros:

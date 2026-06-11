@@ -2,7 +2,7 @@
 title: 'Textkernel vs Harver vs Eightfold AI vs Bullhorn AI 2026: Beste AI Recruitment Tool'
 slug: textkernel-vs-harver-vs-eightfold-vs-bullhorn-ai-recruitment-2026
 description: "Objectieve vergelijking van Textkernel en alternatieven in 2026. Keuzehulp voor Nederlandse bedrijven."
-category: hr
+category: business
 rating: 4.2
 priceRange: EUR 0-500+/mnd
 pros:

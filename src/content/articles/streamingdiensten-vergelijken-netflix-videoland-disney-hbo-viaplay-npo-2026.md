@@ -2,7 +2,7 @@
 title: 'Streamingdiensten Vergelijken 2026: Netflix vs Videoland vs Disney+ vs HBO Max vs Viaplay vs NPO Start'
 slug: streamingdiensten-vergelijken-netflix-videoland-disney-hbo-viaplay-npo-2026
 description: Netflix, Videoland, Disney+, HBO Max, Viaplay of NPO Start in 2026? Vergelijk prijs, aanbod, Nederlands ondertiteld en 4K-kwaliteit.
-category: entertainment
+category: business
 rating: 4.3
 priceRange: EUR 0-100/mnd
 pros:

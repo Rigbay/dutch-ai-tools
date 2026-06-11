@@ -2,7 +2,7 @@
 title: 'Datingapps Vergelijken 2026: Tinder vs Bumble vs Happn vs Breeze vs Lexa'
 slug: datingapps-vergelijken-tinder-bumble-happn-breeze-lexa-2026
 description: Tinder, Bumble, Happn, Breeze of Lexa in 2026? Vergelijk de beste datingapps op prijs, type relatie, matching-methode en succesratio.
-category: lifestyle
+category: business
 rating: 4.3
 priceRange: EUR 0-100/mnd
 pros:

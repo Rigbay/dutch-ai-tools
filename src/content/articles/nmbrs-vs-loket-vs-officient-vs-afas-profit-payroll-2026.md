@@ -2,7 +2,7 @@
 title: 'Nmbrs vs Loket vs Officient vs AFAS Profit Payroll 2026: Beste Salarisadministratie Tool'
 slug: nmbrs-vs-loket-vs-officient-vs-afas-profit-payroll-2026
 description: "Objectieve vergelijking van Nmbrs en alternatieven in 2026. Keuzehulp voor Nederlandse bedrijven."
-category: finance
+category: business
 rating: 4.2
 priceRange: EUR 0-500+/mnd
 pros:

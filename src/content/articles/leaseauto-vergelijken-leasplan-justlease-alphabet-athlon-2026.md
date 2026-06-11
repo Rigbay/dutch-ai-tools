@@ -2,7 +2,7 @@
 title: 'Private Lease Auto Vergelijken 2026: LeasePlan vs Justlease vs Alphabet vs Athlon vs ANWB'
 slug: leaseauto-vergelijken-leasplan-justlease-alphabet-athlon-2026
 description: Private Lease vergelijken in 2026? LeasePlan, Justlease, Alphabet, Athlon of ANWB Lease op prijs, voorwaarden, contractduur en kilometerbundel.
-category: finance
+category: business
 rating: 4.3
 priceRange: EUR 0-100/mnd
 pros:

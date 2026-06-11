@@ -2,7 +2,7 @@
 title: 'Autoverzekering Vergelijken 2026: Independer vs Univé vs Centraal Beheer vs Allianz Direct'
 slug: autoverzekering-vergelijken-independer-unive-centraal-beheer-allianz-2026
 description: Independer, Univé, Centraal Beheer (Even Apeldoorn Bellen), Allianz Direct of FBTO in 2026? Vergelijk WA, WA+ en All-risk autoverzekeringen op prijs en service.
-category: finance
+category: business
 rating: 4.3
 priceRange: EUR 0-100/mnd
 pros:

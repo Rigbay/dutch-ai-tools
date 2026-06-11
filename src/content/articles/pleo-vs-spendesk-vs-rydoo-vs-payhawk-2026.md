@@ -2,7 +2,7 @@
 title: 'Pleo vs Spendesk vs Rydoo vs Payhawk 2026: Beste Declaratie- & Onkostenbeheer Tool'
 slug: pleo-vs-spendesk-vs-rydoo-vs-payhawk-2026
 description: "Objectieve vergelijking van Pleo en alternatieven in 2026. Keuzehulp voor Nederlandse bedrijven."
-category: finance
+category: business
 rating: 4.2
 priceRange: EUR 0-500+/mnd
 pros:
