@@ -25,43 +25,41 @@ tools:
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://textkernel.com/nl/
   - name: Harver
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://textkernel.com/nl/
   - name: Eightfold AI
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://harver.com/
   - name: Bullhorn AI
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://eightfoldai.io/
   - name: SmartRecruiters
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://bullhornai.io/
   - name: Phenom AI
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://smartrecruiters.io/
 related:
   - ai-tools-mkb-starten-2026
   - beste-ai-tools-finance-accounting-nederland
   - beste-ai-automation-tools-2026
-  - nederlandse-ai-startups-2026
-  - beste-ai-tools-hr-recruitment-nederland
 faq:
   - q: "Welke tool is geschikt voor kleine bedrijven?"
     a: 'Harver en Bullhorn AI zijn beide geschikt voor kleine bedrijven met een beperkt aantal medewerkers. Hun prijzen zijn aantrekkelijk en ze bieden goede functionaliteiten voor CV-parsing, skill-matching en sollicitatiebeoordeling.'

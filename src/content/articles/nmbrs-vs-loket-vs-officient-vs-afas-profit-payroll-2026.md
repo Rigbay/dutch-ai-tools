@@ -25,43 +25,41 @@ tools:
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://nmbrs.io/
   - name: Loket.nl
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://nmbrs.io/
   - name: Officient
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://loket.nl.io/
   - name: AFAS Profit Payroll
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://officient.io/nl/
   - name: Exact Online Salaris
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://afasprofitpayroll.io/
   - name: Visma Raet
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://exactonlinesalaris.io/
 related:
   - ai-tools-mkb-starten-2026
   - beste-ai-tools-finance-accounting-nederland
   - beste-ai-automation-tools-2026
-  - nederlandse-ai-startups-2026
-  - beste-ai-tools-boekhouders-accountants
 faq:
   - q: "Wat is de minimale licentievergoeding voor elk van de tools?"
     a: 'De minimale licentievergoeding varieert per tool en hangt af van het aantal gebruikers. Controleer de website van de respectieve leveranciers voor meer informatie.'

@@ -25,43 +25,41 @@ tools:
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://ptvgroup.io/
   - name: Transmetrics
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://ptvgroup.io/
   - name: Shippeo
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://transmetrics.io/
   - name: Project44
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://shippeo.io/
   - name: FourKites
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://project44.io/
   - name: Optiply
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: ''
+    affiliateLink: https://fourkites.io/
 related:
   - ai-tools-mkb-starten-2026
   - beste-ai-tools-finance-accounting-nederland
   - beste-ai-automation-tools-2026
-  - nederlandse-ai-startups-2026
-  - ai-trends-2026-nederland.md
 faq:
   - q: "Welke tool is de beste keuze voor kleine transportbedrijven?"
     a: 'Optiply is een goede keuze voor kleine transportbedrijven, omdat ze een flexibel prijsmodel en goede Nederlands support bieden.'
