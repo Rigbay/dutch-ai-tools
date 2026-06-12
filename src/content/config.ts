@@ -16,7 +16,7 @@ const articles = defineCollection({
     title: z.string(),
     slug: z.string(),
     description: z.string().min(80).max(180),
-    category: z.enum(['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie']),
+    category: z.enum(['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie', 'huis-tuin', 'persoonlijk']),
     rating: z.number().min(1).max(5),
     priceRange: z.string(),
     pros: z.array(z.string()).min(2),
