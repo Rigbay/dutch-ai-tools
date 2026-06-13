@@ -6,13 +6,35 @@ import ArticleCard from '../components/ArticleCard.astro';
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const categories = [
-  { href: '/categorie/productiviteit/', label: 'Productiviteit', text: 'AI tools die je helpen effici�nter te werken: notitie-apps, planning, automatisering en meer.' },
-  { href: '/categorie/marketing/', label: 'Marketing', text: 'AI voor e-mailmarketing, SEO, social media en content marketing.' },
-  { href: '/categorie/creatie/', label: 'Creatie', text: 'AI schrijftools, image generators, video tools en design tools.' },
-  { href: '/categorie/development/', label: 'Development', text: 'AI coding assistants, code generators en developer tools vergeleken.' },
-  { href: '/categorie/business/', label: 'Business', text: 'AI voor ondernemers: administratie, klantenservice, data-analyse en meer.' }
-];
+const categoryLabels: Record<string, string> = {
+  productiviteit: 'Productiviteit',
+  marketing: 'Marketing',
+  creatie: 'Creatie',
+  development: 'Development',
+  business: 'Business',
+  technologie: 'Technologie',
+  'huis-tuin': 'Huis & Tuin',
+  persoonlijk: 'Persoonlijk'
+};
+const categoryTexts: Record<string, string> = {
+  productiviteit: 'AI tools die je helpen efficiënter te werken: notitie-apps, planning, automatisering en meer.',
+  marketing: 'AI voor e-mailmarketing, SEO, social media en content marketing.',
+  creatie: 'AI schrijftools, image generators, video tools en design tools.',
+  development: 'AI coding assistants, code generators en developer tools vergeleken.',
+  business: 'AI voor ondernemers: administratie, klantenservice, data-analyse en meer.',
+  technologie: 'AI tools voor security, privacy, cloud, DevOps en technische compliance.',
+  'huis-tuin': 'Vergelijk energiecontracten, internetproviders en praktische huishoudelijke diensten.',
+  persoonlijk: 'Vergelijk verzekeringen, hypotheken, mobiele abonnementen en financiële diensten.'
+};
+const catCounts: Record<string, number> = {};
+articles.forEach(a => { const c = a.data.category; catCounts[c] = (catCounts[c] || 0) + 1; });
+const categories = [...new Set(articles.map(a => a.data.category))]
+  .sort((a, b) => (catCounts[b] || 0) - (catCounts[a] || 0))
+  .map(cat => ({
+    href: `/categorie/${cat}/`,
+    label: categoryLabels[cat] || cat,
+    text: `${categoryTexts[cat] || ''} (${catCounts[cat]} artikelen)`
+  }));
 ---
 
 <BaseLayout
