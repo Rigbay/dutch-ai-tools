@@ -36,7 +36,7 @@ tools:
   priceRange: EUR 8 - 15/mnd
   bestFor: Kennisbeheer, notities en documentcreatie
   rating: 4.8
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.notion.so
 - name: Lindy.ai
   verdict: Een revolutionaire tool waarmee je gepersonaliseerde AI-agents bouwt die
     e-mails sturen, leads opvolgen en meetings plannen.
@@ -138,7 +138,7 @@ Met de Q&A-functie van Notion AI kun je letterlijk vragen stellen aan je eigen d
 *   **Prijsklasse:** EUR 8 - 15 per maand (als add-on op je Notion-abonnement).
 *   **Rating:** 4.8/5
 
-👉 **[Ontdek de kracht van Notion AI](https://www.beehiiv.com/?via=anonymous-operator)**
+👉 **[Ontdek de kracht van Notion AI](https://www.notion.so)**
 
 ---
 
