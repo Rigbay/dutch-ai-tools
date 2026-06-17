@@ -1,0 +1,183 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadRegistry, canRenderAffiliate, resolveAffiliateUrl } from '../lib/affiliateRegistry.ts';
+
+const articles = await getCollection('articles', ({ data }) => !data.draft);
+const registry = loadRegistry();
+const SITE_ID = 'dutch-ai-tools';
+
+// Group by category
+const categoryGroups: Record<string, any[]> = {};
+articles.forEach(article => {
+  const cat = article.data.category;
+  if (!categoryGroups[cat]) categoryGroups[cat] = [];
+  categoryGroups[cat].push(article);
+});
+
+// Category labels
+const categoryLabels: Record<string, string> = {
+  productiviteit: 'Productiviteit',
+  marketing: 'Marketing',
+  creatie: 'Creatie',
+  development: 'Development',
+  business: 'Business',
+  technologie: 'Technologie',
+  'huis-tuin': 'Huis & Tuin',
+  persoonlijk: 'Persoonlijk'
+};
+
+// Build table data for each category
+const categoryTables = Object.entries(categoryGroups).map(([cat, arts]) => {
+  // Take top 5 by rating
+  const top = arts
+    .filter(a => a.data.rating >= 3.5)
+    .sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0))
+    .slice(0, 5);
+  
+  return {
+    cat,
+    label: categoryLabels[cat] || cat,
+    articles: top.map(a => ({
+      title: a.data.title,
+      slug: a.data.slug,
+      rating: a.data.rating,
+      priceRange: a.data.priceRange,
+      description: a.data.description.substring(0, 120) + '...',
+      affiliateLinks: a.data.affiliateLinks.slice(0, 2)
+    }))
+  };
+});
+
+// Build tool matrix from all articles
+const allTools: Set<string> = new Set();
+articles.forEach(a => {
+  a.data.tools?.forEach((tool: any) => {
+    allTools.add(tool.name);
+  });
+});
+const toolList = Array.from(allTools).sort();
+---
+
+<BaseLayout
+  title="AI Tools Overzicht 2026: Complete matrix van alle Nederlandse AI tools"
+  description="Bekijk alle AI tools op één plek: categorieën, top tools per categorie, prijzen en affiliate links. Nederlandstalige vergelijking voor 2026."
+>
+  <section class="border-b border-[#e8eced] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Overzicht</p>
+      <h1 class="mt-3 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        AI Tools Overzicht 2026: complete matrix
+      </h1>
+      <p class="mt-4 max-w-2xl text-lg leading-8 text-muted">
+        Alle AI tools op één pagina: categorieën, top tools, prijzen en affiliate links voor Nederlandse ondernemers.
+        Klik door naar de volledige vergelijkingen voor details.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-3">
+        <span class="rounded bg-[#edf4f2] px-3 py-1.5 text-sm font-bold text-leaf">{articles.length} artikelen</span>
+        <span class="rounded bg-linen px-3 py-1.5 text-sm font-bold text-muted">{Object.keys(categoryGroups).length} categorieën</span>
+        <span class="rounded bg-linen px-3 py-1.5 text-sm font-bold text-muted">2026</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="grid gap-10">
+      <div>
+        <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <p class="text-sm font-bold uppercase tracking-[0.16em] text-muted">Categorieën</p>
+            <h2 class="font-serif text-2xl font-semibold text-ink">Top tools per categorie</h2>
+          </div>
+          <a href="/vergelijk/" class="text-sm font-bold text-leaf hover:text-[#1d4ed8]">Bekijk alle vergelijkingen →</a>
+        </div>
+        
+        <div class="mt-5 grid gap-8 md:grid-cols-2">
+          {categoryTables.map(({ cat, label, articles }) => (
+            <div class="rounded border border-[#e6ded2] bg-paper p-5">
+              <h3 class="font-serif text-xl font-semibold text-ink">
+                <a href={`/categorie/${cat}/`} class="hover:text-leaf">{label}</a>
+              </h3>
+              <p class="mt-2 text-sm text-muted">
+                {categoryGroups[cat].length} artikelen, gemiddelde score {(
+                  categoryGroups[cat].reduce((sum, a) => sum + a.data.rating, 0) / categoryGroups[cat].length
+                ).toFixed(1)}/5
+              </p>
+              
+              <div class="mt-5">
+                <table class="w-full text-sm">
+                  <thead class="border-b border-[#e8e1d7]">
+                    <tr>
+                      <th class="pb-2 text-left font-semibold text-ink">Tool</th>
+                      <th class="pb-2 text-left font-semibold text-ink">Score</th>
+                      <th class="pb-2 text-left font-semibold text-ink">Prijs</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {articles.map(article => (
+                      <tr class="border-b border-[#e8e1d7] last:border-0">
+                        <td class="py-3">
+                          <a href={`/${article.slug}/`} class="font-medium text-ink hover:text-leaf">{article.title}</a>
+                          <p class="mt-1 text-xs text-muted line-clamp-2">{article.description}</p>
+                        </td>
+                        <td class="py-3">
+                          <span class="inline-flex items-center rounded-full bg-[#edf4f2] px-2 py-0.5 text-xs font-bold text-leaf">
+                            {article.rating}/5
+                          </span>
+                        </td>
+                        <td class="py-3 text-muted">{article.priceRange}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+              
+              <div class="mt-5">
+                <a href={`/categorie/${cat}/`} class="text-sm font-bold text-leaf hover:text-[#1d4ed8]">
+                  Bekijk alle {categoryGroups[cat].length} tools in {label} →
+                </a>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div>
+        <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <p class="text-sm font-bold uppercase tracking-[0.16em] text-muted">Affiliate netwerken</p>
+            <h2 class="font-serif text-2xl font-semibold text-ink">Live affiliate links</h2>
+          </div>
+        </div>
+        <div class="mt-5 rounded border border-[#e6ded2] bg-paper p-5">
+          <p class="text-sm text-muted">
+            Deze site werkt met affiliate links naar AI tool providers. Hieronder staan de actieve affiliate netwerken waar je via deze site kunt aansluiten:
+          </p>
+          <div class="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {Object.entries(registry.merchants)
+              .filter(([id, merchant]: [string, any]) => 
+                merchant.perSite?.[SITE_ID]?.status === 'active' &&
+                merchant.commission?.rate)
+              .map(([id, merchant]: [string, any]) => (
+                <div class="rounded border border-[#e2e5f0] bg-paper p-4">
+                  <p class="font-bold text-ink">{merchant.name}</p>
+                  <p class="mt-1 text-sm text-muted">{merchant.program}</p>
+                  <div class="mt-3 flex items-center justify-between">
+                    <span class="text-sm font-bold text-leaf">{Math.round(merchant.commission.rate * 100)}% commissie</span>
+                    {merchant.perSite[SITE_ID].affiliateId && (
+                      <span class="rounded bg-linen px-i2 py-1 text-xs font-medium text-muted">
+                        ID: {merchant.perSite[SITE_ID].affiliateId}
+                      </span>
+                    )}
+                  </div>
+                </div>
+              ))}
+          </div>
+          <p class="mt-5 text-sm text-muted">
+            Meer affiliate netwerken staan in behandeling: Coolblue (Awin), Frase (FirstPromoter), Grammarly (Impact.com), HubSpot (Impact.com), Jasper (Impact.com).
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
