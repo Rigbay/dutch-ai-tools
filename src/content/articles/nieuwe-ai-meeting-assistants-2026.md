@@ -219,3 +219,5 @@ A: Fathom en Fireflies hebben native Teams integraties. Granola werkt ook met Te
 - [ai-voor-studenten-2026](/ai-voor-studenten-2026/)
 - [Airtable vs Google Sheets vs Notion Databases 2026: Beste AI Spreadsheet & Database Tool](/airtable-vs-google-sheets-vs-notion-databases-2026/)
 - [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
+
+*Artikel inhoud volgt.*
