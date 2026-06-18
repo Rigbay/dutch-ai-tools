@@ -199,4 +199,3 @@ Todoist heeft de beste samenwerkingsfeatures (gedeelde projecten, toewijzing, ac
 - [Beste AI Persoonlijke Assistenten 2026: top 5 digitale concierges](/beste-ai-tools-persoonlijke-assistenten-2026/)
 
 *Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*
-

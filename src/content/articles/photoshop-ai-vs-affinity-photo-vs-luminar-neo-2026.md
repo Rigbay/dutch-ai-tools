@@ -197,4 +197,3 @@ Ja, alle drie (Photoshop, Affinity Photo, Luminar Neo) ondersteunen RAW. DxO Pho
 - [Beste AI Tools voor Fotografen 2026: Top 7 AI Tools voor Beeldbewerking en](/beste-ai-tools-fotografen-2026/)
 
 *Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*
-

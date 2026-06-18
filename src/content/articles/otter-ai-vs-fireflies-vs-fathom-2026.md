@@ -201,4 +201,3 @@ Door deze drie krachtige, doch verschillende, tools te bekijken, bent u uitgerus
 - [Beste AI Tools voor Projectmanagement 2026: top 7 vergeleken](/beste-ai-tools-projectmanagement-2026/)
 
 *Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*
-

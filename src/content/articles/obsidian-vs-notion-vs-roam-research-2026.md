@@ -204,4 +204,3 @@ Beperkt. Notion werkt het beste met internetverbinding. Offline pagina's worden 
 - [Beste AI Tools voor Mindmapping & Brainstormen 2026](/beste-ai-tools-mindmapping-brainstormen-2026/)
 
 *Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*
-

@@ -226,4 +226,3 @@ Het is een geleidelijk proces, maar vroeg beginnen is essentieel.
 Niet-naleving van de EU AI Act kan leiden tot aanzienlijke boetes. Deze boetes kunnen oplopen tot **7% van de wereldwijde jaaromzet van het bedrijf of €35 miljoen**, afhankelijk van welk bedrag hoger is. Naast financiële sancties kunnen er ook reputatieschade, juridische procedures en operationele beperkingen optreden. Het is daarom van cruciaal belang om proactief te handelen en de compliance-vereisten serieus te nemen.
 
 ---
-

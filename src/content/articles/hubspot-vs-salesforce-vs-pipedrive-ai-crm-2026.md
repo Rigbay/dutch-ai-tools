@@ -208,4 +208,3 @@ HubSpot: gratis tot EUR 100 p.p./mnd voor volledige AI. Salesforce: EUR 25-300 p
 - [Beste AI Marketing Tools 2026: vergelijk de top 7 marketing AI](/beste-ai-marketing-tools-2026/)
 
 *Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*
-
