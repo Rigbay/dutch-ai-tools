@@ -5,8 +5,8 @@ Matches existing patterns: '## Lees ook' or '## Verder lezen' with 3-5 links.
 import re
 from pathlib import Path
 
-ARTICLES_DIR = Path("/workspace/kieskeuken/dutch-ai-tools/src/content/articles")
-REPORT_FILE = Path("/workspace/kieskeuken/dutch-ai-tools/internal-linking/cron-2026-06-04.md")
+ARTICLES_DIR = Path("/workspace/dutch-ai-tools/src/content/articles")
+REPORT_FILE = Path("/workspace/dutch-ai-tools/internal-linking/cron-2026-06-19.md")
 
 # Build article index
 articles = {}

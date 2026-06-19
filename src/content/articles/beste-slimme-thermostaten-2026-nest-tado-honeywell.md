@@ -89,3 +89,13 @@ De installatie kan iets complexer zijn dan bij Nest, vooral als je kiest voor zo
 Honeywell Home, met de populaire Lyric T6 of de nieuwere T9/T10 modellen, biedt een betrouwbare en robuuste oplossing voor slimme temperatuurregeling. Honeywell is al decennia een gevestigde naam in verwarmingssystemen, en dat zie je terug in de degelijkheid van hun slimme thermostaten. Ze zijn compatibel met de meeste cv-ketels in Nederland en blinken uit in stabiliteit. De focus ligt op functionaliteit en betrouwbaarheid, minder op flitsende AI-functies zoals Nest.
 
 De Lyric T6 is een populaire keuze vanwege zijn eenvoudige bediening via de thermostaat zelf en een overzichtelijke app. Geofencing en programmeerbare schema's zijn standaard. De T9 en T10 modellen voegen daar multi-zone mogelijkheden en slimme sensoren aan toe voor een nog preciezere temperatuurregeling. De prijzen liggen doorgaans tussen de €120
+
+---
+
+## Lees ook
+
+- [Beste energie monitoring tools 2026: Grip op je verbruik en kosten](/beste-energie-monitoring-tools-2026-sense-smappee-sma/)
+- [Beste Internetproviders 2026: Glasvezel, DSL en Kabel vergeleken voor Thuis](/beste-internetproviders-2026-ziggo-kpn-odido-delta-tmobile/)
+- [Beste slimme verlichting systemen 2026: Automatiseer en bespaar in jouw Nederlandse woning](/beste-slimme-verlichting-2026-philips-hue-ikea-tradfri-lifx/)
+- [Beste slimme verlichting 2026 voor Nederlandse huishoudens](/beste-slimme-verlichting-2026/)
+- [Energiecontracten Vergelijken 2026: Vast vs Dynamisch vs Variabel — Wat Past Bij Jouw Huishouden?](/energiecontracten-vergelijken-2026-vast-dynamisch-variabel/)

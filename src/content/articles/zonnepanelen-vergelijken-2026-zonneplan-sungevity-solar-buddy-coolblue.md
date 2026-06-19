@@ -155,3 +155,13 @@ Ongeacht je keuze, is het essentieel om meerdere offertes te vergelijken, goed t
     Je kunt verschillende garanties verwachten: productgarantie op de panelen (meestal 10-25 jaar), vermogensgarantie (vaak 25 jaar voor 80-90% van het oorspronkelijke vermogen), garantie op de omvormer (5-12 jaar) en installatiegarantie (2-10 jaar).
 *   **Kan ik zonnepanelen nog met subsidie kopen?**
     Voor particulieren is er geen landelijke subsidie meer voor de aanschaf van zonnepanelen. Wel kun je de BTW op de aanschaf en installatie volledig terugvragen bij de Belastingdienst, wat neerkomt op een korting van 21%. Sommige gemeenten bieden lokale subsidies aan.
+
+---
+
+## Lees ook
+
+- [Beste energie monitoring tools 2026: Grip op je verbruik en kosten](/beste-energie-monitoring-tools-2026-sense-smappee-sma/)
+- [Beste Internetproviders 2026: Glasvezel, DSL en Kabel vergeleken voor Thuis](/beste-internetproviders-2026-ziggo-kpn-odido-delta-tmobile/)
+- [beste-slimme-thermostaten-2026-nest-tado-honeywell](/beste-slimme-thermostaten-2026-nest-tado-honeywell/)
+- [Beste slimme verlichting systemen 2026: Automatiseer en bespaar in jouw Nederlandse woning](/beste-slimme-verlichting-2026-philips-hue-ikea-tradfri-lifx/)
+- [Beste slimme verlichting 2026 voor Nederlandse huishoudens](/beste-slimme-verlichting-2026/)

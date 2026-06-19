@@ -195,3 +195,13 @@ De keuze voor een thuisbatterij is een belangrijke investering. Let op de volgen
 2.  **Type koppeling (AC- of DC-gekoppeld):**
     *   **DC-gekoppeld:** Efficiënter (minder conversieverliezen), vaak bij nieuwe installaties of als u al een compatibele omvormer heeft. De batterij zit dan 'voor' de omvormer.
     *   **AC-gekoppeld:** Flexibeler, makkelijker te installeren bij een bestaande zonnepaneleninstallatie. De batterij heeft een eigen omvormer en zit 'achter' de zonnepanelenomvormer.
+
+---
+
+## Lees ook
+
+- [Beste energie monitoring tools 2026: Grip op je verbruik en kosten](/beste-energie-monitoring-tools-2026-sense-smappee-sma/)
+- [Beste Internetproviders 2026: Glasvezel, DSL en Kabel vergeleken voor Thuis](/beste-internetproviders-2026-ziggo-kpn-odido-delta-tmobile/)
+- [beste-slimme-thermostaten-2026-nest-tado-honeywell](/beste-slimme-thermostaten-2026-nest-tado-honeywell/)
+- [Beste slimme verlichting systemen 2026: Automatiseer en bespaar in jouw Nederlandse woning](/beste-slimme-verlichting-2026-philips-hue-ikea-tradfri-lifx/)
+- [Beste slimme verlichting 2026 voor Nederlandse huishoudens](/beste-slimme-verlichting-2026/)
