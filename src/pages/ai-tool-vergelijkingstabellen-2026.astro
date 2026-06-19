@@ -1,0 +1,212 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadRegistry, resolveAffiliateUrl, detectMerchant, canRenderAffiliate } from '../lib/affiliateRegistry.ts';
+
+const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+const registry = loadRegistry();
+const SITE_ID = 'dutch-ai-tools';
+
+// Category metadata
+const categoryLabels: Record<string, string> = {
+  productiviteit: 'Productiviteit',
+  marketing: 'Marketing',
+  creatie: 'Creatie',
+  development: 'Development',
+  business: 'Business',
+  technologie: 'Technologie',
+  'huis-tuin': 'Huis & Tuin',
+  persoonlijk: 'Persoonlijk'
+};
+
+const categoryDescriptions: Record<string, string> = {
+  productiviteit: 'AI tools voor efficiënter werken: planning, notities, automatisering en tijdmanagement.',
+  marketing: 'AI voor SEO, content marketing, e-mailcampagnes, social media en leadgeneratie.',
+  creatie: 'AI tools voor content creatie, design, afbeeldingen, video en audio generatie.',
+  development: 'AI coding assistants, code generators, low-code platforms en developer tools.',
+  business: 'AI voor administratie, CRM, klantenservice, sales en data-analyse.',
+  technologie: 'AI tools voor security, privacy, cloud, DevOps en technische compliance.',
+  'huis-tuin': 'Praktische vergelijkingen voor energie, internet, verzekeringen en huishoudelijke diensten.',
+  persoonlijk: 'Vergelijkingen van financiële producten, verzekeringen en persoonlijke diensten.'
+};
+
+// Group articles by category and prepare top tools for tables
+const categoryData = Object.keys(categoryLabels).map(cat => {
+  const catArticles = allArticles
+    .filter(a => a.data.category === cat)
+    .sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0));
+
+  const count = catArticles.length;
+
+  // Top 6 articles for table
+  const topArticles = catArticles.slice(0, 6).map(article => {
+    const data = article.data;
+    let affiliateUrl: string | null = null;
+    let affiliateMerchant: string | null = null;
+
+    if (data.affiliateLinks && Array.isArray(data.affiliateLinks) && data.affiliateLinks.length > 0) {
+      const firstLink = data.affiliateLinks[0];
+      const merchantId = detectMerchant(firstLink);
+      if (merchantId && canRenderAffiliate(merchantId, SITE_ID)) {
+        affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || firstLink;
+        affiliateMerchant = merchantId;
+      } else {
+        affiliateUrl = firstLink;
+      }
+    }
+
+    if (!affiliateUrl && data.tools && Array.isArray(data.tools)) {
+      const topTool = data.tools[0];
+      if (topTool?.affiliateLink) {
+        const merchantId = detectMerchant(topTool.affiliateLink);
+        if (merchantId && canRenderAffiliate(merchantId, SITE_ID)) {
+          affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || topTool.affiliateLink;
+          affiliateMerchant = merchantId;
+        } else {
+          affiliateUrl = topTool.affiliateLink;
+        }
+      }
+    }
+
+    return {
+      title: data.title,
+      slug: data.slug,
+      rating: data.rating || 0,
+      priceRange: data.priceRange || 'Onbekend',
+      description: data.description.length > 120 ? data.description.substring(0, 117) + '...' : data.description,
+      featuredTool: data.featuredTool || (data.tools?.[0]?.name || 'Tool'),
+      affiliateUrl,
+      affiliateMerchant
+    };
+  });
+
+  return {
+    cat,
+    label: categoryLabels[cat],
+    description: categoryDescriptions[cat],
+    count,
+    topArticles
+  };
+}).filter(c => c.count > 0)
+  .sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout
+  title="AI Tool Vergelijkingstabellen 2026 | Top Tools per Categorie | Dutch AI Tools"
+  description="Uitgebreide vergelijkingstabellen met top AI tools per categorie. 403 artikelen met ratings, prijzen en affiliate links voor de beste AI tools in Nederland."
+>
+  <section class="border-b border-[#e8eced] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Hub • Tabellen</p>
+      <h1 class="mt-3 max-w-5xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        AI Tool Vergelijkingstabellen 2026
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        403 vergelijkingen georganiseerd in 8 categorieën. Bekijk top 6 tools per categorie in handige tabellen met scores, prijzen en directe affiliate links.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-3">
+        <span class="rounded bg-[#edf4f2] px-3 py-1.5 text-sm font-bold text-leaf">{allArticles.length} artikelen</span>
+        <span class="rounded bg-linen px-3 py-1.5 text-sm font-bold text-muted">8 categorieën</span>
+        <span class="rounded bg-linen px-3 py-1.5 text-sm font-bold text-muted">Top tools met affiliate links</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between mb-8">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-muted">Vergelijkingstabellen</p>
+        <h2 class="font-serif text-3xl font-semibold text-ink">Top tools per categorie in tabelvorm</h2>
+      </div>
+      <a href="/vergelijkingen-2026/" class="text-sm font-bold text-leaf hover:text-[#1d4ed8]">Bekijk ook de categorie kaarten →</a>
+    </div>
+
+    {categoryData.map(({ cat, label, description, count, topArticles }) => (
+      <div class="mb-12">
+        <div class="flex items-start justify-between mb-4">
+          <div>
+            <a href={`/categorie/${cat}/`} class="hover:text-leaf">
+              <h3 class="font-serif text-2xl font-semibold text-ink">{label}</h3>
+            </a>
+            <p class="mt-1 text-sm text-muted">{description}</p>
+          </div>
+          <span class="rounded-full bg-[#edf4f2] px-3 py-1 text-xs font-bold text-leaf whitespace-nowrap">
+            {count} artikelen
+          </span>
+        </div>
+
+        <div class="overflow-x-auto rounded-xl border border-[#e6ded2] bg-white shadow-sm">
+          <table class="min-w-full divide-y divide-[#e8e1d7]">
+            <thead class="bg-[#f8f5f0]">
+              <tr>
+                <th class="px-4 py-3 text-left text-xs font-bold uppercase tracking-wider text-muted">Tool / Vergelijking</th>
+                <th class="px-4 py-3 text-center text-xs font-bold uppercase tracking-wider text-muted">Rating</th>
+                <th class="px-4 py-3 text-center text-xs font-bold uppercase tracking-wider text-muted">Prijs</th>
+                <th class="px-4 py-3 text-left text-xs font-bold uppercase tracking-wider text-muted">Beschrijving</th>
+                <th class="px-4 py-3 text-center text-xs font-bold uppercase tracking-wider text-muted">Affiliate</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-[#e8e1d7] bg-white">
+              {topArticles.map((item, idx) => (
+                <tr class="hover:bg-[#f8f5f0] transition">
+                  <td class="px-4 py-4">
+                    <a href={`/${item.slug}/`} class="font-semibold text-ink hover:text-leaf text-[15px] leading-tight block">
+                      {item.title}
+                    </a>
+                    <div class="text-[10px] uppercase tracking-widest text-muted/70 mt-0.5">
+                      {item.featuredTool}
+                    </div>
+                  </td>
+                  <td class="px-4 py-4 text-center">
+                    <span class="inline-flex items-center justify-center rounded bg-[#edf4f2] px-2 py-0.5 text-sm font-bold text-leaf">
+                      {item.rating}/5
+                    </span>
+                  </td>
+                  <td class="px-4 py-4 text-center text-sm text-muted">
+                    {item.priceRange}
+                  </td>
+                  <td class="px-4 py-4 text-sm text-muted max-w-[320px]">
+                    {item.description}
+                  </td>
+                  <td class="px-4 py-4 text-center">
+                    {item.affiliateUrl ? (
+                      <a 
+                        href={item.affiliateUrl} 
+                        target="_blank" 
+                        rel="noopener noreferrer sponsored"
+                        class="inline-flex items-center rounded-lg bg-leaf px-4 py-1.5 text-xs font-bold text-white transition hover:bg-[#1f514b]"
+                      >
+                        {item.affiliateMerchant ? 'Koop / Probeer' : 'Bekijk tool'}
+                      </a>
+                    ) : (
+                      <span class="text-xs text-muted/60">Geen link</span>
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <div class="mt-3 text-right">
+          <a href={`/categorie/${cat}/`} class="inline-flex items-center text-sm font-bold text-leaf hover:underline">
+            Bekijk alle {count} vergelijkingen in {label} →
+          </a>
+        </div>
+      </div>
+    ))}
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 border-t border-[#e8eced]">
+    <div class="rounded-xl bg-linen p-8 text-center">
+      <h3 class="font-serif text-2xl font-semibold text-ink">Meer navigatie opties</h3>
+      <div class="mt-6 flex flex-wrap justify-center gap-4">
+        <a href="/vergelijkingen-2026/" class="rounded-lg border border-[#c8cce0] bg-white px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper">Categorie overzicht</a>
+        <a href="/ai-tools-overzicht-2026/" class="rounded-lg border border-[#c8cce0] bg-white px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper">Volledige tool matrix</a>
+        <a href="/vergelijk/" class="rounded-lg border border-[#c8cce0] bg-white px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper">Alle vergelijkingen</a>
+        <a href="/" class="rounded-lg border border-[#c8cce0] bg-white px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper">Homepage</a>
+      </div>
+      <p class="mt-6 text-xs text-muted">Affiliate links helpen de site gratis te houden. Alleen actieve merchants uit het registry worden getoond. Awin en andere programma's bieden 7-15% commissie.</p>
+    </div>
+  </section>
+</BaseLayout>
