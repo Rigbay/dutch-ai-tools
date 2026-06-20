@@ -159,6 +159,13 @@ Meer AI tools voor development en infrastructuur:
 - [Beste AI Programmeer Tools 2026](/beste-ai-tools-programmeren-2026/) — AI voor softwareontwikkeling
 - [AI Cloud Optimalisatie 2026](/beste-ai-tools-cloud-optimalisatie-2026/) — beheer cloudkosten met AI
 
+### Verder lezen
+
+Meer AI tools voor development en infrastructuur:
+- [Beste AI DevOps Tools 2026](/beste-ai-tools-devs-ops-2026/) — CI/CD en infrastructuur met AI
+- [Beste AI Programmeer Tools 2026](/beste-ai-tools-programmeren-2026/) — AI voor softwareontwikkeling
+- [AI Cloud Optimalisatie 2026](/beste-ai-tools-cloud-optimalisatie-2026/) — beheer cloudkosten met AI
+
 ## Veelgestelde vragen
 
 **1. Wat is het verschil tussen MLOps en Platform Engineering?**

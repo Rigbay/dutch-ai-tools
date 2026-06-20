@@ -148,6 +148,13 @@ Meer AI tools voor jouw marketingstrategie:
 - [AI Content Distributie 2026](/beste-ai-content-distributie-marketing-2026/) — verspreid je video-content effectief
 - [AI Social Media Tools 2026](/beste-ai-tools-social-media-2026/) — social media beheer met AI
 
+### Verder lezen
+
+Meer AI tools voor jouw marketingstrategie:
+- [Beste AI Marketing Tools 2026](/beste-ai-marketing-tools-2026/) — alle marketingtools op een rij
+- [AI Content Distributie 2026](/beste-ai-content-distributie-marketing-2026/) — verspreid je video-content effectief
+- [AI Social Media Tools 2026](/beste-ai-tools-social-media-2026/) — social media beheer met AI
+
 ### Veelgestelde vragen
 
 **1. Hoe duur zijn AI-videotools gemiddeld voor Nederlandse ondernemers?**

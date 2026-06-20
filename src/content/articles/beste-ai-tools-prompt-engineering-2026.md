@@ -159,6 +159,13 @@ Meer over AI en de nieuwste technologieën:
 - [Beste Super AI Agents 2026](/beste-super-ai-agents-2026/) — autonome AI-agenten vergeleken
 - [AI Frontend Web Development 2026](/beste-ai-tools-frontend-web-development-2026/) — AI voor webontwikkeling
 
+### Verder lezen
+
+Meer over AI en de nieuwste technologieën:
+- [AI Trends 2026 Nederland](/ai-trends-2026-nederland/) — de belangrijkste AI-ontwikkelingen
+- [Beste Super AI Agents 2026](/beste-super-ai-agents-2026/) — autonome AI-agenten vergeleken
+- [AI Frontend Web Development 2026](/beste-ai-tools-frontend-web-development-2026/) — AI voor webontwikkeling
+
 ### Veelgestelde vragen
 
 **1. Wat is prompt engineering precies?**
