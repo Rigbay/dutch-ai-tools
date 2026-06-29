@@ -1,12 +1,12 @@
 ---
 title: 'Categorieën Overzicht — Alle AI Tools Vergelijkingen 2026'
 slug: categorie-overzicht-2026
-description: 'Overzicht alle AI Tools per categorie: business, productiviteit, development, creatie, marketing, technologie, persoonlijk, huis & tuin. Nederlandse consumentenvergelijkingen.'
+description: 'Overzicht van alle AI Tools artikelen per categorie: Business, productiviteit, development, creatie, marketing, technologie, persoonlijk en huis-tuin.'
 category: business
 rating: 4.8
 priceRange: gratis
 pros:
-- Volledig overzicht van alle 395 artikelen
+- Volledig overzicht van alle 414 artikelen
 - Directe links naar specifieke categorieën
 - Gemakkelijk navigeren tussen verwante AI Tools
 cons:
@@ -20,31 +20,33 @@ affiliateLinks:
 - https://www.synthesia.io?via=hermes
 - https://www.make.com/en/register?pc=hermesai
 - https://www.frase.io/?via=hermes10
-date: 2026-06-19
+date: 2026-06-29
 modelYear: 2026
 featuredTool: 'Beehiiv'
 readingTime: '10 min'
 tools:
-- name: 'Beehiiv'
-  verdict: 'Nieuwsbriefplatform met AI-auteurshulp en analytics voor creators.'
-  priceRange: 'Gratis - $99+/mnd'
-  bestFor: 'Newsletter creators en content marketeers'
-  rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
-- name: 'Taskade'
-  verdict: 'AI-werkruimte voor projectmanagement, notities en teamcollaboratie.'
-  priceRange: 'Gratis - $8/gebruiker/mnd'
-  bestFor: 'Projectteams en remote werk'
-  rating: 4.3
-  affiliateLink: https://taskade.com/?via=55nfr2
-- name: 'Writesonic'
-  verdict: 'AI copywriting tool voor marketingteksten, blogs en social media.'
-  priceRange: '€20 - €500+/mnd'
-  bestFor: 'Content creators en marketeers'
-  rating: 4.4
-  affiliateLink: https://writesonic.com/?via=aitoolsnl
+  - name: 'Beehiiv'
+    verdict: 'Nieuwsbriefplatform voor Nederlandse AI Tools content.'
+    priceRange: '€0-€99/maand'
+    bestFor: 'Content creators'
+    rating: 4.5
+    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+  - name: 'Taskade'
+    verdict: 'AI-werkruimte voor teamplanning en projectmanagement.'
+    priceRange: '€0-€10/maand'
+    bestFor: 'Teams'
+    rating: 4.3
+    affiliateLink: 'https://taskade.com/?via=55nfr2'
+  - name: 'Writesonic'
+    verdict: 'AI copywriting voor Nederlandse marketingteksten.'
+    priceRange: '€15-€100/maand'
+    bestFor: 'Marketeers'
+    rating: 4.4
+    affiliateLink: 'https://writesonic.com/?via=aitoolsnl'
 related:
-- chatgpt-vs-gemini-vs-claude-nederlands-2026
+  - beste-ai-tools-business-intelligence-2026
+  - beste-ai-tools-marketing-automation-2026
+  - beste-ai-tools-productiviteit-2026
 faq:
 - q: 'Waar kan ik de beste AI tools voor marketing vinden?'
   a: 'Ga naar de [Marketing Categorie](#marketing) hieronder voor artikelen over AI copywriting, SEO tools, social media automatisering en meer.'
@@ -56,10 +58,10 @@ faq:
 
 ## Categorieën Overzicht — Alle AI Tools Vergelijkingen 2026
 
-Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI Tools. Deze pagina groepeert **395 artikelen** in 8 hoofdcategorieën voor eenvoudige navigatie.
+Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI Tools. Deze pagina groepeert **414 artikelen** in 8 hoofdcategorieën voor eenvoudige navigatie.
 
 
-### Business (144 artikelen)
+### Business (146 artikelen)
 
 - **[📊 AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB](/afas-vs-exact-vs-odoo-vs-sap-business-one-2026/)**
 - **[📊 AI Agents vs AI Workflows: Wat Werkt in de Nederlandse Praktijk?](/ai-agents-vs-ai-workflows-praktijk-nederland-2026/)**
@@ -129,6 +131,8 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Beste AI Tools voor de Juridische Sector in 2026: Van Contractanalyse tot Legal Research](/beste-ai-tools-juridische-sector-2026/)** — Ontdek de beste AI tools voor Nederlandse advocatenkantoren, juristen en juridische afdelingen. Van contractanalyse tot legal research — 8 tools verge...
 - **[📊 Beste AI Tools voor de Woningmarkt 2026: top 7 vergeleken](/beste-ai-tools-woningmarkt-huis-kopen-2026/)**
 - **[📊 Beste AI chatbots en klantenservice tools 2024: Optimaliseer uw Nederlandse bedrijf](/ai-tools-klantenservice-chatbots-2026/)**
+- **[📊 Beste AI tools voor juridische ondersteuning en legal tech in Nederland 2026](/beste-ai-tools-juridisch-legal-tech-2026/)** — Vergelijk AI tools voor contractanalyse, juridisch onderzoek, documentautomatisering en compliance voor Nederlandse advocaten, notarissen en bedrijven...
+- **[📊 Beste AI tools voor recruitment en HR in Nederland 2026](/beste-ai-tools-recruitment-hr-2026/)** — Vergelijk AI tools voor CV screening, assessment, onboarding en personeelsplanning voor Nederlandse bedrijven. AVG-compliant en Nederlands taalonderst...
 - **[📊 Beste AI tools voor zakelijke automatisering en workflow optimalisatie 2026](/ai-tools-zakelijke-automatisering-2026/)** — Automatiseer bedrijfsprocessen met AI. Vergelijk Zapier, Make (Integromat), n8n, Bardeen en Microsoft Power Automate voor Nederlandse ondernemers en m...
 - **[📊 Beste AI-chatbots voor klantenservice 2026: Tidio vs Intercom vs Zendesk](/beste-ai-chatbots-klantenservice-2026/)**
 - **[📊 Beste Ai Agents Nederlandse Bedrijven 2026](/beste-ai-agents-nederlandse-bedrijven-2026/)**
@@ -413,7 +417,7 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Typeform vs Jotform vs Google Forms 2026: Beste Online Formulieren Tool Vergeleken](/typeform-vs-jotform-vs-google-forms-2026/)**
 - **[📊 Unbounce vs Instapage vs Leadpages vs Carrd 2026: beste landing page builder](/unbounce-vs-instapage-vs-leadpages-vs-carrd-2026/)**
 
-### Technologie (31 artikelen)
+### Technologie (36 artikelen)
 
 - **[📊 AWS vs Azure vs Google Cloud 2026: Beste Cloud Platform voor Nederlandse Bedrijven](/aws-vs-azure-vs-google-cloud-2026/)**
 - **[📊 Ai Trends 2026 Nederland](/ai-trends-2026-nederland/)**
@@ -438,21 +442,27 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Beste AI Tools voor Prompt Engineering 2026: top 7 vergeleken](/beste-ai-tools-prompt-engineering-2026/)**
 - **[📊 Beste AI Tools voor Reizen & Vakantieplanning 2026: top 7 vergeleken](/beste-ai-reizen-vakantieplanning-tools-2026/)**
 - **[📊 Beste AI Tools voor Wearables & Slimme Apparaten 2026: top 7 vergeleken](/beste-ai-tools-wearables-2026/)**
+- **[📊 Beste AI tools voor IoT en slimme huisautomatisering 2026](/beste-ai-tools-iot-smart-home-domotica-2026/)** — Vergelijk AI tools voor IoT en slimme huisautomatisering in 2026. Voor Nederlandse huishoudens die energiebesparing, veiligheid en comfort willen opti...
+- **[📊 Beste AI tools voor Nederlandse duurzaamheid en energietransitie 2026](/beste-ai-tools-nederlandse-duurzaamheid-energietransitie-2026/)** — Vergelijk AI tools voor energietransitie, CO2-reductie en circulaire economie in Nederland. Specifiek voor Nederlandse bedrijven en overheden die duur...
+- **[📊 Beste AI tools voor Nederlandse e-commerce optimalisatie 2026](/beste-ai-tools-nederlandse-ecommerce-optimalisatie-2026/)** — Vergelijk AI tools voor conversieoptimalisatie en procesautomatisering voor Nederlandse webshops in 2026. iDEAL-integratie, taalondersteuning en AVG-c...
+- **[📊 Beste AI tools voor Nederlandse landbouw en precisielandbouw 2026](/beste-ai-tools-nederlandse-landbouw-precisielandbouw-2026/)** — Vergelijk AI tools voor precisielandbouw, gewasmonitoring en duurzame voedselproductie in Nederland. Specifiek gericht op Nederlandse akkerbouwers, me...
+- **[📊 Beste AI tools voor cloud optimalisatie en kostenbeheer 2026](/beste-ai-tools-cloud-optimalisatie-kosten-2026/)** — Vergelijk AI tools voor cloud kostenbeheer en FinOps in 2026. Voor Nederlandse organisaties die AWS, Azure of Google Cloud willen optimaliseren.
+- **[📊 Beste AI tools voor cybersecurity en privacy in 2026](/beste-ai-tools-cybersecurity-privacy-beveiliging-2026/)** — Vergelijk AI-gestuurde cybersecurity tools voor threat detection en privacy compliance in 2026. Voor Nederlandse bedrijven en consumenten die digitale...
+- **[📊 Beste AI tools voor slimme steden en IoT 2026](/ai-tools-slimme-steden-iot-2026/)** — Vergelijk AI tools voor slimme steden, IoT-platforms en data-analyse in 2026. Nederlandse gemeenten en projectontwikkelaars.
+- **[📊 Beste AI tools voor thuisbeveiliging en smart security in Nederland 2026](/beste-ai-tools-veiligheid-thuis-2026/)** — AI camera
 - **[📊 Beste Super Ai Agents 2026](/beste-super-ai-agents-2026/)**
 - **[📊 Beste domeinregistratie en webhosting Nederland 2026: vergelijking](/beste-domeinregistratie-webhosting-nederland-2026/)**
 - **[📊 Bitwarden vs 1Password vs LastPass 2026: beste password manager](/bitwarden-vs-1password-vs-lastpass-2026/)**
 - **[📊 GPT-NL: Het Nederlandse AI-Taalmodel 2026 — volledige vergelijking](/gpt-nl-nederlands-taalmodel-2026/)** — Vergelijking van GPT-NL: het Nederlandse AI-taalmodel 2026 — objectieve beoordeling, prijzen in euros, praktische keuzehulp.
 - **[📊 NordVPN vs ExpressVPN vs Surfshark vs ProtonVPN vs Mullvad 2026: beste VPN voor privacy en veiligheid in 2026](/nordvpn-vs-expressvpn-vs-surfshark-vs-protonvpn-2026/)** — Vergelijk NordVPN, ExpressVPN, Surfshark, ProtonVPN en Mullvad in 2026: snelheid, privacybeleid, no-logs, streaming, prijzen en welke VPN het beste pa...
 
-- **[📊 Beste AI tools voor cybersecurity en privacy in 2026](/beste-ai-tools-cybersecurity-privacy-beveiliging-2026/)** — Vergelijk AI-gestuurde cybersecurity tools voor threat detection, privacy compliance en digitale beveiliging in 2026. Voor Nederlandse bedrijven en consumenten die hun digitale veiligheid willen verbeteren.
-- **[📊 Beste AI tools voor cloud optimalisatie en kostenbeheer 2026](/beste-ai-tools-cloud-optimalisatie-kosten-2026/)** — Vergelijk AI tools voor cloud kostenbeheer, resource optimalisatie en FinOps in 2026. Voor Nederlandse organisaties die AWS, Azure of Google Cloud willen optimaliseren en kosten willen besparen.
-|- **[📊 Beste AI tools voor IoT en slimme huisautomatisering 2026](/beste-ai-tools-iot-smart-home-domotica-2026/)** — Vergelijk AI tools voor Internet of Things (IoT), slimme huisautomatisering en domotica in 2026. Voor Nederlandse huishoudens die energiebesparing, veiligheid en comfort willen optimaliseren met AI.
-|- **[📊 Beste AI tools voor Nederlandse e-commerce optimalisatie 2026](/beste-ai-tools-nederlandse-ecommerce-optimalisatie-2026/)** — Vergelijk AI tools voor conversieoptimalisatie en procesautomatisering voor Nederlandse webshops in 2026. iDEAL-integratie, taalondersteuning en AVG-compliance.
-|- **[📊 Beste AI tools voor Nederlandse landbouw en precisielandbouw 2026](/beste-ai-tools-nederlandse-landbouw-precisielandbouw-2026/)** — Vergelijk AI tools voor precisielandbouw, gewasmonitoring en duurzame voedselproductie in Nederland. Specifiek gericht op Nederlandse akkerbouwers, melkveehouders en tuinders.
-|- **[📊 Beste AI tools voor Nederlandse duurzaamheid en energietransitie 2026](/beste-ai-tools-nederlandse-duurzaamheid-energietransitie-2026/)** — Vergelijk AI tools voor energietransitie, CO2-reductie en circulaire economie in Nederland. Specifiek voor Nederlandse bedrijven en overheden die duurzaamheidsdoelen willen halen.
-### Persoonlijk (17 artikelen)
+### Persoonlijk (19 artikelen)
 
 - **[📊 Beleggingsapps Vergelijken 2026 Degiro Bux Etoro Trade Republic Meesman](/beleggingsapps-vergelijken-2026-degiro-bux-etoro-trade-republic-meesman/)**
+- **[📊 Beste AI tools voor gezondheid, fitness en persoonlijke coaching 2026](/beste-ai-tools-gezondheid-fitness-2026/)** — Vergelijk AI tools voor personal training, voeding, slaapanalyse en gezondheidsmonitoring in Nederland. Integratie met Apple Health, Google Fit en Ned...
+- **[📊 Beste AI tools voor meditatie en mindfulness 2026](/beste-ai-tools-meditatie-mindfulness-2026/)** — Vergelijk AI-gestuurde meditatie, mindfulness en mentale welzijn apps in 2026. Voor Nederlandse gebruikers die stress willen verminderen en focus verb...
+- **[📊 Beste AI tools voor persoonlijke financiën en budgetteren in Nederland 2026](/beste-ai-tools-persoonlijke-financien-budgetteren-2026/)** — Vergelijk AI tools voor automatische uitgaven tracking, budgetplanning, spaardoelen en financiële inzichten voor Nederlandse consumenten. iDEAL, banki...
+- **[📊 Beste AI tools voor taal leren en vertalen 2026](/beste-ai-tools-taal-leren-vertalen-2026/)** — Vergelijk de beste AI tools voor taal leren, vertalen en conversatie in 2026. Voor Nederlandse gebruikers die nieuwe talen willen beheersen of vertali...
 - **[📊 Beste Budget Apps 2026: Grip op je Geld, Eenvoudig Sparen en Uitgaven Tracken](/beste-budget-apps-2026-dyme-spendle-ynab-wallet-grip/)**
 - **[📊 Beste Hypotheekadvies Apps en Tools 2026: Jouw Gids voor een Slimme Hypotheekkeuze](/beste-hypotheek-advies-apps-2026/)**
 - **[📊 Beste Luisterboeken Apps 2024: Onbeperkt luisteren, credits en bibliotheek vergeleken](/luisterboeken-apps-vergelijken-2026-audible-storytel-kobo-nextory/)**
@@ -468,10 +478,13 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Mobiele Abonnementen Vergelijken 2026 Sim Only Met Toestel](/mobiele-abonnementen-vergelijken-2026-sim-only-met-toestel/)**
 - **[📊 Reisverzekering Vergelijken 2026 Anwb Allianz Unive Centraal Beheer Ohra](/reisverzekering-vergelijken-2026-anwb-allianz-unive-centraal-beheer-ohra/)**
 
-- **[📊 Beste AI tools voor taal leren en vertalen 2026](/beste-ai-tools-taal-leren-vertalen-2026/)** — Vergelijk de beste AI tools voor taal leren, vertalen en conversatie in 2026. Voor Nederlandse gebruikers die nieuwe talen willen beheersen of vertalingen nodig hebben.
-- **[📊 Beste AI tools voor meditatie en mindfulness 2026](/beste-ai-tools-meditatie-mindfulness-2026/)** — Vergelijk AI-gestuurde meditatie, mindfulness en mentale welzijn apps in 2026. Voor Nederlandse gebruikers die stress willen verminderen en focus verbeteren.
-### Huis & Tuin (15 artikelen)
+### Huis & Tuin (18 artikelen)
 
+- **[📊 Beste AI tools voor energiebesparing en slimme thermostaten in Nederlandse huizen 2026](/beste-ai-tools-energiebesparing-huis-2026/)** — AI-gestuurde thermostaten, energieverbruiksanalyses, voorspellende verwarming en besparingstips voor Nederlandse huishoudens.
+- **[📊 Beste AI tools voor slimme keuken en koken 2026](/beste-ai-tools-slimme-keuken-koken-2026/)** — Vergelijk AI tools voor receptsuggesties, maaltijdplanning, kookhulp en slimme keukenapparaten in 2026. Voor Nederlandse huishoudens die efficiënt en ...
+- **[📊 Beste AI tools voor slimme tuin en smart gardening in Nederland 2026](/beste-ai-tools-smart-garden-tuin-2026/)** — Vergelijk AI tools voor automatische plantbewatering, gewasmonitoring, moestuinplanning en tuinverzorging in 2026.
+- **[📊 Beste AI tools voor smart home en domotica in Nederland 2026](/beste-ai-tools-smart-home-domotica-2026/)** — Vergelijk AI-gestuurde slimme thermostaten, verlichting, beveiliging en energiebeheer voor Nederlandse woningen. Integratie met KPN, Ziggo, Toon en Ne...
+- **[📊 Beste AI tools voor tuinieren en hoveniers 2026](/beste-ai-tools-tuinieren-hoveniers-2026/)** — Vergelijk AI tools voor tuinontwerp, plantverzorging, ongediertebestrijding en tuinplanning in 2026. Voor Nederlandse tuinliefhebbers en hoveniers.
 - **[📊 Beste Internetproviders 2026: Glasvezel, DSL en Kabel vergeleken voor Thuis](/beste-internetproviders-2026-ziggo-kpn-odido-delta-tmobile/)**
 - **[📊 Beste Slimme Thermostaten 2026 Nest Tado Honeywell](/beste-slimme-thermostaten-2026-nest-tado-honeywell/)**
 - **[📊 Beste Thuisbeveiliging en Slimme Deurbellen 2024: Zo Kies Je Het Juiste Systeem](/thuisbeveiliging-vergelijken-2026-ring-eufy-ajax-verisure/)**
@@ -486,24 +499,22 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Verhuisbedrijven Vergelijken 2026 Verhuisoffertes Studentverhuizers De Haan Voerman](/verhuisbedrijven-vergelijken-2026-verhuisoffertes-studentverhuizers-de-haan-voerman/)**
 - **[📊 Zonnepanelen Kopen in 2024: De Ultieme Vergelijking van Aanbieders!](/zonnepanelen-vergelijken-2026-zonneplan-sungevity-solar-buddy-coolblue/)**
 
-- **[📊 Beste AI tools voor tuinieren en hoveniers 2026](/beste-ai-tools-tuinieren-hoveniers-2026/)** — Vergelijk AI tools voor tuinontwerp, plantverzorging, ongediertebestrijding en tuinplanning in 2026. Voor Nederlandse tuinliefhebbers en hoveniers.
-- **[📊 Beste AI tools voor slimme keuken en koken 2026](/beste-ai-tools-slimme-keuken-koken-2026/)** — Vergelijk AI tools voor receptsuggesties, maaltijdplanning, kookhulp en slimme keukenapparaten in 2026. Voor Nederlandse huishoudens die efficiënt en creatief willen koken.
 ---
 
 ## Statistieken
 
 | Categorie | Artikelen |
 |-----------|----------|
-| Business | 144 |
+| Business | 146 |
 | Productiviteit | 73 |
 | Development | 43 |
 | Creatie | 42 |
 | Marketing | 37 |
-| Technologie | 34 |
-| Persoonlijk | 15 |
-| Huis & Tuin | 13 |
+| Technologie | 36 |
+| Persoonlijk | 19 |
+| Huis & Tuin | 18 |
 
-| **Totaal** | **399** |
+| **Totaal** | **414** |
 
 ---
 
@@ -520,11 +531,11 @@ Alle artikelen zijn geschreven in het Nederlands en gericht op de Nederlandse ma
 
 ## Recent Bijgewerkt
 
-- **2026-06** — [Zonnepanelen Kopen in 2024: De Ultieme Vergelijking van Aanbieders!](/zonnepanelen-vergelijken-2026-zonneplan-sungevity-solar-buddy-coolblue/)
-- **2026-06** — [Verhuisbedrijven Vergelijken 2026 Verhuisoffertes Studentverhuizers De Haan Voerman](/verhuisbedrijven-vergelijken-2026-verhuisoffertes-studentverhuizers-de-haan-voerman/)
-- **2026-06** — [Beste Thuisbeveiliging en Slimme Deurbellen 2024: Zo Kies Je Het Juiste Systeem](/thuisbeveiliging-vergelijken-2026-ring-eufy-ajax-verisure/)
-- **2026-06** — [Beste thuisbatterijen 2026: opslag, saldering en zelfverbruik vergeleken](/thuisbatterijen-vergelijken-2026-sessy-zonneplan-nexus-enphase-solaredge/)
-- **2026-06** — [Beste Spaarrekeningen met Hoge Rente 2026: Laat uw spaargeld écht renderen](/spaarrekeningen-vergelijken-2026-bunq-revolut-raisin-nibc-leaseplan/)
+- **2026-06-29** — [Beste AI tools voor recruitment en HR in Nederland 2026](/beste-ai-tools-recruitment-hr-2026/)
+- **2026-06-28** — [Beste AI tools voor smart home en domotica in Nederland 2026](/beste-ai-tools-smart-home-domotica-2026/)
+- **2026-06-28** — [Beste AI tools voor persoonlijke financiën en budgetteren in Nederland 2026](/beste-ai-tools-persoonlijke-financien-budgetteren-2026/)
+- **2026-06-28** — [Beste AI tools voor juridische ondersteuning en legal tech in Nederland 2026](/beste-ai-tools-juridisch-legal-tech-2026/)
+- **2026-06-28** — [Beste AI tools voor gezondheid, fitness en persoonlijke coaching 2026](/beste-ai-tools-gezondheid-fitness-2026/)
 
 
 ---
@@ -533,14 +544,4 @@ Alle artikelen zijn geschreven in het Nederlands en gericht op de Nederlandse ma
 
 Heb je vragen over een specifieke AI tool of categorie die je mist? Laat het ons weten via [GitHub Issues](https://github.com/Rigbay/dutch-ai-tools/issues).
 
-*Laatst bijgewerkt: 2026-06-19 03:26*
-
----
-
-## Lees ook
-
-- [AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB](/afas-vs-exact-vs-odoo-vs-sap-business-one-2026/)
-- [AI Agents vs AI Workflows: Wat Werkt in de Nederlandse Praktijk?](/ai-agents-vs-ai-workflows-praktijk-nederland-2026/)
-- [Privacy & AI: Welke AI Tools Voldoen aan de AVG in 2026?](/ai-avg-compliance-tools-2026/)
-- [AI Spreadsheets 2026: Rows vs Equals vs Quadratic vs Coefficient — De Nieuwe Generatie Excel-Alternatieven](/ai-spreadsheets-rows-vs-equals-vs-quadratic-2026/)
-- [AI Tools voor Energietransitie & Duurzaamheid 2026: Vergelijk de Beste Opties](/ai-tool-vergelijking-energietransitie-duurzaamheid-2026/)
+*Laatst bijgewerkt: 2026-06-29 02:32*
