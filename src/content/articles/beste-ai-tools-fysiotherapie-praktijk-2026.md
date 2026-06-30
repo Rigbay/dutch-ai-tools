@@ -27,9 +27,9 @@ tools:
   rating: 4.5
   affiliateLink: https://fysioroadmap.nl/
 - name: Physitrack
-  verdict: Oefen-app met AI — video-oefenprogramma's, telehealth, compliance tracking, 3D-animaties
+  verdict: Oefen-app met AI — video-oefenprogramma''s, telehealth, compliance tracking, 3D-animaties
   priceRange: EUR 25-75/mnd
-  bestFor: Oefenprogramma's & telehealth
+  bestFor: Oefenprogramma''s & telehealth
   rating: 4.6
   affiliateLink: https://physitrack.com/
 - name: Intramed
@@ -94,7 +94,7 @@ De AI-module helpt bij anamnese — het systeem herkent patronen in klachten en 
 
 **De internationale standaard voor oefentherapie met AI.** Physitrack begon als oefen-app en is uitgegroeid tot een compleet telehealth-platform. De AI-functie begeleidt patiënten door oefeningen heen met realtime feedback via de camera.
 
-De oefenlibrary bevat duizenden video's met 3D-animaties die precies laten zien hoe een oefening moet. Patiënten krijgen gepersonaliseerde programma's en de therapeut ziet compliance-statistieken. De telehealth-module maakt videoconsulten mogelijk met geïntegreerde oefen-demonstratie.
+De oefenlibrary bevat duizenden video's met 3D-animaties die precies laten zien hoe een oefening moet. Patiënten krijgen gepersonaliseerde programma''s en de therapeut ziet compliance-statistieken. De telehealth-module maakt videoconsulten mogelijk met geïntegreerde oefen-demonstratie.
 
 **Prijs:** €25 tot €75 per maand, afhankelijk van het aantal therapeuten en patiënten.
 
@@ -165,7 +165,7 @@ De AI-component helpt bij gepersonaliseerde feedback: het systeem analyseert hoe
 | Tool | Prijs | Beste voor | Score |
 |------|-------|-----------|-------|
 | FysioRoadmap | €80-150/mnd | EPD & administratie | ★★★★½ |
-| Physitrack | €25-75/mnd | Oefenprogramma's & telehealth | ★★★★½ |
+| Physitrack | €25-75/mnd | Oefenprogramma''s & telehealth | ★★★★½ |
 | Intramed | €60-120/mnd | Praktijkmanagement NL | ★★★★ |
 | Healthcoin | €15-45/mnd | Preventie & beweging | ★★★★ |
 | ZorgDomein AI | Gratis | Doorverwijzing | ★★★★ |
@@ -173,11 +173,11 @@ De AI-component helpt bij gepersonaliseerde feedback: het systeem analyseert hoe
 
 ## Welke tool kies jij?
 
-**Voor de startende solo-praktijk:** Begin met FysioRoadmap als basis. Voeg Physitrack toe zodra je oefenprogramma's digitaal wilt aanbieden. ZorgDomein is een no-brainer als gratis aanvulling.
+**Voor de startende solo-praktijk:** Begin met FysioRoadmap als basis. Voeg Physitrack toe zodra je oefenprogramma''s digitaal wilt aanbieden. ZorgDomein is een no-brainer als gratis aanvulling.
 
 **Voor de middelgrote groepspraktijk:** FysioRoadmap of Intramed als EPD-basis, afhankelijk of je meer klinische of administratieve ondersteuning wilt. Physitrack voor oefentherapie. Keet of Healthcoin voor extra patiëntbetrokkenheid.
 
-**Voor de preventiegerichte praktijk:** Healthcoin als kern, aangevuld met Physitrack voor oefenprogramma's en ZorgDomein voor het verwijzingsnetwerk.
+**Voor de preventiegerichte praktijk:** Healthcoin als kern, aangevuld met Physitrack voor oefenprogramma''s en ZorgDomein voor het verwijzingsnetwerk.
 
 **Voor de hybride praktijk (online + fysiek):** Physitrack is onmisbaar vanwege de sterke telehealth. Combineer met Keet voor intake en communicatie, en een EPD naar keuze voor de basis.
 

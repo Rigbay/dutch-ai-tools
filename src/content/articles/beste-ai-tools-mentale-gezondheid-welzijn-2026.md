@@ -48,7 +48,7 @@ tools:
   rating: 4.6
   affiliateLink: https://www.calm.com/
 - name: Headspace AI
-  verdict: AI-gestuurde meditatie met adaptieve programma's
+  verdict: AI-gestuurde meditatie met adaptieve programma''s
   priceRange: EUR 8-18/mnd
   bestFor: beginners en doorgewinterde mediteerders
   rating: 4.5
@@ -187,7 +187,7 @@ Dit artikel duikt in de wereld van de beste AI-tools voor mentale gezondheid en 
 **Beste use case:** Mensen die hun mindfulness-praktijk willen verdiepen en gepersonaliseerde begeleiding zoeken bij meditaties en ademhalingsoefeningen.
 
 **Pluspunten:**
-* Wetenschappelijk onderbouwde meditatieprogramma's
+* Wetenschappelijk onderbouwde meditatieprogramma''s
 * Intuïtieve AI die helpt bij het vinden van de juiste oefeningen
 * Goede tracking van voortgang en statistieken
 * Veelzijdig aanbod, van korte dagelijkse meditaties tot langere cursussen

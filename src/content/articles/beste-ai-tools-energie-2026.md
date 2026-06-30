@@ -43,9 +43,9 @@ tools:
   rating: 4.5
   affiliateLink: https://www.stem.com/
 - name: Uplight
-  verdict: AI-gedreven klantbetrokkenheid en energiebesparingsprogramma's voor nutsbedrijven.
+  verdict: AI-gedreven klantbetrokkenheid en energiebesparingsprogramma''s voor nutsbedrijven.
   priceRange: EUR 1000-6000/mnd
-  bestFor: Consumentenprogramma's en demand response
+  bestFor: Consumentenprogramma''s en demand response
   rating: 4.4
   affiliateLink: https://www.uplight.com/
 - name: SparkCognition
@@ -58,7 +58,7 @@ tools:
   verdict: AI voor energieverbruiksanalyse en gepersonaliseerde inzichten uit slimme
     meters.
   priceRange: EUR 800-5000/mnd
-  bestFor: Klantinzichten en efficiëntieprogramma's
+  bestFor: Klantinzichten en efficiëntieprogramma''s
   rating: 4.3
   affiliateLink: https://www.bidgely.com/
 - name: eSmart Systems
@@ -157,15 +157,15 @@ De uitdagingen zijn legio: balanceringsproblemen door intermitterende hernieuwba
 
 ## Uplight
 
-**Beschrijving:** Uplight is een AI-platform gericht op klantbetrokkenheid, energie-efficiëntieprogramma's en gedragsverandering bij eindgebruikers. Het analyseert verbruiksdata en levert gepersonaliseerde adviezen en programma's voor demand response.
+**Beschrijving:** Uplight is een AI-platform gericht op klantbetrokkenheid, energie-efficiëntieprogramma''s en gedragsverandering bij eindgebruikers. Het analyseert verbruiksdata en levert gepersonaliseerde adviezen en programma''s voor demand response.
 
 **Prijsrange (EUR):** EUR 1000-6000/mnd
 
-**Beste use case:** Leveranciers zoals Eneco, Vattenfall en Essent die hun klanten willen activeren in energiebesparing en peak shaving programma's.
+**Beste use case:** Leveranciers zoals Eneco, Vattenfall en Essent die hun klanten willen activeren in energiebesparing en peak shaving programma''s.
 
 **Pluspunten:**
 * Sterke klantinzichten en personalisatie.
-* Verhoogt deelname aan duurzaamheidsprogramma's.
+* Verhoogt deelname aan duurzaamheidsprogramma''s.
 * Meetbare impact op energiebesparing.
 
 **Minpunten:**
@@ -199,7 +199,7 @@ De uitdagingen zijn legio: balanceringsproblemen door intermitterende hernieuwba
 
 ## Bidgely
 
-**Beschrijving:** Bidgely gebruikt AI om slimme meterdata om te zetten in gedetailleerde inzichten per apparaat en huishouden, waardoor gepersonaliseerde energiebesparingsadviezen en efficiëntieprogramma's mogelijk worden.
+**Beschrijving:** Bidgely gebruikt AI om slimme meterdata om te zetten in gedetailleerde inzichten per apparaat en huishouden, waardoor gepersonaliseerde energiebesparingsadviezen en efficiëntieprogramma''s mogelijk worden.
 
 **Prijsrange (EUR):** EUR 800-5000/mnd
 

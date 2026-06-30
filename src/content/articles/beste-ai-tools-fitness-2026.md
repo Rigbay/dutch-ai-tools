@@ -170,7 +170,7 @@ faq:
     91|**Pluspunten:**
     92|*   Specifiek ontworpen voor pijnbestrijding en revalidatie.
     93|*   AI-gestuurde bewegingsanalyse voor correcte uitvoering.
-    94|*   Gepersonaliseerde programma's op maat van individuele behoeften.
+    94|*   Gepersonaliseerde programma''s op maat van individuele behoeften.
     95|*   Educatieve content die begrip van de aandoening vergroot.
     96|*   Vaak vergoed door zorgverzekeraars, wat het zeer toegankelijk maakt.
     97|

@@ -91,7 +91,7 @@ Dit artikel biedt een diepgaande, objectieve vergelijking van zes toonaangevende
 
 | Tool           | Prijs       | Beste Voor                                                                 | Score (1-5) |
 | :------------- | :---------- | :------------------------------------------------------------------------- | :---------- |
-| Qualtrics AI   | $$$$        | Grote organisaties met complexe CX-programma's, diepgaande analyse.         | 4.5         |
+| Qualtrics AI   | $$$$        | Grote organisaties met complexe CX-programma''s, diepgaande analyse.         | 4.5         |
 | Medallia       | $$$$        | Enterprise-niveau CX-management, integratie met operationele systemen.     | 4.3         |
 | Zendesk AI     | $$ - $$$    | Bestaande Zendesk-gebruikers, snelle integratie, supportticketanalyse.    | 4.0         |
 | Thematic       | $$ - $$$    | MKB, focus op het ontdekken van 'themes' in feedback, gebruiksgemak.      | 4.2         |
@@ -104,7 +104,7 @@ Dit artikel biedt een diepgaande, objectieve vergelijking van zes toonaangevende
 
 ### Qualtrics AI
 
-**Verdict:** De gouden standaard voor complexe CX-programma's, met ongeëvenaarde diepte in analyse en personalisatie.
+**Verdict:** De gouden standaard voor complexe CX-programma''s, met ongeëvenaarde diepte in analyse en personalisatie.
 
 **Prijsrange:** Zeer hoog (enterprise-niveau abonnementen, vaak op aanvraag).
 

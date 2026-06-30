@@ -60,7 +60,7 @@ tools:
   rating: 4.4
   affiliateLink: https://boulevard.com/
 - name: Phorest
-  verdict: Enterprise salonmanagement met AI marketing automation en loyalty programma's
+  verdict: Enterprise salonmanagement met AI marketing automation en loyalty programma''s
   priceRange: EUR 80-200/mnd
   bestFor: Salonketens
   rating: 4.6

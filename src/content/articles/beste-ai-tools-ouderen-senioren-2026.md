@@ -170,7 +170,7 @@ We begrijpen dat technologie voor sommigen een drempel kan zijn. Daarom focussen
 
 **Prijsrange (EUR):** €70 - €100 (eenmalige aanschaf)
 
-**Beste use case:** Senioren die hun televisie willen gebruiken voor meer dan alleen traditionele TV-programma's, zoals streamingdiensten, online content en eenvoudig videobellen.
+**Beste use case:** Senioren die hun televisie willen gebruiken voor meer dan alleen traditionele TV-programma''s, zoals streamingdiensten, online content en eenvoudig videobellen.
 
 **Pluspunten:**
 * **Gebruiksvriendelijke interface:** Eenvoudig te navigeren, ook voor minder technisch onderlegde gebruikers.

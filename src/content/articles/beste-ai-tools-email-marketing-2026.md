@@ -113,7 +113,7 @@ Nu we de impact van AI hebben begrepen, laten we de crème de la crème van de A
 
 *   **AI-Powered Content Generator:** Helpt bij het genereren van ideeën voor nieuwsbriefonderwerpen, het schrijven van secties van e-mails en het verbeteren van bestaande teksten.
 *   **AI Subject Line Optimizer:** Analyseert en stelt optimalisaties voor voor onderwerpregels om de open rates te maximaliseren.
-*   **Audience Growth Tools:** Hoewel niet strikt AI voor e-mailinhoud, biedt beehiiv tools die AI gebruiken om je abonneebestand te laten groeien, zoals referral programma's die worden geoptimaliseerd op basis van data.
+*   **Audience Growth Tools:** Hoewel niet strikt AI voor e-mailinhoud, biedt beehiiv tools die AI gebruiken om je abonneebestand te laten groeien, zoals referral programma''s die worden geoptimaliseerd op basis van data.
 *   **Personalized Content Blocks:** Mogelijkheid om dynamische contentblokken te creëren die worden aangepast op basis van abonneeprofielen.
 
 **Automatisering:** beehiiv blinkt uit in het automatiseren van nieuwsbriefpublicaties, welkomstreeksen en segmentatie op basis van abonneegewoonten. De automatisering is intuïtief en gericht op het consistent leveren van waarde aan abonnees.
