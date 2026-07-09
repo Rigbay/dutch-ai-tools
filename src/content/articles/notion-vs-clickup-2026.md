@@ -61,7 +61,7 @@ related:
 draft: false
 faq:
 - q: "Wat is het belangrijkste verschil tussen Notion en ClickUp in 2026?"
-  a: 'Notion is beter voor documentatie, wiki's en kennisbeheer, terwijl ClickUp uitblinkt in projectmanagement met ingebouwde docs. De keuze hangt af van je primaire usecase.'
+  a: "Notion is beter voor documentatie, wiki's en kennisbeheer, terwijl ClickUp uitblinkt in projectmanagement met ingebouwde docs. De keuze hangt af van je primaire usecase."
 - q: "Welke tool is het beste voor Nederlandse gebruikers?"
   a: 'Beide tools ondersteunen Nederlands, maar Notion heeft over het algemeen betere Nederlandstalige ondersteuning. Check de actuele features — dit verandert snel in 2026.'
 - q: "Zijn er gratis versies beschikbaar?"
