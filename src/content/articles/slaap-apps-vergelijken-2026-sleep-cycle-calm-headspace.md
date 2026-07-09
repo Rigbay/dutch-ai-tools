@@ -260,4 +260,40 @@ Het kiezen van de juiste slaap app hangt sterk af van jouw persoonlijke behoefte
 
 ### 1. De "Moeilijke Inslaper" & "Druk Hoofd"
 
-*
+Heb je moeite met in slaap vallen omdat je gedachten blijven malen? Of word je vaak met een schok wakker?
+**Aanbeveling:** *Calm* of *Headspace*.
+**Waarom:** Deze apps zijn specifiek ontworpen om je geest tot rust te brengen. De slaapverhalen van Calm en de sleepcasts van Headspace geven je brein iets om zich op te focussen, waardoor piekergedachten naar de achtergrond verdwijnen. Combineer met de ademhalingsoefeningen voor het slapengaan voor het beste resultaat. Kies Calm als je van verhalen en natuurgeluiden houdt; kies Headspace als je een gestructureerde aanpak met cursussen prefereert.
+
+### 2. De "Data-Nerd" & "Zelfverbeteraar"
+
+Je wilt niet zomaar slapen, je wilt begrijpen *hoe* je slaapt. Grafieken, trends, hartslagdata — hoe meer informatie, hoe beter.
+**Aanbeveling:** *Pillow* (met Apple Watch) of *Sleep Cycle* (zonder wearable).
+**Waarom:** Pillow biedt de meest gedetailleerde data dankzij de Apple Watch-sensoren: hartslagvariabiliteit, bloedzuurstof, en gedetailleerde slaapfase-analyse. Sleep Cycle is het beste alternatief zonder wearable — de slimme wekker en snurkdetectie geven je nog steeds waardevolle inzichten. Beide apps laten je experimenteren met leefstijlfactoren (cafeïne, sport, schermtijd) en het effect op je slaap meten.
+
+### 3. De "Snurker" (of diens Partner)
+
+Snurken is niet alleen vervelend voor jezelf, maar kan een relatie onder druk zetten. Je wilt weten hoe erg het is en of remedies werken.
+**Aanbeveling:** *SnoreLab*.
+**Waarom:** Geen enkele andere app is zo gespecialiseerd in snurken als SnoreLab. Het geeft je een objectieve 'snore score', laat je opnames terugluisteren, en — misschien wel het belangrijkst — je kunt bijhouden of die neusspray, anti-snurkbeugel of andere slaaphouding daadwerkelijk helpt. Dit is ook waardevolle informatie om mee te nemen naar een huisarts of KNO-arts.
+
+### 4. De "Budgetbewuste Slapeloze"
+
+Je wilt beter slapen, maar een duur jaarabonnement zit er niet in. Wat is de beste gratis of goedkope optie?
+**Aanbeveling:** *Sleep Cycle* (gratis versie) of *SnoreLab* (gratis versie).
+**Waarom:** De gratis versie van Sleep Cycle biedt de slimme wekker en basale slaaptracking — voor veel mensen al voldoende om frisser wakker te worden. SnoreLab's gratis versie geeft je een goede indicatie van snurkpatronen. Beide apps hebben geen verplicht abonnement voor de basisfunctionaliteit. Wil je later upgraden, dan zijn de kosten met EUR 30/jaar (Sleep Cycle) of EUR 5/maand (SnoreLab) relatief bescheiden.
+
+### 5. De "Apple Ecosysteem Gebruiker"
+
+Je hebt al een Apple Watch om je pols en een iPhone op je nachtkastje. Je wilt een app die naadloos integreert met wat je al hebt.
+**Aanbeveling:** *Pillow*.
+**Waarom:** Pillow is gebouwd voor het Apple-ecosysteem. De integratie met Apple Watch is ongeëvenaard — het haalt data uit sensoren die andere apps niet kunnen benutten. De app schrijft ook terug naar Apple Health, zodat al je gezondheidsdata op één plek staat. Het design past bij de strakke Apple-esthetiek die je gewend bent.
+
+---
+
+## Conclusie: Welke slaap app kies je in 2026?
+
+Er is niet één beste slaap app — er is alleen de beste app *voor jouw situatie*. De markt is in 2026 volwassen genoeg dat elke app in deze vergelijking zijn sterke punten heeft.
+
+Mijn advies: begin met het identificeren van je grootste slaapprobleem. Is het *inslapen*? Kies Calm of Headspace. Is het *fris wakker worden*? Kies Sleep Cycle. Is het *snurken*? Kies SnoreLab. Is het *inzicht in data*? Kies Pillow (met Apple Watch) of SleepScore (zonder wearable).
+
+Het mooie is dat de meeste apps een gratis proefperiode of gratis basisversie hebben. Probeer er twee of drie een week lang uit. Je slaap is te belangrijk om blind te gokken — maar met de inzichten uit deze vergelijking heb je in ieder geval een helder startpunt. Welterusten, en word vooral frisser wakker.
