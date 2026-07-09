@@ -542,6 +542,6 @@ Alle artikelen zijn geschreven in het Nederlands en gericht op de Nederlandse ma
 
 ## Contact & Suggesties
 
-Heb je vragen over een specifieke AI tool of categorie die je mist? Laat het ons weten via [GitHub Issues](https://github.com/Rigbay/dutch-ai-tools/issues).
+Heb je vragen over een specifieke AI tool of categorie die je mist? Laat het ons weten via [GitHub Issues](https://github.com/Rigbay/issues).
 
 *Laatst bijgewerkt: 2026-06-29 02:32*

@@ -3,8 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://rigbay.github.io',
-  base: '/dutch-ai-tools',
+  site: 'https://dutchaitools.nl',
   integrations: [
     sitemap({
       changefreq: 'weekly',

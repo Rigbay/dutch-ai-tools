@@ -17,7 +17,7 @@ const {
   ogType = 'website'
 } = Astro.props;
 
-const origin = Astro.site ?? new URL('https://rigbay.github.io');
+const origin = Astro.site ?? new URL('https://dutchaitools.nl');
 const basePath = import.meta.env.BASE_URL;
 const site = new URL(basePath, origin);
 const assetPath = (path: string) => `${basePath.replace(/\/$/, '')}/${path.replace(/^\//, '')}`;

@@ -14,7 +14,7 @@ interface Props {
 
 const { article, relatedArticles } = Astro.props;
 const data = article.data;
-const site = new URL('https://rigbay.github.io/dutch-ai-tools');
+const site = new URL('https://dutchaitools.nl');
 const canonical = new URL(`/${data.slug}/`, site).toString();
 
 const categoryLabel: Record<string, string> = {

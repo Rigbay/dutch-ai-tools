@@ -2,11 +2,11 @@
 
 ## Site
 - Name: AI Tools NL
-- URL: https://rigbay.github.io/dutch-ai-tools
+- URL: https://dutchaitools.nl
 - Language: nl-NL
 - Type: AI/SaaS tool comparison and review site
 - Technology: Astro 5.x + Tailwind CSS, static generation
-- Sitemap: https://rigbay.github.io/dutch-ai-tools/sitemap-index.xml
+- Sitemap: https://dutchaitools.nl/sitemap-index.xml
 
 ## Content
 - Articles: 126
@@ -27,147 +27,147 @@
 
 ## Productiviteit
 
-- AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps: https://rigbay.github.io/dutch-ai-tools/ai-voor-studenten-2026/
-- Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-automation-tools-2026/
-- Beste AI Chatbots 2026: ChatGPT vs Gemini vs Claude vs Perplexity: https://rigbay.github.io/dutch-ai-tools/beste-ai-chatbots-2026/
-- Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-meeting-transcriptie-tools-2026/
-- Beste AI Persoonlijke Assistenten 2026: top 5 digitale concierges: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-persoonlijke-assistenten-2026/
-- Beste AI Presentatie Tools 2026: Gamma vs Beautiful.ai vs Tome vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-presentatie-tools-2026/
-- Beste AI Tools voor Automotive & Mobiliteit 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-automotive-2026/
-- Beste AI Tools voor de Bouw & Constructie 2026: top 7 bouw-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-bouw-2026/
-- Beste AI Tools voor de Energiesector & Nutsbedrijven 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-energie-2026/
-- Beste AI Tools voor de Horeca 2026: top 7 horeca-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-horeca-2026/
-- Beste AI Tools voor de Zorg & Gezondheidszorg 2026: top 7 zorg-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-zorg-2026/
-- Beste AI Tools voor Docenten & Onderwijs 2026: top 7 les-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-docenten-2026/
-- Beste AI Tools voor E-learning & Cursusontwikkeling 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-e-learning-cursusontwikkeling-2026/
-- Beste AI Tools voor Excel & Spreadsheets 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-excel-spreadsheets-2026/
-- Beste AI Tools voor Juristen & Advocaten 2026: top 7 juridische AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-juristen-2026/
-- Beste AI Tools voor Logistiek & Supply Chain 2026: top 7 logistiek-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-logistiek-2026/
-- Beste AI Tools voor Mentale Gezondheid & Welzijn 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-mentale-gezondheid-welzijn-2026/
-- Beste AI Tools voor Mindmapping & Brainstormen 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-mindmapping-brainstormen-2026/
-- Beste AI Tools voor Onderwijsinstellingen 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-onderwijs-instellingen-2026/
-- Beste AI Tools voor Ouderen & Senioren 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-ouderen-senioren-2026/
-- Beste AI Tools voor Ouderschap & Gezinsmanagement 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-ouderschap-gezinsmanagement-2026/
-- Beste AI Tools voor PDF & Document Analyse 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-pdf-documenten-2026/
-- Beste AI Tools voor Projectmanagement 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-projectmanagement-2026/
-- Beste AI Tools voor Reizen & Vakantieplanning 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-reizen-vakantieplanning-2026/
-- Beste AI Tools voor Retail & Winkels 2026: top 7 retail-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-retail-2026/
-- Beste AI Tools voor Studenten 2026: top 7 studie-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-studenten-2026/
-- Beste AI Tools voor Tolken & Vertalingen 2026: top 7 vertaal-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-tolken-vertalingen-2026/
-- Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-voeding-dieet-2026/
-- Beste AI Tools voor Webdesign & Website Bouwen 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-webdesign-websites-2026/
-- Beste AI Tools voor Wetenschappelijk Onderzoek 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-wetenschappelijk-onderzoek-2026/
-- Beste AI Vertaaltools 2026: DeepL vs ChatGPT vs Google Translate vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-vertaaltools-2026/
-- Beste Gratis AI Tools 2026: top 8 gratis AI tools vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-gratis-ai-tools-2026/
-- ChatGPT vs Gemini vs Claude 2026: welke AI is het beste in Nederlands?: https://rigbay.github.io/dutch-ai-tools/chatgpt-vs-gemini-vs-claude-nederlands-2026/
-- Claude 3.5 Sonnet vs GPT-4o vs Gemini 1.5 Pro: Welk AI Model Is Het Beste in 2026?: https://rigbay.github.io/dutch-ai-tools/claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026/
-- DeepL vs Google Translate vs ChatGPT Vertalingen 2026: Welke AI Vertaaltool is de Beste?: https://rigbay.github.io/dutch-ai-tools/deepl-vs-google-translate-vs-chatgpt-2026/
-- Grammarly vs ProWritingAid vs LanguageTool 2026: beste AI schrijfassistent voor Nederlands: https://rigbay.github.io/dutch-ai-tools/grammarly-vs-prowritingaid-vs-languagetool-2026/
-- Notion AI Review Nederlands 2026: is Notion AI de moeite waard?: https://rigbay.github.io/dutch-ai-tools/notion-ai-review-nederlands-2026/
-- Obsidian vs Notion vs Roam Research 2026: Beste AI Kennisbeheer Tool voor Denkers: https://rigbay.github.io/dutch-ai-tools/obsidian-vs-notion-vs-roam-research-2026/
-- Perplexity AI vs ChatGPT vs Claude 2026: Welke AI Assistent Past Bij Jou?: https://rigbay.github.io/dutch-ai-tools/perplexity-vs-chatgpt-vs-claude-2026/
+- AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps: https://dutchaitools.nl/ai-voor-studenten-2026/
+- Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken: https://dutchaitools.nl/beste-ai-automation-tools-2026/
+- Beste AI Chatbots 2026: ChatGPT vs Gemini vs Claude vs Perplexity: https://dutchaitools.nl/beste-ai-chatbots-2026/
+- Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken: https://dutchaitools.nl/beste-ai-meeting-transcriptie-tools-2026/
+- Beste AI Persoonlijke Assistenten 2026: top 5 digitale concierges: https://dutchaitools.nl/beste-ai-tools-persoonlijke-assistenten-2026/
+- Beste AI Presentatie Tools 2026: Gamma vs Beautiful.ai vs Tome vergeleken: https://dutchaitools.nl/beste-ai-presentatie-tools-2026/
+- Beste AI Tools voor Automotive & Mobiliteit 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-automotive-2026/
+- Beste AI Tools voor de Bouw & Constructie 2026: top 7 bouw-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-bouw-2026/
+- Beste AI Tools voor de Energiesector & Nutsbedrijven 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-energie-2026/
+- Beste AI Tools voor de Horeca 2026: top 7 horeca-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-horeca-2026/
+- Beste AI Tools voor de Zorg & Gezondheidszorg 2026: top 7 zorg-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-zorg-2026/
+- Beste AI Tools voor Docenten & Onderwijs 2026: top 7 les-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-docenten-2026/
+- Beste AI Tools voor E-learning & Cursusontwikkeling 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-e-learning-cursusontwikkeling-2026/
+- Beste AI Tools voor Excel & Spreadsheets 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-excel-spreadsheets-2026/
+- Beste AI Tools voor Juristen & Advocaten 2026: top 7 juridische AI vergeleken: https://dutchaitools.nl/beste-ai-tools-juristen-2026/
+- Beste AI Tools voor Logistiek & Supply Chain 2026: top 7 logistiek-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-logistiek-2026/
+- Beste AI Tools voor Mentale Gezondheid & Welzijn 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-mentale-gezondheid-welzijn-2026/
+- Beste AI Tools voor Mindmapping & Brainstormen 2026: https://dutchaitools.nl/beste-ai-tools-mindmapping-brainstormen-2026/
+- Beste AI Tools voor Onderwijsinstellingen 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-onderwijs-instellingen-2026/
+- Beste AI Tools voor Ouderen & Senioren 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-ouderen-senioren-2026/
+- Beste AI Tools voor Ouderschap & Gezinsmanagement 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-ouderschap-gezinsmanagement-2026/
+- Beste AI Tools voor PDF & Document Analyse 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-pdf-documenten-2026/
+- Beste AI Tools voor Projectmanagement 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-projectmanagement-2026/
+- Beste AI Tools voor Reizen & Vakantieplanning 2026: https://dutchaitools.nl/beste-ai-tools-reizen-vakantieplanning-2026/
+- Beste AI Tools voor Retail & Winkels 2026: top 7 retail-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-retail-2026/
+- Beste AI Tools voor Studenten 2026: top 7 studie-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-studenten-2026/
+- Beste AI Tools voor Tolken & Vertalingen 2026: top 7 vertaal-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-tolken-vertalingen-2026/
+- Beste AI Tools voor Voeding & Dieet 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-voeding-dieet-2026/
+- Beste AI Tools voor Webdesign & Website Bouwen 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-webdesign-websites-2026/
+- Beste AI Tools voor Wetenschappelijk Onderzoek 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-wetenschappelijk-onderzoek-2026/
+- Beste AI Vertaaltools 2026: DeepL vs ChatGPT vs Google Translate vergeleken: https://dutchaitools.nl/beste-ai-vertaaltools-2026/
+- Beste Gratis AI Tools 2026: top 8 gratis AI tools vergeleken: https://dutchaitools.nl/beste-gratis-ai-tools-2026/
+- ChatGPT vs Gemini vs Claude 2026: welke AI is het beste in Nederlands?: https://dutchaitools.nl/chatgpt-vs-gemini-vs-claude-nederlands-2026/
+- Claude 3.5 Sonnet vs GPT-4o vs Gemini 1.5 Pro: Welk AI Model Is Het Beste in 2026?: https://dutchaitools.nl/claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026/
+- DeepL vs Google Translate vs ChatGPT Vertalingen 2026: Welke AI Vertaaltool is de Beste?: https://dutchaitools.nl/deepl-vs-google-translate-vs-chatgpt-2026/
+- Grammarly vs ProWritingAid vs LanguageTool 2026: beste AI schrijfassistent voor Nederlands: https://dutchaitools.nl/grammarly-vs-prowritingaid-vs-languagetool-2026/
+- Notion AI Review Nederlands 2026: is Notion AI de moeite waard?: https://dutchaitools.nl/notion-ai-review-nederlands-2026/
+- Obsidian vs Notion vs Roam Research 2026: Beste AI Kennisbeheer Tool voor Denkers: https://dutchaitools.nl/obsidian-vs-notion-vs-roam-research-2026/
+- Perplexity AI vs ChatGPT vs Claude 2026: Welke AI Assistent Past Bij Jou?: https://dutchaitools.nl/perplexity-vs-chatgpt-vs-claude-2026/
 
 ## Marketing
 
-- AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren: https://rigbay.github.io/dutch-ai-tools/ai-tools-marketing-teams-2026/
-- AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking: https://rigbay.github.io/dutch-ai-tools/ai-voor-seo-2026/
-- Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-copywriting-tools-2026/
-- Beste AI Marketing Tools 2026: vergelijk de top 7 marketing AI: https://rigbay.github.io/dutch-ai-tools/beste-ai-marketing-tools-2026/
-- Beste AI SEO Tools 2026: Semrush vs Frase vs Surfer SEO vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-seo-tools-2026/
-- Beste AI Tools voor E-mail Marketing 2026: top 6 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-email-marketing-2026/
-- Beste AI Tools voor Social Media 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-social-media-2026/
-- Jasper AI vs Copy.ai vs Writesonic vs Rytr 2026: beste AI copywriting tools: https://rigbay.github.io/dutch-ai-tools/jasper-vs-copy-ai-vs-writesonic-vs-rytr-2026/
+- AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren: https://dutchaitools.nl/ai-tools-marketing-teams-2026/
+- AI voor SEO 2026: Content Optimalisatie, Keyword Research en Rank Tracking: https://dutchaitools.nl/ai-voor-seo-2026/
+- Beste AI Copywriting Tools 2026: Jasper vs Copy.ai vs Claude vergeleken: https://dutchaitools.nl/beste-ai-copywriting-tools-2026/
+- Beste AI Marketing Tools 2026: vergelijk de top 7 marketing AI: https://dutchaitools.nl/beste-ai-marketing-tools-2026/
+- Beste AI SEO Tools 2026: Semrush vs Frase vs Surfer SEO vergeleken: https://dutchaitools.nl/beste-ai-seo-tools-2026/
+- Beste AI Tools voor E-mail Marketing 2026: top 6 vergeleken: https://dutchaitools.nl/beste-ai-tools-email-marketing-2026/
+- Beste AI Tools voor Social Media 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-social-media-2026/
+- Jasper AI vs Copy.ai vs Writesonic vs Rytr 2026: beste AI copywriting tools: https://dutchaitools.nl/jasper-vs-copy-ai-vs-writesonic-vs-rytr-2026/
 
 ## Creatie
 
-- AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools: https://rigbay.github.io/dutch-ai-tools/ai-stemgeneratie-2026/
-- AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken: https://rigbay.github.io/dutch-ai-tools/ai-video-generatie-tools-2026/
-- Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-image-generators-2026/
-- Beste AI Muziek & Audio Tools 2026: Suno vs ElevenLabs vs AIVA vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-muziek-audio-tools-2026/
-- Beste AI Schrijftools Nederlands 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-schrijftools-nederlands-2026/
-- Beste AI Tools voor 3D Modellering en Ontwerp 2026: Top 7 Tools Vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-3d-modellering-2026/
-- Beste AI Tools voor Architecten & Bouwkunde 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-architecten-bouwkunde-2026/
-- Beste AI Tools voor Content Creators 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-content-creators-2026/
-- Beste AI Tools voor Designers 2026: top 7 design-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-designers-2026/
-- Beste AI Tools voor Fotografen 2026: Top 7 AI Tools voor Beeldbewerking en Workflow: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-fotografen-2026/
-- Beste AI Tools voor Grafisch Ontwerp & Branding 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-grafisch-ontwerp-branding-2026/
-- Beste AI Tools voor Interieur & Woninginrichting 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-interieur-woninginrichting-2026/
-- Beste AI Tools voor Journalisten & Redacties 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-journalisten-redacties-2026/
-- Beste AI Tools voor Koken & Recepten 2026: top 6 tools vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-koken-recepten-2026/
-- Beste AI Tools voor Media & Entertainment 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-media-entertainment-2026/
-- Beste AI Tools voor Mode & Styling 2026: top 6 tools vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-mode-styling-2026/
-- Beste AI Tools voor Podcasters 2026: top 6 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-podcasters-2026/
-- Beste AI Tools voor Voice Cloning & Voice-over 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-voice-cloning-voice-over-2026/
-- Beste AI Video Tools 2026: top 7 AI video generators vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-video-tools-2026/
-- Canva vs Adobe Express vs Figma AI 2026: beste AI design tools voor niet-designers: https://rigbay.github.io/dutch-ai-tools/canva-vs-adobe-express-vs-figma-ai-2026/
-- ElevenLabs vs Murf AI vs Play.ht 2026: de beste AI stemmen vergeleken: https://rigbay.github.io/dutch-ai-tools/elevenlabs-vs-murf-ai-vs-play-ht-2026/
-- Luma Dream Machine vs Kling AI vs Runway Gen-3: De Beste AI Video Generatoren van 2026: https://rigbay.github.io/dutch-ai-tools/luma-vs-kling-vs-runway-2026/
-- Midjourney vs DALL-E 3 vs Stable Diffusion 2026: welke AI beeldgenerator is de beste?: https://rigbay.github.io/dutch-ai-tools/midjourney-vs-dall-e-3-vs-stable-diffusion-2026/
-- Synthesia vs HeyGen vs Colossyan 2026: de beste AI video avatar tools: https://rigbay.github.io/dutch-ai-tools/synthesia-vs-heygen-vs-colossyan-2026/
+- AI Stemgeneratie 2026: Beste Text-to-Speech en Voice Cloning Tools: https://dutchaitools.nl/ai-stemgeneratie-2026/
+- AI Video Generatie Tools 2026: Synthesia, HeyGen, Runway en Pika vergeleken: https://dutchaitools.nl/ai-video-generatie-tools-2026/
+- Beste AI Image Generators 2026: Midjourney, DALL-E, Firefly vergeleken: https://dutchaitools.nl/beste-ai-image-generators-2026/
+- Beste AI Muziek & Audio Tools 2026: Suno vs ElevenLabs vs AIVA vergeleken: https://dutchaitools.nl/beste-ai-muziek-audio-tools-2026/
+- Beste AI Schrijftools Nederlands 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-schrijftools-nederlands-2026/
+- Beste AI Tools voor 3D Modellering en Ontwerp 2026: Top 7 Tools Vergeleken: https://dutchaitools.nl/beste-ai-tools-3d-modellering-2026/
+- Beste AI Tools voor Architecten & Bouwkunde 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-architecten-bouwkunde-2026/
+- Beste AI Tools voor Content Creators 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-content-creators-2026/
+- Beste AI Tools voor Designers 2026: top 7 design-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-designers-2026/
+- Beste AI Tools voor Fotografen 2026: Top 7 AI Tools voor Beeldbewerking en Workflow: https://dutchaitools.nl/beste-ai-tools-fotografen-2026/
+- Beste AI Tools voor Grafisch Ontwerp & Branding 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-grafisch-ontwerp-branding-2026/
+- Beste AI Tools voor Interieur & Woninginrichting 2026: https://dutchaitools.nl/beste-ai-tools-interieur-woninginrichting-2026/
+- Beste AI Tools voor Journalisten & Redacties 2026: https://dutchaitools.nl/beste-ai-tools-journalisten-redacties-2026/
+- Beste AI Tools voor Koken & Recepten 2026: top 6 tools vergeleken: https://dutchaitools.nl/beste-ai-tools-koken-recepten-2026/
+- Beste AI Tools voor Media & Entertainment 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-media-entertainment-2026/
+- Beste AI Tools voor Mode & Styling 2026: top 6 tools vergeleken: https://dutchaitools.nl/beste-ai-tools-mode-styling-2026/
+- Beste AI Tools voor Podcasters 2026: top 6 vergeleken: https://dutchaitools.nl/beste-ai-tools-podcasters-2026/
+- Beste AI Tools voor Voice Cloning & Voice-over 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-voice-cloning-voice-over-2026/
+- Beste AI Video Tools 2026: top 7 AI video generators vergeleken: https://dutchaitools.nl/beste-ai-video-tools-2026/
+- Canva vs Adobe Express vs Figma AI 2026: beste AI design tools voor niet-designers: https://dutchaitools.nl/canva-vs-adobe-express-vs-figma-ai-2026/
+- ElevenLabs vs Murf AI vs Play.ht 2026: de beste AI stemmen vergeleken: https://dutchaitools.nl/elevenlabs-vs-murf-ai-vs-play-ht-2026/
+- Luma Dream Machine vs Kling AI vs Runway Gen-3: De Beste AI Video Generatoren van 2026: https://dutchaitools.nl/luma-vs-kling-vs-runway-2026/
+- Midjourney vs DALL-E 3 vs Stable Diffusion 2026: welke AI beeldgenerator is de beste?: https://dutchaitools.nl/midjourney-vs-dall-e-3-vs-stable-diffusion-2026/
+- Synthesia vs HeyGen vs Colossyan 2026: de beste AI video avatar tools: https://dutchaitools.nl/synthesia-vs-heygen-vs-colossyan-2026/
 
 ## Development
 
-- AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen: https://rigbay.github.io/dutch-ai-tools/ai-beeldherkenning-2026/
-- Beste AI Low-Code & No-Code Platforms 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-lowcode-nocode-2026/
-- Beste AI Tools voor API Ontwikkeling & Integratie 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-api-ontwikkeling-2026/
-- Beste AI Tools voor App-ontwikkelaars & Mobiele Ontwikkeling 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-app-ontwikkeling-mobiel-2026/
-- Beste AI Tools voor Engineers & Technici 2026: top 7 engineering-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-engineers-2026/
-- Beste AI Tools voor Programmeren 2026: GitHub Copilot vs Cursor vs Claude: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-programmeren-2026/
-- GitHub Copilot vs Cursor vs Codeium 2026: de beste AI code editors: https://rigbay.github.io/dutch-ai-tools/github-copilot-vs-cursor-vs-codeium-2026/
+- AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen: https://dutchaitools.nl/ai-beeldherkenning-2026/
+- Beste AI Low-Code & No-Code Platforms 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-lowcode-nocode-2026/
+- Beste AI Tools voor API Ontwikkeling & Integratie 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-api-ontwikkeling-2026/
+- Beste AI Tools voor App-ontwikkelaars & Mobiele Ontwikkeling 2026: https://dutchaitools.nl/beste-ai-tools-app-ontwikkeling-mobiel-2026/
+- Beste AI Tools voor Engineers & Technici 2026: top 7 engineering-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-engineers-2026/
+- Beste AI Tools voor Programmeren 2026: GitHub Copilot vs Cursor vs Claude: https://dutchaitools.nl/beste-ai-tools-programmeren-2026/
+- GitHub Copilot vs Cursor vs Codeium 2026: de beste AI code editors: https://dutchaitools.nl/github-copilot-vs-cursor-vs-codeium-2026/
 
 ## Business
 
-- AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?: https://rigbay.github.io/dutch-ai-tools/ai-tools-mkb-starten-2026/
-- AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence: https://rigbay.github.io/dutch-ai-tools/ai-voor-data-analyse-2026/
-- AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie: https://rigbay.github.io/dutch-ai-tools/ai-voor-ecommerce-2026/
-- Beste AI Sales Tools 2026: Apollo vs Lemlist vs Clay vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-sales-tools-2026/
-- Beste AI Tools voor Administratie 2026: top 7 boekhoud-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-administratie-2026/
-- Beste AI Tools voor Apotheken & Farmacie 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-apotheek-farmacie-2026/
-- Beste AI Tools voor Boekhouders en Accountants 2026: top 6 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-boekhouders-accountants-2026/
-- Beste AI Tools voor Consultancy en Adviesbureaus 2026: Analyse, Rapportage en Strategie: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-consultancy-2026/
-- Beste AI Tools voor Crypto & Web3 2026: top 6 tools vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-crypto-web3-2026/
-- Beste AI Tools voor Data Analyse 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-data-analyse-2026/
-- Beste AI Tools voor de Financiele Sector 2026: Risicoanalyse, Frauddetectie en Rapportage: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-financieel-2026/
-- Beste AI Tools voor de Overheid 2026: Automatisering, Documentverwerking & Burgerzaken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-overheid-2026/
-- Beste AI Tools voor Duurzaamheid & ESG Rapportage 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-duurzaamheid-esg-2026/
-- Beste AI Tools voor E-commerce 2026: top 8 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-ecommerce-2026/
-- Beste AI Tools voor Evenementen & Event Management 2026: top 6 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-evenementen-2026/
-- Beste AI Tools voor Financieel Adviseurs 2026: top 6 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-financieel-adviseurs-2026/
-- Beste AI Tools voor Fitness & Personal Training 2026: Workouts, Voeding & Progressie: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-fitness-2026/
-- Beste AI Tools voor Gaming & Game-Ontwikkeling 2026: NPC's, Assets & QA: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-gaming-2026/
-- Beste AI Tools voor HR & Recruitment 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-hr-recruitment-2026/
-- Beste AI Tools voor Huisdieren & Dierenverzorging 2026: top 6 tools vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-huisdieren-dieren-2026/
-- Beste AI Tools voor Industriële Productie & Maakindustrie 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-industriele-productie-maakindustrie-2026/
-- Beste AI Tools voor Kinderopvang 2026: top 7 kinderopvang-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-kinderopvang-2026/
-- Beste AI Tools voor Klantenservice 2026: top 7 chatbots en automatisering: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-klantenservice-2026/
-- Beste AI Tools voor Klantfeedback & Customer Experience 2026: top 6 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-klantfeedback-cx-2026/
-- Beste AI Tools voor Kleine Ondernemers 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-kleine-ondernemers-2026/
-- Beste AI Tools voor Landbouw & Agri-Tech 2026: Precisielandbouw & Gewasmonitoring: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-landbouw-2026/
-- Beste AI Tools voor Makelaars en Vastgoed 2026: top 5 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-makelaars-vastgoed-2026/
-- Beste AI Tools voor Non-profits & Goede Doelen 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-non-profits-goede-doelen-2026/
-- Beste AI Tools voor Personal Finance & Budgetteren 2026: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-personal-finance-budgetteren-2026/
-- Beste AI Tools voor Psychologen & GGZ 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-psychologie-ggz-2026/
-- Beste AI Tools voor Sportcoaching 2026: top 7 sportcoaching-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-sportcoaching-2026/
-- Beste AI Tools voor Supply Chain & Logistiek 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-supply-chain-logistiek-2026/
-- Beste AI Tools voor Tandheelkunde 2026: top 7 tandheelkunde-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-tandheelkunde-2026/
-- Beste AI Tools voor Telecom & Communicatie 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-telecom-communicatie-2026/
-- Beste AI Tools voor Verzekeringen 2026: Risicobeoordeling, Claimsverwerking & Frauddetectie: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-verzekeringen-2026/
-- Beste AI Tools voor Watermanagement 2026: top 7 watermanagement-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-watermanagement-2026/
-- Beste AI Tools voor ZZP'ers 2026: vergelijk de top 7 AI tools: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-zzpers-2026/
-- EU AI Act Augustus 2026: Welke AI Tools Zijn Compliant?: https://rigbay.github.io/dutch-ai-tools/eu-ai-act-compliance-tools-2026/
-- HubSpot AI vs Salesforce Einstein vs Pipedrive AI 2026: Beste AI CRM voor Nederlandse Bedrijven: https://rigbay.github.io/dutch-ai-tools/hubspot-vs-salesforce-vs-pipedrive-ai-crm-2026/
-- Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland: https://rigbay.github.io/dutch-ai-tools/nederlandse-ai-startups-2026/
-- Nederlandse AI-Adoptie in Cijfers 2026: Van 45% naar 72% in 2 Jaar: https://rigbay.github.io/dutch-ai-tools/nederlandse-ai-adoptie-cijfers-2026/
-- Notion AI vs ClickUp AI vs Monday.com AI 2026: beste AI projectmanagement tools: https://rigbay.github.io/dutch-ai-tools/notion-ai-vs-clickup-ai-vs-monday-ai-2026/
-- Shadow AI op de Werkvloer 2026: Hoe Manage Je AI-gebruik in Je Team?: https://rigbay.github.io/dutch-ai-tools/shadow-ai-werkvloer-management-2026/
-- Zapier Central vs Make.com AI vs Relevance AI: De Toekomst van AI Agents in 2026: https://rigbay.github.io/dutch-ai-tools/zapier-central-vs-make-ai-vs-relevance-ai-2026/
+- AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?: https://dutchaitools.nl/ai-tools-mkb-starten-2026/
+- AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence: https://dutchaitools.nl/ai-voor-data-analyse-2026/
+- AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie: https://dutchaitools.nl/ai-voor-ecommerce-2026/
+- Beste AI Sales Tools 2026: Apollo vs Lemlist vs Clay vergeleken: https://dutchaitools.nl/beste-ai-sales-tools-2026/
+- Beste AI Tools voor Administratie 2026: top 7 boekhoud-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-administratie-2026/
+- Beste AI Tools voor Apotheken & Farmacie 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-apotheek-farmacie-2026/
+- Beste AI Tools voor Boekhouders en Accountants 2026: top 6 vergeleken: https://dutchaitools.nl/beste-ai-tools-boekhouders-accountants-2026/
+- Beste AI Tools voor Consultancy en Adviesbureaus 2026: Analyse, Rapportage en Strategie: https://dutchaitools.nl/beste-ai-tools-consultancy-2026/
+- Beste AI Tools voor Crypto & Web3 2026: top 6 tools vergeleken: https://dutchaitools.nl/beste-ai-tools-crypto-web3-2026/
+- Beste AI Tools voor Data Analyse 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-data-analyse-2026/
+- Beste AI Tools voor de Financiele Sector 2026: Risicoanalyse, Frauddetectie en Rapportage: https://dutchaitools.nl/beste-ai-tools-financieel-2026/
+- Beste AI Tools voor de Overheid 2026: Automatisering, Documentverwerking & Burgerzaken: https://dutchaitools.nl/beste-ai-tools-overheid-2026/
+- Beste AI Tools voor Duurzaamheid & ESG Rapportage 2026: https://dutchaitools.nl/beste-ai-tools-duurzaamheid-esg-2026/
+- Beste AI Tools voor E-commerce 2026: top 8 vergeleken: https://dutchaitools.nl/beste-ai-tools-ecommerce-2026/
+- Beste AI Tools voor Evenementen & Event Management 2026: top 6 vergeleken: https://dutchaitools.nl/beste-ai-tools-evenementen-2026/
+- Beste AI Tools voor Financieel Adviseurs 2026: top 6 vergeleken: https://dutchaitools.nl/beste-ai-tools-financieel-adviseurs-2026/
+- Beste AI Tools voor Fitness & Personal Training 2026: Workouts, Voeding & Progressie: https://dutchaitools.nl/beste-ai-tools-fitness-2026/
+- Beste AI Tools voor Gaming & Game-Ontwikkeling 2026: NPC's, Assets & QA: https://dutchaitools.nl/beste-ai-tools-gaming-2026/
+- Beste AI Tools voor HR & Recruitment 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-hr-recruitment-2026/
+- Beste AI Tools voor Huisdieren & Dierenverzorging 2026: top 6 tools vergeleken: https://dutchaitools.nl/beste-ai-tools-huisdieren-dieren-2026/
+- Beste AI Tools voor Industriële Productie & Maakindustrie 2026: https://dutchaitools.nl/beste-ai-tools-industriele-productie-maakindustrie-2026/
+- Beste AI Tools voor Kinderopvang 2026: top 7 kinderopvang-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-kinderopvang-2026/
+- Beste AI Tools voor Klantenservice 2026: top 7 chatbots en automatisering: https://dutchaitools.nl/beste-ai-tools-klantenservice-2026/
+- Beste AI Tools voor Klantfeedback & Customer Experience 2026: top 6 vergeleken: https://dutchaitools.nl/beste-ai-tools-klantfeedback-cx-2026/
+- Beste AI Tools voor Kleine Ondernemers 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-kleine-ondernemers-2026/
+- Beste AI Tools voor Landbouw & Agri-Tech 2026: Precisielandbouw & Gewasmonitoring: https://dutchaitools.nl/beste-ai-tools-landbouw-2026/
+- Beste AI Tools voor Makelaars en Vastgoed 2026: top 5 vergeleken: https://dutchaitools.nl/beste-ai-tools-makelaars-vastgoed-2026/
+- Beste AI Tools voor Non-profits & Goede Doelen 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-non-profits-goede-doelen-2026/
+- Beste AI Tools voor Personal Finance & Budgetteren 2026: https://dutchaitools.nl/beste-ai-tools-personal-finance-budgetteren-2026/
+- Beste AI Tools voor Psychologen & GGZ 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-psychologie-ggz-2026/
+- Beste AI Tools voor Sportcoaching 2026: top 7 sportcoaching-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-sportcoaching-2026/
+- Beste AI Tools voor Supply Chain & Logistiek 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-supply-chain-logistiek-2026/
+- Beste AI Tools voor Tandheelkunde 2026: top 7 tandheelkunde-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-tandheelkunde-2026/
+- Beste AI Tools voor Telecom & Communicatie 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-telecom-communicatie-2026/
+- Beste AI Tools voor Verzekeringen 2026: Risicobeoordeling, Claimsverwerking & Frauddetectie: https://dutchaitools.nl/beste-ai-tools-verzekeringen-2026/
+- Beste AI Tools voor Watermanagement 2026: top 7 watermanagement-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-watermanagement-2026/
+- Beste AI Tools voor ZZP'ers 2026: vergelijk de top 7 AI tools: https://dutchaitools.nl/beste-ai-tools-zzpers-2026/
+- EU AI Act Augustus 2026: Welke AI Tools Zijn Compliant?: https://dutchaitools.nl/eu-ai-act-compliance-tools-2026/
+- HubSpot AI vs Salesforce Einstein vs Pipedrive AI 2026: Beste AI CRM voor Nederlandse Bedrijven: https://dutchaitools.nl/hubspot-vs-salesforce-vs-pipedrive-ai-crm-2026/
+- Nederlandse AI Startups 2026: Top 8 innovatieve AI-bedrijven uit Nederland: https://dutchaitools.nl/nederlandse-ai-startups-2026/
+- Nederlandse AI-Adoptie in Cijfers 2026: Van 45% naar 72% in 2 Jaar: https://dutchaitools.nl/nederlandse-ai-adoptie-cijfers-2026/
+- Notion AI vs ClickUp AI vs Monday.com AI 2026: beste AI projectmanagement tools: https://dutchaitools.nl/notion-ai-vs-clickup-ai-vs-monday-ai-2026/
+- Shadow AI op de Werkvloer 2026: Hoe Manage Je AI-gebruik in Je Team?: https://dutchaitools.nl/shadow-ai-werkvloer-management-2026/
+- Zapier Central vs Make.com AI vs Relevance AI: De Toekomst van AI Agents in 2026: https://dutchaitools.nl/zapier-central-vs-make-ai-vs-relevance-ai-2026/
 
 ## Technologie
 
-- Beste AI Tools voor Cloud & Infrastructuur 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-cloud-optimalisatie-2026/
-- Beste AI Tools voor Cybersecurity 2026: top 7 beveiligings-AI vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-cybersecurity-2026/
-- Beste AI Tools voor Data Privacy & AVG Compliance 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-data-privacy-avg-2026/
-- Beste AI Tools voor DevOps & Platform Engineering 2026: top 7 vergeleken: https://rigbay.github.io/dutch-ai-tools/beste-ai-tools-devops-platform-engineering-2026/
+- Beste AI Tools voor Cloud & Infrastructuur 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-cloud-optimalisatie-2026/
+- Beste AI Tools voor Cybersecurity 2026: top 7 beveiligings-AI vergeleken: https://dutchaitools.nl/beste-ai-tools-cybersecurity-2026/
+- Beste AI Tools voor Data Privacy & AVG Compliance 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-data-privacy-avg-2026/
+- Beste AI Tools voor DevOps & Platform Engineering 2026: top 7 vergeleken: https://dutchaitools.nl/beste-ai-tools-devops-platform-engineering-2026/
 
 ## Transparantie
 
