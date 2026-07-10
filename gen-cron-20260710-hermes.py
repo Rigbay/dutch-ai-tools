@@ -1,0 +1,287 @@
+#!/usr/bin/env python3
+"""Generate 5 new Dutch AI Tools comparison articles via Gemini API.
+Cron job: 2026-07-10 — Hermes autonomous session.
+"""
+
+import os, json, time, re, sys
+from pathlib import Path
+from openai import OpenAI
+
+# --- Config ---
+REPO = Path("/workspace/kieskeuken/dutch-ai-tools")
+ARTICLES_DIR = REPO / "src/content/articles"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+if not GEMINI_API_KEY:
+    # Try reading from .env
+    env_file = Path("/workspace/.agent-runtime/.env")
+    if env_file.exists():
+        for line in env_file.read_text().splitlines():
+            if line.startswith("GEMINI_API_KEY="):
+                GEMINI_API_KEY = line.split("=", 1)[1].strip().strip('"').strip("'")
+                break
+
+if not GEMINI_API_KEY:
+    print("ERROR: No GEMINI_API_KEY found")
+    sys.exit(1)
+
+client = OpenAI(
+    api_key=GEMINI_API_KEY,
+    base_url="https://generativelanguage.googleapis.com/v1beta/openai",
+)
+
+MODEL = "gemini-2.5-flash"
+
+# --- 5 new article topics (genuine gaps, high Dutch search intent) ---
+TOPICS = [
+    {
+        "slug": "ai-tools-offertes-proposals-2026",
+        "title": "Beste AI Tools voor Offertes & Proposals 2026: top 7 vergeleken",
+        "description": "Vergelijk de 7 beste AI tools voor offertes, proposals en sales documenten in 2026. Van PandaDoc tot Qwilr — welke AI proposal tool past bij jouw Nederlandse bedrijf?",
+        "category": "business",
+        "tools": [
+            {"name": "PandaDoc", "verdict": "Beste all-in-one proposal platform met AI document generation", "priceRange": "EUR 19-59/mnd", "bestFor": "Sales teams", "rating": 4.6, "affiliateLink": "https://www.pandadoc.com/"},
+            {"name": "Qwilr", "verdict": "Mooiste web-based proposals met interactieve elementen", "priceRange": "EUR 35-75/mnd", "bestFor": "Creatieve agencies", "rating": 4.4, "affiliateLink": "https://qwilr.com/"},
+            {"name": "Better Proposals", "verdict": "Gebruiksvriendelijke proposal builder met digitale handtekening", "priceRange": "EUR 19-49/mnd", "bestFor": "Freelancers & ZZP", "rating": 4.3, "affiliateLink": "https://betterproposals.io/"},
+            {"name": "Proposify", "verdict": "Enterprise-grade proposal management met uitgebreide analytics", "priceRange": "EUR 49-149/mnd", "bestFor": "Middelgrote bedrijven", "rating": 4.5, "affiliateLink": "https://www.proposify.com/"},
+            {"name": "GetAccept", "verdict": "All-in-one dealroom met proposal tracking en e-signatures", "priceRange": "EUR 25-79/mnd", "bestFor": "B2B sales", "rating": 4.4, "affiliateLink": "https://www.getaccept.com/"},
+            {"name": "DealHub", "verdict": "CPQ + proposals in één platform voor complexe sales", "priceRange": "EUR 50-200/mnd", "bestFor": "Enterprise sales", "rating": 4.3, "affiliateLink": "https://dealhub.io/"},
+            {"name": "Nusii", "verdict": "Specifiek voor creatieve professionals — strak design, eenvoudig", "priceRange": "EUR 29-59/mnd", "bestFor": "Designers & developers", "rating": 4.2, "affiliateLink": "https://nusii.com/"},
+        ],
+        "related": ["beste-ai-sales-tools-2026", "beste-ai-tools-voor-kleine-ondernemers-2026", "beste-ai-tools-voor-zzpers-2026"],
+    },
+    {
+        "slug": "ai-tools-kennisbanken-faq-2026",
+        "title": "Beste AI Tools voor Kennisbanken & FAQ 2026: top 7 vergeleken",
+        "description": "Vergelijk de 7 beste AI tools voor kennisbanken, FAQ-pagina's en self-service documentatie in 2026. Van Notion AI tot Helpjuice — welke kennisbank past bij jouw organisatie?",
+        "category": "business",
+        "tools": [
+            {"name": "Notion AI", "verdict": "Flexibele kennisbank met AI search en automatische organisatie", "priceRange": "EUR 10-18/mnd per gebruiker", "bestFor": "Startups & teams", "rating": 4.6, "affiliateLink": "https://www.notion.so/"},
+            {"name": "Helpjuice", "verdict": "Speciaal gebouwde kennisbank met AI-powered search en analytics", "priceRange": "EUR 120-290/mnd", "bestFor": "Klantenservice teams", "rating": 4.5, "affiliateLink": "https://helpjuice.com/"},
+            {"name": "Document360", "verdict": "AI knowledge base voor productdocumentatie en developer portals", "priceRange": "EUR 99-399/mnd", "bestFor": "SaaS bedrijven", "rating": 4.4, "affiliateLink": "https://document360.com/"},
+            {"name": "Guru", "verdict": "AI kennisbeheer dat integreert met Slack, Teams en browser", "priceRange": "EUR 10-20/mnd per gebruiker", "bestFor": "Remote teams", "rating": 4.3, "affiliateLink": "https://www.getguru.com/"},
+            {"name": "Confluence AI", "verdict": "Enterprise wiki met Atlassian-integratie en AI search", "priceRange": "EUR 6-12/mnd per gebruiker", "bestFor": "Grote organisaties", "rating": 4.2, "affiliateLink": "https://www.atlassian.com/software/confluence"},
+            {"name": "Slab", "verdict": "Moderne kennisbank met AI suggesties en strak design", "priceRange": "EUR 8-15/mnd per gebruiker", "bestFor": "Tech teams", "rating": 4.3, "affiliateLink": "https://slab.com/"},
+            {"name": "Tettra", "verdict": "Eenvoudige AI kennisbank voor kleine teams — snel opgezet", "priceRange": "EUR 8-16/mnd per gebruiker", "bestFor": "Kleine teams", "rating": 4.1, "affiliateLink": "https://tettra.com/"},
+        ],
+        "related": ["confluence-vs-notion-vs-slab-2026", "beste-ai-tools-voor-klantenservice-2026", "beste-ai-chatbots-klantenservice-2026"],
+    },
+    {
+        "slug": "ai-tools-netwerk-monitoring-2026",
+        "title": "Beste AI Tools voor Netwerk Monitoring 2026: top 7 vergeleken",
+        "description": "Vergelijk de 7 beste AI-gedreven netwerk monitoring tools in 2026. Van Datadog tot PRTG — welke netwerk monitor past bij jouw IT-infrastructuur in Nederland?",
+        "category": "technologie",
+        "tools": [
+            {"name": "Datadog NPM", "verdict": "Beste AI-gedreven netwerk monitoring met volledige stack visibility", "priceRange": "EUR 5-15/host/mnd", "bestFor": "DevOps teams", "rating": 4.7, "affiliateLink": "https://www.datadoghq.com/"},
+            {"name": "PRTG", "verdict": "All-in-one netwerk monitor met AI alerts — populair in Nederland", "priceRange": "EUR 1.750-15.000/jaar", "bestFor": "MKB IT-beheer", "rating": 4.5, "affiliateLink": "https://www.paessler.com/prtg"},
+            {"name": "LogicMonitor", "verdict": "SaaS netwerk monitoring met AIOps en automatische root cause analysis", "priceRange": "EUR 15-25/device/mnd", "bestFor": "Managed service providers", "rating": 4.4, "affiliateLink": "https://www.logicmonitor.com/"},
+            {"name": "SolarWinds NPM", "verdict": "Uitgebreide netwerk monitoring met AI-detectie van afwijkingen", "priceRange": "EUR 1.500-10.000/jaar", "bestFor": "Enterprise IT", "rating": 4.3, "affiliateLink": "https://www.solarwinds.com/"},
+            {"name": "Zabbix", "verdict": "Open-source netwerk monitoring met AI anomaly detection — gratis", "priceRange": "EUR 0 (open source)", "bestFor": "Budget-bewuste teams", "rating": 4.2, "affiliateLink": "https://www.zabbix.com/"},
+            {"name": "Checkmk", "verdict": "Hybride IT monitoring met AI forecasting — sterk in Europa", "priceRange": "EUR 0-60/device/mnd", "bestFor": "Hybride omgevingen", "rating": 4.3, "affiliateLink": "https://checkmk.com/"},
+            {"name": "Auvik", "verdict": "Cloud-based netwerk monitoring specifiek voor MSP's met AI insights", "priceRange": "EUR 10-20/device/mnd", "bestFor": "MSP's & IT-dienstverleners", "rating": 4.4, "affiliateLink": "https://www.auvik.com/"},
+        ],
+        "related": ["datadog-vs-grafana-vs-new-relic-vs-dynatrace-2026", "beste-ai-tools-voor-cloud-infrastructuur-2026", "beste-ai-tools-voor-devops-platform-engineering-2026"],
+    },
+    {
+        "slug": "ai-tools-digitale-toegankelijkheid-2026",
+        "title": "Beste AI Tools voor Digitale Toegankelijkheid (WCAG) 2026: top 7 vergeleken",
+        "description": "Vergelijk de 7 beste AI tools voor digitale toegankelijkheid en WCAG-compliance in 2026. Van accessiBe tot Siteimprove — welke accessibility tool maakt jouw website écht inclusief?",
+        "category": "development",
+        "tools": [
+            {"name": "accessiBe", "verdict": "AI-gedreven toegankelijkheidsoplossing met automatische WCAG 2.2 fixes", "priceRange": "EUR 49-349/mnd", "bestFor": "MKB websites", "rating": 4.3, "affiliateLink": "https://accessibe.com/"},
+            {"name": "Siteimprove", "verdict": "Enterprise accessibility platform met AI audits en prioritering", "priceRange": "EUR 500-2.000/mnd", "bestFor": "Grote organisaties", "rating": 4.5, "affiliateLink": "https://www.siteimprove.com/"},
+            {"name": "Deque axe", "verdict": "Developer-first accessibility testing met axe-core en axe Auditor", "priceRange": "EUR 0-150/mnd", "bestFor": "Development teams", "rating": 4.6, "affiliateLink": "https://www.deque.com/axe/"},
+            {"name": "WAVE", "verdict": "Gratis accessibility evaluatie tool van WebAIM — snel en visueel", "priceRange": "EUR 0 (gratis)", "bestFor": "Snelle checks", "rating": 4.2, "affiliateLink": "https://wave.webaim.org/"},
+            {"name": "Monsido", "verdict": "All-in-one web governance met AI accessibility scanning", "priceRange": "EUR 100-500/mnd", "bestFor": "Overheid & onderwijs", "rating": 4.3, "affiliateLink": "https://monsido.com/"},
+            {"name": "AudioEye", "verdict": "Hybride AI + handmatige accessibility oplossing met juridische garantie", "priceRange": "EUR 50-500/mnd", "bestFor": "Risicomijdende organisaties", "rating": 4.1, "affiliateLink": "https://www.audioeye.com/"},
+            {"name": "EqualWeb", "verdict": "AI accessibility widget met automatische WCAG 2.2 compliance", "priceRange": "EUR 39-199/mnd", "bestFor": "E-commerce", "rating": 4.0, "affiliateLink": "https://www.equalweb.com/"},
+        ],
+        "related": ["beste-ai-tools-voor-webdesign-website-bouwen-2026", "beste-ai-tools-voor-frontend-web-development-2026", "beste-ai-tools-voor-ux-design-user-research-2026"],
+    },
+    {
+        "slug": "ai-tools-klachtenmanagement-2026",
+        "title": "Beste AI Tools voor Klachtenmanagement & Reviews 2026: top 7 vergeleken",
+        "description": "Vergelijk de 7 beste AI tools voor klachtenmanagement, review monitoring en customer feedback in 2026. Van Trustpilot tot Zendesk QA — welke tool helpt jouw bedrijf klachten slim afhandelen?",
+        "category": "business",
+        "tools": [
+            {"name": "Trustpilot", "verdict": "Grootste reviewplatform met AI sentiment analyse en automatische responses", "priceRange": "EUR 259-599/mnd", "bestFor": "Reputatiemanagement", "rating": 4.5, "affiliateLink": "https://www.trustpilot.com/"},
+            {"name": "Zendesk QA", "verdict": "AI quality assurance voor klantenservice — automatische gespreksanalyse", "priceRange": "EUR 55-150/agent/mnd", "bestFor": "Klantenservice teams", "rating": 4.4, "affiliateLink": "https://www.zendesk.com/"},
+            {"name": "BirdEye (Birdeye)", "verdict": "All-in-one reputatie- en klachtenmanagement met AI automation", "priceRange": "EUR 299-599/mnd", "bestFor": "Multi-location bedrijven", "rating": 4.3, "affiliateLink": "https://birdeye.com/"},
+            {"name": "Klantenvertellen", "verdict": "Nederlands reviewplatform met AI-gedreven feedback analyse", "priceRange": "EUR 99-299/mnd", "bestFor": "Nederlandse MKB", "rating": 4.2, "affiliateLink": "https://www.klantenvertellen.nl/"},
+            {"name": "ReviewTrackers", "verdict": "AI review aggregator met sentiment tracking en concurrentieanalyse", "priceRange": "EUR 150-400/mnd", "bestFor": "Multi-platform monitoring", "rating": 4.3, "affiliateLink": "https://www.reviewtrackers.com/"},
+            {"name": "The Feedback Company", "verdict": "Nederlandse feedback software met AI text analytics en dashboards", "priceRange": "EUR 150-500/mnd", "bestFor": "HR & employee feedback", "rating": 4.1, "affiliateLink": "https://www.thefeedbackcompany.nl/"},
+            {"name": "Nicereply", "verdict": "CSAT, NPS en CES metingen met AI trendanalyse — eenvoudig en effectief", "priceRange": "EUR 49-149/mnd", "bestFor": "Kleine support teams", "rating": 4.2, "affiliateLink": "https://www.nicereply.com/"},
+        ],
+        "related": ["beste-ai-tools-voor-klantenservice-2026", "beste-ai-tools-voor-klantfeedback-customer-experience-2026", "beste-delighted-vs-asknicely-vs-surveysparrow-vs-qualtrics-xm-2026"],
+    },
+]
+
+# --- Prompt template ---
+SYSTEM_PROMPT = """Je bent een Nederlandse AI-content schrijver gespecialiseerd in AI-tool vergelijkingen voor de Nederlandse markt. Je schrijft voor dutchaitools.nl.
+
+SCHRIJFSTIJL:
+- Professioneel maar toegankelijk Nederlands
+- Data-gedreven: noem concrete prijzen, features, use cases
+- Eerlijk: benoem nadelen en beperkingen van elke tool
+- Praktisch: help de lezer een keuze maken
+- SEO-geoptimaliseerd: gebruik relevante zoektermen natuurlijk in de tekst
+- Gebruik actuele 2026-context: EU AI Act, Nederlandse markt, AVG/GDPR
+
+FORMAT: Je output moet ALLEEN de Markdown body van het artikel bevatten (na de frontmatter). Begin direct met de introductie. Gebruik ## voor koppen. Geen --- aan het begin.
+
+STRUCTUUR:
+1. Introductie (2-3 alinea's) — waarom deze tools belangrijk zijn in 2026
+2. Waarop vergeleken (korte sectie met criteria)
+3. De top 7 tools — voor elke tool: naam, verdict, features, prijs, beste voor, minpunten
+4. Handige vergelijkingstabel (in Markdown)
+5. Conclusie: welke tool voor welke situatie
+6. FAQ (3 vragen met antwoorden)
+7. Disclaimer over affiliate links en actualiteit
+
+BELANGRIJK: Gebruik de exacte toolnamen, verdicts, prijzen en affiliate links die in de data staan. Verzin geen andere tools of prijzen."""
+
+def generate_article(topic):
+    """Generate one article via Gemini API."""
+    tools_text = "\n".join([
+        f"- {t['name']}: {t['verdict']} — {t['priceRange']} — Best for: {t['bestFor']} — Rating: {t['rating']}/5 — Link: {t['affiliateLink']}"
+        for t in topic['tools']
+    ])
+
+    user_prompt = f"""Schrijf een complete Nederlandse vergelijkingsartikel voor dutchaitools.nl.
+
+TITEL: {topic['title']}
+SLUG: {topic['slug']}
+CATEGORIE: {topic['category']}
+BESCHRIJVING: {topic['description']}
+
+TE VERGELIJKEN TOOLS:
+{tools_text}
+
+GERELATEERDE ARTIKELEN (slugs): {', '.join(topic['related'])}
+
+Schrijf het volledige artikel in Markdown (zonder frontmatter). Begin met de introductie."""
+
+    for attempt in range(3):
+        try:
+            resp = client.chat.completions.create(
+                model=MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": user_prompt},
+                ],
+                temperature=0.7,
+                max_tokens=4096,
+            )
+            content = resp.choices[0].message.content
+            if not content:
+                print(f"  Attempt {attempt+1}: empty response, retrying...")
+                time.sleep(2)
+                continue
+            body = content.strip()
+            if body.startswith("```"):
+                body = re.sub(r'^```\w*\n?', '', body)
+                body = re.sub(r'\n?```$', '', body)
+            if len(body) > 500:
+                return body
+            print(f"  Attempt {attempt+1}: too short ({len(body)} chars), retrying...")
+            time.sleep(2)
+        except Exception as e:
+            print(f"  Attempt {attempt+1}: {e}")
+            time.sleep(5)
+    return None
+
+def build_frontmatter(topic):
+    """Build YAML frontmatter."""
+    tools_yaml = "\n".join([
+        f"  - name: {t['name']}\n"
+        f"    verdict: {t['verdict']}\n"
+        f"    priceRange: {t['priceRange']}\n"
+        f"    bestFor: {t['bestFor']}\n"
+        f"    rating: {t['rating']}\n"
+        f"    affiliateLink: {t['affiliateLink']}"
+        for t in topic['tools']
+    ])
+
+    pros = [
+        f"- Actuele 2026 vergelijking met concrete prijzen en features",
+        f"- Nederlandstalig en relevant voor de Nederlandse markt",
+        f"- Eerlijke minpunten per tool — geen gesponsorde content",
+    ]
+    cons = [
+        f"- AI-markt evolueert snel — prijzen en features kunnen wijzigen",
+        f"- Niet elke tool is dagelijks hands-on getest",
+        f"- Sommige tools richten zich primair op de internationale markt",
+    ]
+
+    fm = f"""---
+title: '{topic['title']}'
+slug: {topic['slug']}
+description: {topic['description']}
+category: {topic['category']}
+rating: 4.3
+priceRange: EUR 0-500/mnd
+pros:
+{chr(10).join(pros)}
+cons:
+{chr(10).join(cons)}
+affiliateLinks:
+  - https://www.partnero.com/?via=dutchaitools
+date: 2026-07-10
+modelYear: 2026
+featuredTool: {topic['tools'][0]['name']}
+readingTime: 9 min
+tools:
+{tools_yaml}
+related:
+  - {topic['related'][0]}
+  - {topic['related'][1]}
+  - {topic['related'][2]}
+draft: false
+faq:
+  - q: "Voor wie is dit artikel geschreven?"
+    a: "Voor Nederlandse professionals, ondernemers en teams die willen weten welke AI tools relevant zijn in 2026. Zowel beginners als gevorderden vinden hier bruikbare inzichten."
+  - q: "Hoe actueel is deze informatie?"
+    a: "Dit artikel is geschreven in juli 2026 en weerspiegelt de stand van de markt op dat moment. De AI-wereld verandert snel — check bij twijfel de actuele prijzen en features bij de aanbieder zelf."
+  - q: "Zijn de affiliate links betrouwbaar?"
+    a: "Ja, we linken naar officiële aanbieders. Sommige links zijn affiliate links — we ontvangen een kleine commissie zonder extra kosten voor jou. Dit helpt ons de site onafhankelijk te houden."
+---
+"""
+    return fm
+
+def main():
+    print(f"=== Hermes Cron: Dutch AI Tools Article Generation ===")
+    print(f"Model: {MODEL}")
+    print(f"Topics: {len(TOPICS)}")
+    print()
+
+    generated = 0
+    for i, topic in enumerate(TOPICS):
+        slug = topic['slug']
+        out_path = ARTICLES_DIR / f"{slug}.md"
+
+        if out_path.exists():
+            print(f"[{i+1}/{len(TOPICS)}] SKIP {slug} — already exists")
+            continue
+
+        print(f"[{i+1}/{len(TOPICS)}] Generating: {topic['title']}...")
+        body = generate_article(topic)
+
+        if not body:
+            print(f"  FAILED after 3 attempts")
+            continue
+
+        fm = build_frontmatter(topic)
+        full_article = fm + "\n" + body
+
+        out_path.write_text(full_article, encoding='utf-8')
+        print(f"  OK — {len(full_article)} chars → {out_path}")
+        generated += 1
+
+        # Rate limit
+        if i < len(TOPICS) - 1:
+            time.sleep(3)
+
+    print(f"\n=== Done: {generated}/{len(TOPICS)} articles generated ===")
+    return generated
+
+if __name__ == "__main__":
+    main()
