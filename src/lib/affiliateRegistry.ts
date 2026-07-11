@@ -86,6 +86,26 @@ export function detectMerchant(url: string): string | null {
   return null;
 }
 
+export function merchantMatchesTool(merchantId: string, toolName: string): boolean {
+  const merchant = getMerchant(merchantId);
+  if (!merchant || !toolName) return false;
+
+  const normalize = (value: string) => value
+    .toLowerCase()
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]/g, '');
+
+  const normalizedMerchant = normalize(merchant.name);
+  const normalizedTool = normalize(toolName);
+  const brand = normalize(merchant.name.split(/[.\s]/)[0] || '');
+
+  return normalizedTool === normalizedMerchant
+    || normalizedTool.includes(normalizedMerchant)
+    || normalizedMerchant.includes(normalizedTool)
+    || (brand.length >= 4 && normalizedTool.includes(brand));
+}
+
 export function canRenderAffiliate(merchantId: string, siteId: string): boolean {
   const merchant = getMerchant(merchantId);
   if (!merchant) return false;
@@ -125,8 +145,13 @@ export function resolveAffiliateUrl(
 
   // Inject caller-provided params (asin, productId, targetUrl, etc.)
   for (const [key, value] of Object.entries(params)) {
+    if (!value) continue;
     const re = new RegExp(`\\{${key}\\}`, 'g');
     template = template.replace(re, value);
+  }
+
+  if (/\{[^}]+\}/.test(template)) {
+    return null;
   }
 
   return template;

@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { loadRegistry, resolveAffiliateUrl, detectMerchant, canRenderAffiliate } from '../lib/affiliateRegistry.ts';
+import { loadRegistry, resolveAffiliateUrl, detectMerchant, canRenderAffiliate, merchantMatchesTool } from '../lib/affiliateRegistry.ts';
 
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 const registry = loadRegistry();
@@ -43,14 +43,15 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
     const data = article.data;
     let affiliateUrl: string | null = null;
     let affiliateMerchant: string | null = null;
+    const featuredTool = data.featuredTool || (data.tools?.[0]?.name || 'Tool');
 
     if (data.affiliateLinks && Array.isArray(data.affiliateLinks) && data.affiliateLinks.length > 0) {
       const firstLink = data.affiliateLinks[0];
       const merchantId = detectMerchant(firstLink);
-      if (merchantId && canRenderAffiliate(merchantId, SITE_ID)) {
+      if (merchantId && canRenderAffiliate(merchantId, SITE_ID) && merchantMatchesTool(merchantId, featuredTool)) {
         affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || firstLink;
         affiliateMerchant = merchantId;
-      } else {
+      } else if (!merchantId) {
         affiliateUrl = firstLink;
       }
     }
@@ -59,10 +60,10 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
       const topTool = data.tools[0];
       if (topTool?.affiliateLink) {
         const merchantId = detectMerchant(topTool.affiliateLink);
-        if (merchantId && canRenderAffiliate(merchantId, SITE_ID)) {
+        if (merchantId && canRenderAffiliate(merchantId, SITE_ID) && merchantMatchesTool(merchantId, topTool.name)) {
           affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || topTool.affiliateLink;
           affiliateMerchant = merchantId;
-        } else {
+        } else if (!merchantId) {
           affiliateUrl = topTool.affiliateLink;
         }
       }
@@ -74,7 +75,7 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
       rating: data.rating || 0,
       priceRange: data.priceRange || 'Onbekend',
       description: data.description.length > 120 ? data.description.substring(0, 117) + '...' : data.description,
-      featuredTool: data.featuredTool || (data.tools?.[0]?.name || 'Tool'),
+      featuredTool,
       affiliateUrl,
       affiliateMerchant
     };
