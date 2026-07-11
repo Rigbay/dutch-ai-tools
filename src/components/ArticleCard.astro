@@ -1,38 +1,29 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 
-interface Props {
-  article: CollectionEntry<'articles'>;
-}
-
+interface Props { article: CollectionEntry<'articles'>; }
 const { article } = Astro.props;
 const data = article.data || {};
 const slug = data.slug || article.id || '';
 const categoryLabel: Record<string, string> = {
-  productiviteit: 'Productiviteit',
-  marketing: 'Marketing',
-  creatie: 'Creatie',
-  development: 'Development',
-  business: 'Business',
-  technologie: 'Technologie'
+  productiviteit: 'Productiviteit', marketing: 'Marketing', creatie: 'Creatie',
+  development: 'Development', business: 'Business', technologie: 'Technologie',
+  'huis-tuin': 'Huis & Tuin', persoonlijk: 'Persoonlijk'
 };
+const initials = (data.featuredTool || 'AI').split(/\s+/).map((part: string) => part[0]).join('').slice(0, 3).toUpperCase();
 ---
 
-<article class="flex h-full flex-col rounded border border-[#e2e5f0] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
-  <div class="flex items-center justify-between gap-3 text-xs font-bold uppercase tracking-[0.14em] text-muted">
-    <span>{categoryLabel[data.category] || data.category || 'Overig'}</span>
-    <span>{data.modelYear || '2026'}</span>
+<article class="group flex h-full flex-col overflow-hidden rounded-2xl border border-[#dfe5ec] bg-white transition hover:-translate-y-1 hover:border-[#c6d2df] hover:shadow-soft">
+  <div class="flex items-center justify-between border-b border-[#edf0f4] bg-[#f8fafc] px-5 py-4">
+    <div class="flex min-w-0 items-center gap-3"><span class="tool-orb h-9 w-9 rounded-xl text-[.68rem]">{initials}</span><span class="truncate text-xs font-extrabold uppercase tracking-[.13em] text-muted">{categoryLabel[data.category] || data.category}</span></div>
+    <span class="text-xs font-bold text-muted">{data.readingTime}</span>
   </div>
-  <h2 class="mt-4 font-serif text-2xl font-semibold leading-tight text-ink">
-    <a href={`/${slug}/`} class="hover:text-leaf">{data.title || slug}</a>
-  </h2>
-  <p class="mt-3 flex-1 text-sm leading-6 text-muted">{data.description || ''}</p>
-  <div class="mt-5 flex flex-wrap items-center gap-2 text-sm">
-    <span class="rounded bg-[#eef2ff] px-2.5 py-1 font-bold text-leaf">{data.rating ? data.rating.toFixed(1) : '—'}/5</span>
-    <span class="rounded bg-linen px-2.5 py-1 text-muted">{data.priceRange || ''}</span>
-    <span class="rounded bg-linen px-2.5 py-1 text-muted">{data.readingTime || ''}</span>
+  <div class="flex flex-1 flex-col p-5">
+    <h2 class="text-xl font-extrabold leading-tight tracking-[-.03em] text-ink sm:text-[1.35rem]"><a href={`/${slug}/`} class="transition group-hover:text-leaf">{data.title || slug}</a></h2>
+    <p class="mt-3 line-clamp-3 flex-1 text-sm leading-6 text-muted">{data.description || ''}</p>
+    <div class="mt-6 flex items-center justify-between gap-3 border-t border-[#edf0f4] pt-4 text-sm">
+      <div><span class="font-extrabold text-ink">{data.featuredTool}</span><span class="ml-2 text-xs font-bold text-[#118c7a]">{data.rating ? data.rating.toFixed(1) : '—'}/5</span></div>
+      <span class="font-extrabold text-leaf transition group-hover:translate-x-1" aria-hidden="true">→</span>
+    </div>
   </div>
-  <a href={`/${slug}/`} class="mt-5 inline-flex w-fit rounded bg-leaf px-4 py-2 text-sm font-bold text-white transition hover:bg-[#1d4ed8]">
-    Lees vergelijking
-  </a>
 </article>

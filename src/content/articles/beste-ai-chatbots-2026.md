@@ -1,145 +1,183 @@
 ---
-
-title: 'Beste AI Chatbots 2026: ChatGPT vs Gemini vs Claude vs Perplexity'
+title: 'Beste AI-chatbot van 2026: ChatGPT, Claude, Gemini en meer'
 slug: beste-ai-chatbots-2026
-description: 'Vergelijk de beste AI chatbots van 2026. ChatGPT, Google Gemini, Claude,
-  Perplexity en meer: welke AI assistent past bij jouw werk?'
+description: 'Welke AI-chatbot past bij jouw werk? Vergelijk ChatGPT, Claude, Gemini, Perplexity, Copilot en Poe op toepassing, beperkingen en prijsmodel.'
 category: productiviteit
-rating: 4.4
-priceRange: EUR 0-100/mnd
+rating: 4.7
+priceRange: 'Gratis tot premium abonnement'
 pros:
-- Eerlijke vergelijking van de beste AI tools voor dit segment
-- Duidelijke prijsranges, verdict en score per tool
-- Nederlandstalig en praktijkgericht advies met FAQ
+  - 'Snel van zes bekende chatbots naar een shortlist op basis van je echte taak'
+  - 'Directe productlinks en controleerbare, officiële bronnen bij veranderlijke informatie'
+  - 'Duidelijk onderscheid tussen een allround keuze en specialistische alternatieven'
 cons:
-- Prijzen kunnen wijzigen, check altijd de actuele aanbieder
-- Niet elke tool is dagelijks getest met intensief gebruik
-- Sommige AI features zijn nog in beta of development
+  - 'Modelnamen, limieten en abonnementsprijzen kunnen tussentijds veranderen'
+  - 'De beste keuze hangt ook af van je eigen bestanden, privacy-eisen en software-ecosysteem'
+  - 'Scores zijn een redactionele samenvatting en vervangen geen proefperiode met je eigen werk'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-date: 2026-05-16
+  - 'https://chatgpt.com/'
+  - 'https://claude.ai/'
+date: 2026-07-11
 modelYear: 2026
 featuredTool: ChatGPT
-readingTime: 8 min
+readingTime: '10 min'
 tools:
-- name: ChatGPT
-  verdict: Meest veelzijdige chatbot met grootste ecosysteem en plugins
-  priceRange: EUR 0-25/mnd
-  bestFor: Allround AI assistent
-  rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
-- name: Google Gemini
-  verdict: Diepe Google-integratie en sterke Nederlandse meertaligheid
-  priceRange: EUR 0-25/mnd
-  bestFor: Google-ecosysteem
-  rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
-- name: Claude
-  verdict: Beste voor lange documenten, analyse en genuanceerd begrip
-  priceRange: EUR 0-25/mnd
-  bestFor: Diepgaande analyse
-  rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
-- name: Perplexity AI
-  verdict: Beste voor research met real-time bronvermeldingen en verificatie
-  priceRange: EUR 0-25/mnd
-  bestFor: Research & fact-check
-  rating: 4.4
-  affiliateLink: https://www.perplexity.ai/
-- name: Microsoft Copilot
-  verdict: Diepe Office 365 integratie voor zakelijke productiviteit
-  priceRange: EUR 0-30/mnd
-  bestFor: MS Office gebruikers
-  rating: 4.3
-  affiliateLink: https://copilot.microsoft.com/
-- name: Poe
-  verdict: Toegang tot meerdere AI modellen in een app, flexibel abonnement
-  priceRange: EUR 0-25/mnd
-  bestFor: Multi-model toegang
-  rating: 4.2
-  affiliateLink: https://poe.com/
-- name: DeepSeek
-  verdict: Nieuwe uitdager met sterke performance en open-source componenten
-  priceRange: EUR 0-5/mnd
-  bestFor: Budget powerhouse
-  rating: 4.1
-  affiliateLink: https://www.deepseek.com/
+  - name: ChatGPT
+    verdict: 'De breedste allround start voor schrijven, analyse, bestanden en dagelijks assistentwerk.'
+    priceRange: 'Gratis / betaalde plannen'
+    bestFor: 'Allround gebruik'
+    rating: 4.7
+    affiliateLink: 'https://chatgpt.com/'
+  - name: Claude
+    verdict: 'Sterke keuze voor lange documenten, zorgvuldige tekst en complexe denk- of codeertaken.'
+    priceRange: 'Gratis / Pro vanaf $20'
+    bestFor: 'Diep werk en documenten'
+    rating: 4.6
+    affiliateLink: 'https://claude.ai/'
+  - name: Perplexity
+    verdict: 'Het duidelijkst wanneer webresearch en zichtbare bronverwijzingen centraal staan.'
+    priceRange: 'Gratis / Pro $20'
+    bestFor: 'Research met bronnen'
+    rating: 4.5
+    affiliateLink: 'https://www.perplexity.ai/'
+  - name: Google Gemini
+    verdict: 'Logische keuze als je werk al sterk leunt op Google-diensten en lange context.'
+    priceRange: 'Gratis / Google AI-plan'
+    bestFor: 'Google-ecosysteem'
+    rating: 4.4
+    affiliateLink: 'https://gemini.google.com/'
+  - name: Microsoft Copilot
+    verdict: 'Vooral interessant wanneer Microsoft 365, Windows en werkdocumenten je basis vormen.'
+    priceRange: 'Gratis / Microsoft-plan'
+    bestFor: 'Microsoft-werkplek'
+    rating: 4.2
+    affiliateLink: 'https://copilot.microsoft.com/'
+  - name: Poe
+    verdict: 'Handig om meerdere modelmakers en gespecialiseerde bots vanuit één omgeving te gebruiken.'
+    priceRange: 'Gratis / abonnement'
+    bestFor: 'Meerdere modellen testen'
+    rating: 4.1
+    affiliateLink: 'https://poe.com/'
 related:
   - chatgpt-vs-gemini-vs-claude-nederlands-2026
   - beste-ai-meeting-transcriptie-tools-2026
   - beste-gratis-ai-tools-2026
 draft: false
 faq:
-- q: "Wat is de beste AI tool voor productiviteit in 2026?"
-  a: 'Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is ChatGPT een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.'
-- q: "Zijn er goede gratis AI tools beschikbaar in 2026?"
-  a: 'Ja, veel AI tools bieden een gratis tier aan. ChatGPT, Claude en Perplexity hebben sterke gratis versies. Canva en CapCut bieden ook veel functionaliteit gratis. De gratis versies hebben wel beperkingen in dagelijks gebruik, maar zijn prima om te beginnen.'
-- q: "Hoe kies ik de juiste AI tool voor mijn situatie?"
-  a: 'Begin met het bepalen van je primaire use case (schrijven, automatiseren, analyseren, design), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken op basis van score, prijs en de ''beste voor'' kolom.'
----
-Absoluut! Hier is een uitgebreid artikel dat de genoemde AI-chatbots in het Nederlands vergelijkt, met een focus op hun prestaties in 2026.
-
----
-
-# De AI-Chatbot Arena: Een Diepgaande Vergelijking van ChatGPT, Gemini, Claude, Perplexity AI, Microsoft Copilot en Poe in 2026
-
-De wereld van kunstmatige intelligentie (AI) evolueert in een duizelingwekkend tempo. Chatbots, de meest toegankelijke vorm van AI voor het grote publiek, zijn niet langer futuristische concepten, maar krachtige hulpmiddelen die ons dagelijks leven en werk transformeren. In 2026 staan we voor een geavanceerd landschap, waarin de concurrentie hevig is en de mogelijkheden schijnbaar eindeloos. In dit artikel duiken we diep in de prestaties van zes toonaangevende AI-chatbots: **ChatGPT** van OpenAI, **Google Gemini**, **Claude** van Anthropic, **Perplexity AI**, **Microsoft Copilot** en **Poe** van Quora. We onderzoeken hun Nederlandse taalbegrip, prijsmodellen, sterke en zwakke punten, om u te helpen navigeren door dit dynamische ecosysteem.
-
-## De Evolutie van AI-Chatbots: Waar Staan We in 2026?
-
-De AI-chatbots van 2026 zijn aanzienlijk verder ontwikkeld dan hun voorgangers van slechts een paar jaar geleden. Ze beschikken over een dieper begrip van context, nuance en complexe redeneringen. Het genereren van vloeiende, mensachtige tekst is de norm geworden, en de mogelijkheid om te interageren met verschillende modaliteiten (tekst, afbeeldingen, audio) is steeds meer geïntegreerd. Belangrijk is ook de verbetering van het **Nederlands taalbegrip**. Waar eerdere modellen soms struikelden over idiomatische uitdrukkingen, culturele referenties of subtiele grammaticale structuren, tonen de nieuwste generaties een indrukwekkend niveau van beheersing.
-
-## De Spelers op het Toneel: Een Overzicht
-
-Laten we de hoofdrolspelers in onze vergelijking nader bekijken:
-
-*   **ChatGPT (OpenAI):** De pionier die de wereld kennis liet maken met geavanceerde conversatie-AI. In 2026 is ChatGPT verder verfijnd, met verbeterde multimodaliteit en een grotere nadruk op betrouwbaarheid en veiligheid.
-*   **Google Gemini:** Googles antwoord op de AI-boom. Gemini is ontworpen als een multimodale AI vanaf de grond af, wat betekent dat het van nature kan redeneren over tekst, afbeeldingen, audio en video.
-*   **Claude (Anthropic):** Bekend om zijn focus op ethische AI en het vermogen om lange teksten te verwerken en te analyseren. Claude 3 en latere versies hebben de lat voor contextvenster en redeneringsvermogen aanzienlijk verhoogd.
-*   **Perplexity AI:** Positioneert zich als een "conversational answer engine" en blinkt uit in het samenvatten van informatie uit het web en het geven van bronvermeldingen.
-*   **Microsoft Copilot:** Geïntegreerd in het Microsoft ecosysteem (Windows, Office, Edge), Copilot is bedoeld om productiviteit te verhogen door AI-ondersteuning te bieden in alledaagse taken.
-*   **Poe (Quora):** Een platform dat toegang biedt tot meerdere AI-modellen, waaronder die van OpenAI, Anthropic en anderen. Poe biedt gebruikers de flexibiliteit om te kiezen welk model het beste past bij hun specifieke behoefte.
-
-## Nederlandse Taalbegrip: De Cruciale Factor
-
-Voor Nederlandstalige gebruikers is het Nederlandse taalbegrip van een AI-chatbot van cruciaal belang. Hoe goed kan de chatbot instructies in het Nederlands begrijpen, nuances oppikken, idiomatische uitdrukkingen correct interpreteren en antwoorden genereren die natuurlijk en correct klinken in het Nederlands?
-
-In 2026 zien we significante verbeteringen op dit gebied. De grote modellen zijn getraind op enorme hoeveelheden Nederlandstalige data, wat resulteert in:
-
-*   **Verbeterde Grammatica en Syntaxis:** Minder fouten in zinsbouw en woordkeuze.
-*   **Contextueel Begrip:** Een dieper begrip van de context van een gesprek, waardoor de chatbot relevantere en coherentere antwoorden kan geven.
-*   **Idiomatische Uitdrukkingen en Culturele Nuances:** Een betere interpretatie van Nederlandse gezegden, spreekwoorden en culturele verwijzingen.
-*   **Vloeiende en Natuurlijke Taal:** Antwoorden die nauwelijks van menselijke tekst te onderscheiden zijn.
-
-Echter, er kunnen nog steeds subtiele verschillen zijn. Modellen die specifiek zijn getraind op een breder scala aan Nederlandstalige corpora, inclusief regionale dialecten of specifieke vaktaal, kunnen een voorsprong hebben.
-
-## Prijsmodellen: Toegang en Functionaliteit
-
-De prijsmodellen van AI-chatbots variëren sterk, van gratis versies met beperkte functionaliteit tot dure abonnementen voor geavanceerde features en hogere limieten. In 2026 is dit landschap nog diverser geworden:
-
-*   **Gratis Tiers:** Bieden vaak toegang tot oudere of minder capabele modellen, met dagelijkse of maandelijkse limieten op het aantal prompts. Ideaal voor incidenteel gebruik.
-*   **Abonnementen (bijv. ChatGPT Plus, Gemini Advanced, Claude Pro):** Ontgrendelen de nieuwste en meest geavanceerde modellen, bieden hogere snelheden, prioriteitstoegang tijdens piekuren en vaak hogere gebruikslimieten.
-*   **API-toegang/Enterprise Oplossingen:** Voor ontwikkelaars en bedrijven die AI willen integreren in hun eigen applicaties of workflows. Deze prijzen zijn vaak gebaseerd op gebruiksvolume en complexiteit.
-*   **Freemium Modellen (zoals Poe):** Bieden gratis toegang tot een selectie van modellen, met betaalde abonnementen voor toegang tot premium modellen of hogere gebruikslimieten.
-
-Het is belangrijk om de "prijs-kwaliteitverhouding" te beoordelen. Een duurder abonnement is niet altijd beter als de gratis versie al voldoet aan uw behoeften.
-
-
-## Gerelateerde artikelen
-- [ChatGPT vs Gemini vs Claude 2026: welke AI is het beste in Nederlands?](/chatgpt-vs-gemini-vs-claude-nederlands-2026)
-- [Beste AI Tools voor E-commerce 2026: top 8 vergeleken](/beste-ai-tools-ecommerce-2026)
-- [Beste AI Tools voor HR & Recruitment 2026: top 7 vergeleken](/beste-ai-tools-hr-recruitment-2026)
-
-## Sterke en Zwakke Punten: Een Gedetailleerde Analyse
-
-Hieronder volgt een analyse van de sterke en zwakke punten van elke chatbot, rekening houdend met hun verwachte ontwikkeling tot 2026.
-
-| Chatbot           | Nederlands Taalbegrip (2026)
-
+  - q: 'Wat is in 2026 de beste AI-chatbot voor de meeste mensen?'
+    a: 'ChatGPT is de meest logische allround start, omdat één omgeving veel soorten werk aankan. Voor lange documenten kan Claude beter passen; voor research met zichtbare bronnen is Perplexity vaak gerichter.'
+  - q: 'Moet ik meteen voor een betaald abonnement kiezen?'
+    a: 'Nee. Begin met één of twee gratis versies en test drie terugkerende taken uit je eigen werk. Betaal pas wanneer limieten, snelheid of een specifieke functie je aantoonbaar tegenhouden.'
+  - q: 'Welke chatbot is het beste in het Nederlands?'
+    a: 'De grote chatbots kunnen goed Nederlands schrijven, maar toon en terminologie verschillen per opdracht. Test dezelfde Nederlandse teksttaak in je shortlist en beoordeel correctheid, natuurlijkheid en hoeveel redactie nodig blijft.'
+  - q: 'Kan ik vertrouwelijke bedrijfsinformatie in een AI-chatbot zetten?'
+    a: 'Niet automatisch. Controleer eerst het gekozen plan, de privacyvoorwaarden, bewaartermijnen en beheerdersinstellingen. Gebruik voor gevoelige informatie bij voorkeur een zakelijk aanbod dat past bij je beleid.'
 ---
 
-## Lees ook
+De beste chatbot bestaat niet los van de taak. Een tool die geweldig is voor een rapport van tachtig pagina’s kan onnodig zwaar zijn voor een snelle e-mail. Een zoekgerichte assistent kan uitstekende bronnen geven, maar minder geschikt voelen als vaste schrijfpartner.
 
-- [AI voor Studenten 2026: Studietools, Essay Helpers en Productiviteitsapps](/ai-voor-studenten-2026/)
-- [Beste AI Automatisering Tools 2026: Zapier vs Make vs n8n vergeleken](/beste-ai-automation-tools-2026/)
-- [Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken](/beste-ai-meeting-transcriptie-tools-2026/)
+Daarom is onze hoofdkeuze **ChatGPT als allround start**, niet als universele winnaar. Kies **Claude** voor lang en geconcentreerd documentwerk, **Perplexity** voor webresearch met zichtbare bronnen, **Gemini** als Google je werkomgeving bepaalt en **Copilot** als Microsoft 365 dat doet. **Poe** is vooral een handige proeftuin voor meerdere modellen.
+
+> Kort advies: test niet met een slimme voorbeeldprompt van internet. Test met drie echte taken die volgende week opnieuw terugkomen. De tool die je totale nabewerking verlaagt, is meestal waardevoller dan de tool met de spectaculairste demo.
+
+<h2 id="advies-per-situatie">Advies per situatie</h2>
+
+### Je wilt één chatbot voor bijna alles
+
+Begin met **ChatGPT**. De combinatie van algemene gesprekstaken, bestandswerk, analyse en een breed product-ecosysteem maakt het de veiligste eerste shortlist-kandidaat. Het nadeel van die breedte is dat het product veel plannen, modellen en functies heeft; controleer dus wat jouw plan werkelijk bevat in plaats van uit te gaan van een oude review.
+
+### Je werkt met lange documenten of subtiele teksten
+
+Zet **Claude** naast ChatGPT. Claude is aantrekkelijk voor lange context, zorgvuldige tekstbewerking, analyse en codeertaken. Anthropic biedt een gratis versie, een Pro-plan en zwaardere Max-plannen. Voor een individuele professional is de relevante vraag niet welk plan de hoogste limiet heeft, maar of jouw documenten en sessies in het lagere plan passen.
+
+### Je onderzoek moet controleerbare bronnen hebben
+
+Kies **Perplexity** als eerste test. Het product is ingericht rondom zoeken, antwoorden en bronverwijzingen. Dat maakt het sneller om claims terug te vinden dan bij een gewone chatbot. Bronvermelding is nog geen garantie voor juistheid: open de belangrijkste bron altijd zelf en controleer of die de conclusie werkelijk ondersteunt.
+
+### Je leeft in Google Workspace
+
+**Gemini** is dan de natuurlijke kandidaat. Google koppelt de betaalde AI-plannen aan verschillende Gemini-functies en gebruikslimieten. Die limieten en beschikbare modellen wijzigen geregeld. Kijk daarom vooral naar de integratie die jij nodig hebt — bijvoorbeeld werken met Google-bestanden — en niet alleen naar de modelnaam van deze maand.
+
+### Je werkt de hele dag in Microsoft 365
+
+Test **Microsoft Copilot** in de context waarin je hem werkelijk wilt gebruiken. De losse webchat en Copilot-functies binnen Microsoft-producten zijn niet hetzelfde aanbod. De meerwaarde zit vooral in de aansluiting op je werkplek; zonder die context is een bredere chatbot vaak eenvoudiger.
+
+### Je wilt verschillende modelmakers vergelijken
+
+**Poe** geeft via één interface toegang tot veel bots en modellen. Dat is handig voor verkenning en voor mensen die vaak wisselen. Het gebruik werkt met punten en planlimieten, waardoor je vooraf moet controleren hoeveel van jouw favoriete model binnen een abonnement past.
+
+<h2 id="tool-voor-tool">Tool voor tool: de echte afweging</h2>
+
+### ChatGPT: de breedste eerste keuze
+
+**Kies ChatGPT als** je één assistent wilt voor uiteenlopende taken en nog niet precies weet waar je gebruik zich zal concentreren.
+
+**Kies iets anders als** lange documenten je hoofdwerk zijn, brononderzoek je primaire doel is of je alleen waarde krijgt door diepe integratie met Google of Microsoft.
+
+De planpagina toont een gratis aanbod en meerdere betaalde niveaus. Functies en gebruik vallen niet allemaal onder één simpele ‘onbeperkt’-belofte. Zwaar agentwerk, lange context en geavanceerdere modellen kunnen andere limieten hebben dan gewone chats.
+
+### Claude: geconcentreerd en documentgericht
+
+**Kies Claude als** je veel schrijft, grote documenten moet doorgronden of een rustige denk- en codeerpartner zoekt.
+
+**Kies iets anders als** je vooral actuele webbronnen wilt doorzoeken of als je organisatie al volledig op een ander product-ecosysteem is ingericht.
+
+Claude Pro staat bij Anthropic vermeld voor $20 per maand of $17 per maand bij jaarlijkse betaling; zwaardere Max-plannen beginnen hoger. Lokale belastingen en beschikbaarheid kunnen het uiteindelijke bedrag veranderen.
+
+### Perplexity: research eerst
+
+**Kies Perplexity als** het antwoord pas bruikbaar is wanneer je de onderliggende websites snel kunt openen.
+
+**Kies iets anders als** je vooral lange creatieve samenwerking, uitgebreide documentbewerking of één algemene digitale werkruimte zoekt.
+
+Perplexity Pro staat vermeld voor $20 per maand, met een lager effectief maandbedrag bij jaarlijkse betaling. Het betaalde plan voegt hogere limieten en toegang tot meerdere modellen toe, maar de broncontrole blijft jouw verantwoordelijkheid.
+
+### Gemini: logisch binnen Google
+
+**Kies Gemini als** Google Workspace, Android of Google’s AI-diensten al het centrum van je workflow zijn.
+
+**Kies iets anders als** je die integratie niet nodig hebt en puur de beste losse chatbot voor jouw taak zoekt.
+
+Google publiceert verschillende toegangsniveaus en limieten voor Gemini. Omdat modeltoegang en limieten kunnen wisselen, verwijzen we bewust niet naar één ‘definitieve’ bundelprijs in deze vergelijking.
+
+### Microsoft Copilot: context boven losse chat
+
+**Kies Copilot als** je voordeel kunt halen uit de plek waar je documenten, vergaderingen en werkapps al staan.
+
+**Kies iets anders als** je een onafhankelijke, algemene chatbot zoekt en Microsoft-integratie weinig toevoegt.
+
+Controleer nauwkeurig welk Copilot-product je bekijkt. Een consumentenchat, Microsoft 365-abonnement en zakelijk Copilot-aanbod hebben andere functies, voorwaarden en prijzen.
+
+### Poe: een modelmarktplaats in plaats van één model
+
+**Kies Poe als** je geregeld meerdere modellen naast elkaar wilt proberen of gespecialiseerde bots gebruikt.
+
+**Kies iets anders als** voorspelbare limieten, één vaste workflow of directe ondersteuning van de modelmaker belangrijker is.
+
+Poe-abonnementen gebruiken compute points. Hoe snel die punten opraken hangt af van het gekozen model en de lengte van je gesprekken. Bekijk daarom de actuele puntenkosten in Poe voordat je een jaarplan kiest.
+
+<h2 id="zo-maak-je-de-keuze">Zo maak je de keuze in 30 minuten</h2>
+
+1. **Kies drie echte taken.** Bijvoorbeeld een offerte herschrijven, een spreadsheet uitleggen en vijf betrouwbare bronnen voor een beslissing vinden.
+2. **Gebruik dezelfde input.** Geef iedere chatbot dezelfde context en dezelfde criteria. Noteer ook hoeveel vervolgvragen nodig zijn.
+3. **Meet nabewerking.** Tel niet alleen de mooie eerste antwoorden; kijk hoeveel feiten, toon en structuur je nog moet herstellen.
+4. **Controleer de grensgevallen.** Test één lang document, één Nederlandstalige nuance en één opdracht waarbij de tool ‘ik weet het niet’ zou moeten kunnen zeggen.
+5. **Betaal pas voor de bottleneck.** Een abonnement is rationeel wanneer het tijd bespaart, een vereiste functie ontsluit of een terugkerende limiet wegneemt.
+
+Een eenvoudige scorekaart werkt beter dan gevoel alleen: geef per taak 1–5 punten voor **juistheid, benodigde nabewerking, snelheid, broncontrole en privacy-fit**. Verdubbel het gewicht van de taak die het vaakst terugkomt.
+
+## Wat we wel en niet hebben beoordeeld
+
+Deze keuzehulp combineert actuele informatie van officiële product- en hulppagina’s met redactionele beoordeling van positionering en geschiktheid. We claimen niet dat elk betaald plan dagelijks intensief is getest. Daarom staan veranderlijke prijzen in ranges en linken we naar de aanbieder.
+
+AI-aanbiedingen veranderen snel. Een score vat de huidige shortlist samen, maar een gewijzigde limiet, nieuw model of andere integratie kan jouw persoonlijke winnaar verschuiven. De beslisregel blijft stabieler: **taak eerst, ecosysteem tweede, modelnaam derde**.
+
+<h2 id="bronnen">Officiële bronnen</h2>
+
+Gecontroleerd op 11 juli 2026:
+
+- [ChatGPT-plannen en functies](https://chatgpt.com/pricing/)
+- [Claude-prijzen en plannen](https://www.anthropic.com/pricing)
+- [Gemini-apps: limieten en upgrades](https://support.google.com/gemini/answer/16275805?hl=nl)
+- [Perplexity Pro](https://www.perplexity.ai/pro)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
+- [Poe: aankopen, abonnementen en compute points](https://help.poe.com/hc/en-us/articles/19945140063636-Poe-Purchases-FAQs)

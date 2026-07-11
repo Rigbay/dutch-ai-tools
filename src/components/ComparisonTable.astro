@@ -2,63 +2,43 @@
 import AffiliateLink from './AffiliateLink.astro';
 import { detectMerchant } from '../lib/affiliateRegistry';
 
-interface Tool {
-  name: string;
-  verdict: string;
-  priceRange: string;
-  bestFor: string;
-  rating: number;
-  affiliateLink: string;
-}
-
-interface Props {
-  tools: Tool[];
-}
-
+interface Tool { name: string; verdict: string; priceRange: string; bestFor: string; rating: number; affiliateLink: string; }
+interface Props { tools: Tool[]; }
 const { tools } = Astro.props;
 const isSponsoredLink = (url: string) => /[?&](via|ref|tag|fp_ref|pc)=/i.test(url) || url.includes('pxf.io/');
 const linkRel = (url: string) => isSponsoredLink(url) ? 'nofollow sponsored' : 'nofollow';
+const initials = (name: string) => name.split(/\s+/).map((part) => part[0]).join('').slice(0, 3).toUpperCase();
 ---
 
-<div class="overflow-x-auto rounded border border-[#e2e5f0] bg-paper">
-  <table class="w-full min-w-[760px] border-collapse text-left text-sm">
-    <thead class="bg-linen text-ink">
-      <tr>
-        <th class="px-4 py-3">Tool</th>
-        <th class="px-4 py-3">Beste voor</th>
-        <th class="px-4 py-3">Prijsrange</th>
-        <th class="px-4 py-3">Score</th>
-        <th class="px-4 py-3">Korte conclusie</th>
-        <th class="px-4 py-3">Link</th>
-      </tr>
-    </thead>
+<div class="grid gap-3 md:hidden">
+  {tools.map((tool, index) => {
+    const merchantId = detectMerchant(tool.affiliateLink);
+    return (
+      <article class="rounded-2xl border border-[#dfe5ec] bg-white p-5">
+        <div class="flex items-start gap-3"><span class="tool-orb">{initials(tool.name)}</span><div class="min-w-0 flex-1"><div class="flex items-start justify-between gap-3"><h3 class="font-extrabold text-ink">{tool.name}</h3><span class="shrink-0 text-sm font-extrabold text-[#118c7a]">{tool.rating.toFixed(1)}/5</span></div><p class="mt-1 text-xs font-bold uppercase tracking-[.11em] text-leaf">{index === 0 ? 'Onze allround keuze' : tool.bestFor}</p></div></div>
+        <p class="mt-4 text-sm leading-6 text-muted">{tool.verdict}</p>
+        <div class="mt-4 flex items-center justify-between gap-3 border-t border-[#edf0f4] pt-4"><span class="text-sm font-bold text-ink">{tool.priceRange}</span>{merchantId ? <AffiliateLink merchantId={merchantId} siteId="dutch-ai-tools" class="button-primary min-h-0 px-3 py-2 text-xs">Naar aanbieder</AffiliateLink> : <a class="button-primary min-h-0 px-3 py-2 text-xs" href={tool.affiliateLink} rel={linkRel(tool.affiliateLink)}>Naar aanbieder</a>}</div>
+      </article>
+    );
+  })}
+</div>
+
+<div class="hidden overflow-hidden rounded-2xl border border-[#dfe5ec] bg-white md:block">
+  <table class="w-full border-collapse text-left text-sm">
+    <thead class="bg-[#f1f5fa] text-ink"><tr><th class="px-5 py-4">Tool</th><th class="px-4 py-4">Beste voor</th><th class="px-4 py-4">Prijs</th><th class="px-4 py-4">Oordeel</th><th class="px-4 py-4"><span class="sr-only">Aanbieder</span></th></tr></thead>
     <tbody>
-      {tools.map((tool) => {
+      {tools.map((tool, index) => {
         const merchantId = detectMerchant(tool.affiliateLink);
         return (
-        <tr class="border-t border-[#e2e5f0] align-top">
-          <td class="px-4 py-3 font-semibold text-ink">{tool.name}</td>
-          <td class="px-4 py-3 text-muted">{tool.bestFor}</td>
-          <td class="px-4 py-3 text-muted">{tool.priceRange}</td>
-          <td class="px-4 py-3 font-bold text-leaf">{tool.rating.toFixed(1)}/5</td>
-          <td class="px-4 py-3 text-muted">{tool.verdict}</td>
-          <td class="px-4 py-3">
-            {merchantId ? (
-              <AffiliateLink
-                merchantId={merchantId}
-                siteId="dutch-ai-tools"
-                class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]"
-              >
-                Bekijk tool
-              </AffiliateLink>
-            ) : (
-              <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1d4ed8]" href={tool.affiliateLink} rel={linkRel(tool.affiliateLink)}>
-                Bekijk tool
-              </a>
-            )}
-          </td>
-        </tr>
-      )})}
+          <tr class="border-t border-[#e7ebf0] align-middle">
+            <td class="px-5 py-4"><div class="flex items-center gap-3"><span class="tool-orb h-9 w-9 text-[.68rem]">{initials(tool.name)}</span><div><strong class="block text-ink">{tool.name}</strong>{index === 0 && <span class="text-[.65rem] font-extrabold uppercase tracking-[.12em] text-leaf">Allround keuze</span>}</div></div></td>
+            <td class="max-w-[11rem] px-4 py-4 font-semibold text-muted">{tool.bestFor}</td>
+            <td class="max-w-[9rem] px-4 py-4 text-muted">{tool.priceRange}</td>
+            <td class="max-w-[17rem] px-4 py-4"><span class="font-extrabold text-[#118c7a]">{tool.rating.toFixed(1)}</span><span class="ml-2 text-muted">{tool.verdict}</span></td>
+            <td class="px-4 py-4">{merchantId ? <AffiliateLink merchantId={merchantId} siteId="dutch-ai-tools" class="button-secondary min-h-0 whitespace-nowrap px-3 py-2 text-xs">Bekijk →</AffiliateLink> : <a class="button-secondary min-h-0 whitespace-nowrap px-3 py-2 text-xs" href={tool.affiliateLink} rel={linkRel(tool.affiliateLink)}>Bekijk →</a>}</td>
+          </tr>
+        );
+      })}
     </tbody>
   </table>
 </div>
