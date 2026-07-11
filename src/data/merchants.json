@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "schema": "unified-1.0",
-    "lastUpdated": "2026-06-05T14:00:00+02:00",
-    "updatedBy": "hermes (kanban t_04507b44: 5 Impact.com + 5 PartnerStack registry entries)",
-    "source": "normalized from audit-2026-05-27 + 2026-06-05 signups; schema bifurcation resolved",
+    "lastUpdated": "2026-07-11T15:47:33+02:00",
+    "updatedBy": "Codex authenticated/mailbox reconciliation",
+    "source": "normalized registry plus dated 2026-07-11 affiliate reconciliation receipt",
     "statusEnum": [
       "active",
       "pending",
@@ -92,10 +92,10 @@
       "name": "Coolblue",
       "program": "Awin / Coolblue",
       "platform": "Awin",
-      "status": "pending",
+      "status": "active",
       "perSite": {
         "kieskeuken": {
-          "status": "pending",
+          "status": "active",
           "affiliateId": null
         },
         "dutch-ai-tools": {
@@ -117,9 +117,9 @@
       ],
       "payout": "Awin",
       "articles": null,
-      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "lastVerified": "2026-07-11T15:47:33+02:00",
       "signedUp": null,
-      "notes": "Awin publisher 2899551. Joined Coolblue in My Programs. Awaiting advertiser approval. Link Builder gated until approved."
+      "notes": "Coolblue NL membership approved by Awin email 2026-05-28; continuing advertiser mail observed 2026-06-29. Current Awin financial dashboard is sign-in gated, so clicks, conversions, commission, and payout remain unknown."
     },
     "beehiiv": {
       "name": "beehiiv",
@@ -388,10 +388,10 @@
       "name": "TradeTracker",
       "program": "TradeTracker Publisher",
       "platform": "TradeTracker",
-      "status": "rejected",
+      "status": "pending",
       "perSite": {
         "dutch-ai-tools": {
-          "status": "rejected",
+          "status": "pending",
           "affiliateId": null
         }
       },
@@ -410,9 +410,9 @@
       ],
       "payout": null,
       "articles": null,
-      "lastVerified": "2026-06-01T00:00:00+02:00",
+      "lastVerified": "2026-07-11T15:47:33+02:00",
       "signedUp": "2026-05-26",
-      "notes": "ARCHIVED 2026-06-01. Registered as HermesAffiliates. .github.io domain likely failed professional review; reapply only from a custom domain. Was referenced in briefs/STRATEGY.md but MISSING from this registry until the 2026-06-05 reconcile."
+      "notes": "A prior application was archived 2026-06-01. A new activation email arrived 2026-07-10 and said the application would be assessed; current state is pending review. No approval, affiliate link, commission, or payout is claimed."
     },
     "grammarly": {
       "name": "Grammarly",
