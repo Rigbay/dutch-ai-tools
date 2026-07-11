@@ -65,7 +65,7 @@ faq:
 - q: "Wat is het beste e-bike merk van Nederland?"
   a: 'Gazelle wordt algemeen beschouwd als het beste Nederlandse e-bike merk vanwege de bouwkwaliteit, betrouwbaarheid en het uitgebreide dealernetwerk. Stella is de beste keuze voor prijsbewuste kopers. VanMoof en Cowboy zijn sterke designmerken maar hebben een kleinere service-infrastructuur, vooral VanMoof na de doorstart.'
 - q: "Hoeveel kilometer haal ik met een volle accu?"
-  a: 'De meeste e-bikes halen 60-120 km op een volle accu, afhankelijk van de ondersteuningsstand, het gewicht van de fietser, tegenwind en terrein. In de praktijk reken je in Nederland op 70-90 km in eco-stand en 40-60 km in turbo-stand. Grotere accu's (500Wh+) kunnen dit bereik nog verder vergroten.'
+  a: "De meeste e-bikes halen 60-120 km op een volle accu, afhankelijk van de ondersteuningsstand, het gewicht van de fietser, tegenwind en terrein. In de praktijk reken je in Nederland op 70-90 km in eco-stand en 40-60 km in turbo-stand. Grotere accu's (500Wh+) kunnen dit bereik nog verder vergroten."
 - q: "Kan ik een e-bike leasen via mijn werkgever?"
   a: 'Ja, veel werkgevers bieden een fietsplan aan via bedrijven zoals Lease a Bike, Fietslease of Cyclis. Je betaalt de lease uit je bruto salaris, wat een belastingvoordeel oplevert van 30-50%. Informeer bij je HR-afdeling naar de mogelijkheden. Dit maakt een duurdere, hoogwaardige e-bike vaak bereikbaar.'
 ---

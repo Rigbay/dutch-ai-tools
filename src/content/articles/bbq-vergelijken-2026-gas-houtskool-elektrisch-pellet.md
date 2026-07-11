@@ -1,7 +1,7 @@
 ---
 title: 'Beste BBQ 2026: Gas vs Houtskool vs Elektrisch vs Pellet — Welke Past Bij Jouw Tuin of Balkon?'
 slug: bbq-vergelijken-2026-gas-houtskool-elektrisch-pellet
-description: 'Vergelijking van de 6 beste BBQ types in 2026. Eerlijke scores, prijzen en verdicts voor houtskool, gas, elektrisch, pellet, kamado en tafel BBQ's.'
+description: "Vergelijking van de 6 beste BBQ types in 2026. Eerlijke scores, prijzen en verdicts voor houtskool, gas, elektrisch, pellet, kamado en tafel BBQ's."
 category: huis-tuin
 rating: 4.6
 priceRange: EUR 30-2000
@@ -63,9 +63,9 @@ related:
 draft: false
 faq:
 - q: "Mag ik een houtskool BBQ op mijn balkon?"
-  a: 'Check je huurcontract en VvE-reglement. Veel complexen verbieden houtskool- en gas-BBQ's. Een elektrische BBQ is dan de beste optie.'
+  a: "Check je huurcontract en VvE-reglement. Veel complexen verbieden houtskool- en gas-BBQ's. Een elektrische BBQ is dan de beste optie."
 - q: "Wat is het beste BBQ merk in Nederland?"
-  a: 'Weber is het populairst vanwege bouwkwaliteit en garantie. The Bastard is toonaangevend in kamado's.'
+  a: "Weber is het populairst vanwege bouwkwaliteit en garantie. The Bastard is toonaangevend in kamado's."
 - q: "Hoeveel moet ik uitgeven aan een goede BBQ?"
   a: 'Houtskool vanaf EUR 150, gas vanaf EUR 350, pellet/kamado vanaf EUR 500 maar gaat 10+ jaar mee.'
 ---

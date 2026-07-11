@@ -70,7 +70,7 @@ faq:
 - q: "Wat is goedkoper: een deelauto of eigen auto?"
   a: 'Bij minder dan 10.000 km per jaar is een deelauto vrijwel altijd goedkoper. Je bespaart op verzekering (EUR 50-100/mnd), onderhoud, afschrijving en parkeerkosten. Alleen bij dagelijks woon-werkverkeer is een eigen auto voordeliger.'
 - q: "Heb ik een eigen verzekering nodig voor een deelauto?"
-  a: 'Nee, alle deelauto's zijn verzekerd via de aanbieder. Het eigen risico verschilt per dienst (meestal EUR 350-500). Je kunt dit vaak verlagen via een extra pakket.'
+  a: "Nee, alle deelauto's zijn verzekerd via de aanbieder. Het eigen risico verschilt per dienst (meestal EUR 350-500). Je kunt dit vaak verlagen via een extra pakket."
 - q: "Welke deelauto dienst is beschikbaar in mijn stad?"
   a: 'Greenwheels en MyWheels zijn in de meeste Nederlandse steden beschikbaar. Sixt Share en ShareNow alleen in Amsterdam, Rotterdam en Den Haag. Amber vooral in Brabant. Check de app van elke dienst voor actuele beschikbaarheid in jouw buurt.'
 ---

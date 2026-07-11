@@ -63,7 +63,7 @@ related:
 draft: false
 faq:
 - q: "Welke app is het beste om Nederlands te leren?"
-  a: 'Babbel en Busuu hebben gestructureerde NT2-programma's. Preply biedt 1-op-1 lessen met Nederlandse docenten.'
+  a: "Babbel en Busuu hebben gestructureerde NT2-programma's. Preply biedt 1-op-1 lessen met Nederlandse docenten."
 - q: "Kan ik echt een taal leren met alleen een app?"
   a: 'Apps brengen je tot A2/B1 niveau. Voor vloeiendheid heb je aanvullende methoden nodig zoals tutoring of onderdompeling.'
 - q: "Welke app is het beste voor kinderen?"
