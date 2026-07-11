@@ -32,7 +32,7 @@ def fix_category_overview(filepath):
     priceRange: '€0-€99/maand'
     bestFor: 'Content creators'
     rating: 4.5
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: 'Taskade'
     verdict: 'AI-werkruimte voor teamplanning en projectmanagement.'
     priceRange: '€0-€10/maand'

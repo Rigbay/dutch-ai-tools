@@ -15,7 +15,7 @@ cons:
 - 'Online tools vereisen internetverbinding voor documentverwerking'
 - 'Privacygevoelige documenten beter offline bewerken'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-07
 modelYear: 2026
 featuredTool: Adobe Acrobat

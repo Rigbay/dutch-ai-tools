@@ -14,7 +14,7 @@ cons:
 - Tools continu in ontwikkeling — check actuele features
 - Advies hangt af van specifieke praktijkgrootte en behoeften
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-11'
 modelYear: 2026
 featuredTool: AnVA

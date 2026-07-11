@@ -14,7 +14,7 @@ cons:
   - Sommige tools alleen in het Engels beschikbaar
   - Niet alle tools bieden gratis trial of demo
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Pleo
@@ -25,37 +25,37 @@ tools:
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Spendesk
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Rydoo
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Payhawk
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Mobilexpense
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Yokoy
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
 related:
   - ai-tools-mkb-starten-2026
   - beste-ai-tools-finance-accounting-nederland

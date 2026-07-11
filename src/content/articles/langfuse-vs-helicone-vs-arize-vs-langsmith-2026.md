@@ -15,7 +15,7 @@ cons:
 - Prijzen zijn indicatief en afhankelijk van API-volume
 - Zelf-host opties verschillen per platform — check actuele documentatie
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Langfuse

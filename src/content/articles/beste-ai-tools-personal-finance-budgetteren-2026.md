@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-05-22
 modelYear: 2026
 featuredTool: YNAB AI
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: business professionals
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Flow Your Money
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 15-80/mnd
   bestFor: business professionals
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Dyme
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-50/mnd
   bestFor: business professionals
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Woolsocks
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 0-25/mnd
   bestFor: business professionals
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Spendee AI
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 20-100/mnd
   bestFor: business professionals
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Emma
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 5-40/mnd
   bestFor: business professionals
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Wallet AI
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-60/mnd
   bestFor: business professionals
   rating: 3.9
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-non-profits-goede-doelen-2026
   - ai-voor-data-analyse-2026

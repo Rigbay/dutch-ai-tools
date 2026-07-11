@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-05-19
 modelYear: 2026

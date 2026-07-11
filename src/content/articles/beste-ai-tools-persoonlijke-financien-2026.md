@@ -17,7 +17,7 @@ cons:
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
 - https://www.notion.so
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-03
 modelYear: 2026
 featuredTool: YNAB (You Need A Budget)

@@ -18,7 +18,7 @@ cons:
 - Bankkoppelingen werken niet altijd feilloos met alle Nederlandse banken
 - Een app lost de schuld niet op, jij moet het werk doen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -41,7 +41,7 @@ tools:
   priceRange: 'Gratis (basis), €3.99/mnd (Premium)'
   bestFor: 'Besparen op vaste lasten en abonnementen'
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: 'YNAB (You Need A Budget)'
   verdict: 'De krachtigste tool voor zero-based budgettering en strategische schuldaflossing, mits je bereid bent de leercurve te doorlopen.'
   priceRange: '€14/mnd of €90/jaar'

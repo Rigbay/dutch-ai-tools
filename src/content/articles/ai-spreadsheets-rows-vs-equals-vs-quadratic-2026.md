@@ -14,7 +14,7 @@ cons:
 - Sommige features vereisen Engels-talige input
 - Niet alle tools hebben Nederlandse klantenservice
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Rows

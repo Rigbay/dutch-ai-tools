@@ -16,7 +16,7 @@ cons:
 - Voorwaarden veranderen regelmatig
 - Keuze hangt af van je situatie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 date: 2026-06-18
 modelYear: 2026

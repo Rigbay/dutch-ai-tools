@@ -45,7 +45,7 @@ def fix_article(path):
     if 'tools' in data:
         for tool in data['tools']:
             if tool.get('affiliateLink', '').startswith('https://example.com'):
-                tool['affiliateLink'] = 'https://www.beehiiv.com/?via=anonymous-operator'
+                tool['affiliateLink'] = 'https://www.beehiiv.com/'
     
     # Rebuild frontmatter
     import io

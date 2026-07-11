@@ -15,7 +15,7 @@ cons:
 - Sommige geavanceerde AI-functies vereisen nog menselijke supervisie
 - Integraties met Nederlandse systemen variëren per tool
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Bubble AI
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 25-150/mnd
   bestFor: Webapps & workflows
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Airtable AI
   verdict: Airtable AI voegt slimme data-automatisering en contentgeneratie toe aan flexibele databases.
   priceRange: EUR 20-120/mnd
   bestFor: Data & CRM
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Retool AI
   verdict: Retool AI excelleert in het bouwen van interne tools met AI-gestuurde queries en componenten.
   priceRange: EUR 10-100/mnd
   bestFor: Interne dashboards
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Softr AI
   verdict: Softr AI maakt het mogelijk om mooie client portals en apps te bouwen bovenop Airtable of andere data.
   priceRange: EUR 0-80/mnd
   bestFor: Client portals
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Glide AI
   verdict: Glide AI transformeert spreadsheets razendsnel in mobiele en web apps met slimme AI-suggesties.
   priceRange: EUR 0-60/mnd
   bestFor: Mobiele apps
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: FlutterFlow AI
   verdict: FlutterFlow AI versnelt cross-platform app-ontwikkeling met AI-codegeneratie en visuele editor.
   priceRange: EUR 30-120/mnd
   bestFor: Native apps
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Zapier AI
   verdict: Zapier AI automatiseert workflows tussen duizenden apps met natuurlijke taal en slimme suggesties.
   priceRange: EUR 0-50/mnd
   bestFor: Automatisering
   rating: 4.8
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - github-copilot-vs-cursor-vs-codeium-2026
   - beste-ai-tools-programmeren-2026

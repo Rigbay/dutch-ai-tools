@@ -13,7 +13,7 @@ cons:
 - Prijzen onder voorbehoud — tarieven fluctueren
 - Fulfilmenttarieven sterk afhankelijk van volume
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-05
 modelYear: 2026
 featuredTool: Sendcloud

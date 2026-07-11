@@ -18,7 +18,7 @@ cons:
 - Cashback is vaak beperkt tot specifieke winkels.
 - Je blijft zelf verantwoordelijk voor het maken van financiële keuzes.
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -41,7 +41,7 @@ tools:
   priceRange: 'Gratis (basis), €3,99/mnd (Premium)'
   bestFor: 'Jongere gebruikers die visueel willen sparen en bewust willen omgaan met geld.'
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: 'Dyme'
   verdict: 'Perfect voor wie wil besparen op vaste lasten en abonnementen door automatische analyse en suggesties.'
   priceRange: 'Gratis (basis), €3,99/mnd (Premium)'

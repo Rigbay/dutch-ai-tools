@@ -16,7 +16,7 @@ cons:
 - Snelle marktontwikkeling
 - Prijzen kunnen variëren
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-05-24'
 modelYear: 2026
 featuredTool: Claude 3.5 Sonnet

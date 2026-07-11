@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT Free
@@ -27,13 +27,13 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Allround AI
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Claude Free
   verdict: Uitstekende gratis AI voor diepgaande tekstverwerking
   priceRange: EUR 0/mnd
   bestFor: Tekst & analyse
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Perplexity Free
   verdict: Beste gratis research AI met realtime bronnen
   priceRange: EUR 0/mnd
@@ -51,7 +51,7 @@ tools:
   priceRange: EUR 0/mnd
   bestFor: Google integratie
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: CapCut Free
   verdict: Verbazingwekkend capabele gratis videotool met AI
   priceRange: EUR 0/mnd

@@ -17,7 +17,7 @@ cons:
 - AI-features zijn nog in snelle ontwikkeling en per tool verschillend
 - Persoonlijke voorkeur speelt een grote rol bij designsoftware — test zelf
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-04
 modelYear: 2026
 featuredTool: Figma

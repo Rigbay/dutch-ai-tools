@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest
 - Sommige AI-features nog in ontwikkeling
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-04'
 modelYear: 2026
 featuredTool: Linear

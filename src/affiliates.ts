@@ -5,7 +5,7 @@
 // Updated: 2026-05-26 — removed stale Notion application language
 
 export const AFFILIATE_MAP: Record<string, string> = {
-  BEEHIIV_AFF: 'https://www.beehiiv.com/?via=anonymous-operator',
+  BEEHIIV_AFF: 'https://www.beehiiv.com/',
   TASKADE_AFF: 'https://www.taskade.com/?via=aitoolsnl',
   WRITESONIC_AFF: 'https://writesonic.com/?via=aitoolsnl',
   OUTLIERKIT_AFF: 'https://outlierkit.com/?ref=aitoolsnl',

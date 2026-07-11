@@ -14,7 +14,7 @@ cons:
 - 'Vendor lock-in: migreren tussen platforms is lastig — kies meteen de juiste'
 - 'Prijs springt snel bij schaal: gratis tier is beperkt, betaalde plannen kunnen oplopen bij groei'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-09'
 modelYear: 2026
 featuredTool: Bubble

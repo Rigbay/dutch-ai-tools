@@ -16,7 +16,7 @@ cons:
 - De beste tool hangt af van je technische niveau en budget
 - Niet elke tool heeft even goede AI-integraties in alle regio's
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.make.com/en/register?pc=hermesai
 date: 2026-06-01
 modelYear: 2026

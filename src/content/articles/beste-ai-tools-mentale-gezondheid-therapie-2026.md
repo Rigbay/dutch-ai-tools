@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-04
@@ -27,43 +27,43 @@ tools:
     priceRange: "Gratis"
     bestFor: "AI CBT-therapie chatbot"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Wysa"
     verdict: "AI-gedreven tool voor ai emotionele ondersteuning & coaching"
     priceRange: "Gratis-50/mnd"
     bestFor: "AI emotionele ondersteuning & coaching"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Youper"
     verdict: "AI-gedreven tool voor ai mood tracking & therapie"
     priceRange: "Gratis-20/mnd"
     bestFor: "AI mood tracking & therapie"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Replika"
     verdict: "AI-gedreven tool voor ai companion voor eenzaamheid"
     priceRange: "Gratis-60/mnd"
     bestFor: "AI companion voor eenzaamheid"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "BetterHelp AI"
     verdict: "AI-gedreven tool voor ai matching + menselijke therapie"
     priceRange: "EUR 60-90/wk"
     bestFor: "AI matching + menselijke therapie"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Talkspace AI"
     verdict: "AI-gedreven tool voor ai triage + professionele therapie"
     priceRange: "EUR 50-80/wk"
     bestFor: "AI triage + professionele therapie"
     rating: 4.0
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "MindDoc"
     verdict: "AI-gedreven tool voor ai mood & symptoommonitoring"
     priceRange: "Gratis-15/mnd"
     bestFor: "AI mood & symptoommonitoring"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-tools-finops-cloudkostenbeheer-2026

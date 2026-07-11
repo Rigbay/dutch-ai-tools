@@ -37,7 +37,7 @@ ARTICLES = [
         "description": "Vergelijk Intercom, Zendesk AI en Tidio in 2026. Welke AI klantenservice tool past het beste bij jouw Nederlandse bedrijf? Complete gids met prijzen.",
         "category": "business",
         "featuredTool": "Intercom",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-150/mnd",
         "tools": [
             {"name": "Intercom", "verdict": "Beste allround klantenserviceplatform met Fin AI agent die 50%+ van tickets autonoom oplost", "priceRange": "EUR 39-150/mnd", "bestFor": "SaaS & scale-ups", "rating": 4.7, "affiliateLink": "https://www.intercom.com/?ref=aitoolsnl"},
@@ -68,7 +68,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op Nederlandse bedrijv
         "description": "Vergelijk Homerun, Recruitee en Teamtailor in 2026. Welke AI recruitment tool helpt jouw HR-team sneller de beste kandidaten te vinden? Met prijzen.",
         "category": "business",
         "featuredTool": "Recruitee",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-500/mnd",
         "tools": [
             {"name": "Recruitee", "verdict": "Beste allround recruitment platform met AI matching, multi-posting en Nederlandse/Europese focus", "priceRange": "EUR 200-500/mnd", "bestFor": "MKB groeiende teams", "rating": 4.7, "affiliateLink": "https://recruitee.com/?ref=aitoolsnl"},
@@ -99,7 +99,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op de Nederlandse HR-m
         "description": "Vergelijk Buffer, Hootsuite en ContentStudio in 2026. Welke AI social media tool levert de beste content planning, analytics en automatisering?",
         "category": "business",
         "featuredTool": "Buffer",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-100/mnd",
         "tools": [
             {"name": "Buffer", "verdict": "Gebruiksvriendelijkste scheduler met AI content suggesties en de beste analytics per kanaal", "priceRange": "EUR 0-10/mnd", "bestFor": "Kleine teams & freelancers", "rating": 4.6, "affiliateLink": "https://buffer.com/?ref=aitoolsnl"},
@@ -130,7 +130,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op Nederlandse social 
         "description": "Vergelijk Moneybird, e-Boekhouden en Jortt in 2026. Welke AI boekhoudsoftware bespaart de meeste tijd en geld voor je Nederlandse eenmanszaak?",
         "category": "business",
         "featuredTool": "Moneybird",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-60/mnd",
         "tools": [
             {"name": "Moneybird", "verdict": "Beste allround boekhoudplatform met sterke AI factuurherkenning, bankkoppeling en gebruiksvriendelijke interface", "priceRange": "EUR 25-60/mnd", "bestFor": "Zzp'ers & kleine MKB", "rating": 4.7, "affiliateLink": "https://www.moneybird.nl/?ref=aitoolsnl"},
@@ -161,7 +161,7 @@ EXTRA BELANGRIJK: gebruik ALLEEN Nederlandse tools — het gaat om software gema
         "description": "Vergelijk Shopify Magic, Lightspeed eCom en Shopware AI in 2026. Welk AI e-commerce platform levert de hoogste conversie voor jouw Nederlandse webshop?",
         "category": "business",
         "featuredTool": "Shopify Magic",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-300/mnd",
         "tools": [
             {"name": "Shopify Magic", "verdict": "Beste AI e-commerce platform met automatische productbeschrijvingen, AI chatbots en 8000+ apps", "priceRange": "EUR 27-300/mnd", "bestFor": "Internationale webshops", "rating": 4.8, "affiliateLink": "https://www.shopify.com/?ref=aitoolsnl"},

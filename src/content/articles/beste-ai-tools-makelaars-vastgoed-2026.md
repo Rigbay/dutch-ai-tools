@@ -15,7 +15,7 @@ cons:
 - Lokale data-integratie kan complex zijn
 - Privacy bij woningfoto's
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.matterport.com/
 date: 2026-05-20
 modelYear: 2026

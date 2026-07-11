@@ -28,7 +28,7 @@ TOOL_NAMES = {
 }
 
 AFFILIATE_MAP = {
-    "BEEHIIV_AFF": "https://www.beehiiv.com/?via=aitoolsnl",
+    "BEEHIIV_AFF": "https://www.beehiiv.com/",
     "OUTLIERKIT_AFF": "https://outlierkit.com/?ref=aitoolsnl",
     "ZAPIER_AFF": "https://zapier.com/?ref=aitoolsnl",
     "MAKE_AFF": "https://www.make.com/?ref=aitoolsnl",

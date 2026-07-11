@@ -7,7 +7,7 @@
   "priceRange": "€150-€500 eenmalig",
   "pros": ["Energiebesparing tot 30%", "Eenvoudige installatie en app", "Integratie met slimme huissystemen"],
   "cons": ["Initieel hoge aanschafkosten", "Mogelijke privacy risico's", "Afhankelijk van internetconnectie"],
-  "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator", "https://taskade.com/?via=55nfr2"],
+  "affiliateLinks": ["https://www.beehiiv.com/", "https://taskade.com/?via=55nfr2"],
   "featuredTool": "Google Nest",
   "readingTime": "8 min",
   "tools": [

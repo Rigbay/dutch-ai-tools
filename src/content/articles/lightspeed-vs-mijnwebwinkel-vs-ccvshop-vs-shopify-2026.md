@@ -16,7 +16,7 @@ cons:
 - Transaction fees verschillen per betaalmethode
 - Niet elke niche-functionaliteit wordt behandeld
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Shopify
@@ -27,25 +27,25 @@ tools:
   priceRange: EUR 27-300/mnd
   bestFor: Groeiende merken en omnichannel
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: MijnWebwinkel
   verdict: Beste prijs-kwaliteit voor startende Nederlandse webshops — alles in een met NL support
   priceRange: EUR 25-125/mnd
   bestFor: Startende ondernemers
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: CCV Shop
   verdict: Meest uitgebreide Nederlandse features (iDEAL, Klarna, facturatie) — beste voor gevestigde NL webshops
   priceRange: EUR 40-300/mnd
   bestFor: Middelgrote tot grote NL webshops
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Lightspeed
   verdict: Sterkste kassakoppeling en voorraadbeheer — beste voor fysieke winkels met online uitbreiding
   priceRange: EUR 69-250/mnd
   bestFor: Retail met fysieke vestigingen
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - adobe-acrobat-vs-smallpdf-vs-ilovepdf-vs-pdf-expert-2026
   - afas-vs-exact-vs-odoo-vs-sap-business-one-2026

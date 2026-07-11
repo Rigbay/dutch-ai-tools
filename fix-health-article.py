@@ -52,7 +52,7 @@ EERST de JSON metadata (géén body_markdown veld!):
   "priceRange": "€0-100 per maand",
   "pros": ["Energiebesparing", "Gemak", "Integratie"],
   "cons": ["Kosten", "Privacy", "Afhankelijkheid"],
-  "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator", "https://taskade.com/?via=55nfr2", "https://writesonic.com/?via=aitoolsnl", "https://rytr.me?via=hermes-affiliates", "https://www.synthesia.io?via=hermes", "https://www.make.com/en/register?pc=hermesai", "https://www.frase.io/?via=hermes10"],
+  "affiliateLinks": ["https://www.beehiiv.com/", "https://taskade.com/?via=55nfr2", "https://writesonic.com/?via=aitoolsnl", "https://rytr.me?via=hermes-affiliates", "https://www.synthesia.io?via=hermes", "https://www.make.com/en/register?pc=hermesai", "https://www.frase.io/?via=hermes10"],
   "featuredTool": "Ada Health",
   "readingTime": "8 min",
   "tools": [

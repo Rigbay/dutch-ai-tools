@@ -14,7 +14,7 @@ cons:
   - 'Implementatietijd verschilt sterk: Pipedrive (1 dag) vs HubSpot/Zoho (2-4 weken volledige setup)'
   - Niet alle CRMs hebben Nederlandstalige support — Teamleader en Zoho wel, Monday beperkt
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-06-09
 modelYear: 2026
 featuredTool: HubSpot CRM

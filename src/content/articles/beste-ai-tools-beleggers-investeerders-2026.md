@@ -17,7 +17,7 @@ cons:
 - Prijzen kunnen wijzigen, check altijd de actuele aanbieder
 - AI-analyse is geen vervanging voor professioneel financieel advies
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-01
 modelYear: 2026
 featuredTool: FinChat
@@ -35,13 +35,13 @@ tools:
   priceRange: EUR 0-90/mnd
   bestFor: Technische analyse en charting
   rating: 4.4
-  affiliateLink: https://trendspider.com/?via=anonymous-operator
+  affiliateLink: https://trendspider.com/
 - name: Portfoliometrix
   verdict: AI-gestuurde portefeuilleoptimalisatie met risicobeheer en herbalanceringsadvies
   priceRange: EUR 0-50/mnd
   bestFor: Portefeuillebeheer
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Tickeron
   verdict: AI-gedreven handelssignalen en patroonherkenning voor actieve traders
   priceRange: EUR 0-100/mnd

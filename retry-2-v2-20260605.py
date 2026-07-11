@@ -49,7 +49,7 @@ cons:
 - Prijzen onder voorbehoud
 - Fulfilmenttarieven sterk afhankelijk van volume
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: """ + today + """
 modelYear: 2026
 featuredTool: Sendcloud
@@ -127,7 +127,7 @@ cons:
 - AI gegenereerde sites hebben soms beperkingen
 - Prijzen kunnen wijzigen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: """ + today + """
 modelYear: 2026
 featuredTool: Wix AI Builder

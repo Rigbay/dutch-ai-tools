@@ -14,7 +14,7 @@ cons:
 - Niet alle pakketten ondersteunen meerdere btw-regimes of internationale handel even goed
 - Prijsverschillen kunnen oplopen bij extra administraties, gebruikers of modules
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-09'
 modelYear: 2026
 featuredTool: Moneybird

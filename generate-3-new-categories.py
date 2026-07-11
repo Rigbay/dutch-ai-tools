@@ -34,7 +34,7 @@ def load_affiliates():
     except Exception as e:
         print(f"Could not load merchants: {e}")
         return [
-            "https://www.beehiiv.com/?via=anonymous-operator",
+            "https://www.beehiiv.com/",
             "https://taskade.com/?via=55nfr2",
             "https://writesonic.com/?via=aitoolsnl",
             "https://rytr.me?via=hermes-affiliates",

@@ -86,7 +86,7 @@ def build_article(data, slug):
         lines.append(f"- {c}")
     
     links = data.get("affiliateLinks", [
-        "https://www.beehiiv.com/?via=anonymous-operator",
+        "https://www.beehiiv.com/",
         "https://taskade.com/?via=55nfr2",
         "https://writesonic.com/?via=aitoolsnl",
         "https://rytr.me?via=hermes-affiliates",

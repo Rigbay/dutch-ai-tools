@@ -15,7 +15,7 @@ cons:
 - Initiële implementatie- en leercurve
 - Potentiële afhankelijkheid van technologie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -32,7 +32,7 @@ tools:
   priceRange: "€5-€10/mnd"
   bestFor: "Interactieve quizzen, gamification, snelle peilingen"
   rating: 4.2
-  affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+  affiliateLink: "https://www.beehiiv.com/"
 - name: "Quizlet"
   verdict: "Sterk voor adaptief leren, woordenschat en begrippen met slimme flashcards en generatie tools."
   priceRange: "€3-€6/mnd"

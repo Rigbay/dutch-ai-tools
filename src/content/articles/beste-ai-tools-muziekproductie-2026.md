@@ -16,7 +16,7 @@ cons:
 - Tools zijn snel in ontwikkeling — reviews kunnen verouderen
 - Muzikale smaak blijft subjectief, niet elke tool past bij elk genre
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-06-01
 modelYear: 2026

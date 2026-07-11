@@ -16,7 +16,7 @@ cons:
 - Prijzen kunnen wijzigen
 - Integratie met bestaande systemen vereist testen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://quickbooks.intuit.com/
 date: 2026-05-20
 modelYear: 2026

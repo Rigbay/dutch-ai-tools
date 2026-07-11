@@ -14,7 +14,7 @@ cons:
 - Prijzen kunnen variëren per shopgrootte
 - Integratie complexiteit verschilt per platform
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-20
 modelYear: 2026
 featuredTool: Jasper AI

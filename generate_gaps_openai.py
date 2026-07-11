@@ -110,7 +110,7 @@ cons:
   - "Con 2: Leercurve voor geavanceerde functies"
   - "Con 3: Privacy-overwegingen bij AI data gebruik"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates
@@ -239,7 +239,7 @@ cons:
   - "Leercurve voor geavanceerde functies"
   - "Privacy-overwegingen bij AI data gebruik"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates

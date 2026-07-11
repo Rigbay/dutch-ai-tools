@@ -16,7 +16,7 @@ cons:
 - Sommige aanbieders hebben lastig te begrijpen politiekennissen
 - Beperkte dekking bij reizen naar specifieke regio's
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -35,7 +35,7 @@ tools:
   bestFor: Reizigers die veiligheid centraal stellen en een breed scala aan opties
     willen
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Allianz Global Assistance
   verdict: Allianz biedt een complete reisverzekering met uitgebreide dekking voor
     onvoorziene situaties.

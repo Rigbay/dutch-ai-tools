@@ -64,7 +64,7 @@ def build_article(defn, body_text):
     # Site-level affiliate links: beehiiv is the only active program for dutch-ai-tools
     site_links = get_site_affiliate_links("dutch-ai-tools")
     if not site_links:
-        site_links = ["https://www.beehiiv.com/?via=anonymous-operator"]
+        site_links = ["https://www.beehiiv.com/"]
 
     data = {
         "title": defn["title"], "slug": defn["slug"], "description": defn["description"],

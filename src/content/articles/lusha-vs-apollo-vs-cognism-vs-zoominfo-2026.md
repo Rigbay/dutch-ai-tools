@@ -15,7 +15,7 @@ cons:
 - 'Nederlandse datadekking varieert sterk tussen aanbieders'
 - 'AVG-regels rond cold outreach verschillen per land'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-07
 modelYear: 2026
 featuredTool: Apollo.io

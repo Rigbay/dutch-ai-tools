@@ -18,7 +18,7 @@ cons:
 - Compatibiliteitsproblemen met oudere verwarmingssystemen
 - Beperkte levensduur van batterij in sommige modellen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -35,19 +35,19 @@ tools:
   priceRange: €200-€400
   bestFor: Huishoudens met Google Home en focus op gebruiksgemak
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Tado
   verdict: Sterk in energiebesparing en geavanceerde zoneregeling met slimme radiatorknoppen.
   priceRange: €150-€300
   bestFor: Energiebewuste huishoudens die maximale besparing willen
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Honeywell Home
   verdict: Betrouwbare en betaalbare optie met solide basisfunctionaliteit.
   priceRange: €120-€250
   bestFor: Budgetbewuste gebruikers met standaard cv-ketels
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
 - beste-slimme-thermostaten-2026-nest-tado-honeywell
 - thuisbatterijen-vergelijken-2026-sessy-zonneplan-nexus-enphase-solaredge

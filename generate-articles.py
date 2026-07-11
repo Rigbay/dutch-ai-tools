@@ -224,7 +224,7 @@ cons:
   - Sommige AI features zijn nog in beta
 affiliateLinks:
   - https://www.notion.so
-  - https://www.beehiiv.com/?via=aitoolsnl
+  - https://www.beehiiv.com/
   - https://outlierkit.com/?ref=aitoolsnl
 date: 2026-05-16
 modelYear: 2026

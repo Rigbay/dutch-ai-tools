@@ -217,7 +217,7 @@ def build_frontmatter(topic):
         if domain:
             tools_yaml_lines.append(f'    affiliateLink: "https://www.{domain}.com/?ref=aitoolsnl"')
         else:
-            tools_yaml_lines.append(f'    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"')
+            tools_yaml_lines.append(f'    affiliateLink: "https://www.beehiiv.com/"')
     tools_yaml = "\n".join(tools_yaml_lines)
 
     related = [
@@ -251,7 +251,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-06-03
 modelYear: 2026
 featuredTool: "{topic['tools'][0][0]}"

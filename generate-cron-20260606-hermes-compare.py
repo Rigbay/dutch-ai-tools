@@ -192,7 +192,7 @@ Gebruik ## koppen. Schrijf in helder Nederlands. Geen YAML frontmatter."""
 
 AFFILIATE_TEMPLATES = {
     "amazon": "https://www.amazon.nl/dp/{asin}?tag=kieskeukennl-21",
-    "beehiiv": "https://www.beehiiv.com/?via=anonymous-operator",
+    "beehiiv": "https://www.beehiiv.com/",
     "generic": "https://www.{domain}.com/?ref=aitoolsnl",
 }
 
@@ -270,7 +270,7 @@ cons:
   - Niet elke tool is uitgebreid praktisch getest
   - Sommige features nog in beta of rolling release
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-06-06
 modelYear: 2026
 featuredTool: "{topic['tools'][0][0]}"

@@ -14,7 +14,7 @@ cons:
 - Prijzen onder voorbehoud
 - Sommige features in beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-23
 modelYear: 2026
 featuredTool: GitHub Copilot

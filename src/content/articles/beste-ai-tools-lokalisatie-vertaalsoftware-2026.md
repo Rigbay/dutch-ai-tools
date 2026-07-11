@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-03
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 9-60/mnd"
     bestFor: "AI-neural machine vertaling"
     rating: 4.7
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Lokalise AI"
     verdict: "AI-gedreven tool voor geïntegreerde l10n & ai vertaling"
     priceRange: "EUR 100-500/mnd"
     bestFor: "Geïntegreerde l10n & AI vertaling"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Crowdin AI"
     verdict: "AI-gedreven tool voor collaboratieve vertaalomgeving"
     priceRange: "EUR 50-400/mnd"
     bestFor: "Collaboratieve vertaalomgeving"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Smartling"
     verdict: "AI-gedreven tool voor enterprise vertaalbeheer"
     priceRange: "EUR 200-1000/mnd"
     bestFor: "Enterprise vertaalbeheer"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Phrase TMS"
     verdict: "AI-gedreven tool voor ai translation management"
     priceRange: "EUR 100-500/mnd"
     bestFor: "AI translation management"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "POEditor AI"
     verdict: "AI-gedreven tool voor simple ai-assisted vertaling"
     priceRange: "EUR 25-200/mnd"
     bestFor: "Simple AI-assisted vertaling"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Transifex AI"
     verdict: "AI-gedreven tool voor continuous localization"
     priceRange: "EUR 100-600/mnd"
     bestFor: "Continuous localization"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-presentatie-tools-2026

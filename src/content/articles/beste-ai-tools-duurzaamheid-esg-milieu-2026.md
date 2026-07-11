@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-04
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 500-5000/mnd"
     bestFor: "AI klimaatrisico & duurzaamheidsanalyse"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Google Cloud Carbon Footprint AI"
     verdict: "AI-gedreven tool voor ai co2-tracking voor cloudgebruik"
     priceRange: "Gratis"
     bestFor: "AI CO2-tracking voor cloudgebruik"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Persefoni AI"
     verdict: "AI-gedreven tool voor ai esg-rapportage & carbon accounting"
     priceRange: "EUR 1000-10000/mnd"
     bestFor: "AI ESG-rapportage & carbon accounting"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Plan A"
     verdict: "AI-gedreven tool voor ai carbon management & decarbonisatie"
     priceRange: "EUR 200-2000/mnd"
     bestFor: "AI carbon management & decarbonisatie"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Greenbird AI"
     verdict: "AI-gedreven tool voor ai energieoptimalisatie & smart grids"
     priceRange: "EUR 100-1000/mnd"
     bestFor: "AI energieoptimalisatie & smart grids"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Climatiq AI"
     verdict: "AI-gedreven tool voor ai carbon footprint api voor ontwikkelaars"
     priceRange: "Gratis-500/mnd"
     bestFor: "AI carbon footprint API voor ontwikkelaars"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Watershed"
     verdict: "AI-gedreven tool voor enterprise esg-platform met ai"
     priceRange: "EUR 1000-10000/mnd"
     bestFor: "Enterprise ESG-platform met AI"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-tools-finops-cloudkostenbeheer-2026

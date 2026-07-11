@@ -14,7 +14,7 @@ cons:
   - Gratis opslag is beperkt en snel vol — de 15 GB van Google deelt met Gmail en Photos
   - Synchronisatiesnelheid verschilt sterk per provider en locatie
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-06-09
 modelYear: 2026
 featuredTool: Google Drive

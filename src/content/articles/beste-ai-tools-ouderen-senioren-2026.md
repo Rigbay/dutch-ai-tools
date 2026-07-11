@@ -18,7 +18,7 @@ cons:
   uitgevoerd
 - Sommige geavanceerde AI-functies bevinden zich nog in de ontwikkelingsfase
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.nobi.life/
 - https://www.carecircle.nl/
 - https://www.philips.nl/c-e/gezondheid/wearables/smart-sleep

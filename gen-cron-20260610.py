@@ -45,7 +45,7 @@ def build_article(defn, body_text):
         "category": defn["category"], "rating": avg, "priceRange": "EUR 0-100/mnd",
         "pros": ["Uitgebreide 2026 vergelijking", "Duidelijke prijsranges en use cases", "Nederlandstalig en actueel"],
         "cons": ["Prijzen kunnen wijzigen — check aanbieder", "AI-features continu in ontwikkeling", "Keuze hangt af van je specifieke situatie"],
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "date": str(date.today()), "modelYear": 2026,
         "featuredTool": defn["tools"][0]["name"], "readingTime": "8 min",
         "tools": defn["tools"], "related": pick_related(defn["slug"], 3),

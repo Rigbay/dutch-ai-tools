@@ -14,7 +14,7 @@ cons:
 - Prijzen zijn indicatief en afhankelijk van teamgrootte en pageviews
 - Sommige AI-features zijn nog in beta of per regio uitgerold
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Mintlify

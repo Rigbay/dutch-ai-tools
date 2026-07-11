@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-03
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 100-500/mnd"
     bestFor: "AI-gebaseerd end-to-end testen"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Mabl"
     verdict: "AI-gedreven tool voor low-code testautomatisering"
     priceRange: "EUR 100-400/mnd"
     bestFor: "Low-code testautomatisering"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Applitools Eyes"
     verdict: "AI-gedreven tool voor visueel testen & monitoring"
     priceRange: "EUR 100-600/mnd"
     bestFor: "Visueel testen & monitoring"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Functionize"
     verdict: "AI-gedreven tool voor ml-gestuurd testen"
     priceRange: "EUR 150-500/mnd"
     bestFor: "ML-gestuurd testen"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Tricentis Tosca"
     verdict: "AI-gedreven tool voor enterprise testautomatisering"
     priceRange: "EUR 200-1000/mnd"
     bestFor: "Enterprise testautomatisering"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Katalon Studio AI"
     verdict: "AI-gedreven tool voor allround qa platform"
     priceRange: "EUR 0-200/mnd"
     bestFor: "Allround QA platform"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Selenium IDE AI"
     verdict: "AI-gedreven tool voor open-source testen"
     priceRange: "Gratis"
     bestFor: "Open-source testen"
     rating: 4.0
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-presentatie-tools-2026

@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-05-16
 modelYear: 2026
@@ -34,7 +34,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Prompt precisie
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Adobe Firefly
   verdict: Commercieel veilige AI beelden, direct in Adobe workflow
   priceRange: EUR 5-25/mnd

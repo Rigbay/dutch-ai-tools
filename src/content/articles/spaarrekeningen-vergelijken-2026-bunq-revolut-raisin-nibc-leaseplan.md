@@ -17,7 +17,7 @@ cons:
 - Mogelijk andere valuta of belastingregels bij sommige buitenlandse aanbieders
 - Niet alle aanbieders hebben een fysiek kantoor
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates

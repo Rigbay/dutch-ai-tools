@@ -15,7 +15,7 @@ cons:
 - 'Sommige tools rekenen per deelnemer, andere per host'
 - 'Integraties met Nederlandse CRMs niet bij alle tools aanwezig'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-07
 modelYear: 2026
 featuredTool: Livestorm

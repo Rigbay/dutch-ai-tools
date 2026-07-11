@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-04
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 100-500/mnd"
     bestFor: "CRM voor goede doelen met AI"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Blackbaud AI"
     verdict: "AI-gedreven tool voor non-profit fundraising & ai"
     priceRange: "EUR 200-1000/mnd"
     bestFor: "Non-profit fundraising & AI"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "DonorSearch AI"
     verdict: "AI-gedreven tool voor ai donor prospect research"
     priceRange: "EUR 100-500/mnd"
     bestFor: "AI donor prospect research"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Keela AI"
     verdict: "AI-gedreven tool voor intelligent donor management"
     priceRange: "EUR 50-300/mnd"
     bestFor: "Intelligent donor management"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Givebutter AI"
     verdict: "AI-gedreven tool voor ai fundraising voor kleine npo's"
     priceRange: "Gratis-100/mnd"
     bestFor: "AI fundraising voor kleine NPO's"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Fundraising AI"
     verdict: "AI-gedreven tool voor ai optimalisatie van campagnes"
     priceRange: "EUR 50-200/mnd"
     bestFor: "AI optimalisatie van campagnes"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Charity Engine"
     verdict: "AI-gedreven tool voor donated computing power via ai"
     priceRange: "EUR 0-50/mnd"
     bestFor: "Donated computing power via AI"
     rating: 4.0
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-presentatie-tools-2026

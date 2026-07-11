@@ -15,7 +15,7 @@ cons:
 - Sommige klantenervaringen kunnen beter zijn
 - Beperkte flexibiliteit in het aanbod
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -32,7 +32,7 @@ tools:
   priceRange: EUR 200-4000 eenmalig
   bestFor: Particulier verhuizen binnen Nederland
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Studentverhuizers
   verdict: Speciaal aangemette aan studenten met flexibele diensten en een goede prijs-kwaliteitverhouding.
   priceRange: EUR 200-2500 eenmalig

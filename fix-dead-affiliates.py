@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix dead affiliate links + add missing active codes in Dutch AI Tools articles.
+"""Fix dead affiliate links and normalize approved active links.
 
 Dead → informational non-affiliate URLs (no tracking):
   - notion.so → https://www.notion.so (no affiliate program exists)
@@ -7,8 +7,9 @@ Dead → informational non-affiliate URLs (no tracking):
 
 Missing active codes → add:
   - synthesia.io without ?via=hermes → add it
-  - beehiiv.com without ?via=anonymous-operator → add it
-  - Notion articles where beehiiv top-level affiliate is missing → add
+
+Privacy normalization:
+  - beehiiv.com referral URLs → direct provider URL until a brand-owned ID exists
 """
 
 import re
@@ -23,9 +24,9 @@ DEAD_REPLACEMENTS = {
     "copy.ai": "https://www.copy.ai",
 }
 
-# Missing code patterns
+# Active-link and privacy-safe canonical URLs
 SYNTHESIA_CORRECT = "https://www.synthesia.io?via=hermes"
-BEEHIIV_CORRECT = "https://www.beehiiv.com/?via=anonymous-operator"
+BEEHIIV_CORRECT = "https://www.beehiiv.com/"
 
 stats = {
     "notion_fixed": 0,
@@ -108,12 +109,12 @@ for md_file in sorted(ARTICLES_DIR.glob("*.md")):
     if n > 0 or n2 > 0:
         changed = True
 
-    # Fix 4: beehiiv.com without via=anonymous-operator
+    # Fix 4: strip Beehiiv referral parameters until a brand-owned ID is verified
     def fix_beehiiv(m):
         stats["beehiiv_added"] += 1
         return f"affiliateLink: {BEEHIIV_CORRECT}"
     content, n = re.subn(
-        r'affiliateLink:\s*https?://[^\s]*beehiiv\.com(?!\S*\?via=anonymous-operator)\S*',
+        r'affiliateLink:\s*https?://[^\s]*beehiiv\.com\S*',
         fix_beehiiv,
         content
     )
@@ -122,7 +123,7 @@ for md_file in sorted(ARTICLES_DIR.glob("*.md")):
         stats["beehiiv_added"] += 1
         return f"- {BEEHIIV_CORRECT}"
     content, n2 = re.subn(
-        r'-\s*https?://[^\s]*beehiiv\.com(?!\S*\?via=anonymous-operator)\S*',
+        r'-\s*https?://[^\s]*beehiiv\.com\S*',
         fix_beehiiv_top,
         content
     )

@@ -18,7 +18,7 @@ cons:
 - Niet alle modellen werken op alle vloertypes even goed
 - Batterijduur beperkt tot 1‑2 uur per sessie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -35,19 +35,19 @@ tools:
   priceRange: "€1000-1400"
   bestFor: "Grote woningen, huisdierbezitters, premium gebruikers"
   rating: 4.7
-  affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+  affiliateLink: "https://www.beehiiv.com/"
 - name: "Roborock S8 Pro Ultra"
   verdict: "Alles-in-één oplossing met zelfledigende basisstation, mopping en ultra-slimme navigatie."
   priceRange: "€1200-1500"
   bestFor: "Mensen die zowel stofzuigen als dweilen willen automatiseren"
   rating: 4.8
-  affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+  affiliateLink: "https://www.beehiiv.com/"
 - name: "Dreame L20 Ultra"
   verdict: "Betaalbare premium optie met zelfledigende basis en uitstekende mopping-capaciteit."
   priceRange: "€800-1000"
   bestFor: "Budget-bewuste gebruikers die toch premium functies willen"
   rating: 4.5
-  affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+  affiliateLink: "https://www.beehiiv.com/"
 related:
   - slimme-thermostaat-nest-vs-tado-vs-honeywell-2026
   - thuisbatterijen-vergelijken-2026-sessy-zonneplan-nexus-enphase-solaredge

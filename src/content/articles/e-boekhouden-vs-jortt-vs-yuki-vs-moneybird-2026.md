@@ -13,7 +13,7 @@ cons:
 - Prijzen onder voorbehoud — check actuele aanbiedingen
 - Sommige features in beta of rolling release
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-05
 modelYear: 2026
 featuredTool: e-Boekhouden

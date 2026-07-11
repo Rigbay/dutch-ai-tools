@@ -17,7 +17,7 @@ cons:
 - Audio kwaliteit is subjectief, afhankelijk van genre
 - AI-muzieklicenties verschillen per platform, check voor commercieel gebruik
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-06-01
 modelYear: 2026

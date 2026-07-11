@@ -16,7 +16,7 @@ cons:
 - Snelle marktontwikkeling
 - Prijzen kunnen variëren
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: '2026-05-24'
 modelYear: 2026

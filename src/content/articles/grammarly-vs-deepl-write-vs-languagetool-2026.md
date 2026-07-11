@@ -16,7 +16,7 @@ cons:
 - DeepL Write is relatief nieuw — features breiden uit
 - Geen van deze tools vervangt een menselijke corrector voor genuanceerde teksten
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: DeepL Write
@@ -27,19 +27,19 @@ tools:
   priceRange: EUR 0-9/mnd
   bestFor: Nederlandstalige professionals
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: LanguageTool
   verdict: Beste privacy (on-premise optie) en meeste talen — ideaal voor organisaties met strenge dataregels
   priceRange: EUR 0-20/mnd
   bestFor: Privacy-bewuste teams
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Grammarly
   verdict: Beste voor Engelstalig schrijven — ongeëvenaarde stijlanalyse maar beperkte NL-ondersteuning
   priceRange: EUR 0-30/mnd
   bestFor: Engelstalige content en internationale teams
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - adobe-acrobat-vs-smallpdf-vs-ilovepdf-vs-pdf-expert-2026
   - afas-vs-exact-vs-odoo-vs-sap-business-one-2026

@@ -260,7 +260,7 @@ pros:
 cons:
 {cons_yaml}
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: {today}
 modelYear: 2026
 featuredTool: {article_data["tools"][0]["name"]}

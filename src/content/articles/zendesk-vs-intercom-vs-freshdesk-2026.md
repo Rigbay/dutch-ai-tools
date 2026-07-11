@@ -20,7 +20,7 @@ cons:
 - Features veranderen snel in de SaaS-markt
 - Sommige tools zijn primair Engelstalig
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 tools:
 - name: Zendesk
   verdict: Meest complete enterprise CX-platform met AI-agents en omnichannel support

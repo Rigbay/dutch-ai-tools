@@ -36,7 +36,7 @@ ARTICLES = [
         "description": "Vergelijk Bolt.new, v0.dev en Lovable in 2026: welke AI tool bouwt de beste apps zonder code? Complete koopgids met prijzen en use cases.",
         "category": "ontwikkeling",
         "featuredTool": "Bolt.new",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-50/mnd",
         "tools": [
             {"name": "Bolt.new", "verdict": "Beste allround AI app builder met StackBlitz integratie en directe deployment", "priceRange": "EUR 0-50/mnd", "bestFor": "Full-stack apps", "rating": 4.6, "affiliateLink": "https://bolt.new/?ref=aitoolsnl"},
@@ -67,7 +67,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op de Nederlandse gebr
         "description": "Vergelijk Adobe Photoshop AI, Affinity Photo en Luminar Neo in 2026. Welke AI fotobewerkingstool past bij jouw workflow en budget?",
         "category": "creatie",
         "featuredTool": "Adobe Photoshop",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-70/mnd",
         "tools": [
             {"name": "Adobe Photoshop", "verdict": "Industriestandaard met Generative Fill en de krachtigste AI features", "priceRange": "EUR 26-70/mnd", "bestFor": "Professionals", "rating": 4.8, "affiliateLink": "https://www.adobe.com/products/photoshop.html?ref=aitoolsnl"},
@@ -98,7 +98,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op de Nederlandse gebr
         "description": "Vergelijk Todoist, TickTick en Things 3 in 2026. Welke taken-app met AI features past het beste bij jouw workflow? Complete gids.",
         "category": "productiviteit",
         "featuredTool": "Todoist",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-8/mnd",
         "tools": [
             {"name": "Todoist", "verdict": "Beste allround taakbeheer met AI scheduling en natuurlijke taal invoer", "priceRange": "EUR 0-5/mnd", "bestFor": "Algemene productiviteit", "rating": 4.7, "affiliateLink": "https://todoist.com/?ref=aitoolsnl"},
@@ -129,7 +129,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op de Nederlandse gebr
         "description": "Vergelijk Framer AI, Webflow en Wix Studio in 2026. Welke AI website builder levert de mooiste, snelste website zonder code?",
         "category": "creatie",
         "featuredTool": "Framer AI",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-40/mnd",
         "tools": [
             {"name": "Framer AI", "verdict": "Beste AI website builder met prachtige designs en prompt-to-website feature", "priceRange": "EUR 0-25/mnd", "bestFor": "Design portfolio's", "rating": 4.7, "affiliateLink": "https://www.framer.com/?ref=aitoolsnl"},
@@ -160,7 +160,7 @@ Gebruik concrete voorbeelden, prijzen in euro's, en focus op de Nederlandse gebr
         "description": "Vergelijk Google Gemini in Workspace, Microsoft 365 Copilot en Notion AI in 2026. Welke AI assistent maakt jouw werkdag het productiefst?",
         "category": "productiviteit",
         "featuredTool": "Microsoft 365 Copilot",
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "priceRange": "EUR 0-30/mnd",
         "tools": [
             {"name": "Microsoft 365 Copilot", "verdict": "Diepste integratie in Word, Excel, PowerPoint, Teams en Outlook", "priceRange": "EUR 28/mnd (add-on)", "bestFor": "Microsoft bedrijven", "rating": 4.7, "affiliateLink": "https://www.microsoft.com/microsoft-365/copilot?ref=aitoolsnl"},

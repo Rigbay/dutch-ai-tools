@@ -150,7 +150,7 @@ def build_article(data, slug, category, related_slugs):
     
     lines.append("affiliateLinks:")
     for link in data.get("affiliateLinks", [
-        "https://www.beehiiv.com/?via=anonymous-operator",
+        "https://www.beehiiv.com/",
         "https://taskade.com/?via=55nfr2",
         "https://writesonic.com/?via=aitoolsnl",
         "https://rytr.me?via=hermes-affiliates",

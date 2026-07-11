@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Veelzijdigheid
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Claude
   verdict: Beste Nederlandse nuance en diepgang in lange teksten
   priceRange: EUR 0-25/mnd
   bestFor: Nederlandse nuance
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Google Gemini
   verdict: Uitstekende Nederlandse ondersteuning met Google-kennisbasis
   priceRange: EUR 0-25/mnd
   bestFor: Feitelijke kennis
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: AI Tool D
   verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
   priceRange: EUR 0-20/mnd
   bestFor: Alternatief
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: AI Tool E
   verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
   priceRange: EUR 0-20/mnd
   bestFor: Alternatief
   rating: 3.8
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: AI Tool F
   verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
   priceRange: EUR 0-20/mnd
   bestFor: Alternatief
   rating: 3.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: AI Tool G
   verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
   priceRange: EUR 0-20/mnd
   bestFor: Alternatief
   rating: 3.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - notion-ai-review-nederlands-2026
   - beste-ai-tools-horeca-2026

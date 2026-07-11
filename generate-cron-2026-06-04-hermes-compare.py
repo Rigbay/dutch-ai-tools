@@ -192,7 +192,7 @@ def build_article(defn, body_text):
             "Sommige AI-features zijn nog in actieve ontwikkeling of beta",
         ],
         "affiliateLinks": [
-            "https://www.beehiiv.com/?via=anonymous-operator",
+            "https://www.beehiiv.com/",
         ],
         "date": str(date.today()),
         "modelYear": 2026,

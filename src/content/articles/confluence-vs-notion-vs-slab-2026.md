@@ -18,7 +18,7 @@ cons:
 - Features veranderen snel in de SaaS-markt
 - Sommige tools zijn primair Engelstalig
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 tools:
 - name: Notion
   verdict: 'Meest veelzijdig: wiki, projectmanagement en databases in één met sterke

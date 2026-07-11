@@ -15,7 +15,7 @@ cons:
 - 'Nederlandstalige sentimentanalyse niet bij alle tools optimaal'
 - 'Kosten stijgen snel bij hogere mention-volumes'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-07
 modelYear: 2026
 featuredTool: Brandwatch

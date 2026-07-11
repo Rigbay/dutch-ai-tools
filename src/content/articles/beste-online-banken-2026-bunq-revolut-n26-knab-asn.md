@@ -19,7 +19,7 @@ cons:
 - Minder geschikt voor contante stortingen/opnames
 - Afhankelijkheid van een goede internetverbinding
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -36,7 +36,7 @@ tools:
   priceRange: EUR 2.99-17.99/mnd
   bestFor: Digitale nomaden, frequent reizigers, mensen die veel subrekeningen willen en duurzaamheid waarderen.
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Revolut
   verdict: Uitstekend voor internationaal gebruik en valuta wisselen. De gratis versie biedt al veel, maar voor uitgebreide functies betaal je een maandelijks bedrag. Minder gericht op de Nederlandse markt (geen iDEAL).
   priceRange: EUR 0-13.99/mnd

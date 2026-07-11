@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-03
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 300-2000/mnd"
     bestFor: "Collaborative learning platform"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Docebo AI"
     verdict: "AI-gedreven tool voor ai-powered lms"
     priceRange: "EUR 400-2500/mnd"
     bestFor: "AI-powered LMS"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Cornerstone Galaxy AI"
     verdict: "AI-gedreven tool voor enterprise l&d suite"
     priceRange: "EUR 500-3000/mnd"
     bestFor: "Enterprise L&D suite"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "EdApp AI"
     verdict: "AI-gedreven tool voor microlearning & ai authoring"
     priceRange: "Gratis-500/mnd"
     bestFor: "Microlearning & AI authoring"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "TalentLMS AI"
     verdict: "AI-gedreven tool voor gebruiksvriendelijke lms"
     priceRange: "EUR 100-500/mnd"
     bestFor: "Gebruiksvriendelijke LMS"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Coursebox AI"
     verdict: "AI-gedreven tool voor ai cursusgenerator"
     priceRange: "EUR 50-300/mnd"
     bestFor: "AI cursusgenerator"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Sana Labs"
     verdict: "AI-gedreven tool voor ai learning assistant"
     priceRange: "EUR 200-1500/mnd"
     bestFor: "AI learning assistant"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-presentatie-tools-2026

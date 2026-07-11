@@ -185,7 +185,7 @@ def build_article(defn, body_text):
         ],
         "affiliateLinks": [
             "https://www.notion.so",
-            "https://www.beehiiv.com/?via=aitoolsnl",
+            "https://www.beehiiv.com/",
         ],
         "date": date.today(),
         "modelYear": 2026,

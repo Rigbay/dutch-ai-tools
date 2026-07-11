@@ -68,7 +68,7 @@ EERST de JSON metadata (géén body_markdown veld!):
   "priceRange": "€150-€500 eenmalig",
   "pros": ["Energiebesparing tot 30%", "Eenvoudige installatie en app", "Integratie met slimme huissystemen"],
   "cons": ["Initieel hoge aanschafkosten", "Mogelijke privacy risico's", "Afhankelijk van internetconnectie"],
-  "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator", "https://taskade.com/?via=55nfr2"],
+  "affiliateLinks": ["https://www.beehiiv.com/", "https://taskade.com/?via=55nfr2"],
   "featuredTool": "Google Nest",
   "readingTime": "8 min",
   "tools": [
@@ -146,7 +146,7 @@ try:
             lines.append(f"- {c}")
         
         lines.append("affiliateLinks:")
-        for link in metadata.get("affiliateLinks", ["https://www.beehiiv.com/?via=anonymous-operator", "https://taskade.com/?via=55nfr2"]):
+        for link in metadata.get("affiliateLinks", ["https://www.beehiiv.com/", "https://taskade.com/?via=55nfr2"]):
             lines.append(f"- {link}")
         
         lines.append(f"date: {today}")

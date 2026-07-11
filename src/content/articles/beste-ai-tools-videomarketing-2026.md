@@ -18,7 +18,7 @@ cons:
 affiliateLinks:
 - https://www.synthesia.io?via=hermes
 - https://www.synthesia.io?via=hermes
-  - https://www.descript.com/?via=anonymous-operator
+  - https://www.descript.com/
 date: 2026-06-03
 modelYear: 2026
 featuredTool: Synthesia AI

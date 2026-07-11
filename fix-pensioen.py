@@ -104,7 +104,7 @@ gemini_output = '''```json
     }
   ],
   "affiliateLinks": [
-    "https://www.beehiiv.com/?via=anonymous-operator",
+    "https://www.beehiiv.com/",
     "https://taskade.com/?via=55nfr2"
   ]
 }

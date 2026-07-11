@@ -14,7 +14,7 @@ cons:
 - 'Restaurantprijzen via platforms vaak hoger dan direct bestellen'
 - 'Flink en Gorillas alleen beschikbaar in grotere steden'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-08
 modelYear: 2026
 featuredTool: Thuisbezorgd.nl

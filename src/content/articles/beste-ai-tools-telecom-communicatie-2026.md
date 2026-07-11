@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse telecompraktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of enterprise-only
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Observe.AI

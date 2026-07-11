@@ -15,7 +15,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://substack.com/signup
 - https://convertkit.com/?ref=dutch-ai-tools
 date: '2026-06-01'
@@ -28,7 +28,7 @@ tools:
   priceRange: EUR 0-99/mnd
   bestFor: Groeigerichte ondernemers & content creators
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Substack
   verdict: Beste optie voor betaalde nieuwsbrieven met ingebouwd betalingssysteem
   priceRange: EUR 0 (10% korting op betalende subs)

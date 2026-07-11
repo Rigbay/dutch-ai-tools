@@ -15,7 +15,7 @@ cons:
 - Privacy
 - Afhankelijkheid
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 date: 2026-06-17
 modelYear: 2026
@@ -27,19 +27,19 @@ tools:
   priceRange: €200-€400
   bestFor: Nieuwe huiseigenaren
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Tado
   verdict: Sterk in energiebesparing en automatische planning.
   priceRange: €150-€300
   bestFor: Energiebewuste huishoudens
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Honeywell
   verdict: Betrouwbare optie met solide basisfunctionaliteit.
   priceRange: €120-€250
   bestFor: Budget bewuste gebruikers
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
 - autoverzekering-vergelijken-independer-unive-centraal-beheer-allianz-2026
 - writesonic-vs-jasper-vs-chatgpt-copywriting-nederlands-2026

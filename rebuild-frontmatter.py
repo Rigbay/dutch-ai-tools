@@ -35,7 +35,7 @@ ARTICLE_DEFS = [
             {"name": "Notion AI", "verdict": "Complete werkruimte met AI voor teams, projecten en documentatie", "priceRange": "EUR 10-20/mnd", "bestFor": "Teamwerk & documentatie", "rating": 4.5, "affiliateLink": "https://www.notion.so"},
             {"name": "Zapier", "verdict": "Verbindt 6000+ apps en automatiseert repetitieve taken", "priceRange": "EUR 0-150/mnd", "bestFor": "Automatisering", "rating": 4.4, "affiliateLink": "https://zapier.com/?ref=aitoolsnl"},
             {"name": "Canva AI", "verdict": "Maak professionele visuals zonder designer met AI-hulp", "priceRange": "EUR 0-15/mnd", "bestFor": "Marketing visuals", "rating": 4.6, "affiliateLink": "https://www.canva.com/?ref=aitoolsnl"},
-            {"name": "beehiiv", "verdict": "AI-gedreven nieuwsbriefplatform voor groei en monetisatie", "priceRange": "EUR 0-50/mnd", "bestFor": "Nieuwsbrief & e-mail", "rating": 4.3, "affiliateLink": "https://www.beehiiv.com/?via=aitoolsnl"},
+            {"name": "beehiiv", "verdict": "AI-gedreven nieuwsbriefplatform voor groei en monetisatie", "priceRange": "EUR 0-50/mnd", "bestFor": "Nieuwsbrief & e-mail", "rating": 4.3, "affiliateLink": "https://www.beehiiv.com/"},
             {"name": "HubSpot AI", "verdict": "Uitgebreid CRM met AI voor sales, marketing en klantenservice", "priceRange": "EUR 0-800/mnd", "bestFor": "CRM & marketing", "rating": 4.2, "affiliateLink": "https://www.hubspot.com/?ref=aitoolsnl"},
             {"name": "Grammarly Business", "verdict": "Professionele schrijfhulp voor foutloze zakelijke communicatie", "priceRange": "EUR 15-30/mnd", "bestFor": "Zakelijk schrijven", "rating": 4.5, "affiliateLink": "https://www.grammarly.com/?ref=aitoolsnl"},
         ],
@@ -50,7 +50,7 @@ ARTICLE_DEFS = [
             {"name": "Semrush", "verdict": "Complete SEO en marketing suite met sterke AI-analysecapaciteiten", "priceRange": "EUR 120-450/mnd", "bestFor": "SEO & concurrentieanalyse", "rating": 4.7, "affiliateLink": "https://www.semrush.com/?ref=aitoolsnl"},
             {"name": "Jasper AI", "verdict": "Beste AI schrijftool voor marketingteams met merktemplates", "priceRange": "EUR 50-100/mnd", "bestFor": "Marketing content", "rating": 4.5, "affiliateLink": "https://www.jasper.ai/?ref=aitoolsnl"},
             {"name": "HubSpot AI", "verdict": "All-in-one marketingplatform met AI voor campagnes en analyses", "priceRange": "EUR 0-800/mnd", "bestFor": "Marketing automatisering", "rating": 4.4, "affiliateLink": "https://www.hubspot.com/?ref=aitoolsnl"},
-            {"name": "beehiiv", "verdict": "AI-nieuwsbriefplatform specifiek gericht op groei en engagement", "priceRange": "EUR 0-50/mnd", "bestFor": "E-mail marketing", "rating": 4.3, "affiliateLink": "https://www.beehiiv.com/?via=aitoolsnl"},
+            {"name": "beehiiv", "verdict": "AI-nieuwsbriefplatform specifiek gericht op groei en engagement", "priceRange": "EUR 0-50/mnd", "bestFor": "E-mail marketing", "rating": 4.3, "affiliateLink": "https://www.beehiiv.com/"},
             {"name": "Surfer SEO", "verdict": "AI-contentoptimalisatie die je helpt hoger te ranken in Google", "priceRange": "EUR 60-200/mnd", "bestFor": "Content SEO", "rating": 4.4, "affiliateLink": "https://surferseo.com/?ref=aitoolsnl"},
             {"name": "Copy.ai", "verdict": "Snelle AI copywriter voor ad copy, posts en landingspagina's", "priceRange": "EUR 0-50/mnd", "bestFor": "Copywriting", "rating": 4.2, "affiliateLink": "https://www.copy.ai"},
             {"name": "MarketMuse", "verdict": "AI contentstrategie en -planning voor datagedreven marketing", "priceRange": "EUR 150-1000/mnd", "bestFor": "Content strategie", "rating": 4.1, "affiliateLink": "https://www.marketmuse.com/?ref=aitoolsnl"},
@@ -159,7 +159,7 @@ ARTICLE_DEFS = [
         "description": "AI e-mail marketing tools vergeleken: beehiiv, Mailchimp AI, GetResponse AI, ActiveCampaign AI. Ontdek de beste AI voor jouw nieuwsbrief in 2026.",
         "category": "marketing",
         "tools": [
-            {"name": "beehiiv", "verdict": "Beste nieuwsbriefplatform met AI-schrijfhulp en groei-tools", "priceRange": "EUR 0-50/mnd", "bestFor": "Nieuwsbrieven", "rating": 4.6, "affiliateLink": "https://www.beehiiv.com/?via=aitoolsnl"},
+            {"name": "beehiiv", "verdict": "Beste nieuwsbriefplatform met AI-schrijfhulp en groei-tools", "priceRange": "EUR 0-50/mnd", "bestFor": "Nieuwsbrieven", "rating": 4.6, "affiliateLink": "https://www.beehiiv.com/"},
             {"name": "Mailchimp AI", "verdict": "Grootste e-mailplatform met AI voor segmentatie en optimalisatie", "priceRange": "EUR 0-350/mnd", "bestFor": "E-mailcampagnes", "rating": 4.3, "affiliateLink": "https://mailchimp.com/?ref=aitoolsnl"},
             {"name": "GetResponse AI", "verdict": "AI e-mailtool met sterke Nederlandse taalondersteuning", "priceRange": "EUR 15-100/mnd", "bestFor": "Nederlandse markt", "rating": 4.2, "affiliateLink": "https://www.getresponse.com/?ref=aitoolsnl"},
             {"name": "ActiveCampaign", "verdict": "Geavanceerde automatisering met AI voor gepersonaliseerde e-mails", "priceRange": "EUR 15-280/mnd", "bestFor": "Marketing automatisering", "rating": 4.4, "affiliateLink": "https://www.activecampaign.com/?ref=aitoolsnl"},
@@ -304,7 +304,7 @@ def build_frontmatter(defn):
         ],
         "affiliateLinks": [
             "https://www.notion.so",
-            "https://www.beehiiv.com/?via=aitoolsnl",
+            "https://www.beehiiv.com/",
             "https://outlierkit.com/?ref=aitoolsnl"
         ],
         "date": date.today(),

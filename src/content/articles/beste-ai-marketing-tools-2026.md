@@ -17,8 +17,8 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://writesonic.com/?via=aitoolsnl
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
+- https://www.beehiiv.com/
 date: 2026-05-16
 modelYear: 2026
 featuredTool: Semrush
@@ -47,7 +47,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: E-mail marketing
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Surfer SEO
   verdict: AI-contentoptimalisatie die je helpt hoger te ranken in Google
   priceRange: EUR 60-200/mnd

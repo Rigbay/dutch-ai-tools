@@ -16,7 +16,7 @@ cons:
 - Tools ontwikkelen zich snel — reviews kunnen verouderen
 - Niet elke tool ondersteunt Nederlandse ondertiteling even goed
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-06-01
 modelYear: 2026
@@ -29,14 +29,14 @@ tools:
   priceRange: EUR 0-35/mnd
   bestFor: Tekstgebaseerde video-editing
   rating: 4.7
-  affiliateLink: https://www.descript.com/?via=anonymous-operator
+  affiliateLink: https://www.descript.com/
 - name: Opus Clip
   verdict: Genereer moeiteloos virale clips uit lange video's met AI-geselecteerde
     hoogtepunten
   priceRange: EUR 0-30/mnd
   bestFor: Shorts en clips uit lange video's
   rating: 4.5
-  affiliateLink: https://www.opus.pro/?via=anonymous-operator
+  affiliateLink: https://www.opus.pro/
 - name: RunwayML
   verdict: De meest geavanceerde AI-videogenerator met green screen, inpainting en
     generatieve video

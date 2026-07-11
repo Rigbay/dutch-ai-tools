@@ -15,7 +15,7 @@ cons:
   - Integratie met andere systemen vereist soms extra werk
   - Niet alle Nederlandse merken worden ondersteund
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates
@@ -32,7 +32,7 @@ tools:
     priceRange: '€20-€70/maand'
     bestFor: 'Consument'
     rating: 4.2
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: 'Smart Wardrobe'
     verdict: 'AI-gedreven oplossing voor shopping met Nederlandse marktfocus.'
     priceRange: '€30-€85/maand'

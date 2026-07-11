@@ -58,7 +58,7 @@ def load_affiliates():
         print(f"Could not load merchants: {e}")
         # Fallback default links
         return [
-            "https://www.beehiiv.com/?via=anonymous-operator",
+            "https://www.beehiiv.com/",
             "https://taskade.com/?via=55nfr2",
             "https://writesonic.com/?via=aitoolsnl",
             "https://rytr.me?via=hermes-affiliates",

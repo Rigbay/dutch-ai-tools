@@ -15,7 +15,7 @@ cons:
 - Sommige AI-features alleen in duurdere Enterprise-plannen
 - Integraties met Nederlandse betaalproviders niet bij alle tools
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-07'
 modelYear: 2026
 featuredTool: Unbounce

@@ -16,7 +16,7 @@ cons:
 - AI-functies verschillen sterk per leverancier en regio
 - Implementatie vraagt training van teams en duidelijke werkafspraken
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-25
 modelYear: 2026
 featuredTool: brightwheel

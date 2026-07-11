@@ -129,7 +129,7 @@
       "perSite": {
         "dutch-ai-tools": {
           "status": "active",
-          "affiliateId": "anonymous-operator"
+          "affiliateId": null
         }
       },
       "commission": {
@@ -139,8 +139,8 @@
         "recurringMonths": null,
         "notes": "50-60% Boost program, recurring"
       },
-      "linkTemplate": "https://www.beehiiv.com/?via={affiliateId}",
-      "link": "https://www.beehiiv.com/?via=anonymous-operator",
+      "linkTemplate": "https://www.beehiiv.com/",
+      "link": "https://www.beehiiv.com/",
       "domainHints": [
         "beehiiv.com"
       ],
@@ -148,7 +148,7 @@
       "articles": 119,
       "lastVerified": "2026-05-27T00:00:00+02:00",
       "signedUp": null,
-      "notes": "Core for Dutch AI Tools. via=anonymous-operator. ~119/126 AI tools articles monetized."
+      "notes": "Program account remains active, but public referral attribution is disabled for privacy. Articles use the direct provider URL until an anonymous brand-owned referral ID is verified."
     },
     "taskade": {
       "name": "Taskade",

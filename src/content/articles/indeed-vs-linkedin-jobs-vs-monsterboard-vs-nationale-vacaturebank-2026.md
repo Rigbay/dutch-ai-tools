@@ -14,7 +14,7 @@ cons:
 - 'LinkedIn is minder sterk voor praktische/MBO-functies'
 - 'Indeed aggregeert vacatures — dubbele vermeldingen komen voor'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-08
 modelYear: 2026
 featuredTool: LinkedIn Jobs

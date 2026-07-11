@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-03
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 50-500/mnd"
     bestFor: "AI-gestuurde ticketing & bots"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Intercom Fin AI"
     verdict: "AI-gedreven tool voor conversational ai chatbot"
     priceRange: "EUR 100-800/mnd"
     bestFor: "Conversational AI chatbot"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Freshdesk Freddy AI"
     verdict: "AI-gedreven tool voor ai agent assist & automatisering"
     priceRange: "EUR 30-300/mnd"
     bestFor: "AI agent assist & automatisering"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Salesforce Service Cloud Einstein"
     verdict: "AI-gedreven tool voor enterprise ai customer service"
     priceRange: "EUR 100-1000/mnd"
     bestFor: "Enterprise AI customer service"
     rating: 4.7
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "LivePerson AI"
     verdict: "AI-gedreven tool voor conversational commerce platform"
     priceRange: "EUR 200-1500/mnd"
     bestFor: "Conversational commerce platform"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Ada CX AI"
     verdict: "AI-gedreven tool voor no-code ai chatbot platform"
     priceRange: "EUR 150-1000/mnd"
     bestFor: "No-code AI chatbot platform"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Zoho Desk AI"
     verdict: "AI-gedreven tool voor budgetvriendelijke ai service desk"
     priceRange: "EUR 0-100/mnd"
     bestFor: "Budgetvriendelijke AI service desk"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-presentatie-tools-2026

@@ -16,7 +16,7 @@ cons:
 - Features evolueren snel — dit artikel is een momentopname
 - Niet elk niche-use case wordt behandeld
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: AWS
@@ -27,19 +27,19 @@ tools:
   priceRange: EUR 0-50.000+/mnd
   bestFor: Schaalbare applicaties en startups
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Microsoft Azure
   verdict: Beste integratie met Microsoft-ecosysteem en hybride cloud — top voor MKB met MS-stack
   priceRange: EUR 0-50.000+/mnd
   bestFor: Microsoft-gedreven organisaties
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Google Cloud
   verdict: Sterkste AI/ML-diensten en data-analyse — beste voor data-gedreven bedrijven
   priceRange: EUR 0-50.000+/mnd
   bestFor: AI, big data en Kubernetes
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - adobe-acrobat-vs-smallpdf-vs-ilovepdf-vs-pdf-expert-2026
   - afas-vs-exact-vs-odoo-vs-sap-business-one-2026

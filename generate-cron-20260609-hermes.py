@@ -221,7 +221,7 @@ def write_article_manual(topic):
         "priceRange": topic["priceRange"],
         "pros": topic["pros"],
         "cons": topic["cons"],
-        "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+        "affiliateLinks": ["https://www.beehiiv.com/"],
         "date": TODAY,
         "modelYear": 2026,
         "featuredTool": topic["featured_tool"],
@@ -330,7 +330,7 @@ pros:
 cons:
 {cons_str}
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: {TODAY}
 modelYear: 2026
 featuredTool: {topic['featured_tool']}

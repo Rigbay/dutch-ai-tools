@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-03
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 200-2000/mnd"
     bestFor: "AI content strategie & research"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Clearscope AI"
     verdict: "AI-gedreven tool voor content optimalisatie & briefings"
     priceRange: "EUR 200-1500/mnd"
     bestFor: "Content optimalisatie & briefings"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Frase AI"
     verdict: "AI-gedreven tool voor ai content writer & research"
     priceRange: "EUR 50-200/mnd"
     bestFor: "AI content writer & research"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Surfer SEO AI"
     verdict: "AI-gedreven tool voor seo content optimalisatie"
     priceRange: "EUR 100-500/mnd"
     bestFor: "SEO content optimalisatie"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Semrush Content AI"
     verdict: "AI-gedreven tool voor allround content marketing"
     priceRange: "EUR 100-500/mnd"
     bestFor: "Allround content marketing"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "WordPress Jetpack AI"
     verdict: "AI-gedreven tool voor ai writing assistant voor sites"
     priceRange: "EUR 10-50/mnd"
     bestFor: "AI writing assistant voor sites"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Copy.ai"
     verdict: "AI-gedreven tool voor ai copywriting voor marketing"
     priceRange: "EUR 0-200/mnd"
     bestFor: "AI copywriting voor marketing"
     rating: 4.0
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - ai-tools-marketing-teams-2026
   - beste-ai-content-distributie-marketing-2026

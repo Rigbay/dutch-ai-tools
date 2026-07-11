@@ -16,7 +16,7 @@ cons:
   - AI-recepten missen soms de menselijke touch of vereisen kleine aanpassingen in kooktijd.
   - Niet alle tools bieden volledige Nederlandstalige ondersteuning in hun interface.
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-05-23
 modelYear: 2026
 featuredTool: ChefGPT
@@ -29,7 +29,7 @@ tools:
     priceRange: 'Gratis / $2.99 per maand'
     bestFor: Zero-waste koken en gepersonaliseerde maaltijdplanning.
     rating: 4.9
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: DishGen
     verdict: >-
       Uitstekend voor het razendsnel genereren van unieke, op maat gemaakte recepten
@@ -37,7 +37,7 @@ tools:
     priceRange: 'Gratis / $4.99 per maand'
     bestFor: Snelle, creatieve receptcreatie zonder gedoe.
     rating: 4.7
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: MealPractice
     verdict: >-
       De ideale tool voor wie gestructureerd wil meal preppen en wekelijks gezonde
@@ -45,7 +45,7 @@ tools:
     priceRange: 'Gratis / $5.00 per maand'
     bestFor: Wekelijkse planning en gezinsmaaltijden.
     rating: 4.6
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: SuperCook
     verdict: >-
       Een gigantische database gecombineerd met slimme AI-filtering om direct te
@@ -53,7 +53,7 @@ tools:
     priceRange: Volledig Gratis
     bestFor: Koelkast restjes opmaken en budgetkoken.
     rating: 4.5
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: FoodAI
     verdict: >-
       Een innovatieve tool die zich richt op unieke smaakcombinaties en culinaire
@@ -61,7 +61,7 @@ tools:
     priceRange: 'Gratis / Variabel'
     bestFor: Culinaire experimenten en fusion koken.
     rating: 4.4
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: ChatGPT (met Custom Recipe GPTs)
     verdict: >-
       Biedt ongekende flexibiliteit en diepgaande interactie voor het aanpassen en
@@ -69,7 +69,7 @@ tools:
     priceRange: 'Gratis / $20 per maand'
     bestFor: Complexe dieetwensen en interactieve kookbegeleiding.
     rating: 4.7
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
 related:
   - beste-gratis-ai-tools-2026
   - beste-ai-chatbots-2026
@@ -121,7 +121,7 @@ Hieronder vind je de beste AI-gestuurde kookassistenten van dit moment in detail
 * **Voordelen:** Zeer intuïtieve interface, uitstekende mobiele app, en nauwkeurige macro-berekeningen.
 * **Nadelen:** De gratis versie heeft een limiet op het aantal maaltijdgeneraties per maand.
 
-[Bezoek ChefGPT](https://www.beehiiv.com/?via=anonymous-operator)
+[Bezoek ChefGPT](https://www.beehiiv.com/)
 
 ---
 
@@ -134,7 +134,7 @@ Hieronder vind je de beste AI-gestuurde kookassistenten van dit moment in detail
 * **Voordelen:** Razendsnel, interactief aanpassen van recepten, actieve community die recepten deelt.
 * **Nadelen:** Minder focus op wekelijkse maaltijdplanning en boodschappenlijstjes vergeleken met ChefGPT.
 
-[Bezoek DishGen](https://www.beehiiv.com/?via=anonymous-operator)
+[Bezoek DishGen](https://www.beehiiv.com/)
 
 ---
 
@@ -147,7 +147,7 @@ Als je structuur zoekt, is **MealPractice** de tool voor jou. Deze AI-assistent 
 * **Voordelen:** Geweldige interface voor weekplanning, bespaart enorm veel tijd bij het boodschappen doen.
 * **Nadelen:** Recepten zijn soms wat conventioneler dan bij creatieve platforms zoals DishGen.
 
-[Bezoek MealPractice](https://www.beehiiv.com/?via=anonymous-operator)
+[Bezoek MealPractice](https://www.beehiiv.com/)
 
 ---
 
@@ -160,7 +160,7 @@ Hoewel **SuperCook** al langer bestaat, heeft de AI-update in 2026 de tool getra
 * **Voordelen:** Helemaal gratis, enorme database, helpt direct geld te besparen en verspilling tegen te gaan.
 * **Nadelen:** Genereert zelf geen *nieuwe* recepten, maar zoekt in bestaande databases van culinaire websites.
 
-[Bezoek SuperCook](https://www.beehiiv.com/?via=anonymous-operator)
+[Bezoek SuperCook](https://www.beehiiv.com/)
 
 ---
 
@@ -173,7 +173,7 @@ Hoewel **SuperCook** al langer bestaat, heeft de AI-update in 2026 de tool getra
 * **Voordelen:** Unieke recepten die je nergens anders vindt, stimuleert culinaire creativiteit.
 * **Nadelen:** Soms zijn de ingrediënten wat lastiger te vinden in de gemiddelde Nederlandse supermarkt.
 
-[Bezoek FoodAI](https://www.beehiiv.com/?via=anonymous-operator)
+[Bezoek FoodAI](https://www.beehiiv.com/)
 
 ---
 

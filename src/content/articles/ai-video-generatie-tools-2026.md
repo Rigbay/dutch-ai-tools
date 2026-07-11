@@ -16,7 +16,7 @@ cons:
 - Kwaliteit varieert sterk per use case
 - Sommige geavanceerde features vereisen duurdere abonnementen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-05-20
 modelYear: 2026

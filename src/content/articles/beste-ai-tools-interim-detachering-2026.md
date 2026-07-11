@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-04
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 200-1000/mnd"
     bestFor: "AI talent sourcing & matching"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Harver AI"
     verdict: "AI-gedreven tool voor ai assessment & hiring platform"
     priceRange: "EUR 100-500/mnd"
     bestFor: "AI assessment & hiring platform"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Textkernel AI"
     verdict: "AI-gedreven tool voor ai cv-parsing & skills matching"
     priceRange: "EUR 200-2000/mnd"
     bestFor: "AI CV-parsing & skills matching"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "CAIRE AI"
     verdict: "AI-gedreven tool voor ai recruitment chatbot & screening"
     priceRange: "EUR 100-500/mnd"
     bestFor: "AI recruitment chatbot & screening"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Bullhorn AI"
     verdict: "AI-gedreven tool voor ats met ai-matchmaking"
     priceRange: "EUR 200-1000/mnd"
     bestFor: "ATS met AI-matchmaking"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Eightfold AI"
     verdict: "AI-gedreven tool voor ai talent intelligence platform"
     priceRange: "EUR 300-3000/mnd"
     bestFor: "AI talent intelligence platform"
     rating: 4.7
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Workforce Planner AI"
     verdict: "AI-gedreven tool voor ai workforce planning & forecasting"
     priceRange: "EUR 100-500/mnd"
     bestFor: "AI workforce planning & forecasting"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-presentatie-tools-2026

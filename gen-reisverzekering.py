@@ -54,7 +54,7 @@ def build_article(defn, body_text):
             tool["affiliateLink"] = resolved
     site_links = get_site_affiliate_links("dutch-ai-tools")
     if not site_links:
-        site_links = ["https://www.beehiiv.com/?via=anonymous-operator"]
+        site_links = ["https://www.beehiiv.com/"]
     data = {
         "title": defn["title"], "slug": defn["slug"], "description": defn["description"],
         "category": defn["category"], "rating": avg, "priceRange": defn["priceRange"],

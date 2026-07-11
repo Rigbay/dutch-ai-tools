@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-21
 modelYear: 2026
 featuredTool: Ansys AI
@@ -46,7 +46,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Documentatie & berekeningen
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: GitHub Copilot
   verdict: AI pair-programmer voor embedded systems, Matlab, Python en automatisering
   priceRange: EUR 0-20/mnd

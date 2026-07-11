@@ -13,7 +13,7 @@ cons:
 - AI gegenereerde sites hebben soms beperkingen in maatwerk
 - Prijzen kunnen wijzigen — check actuele aanbiedingen
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-05
 modelYear: 2026
 featuredTool: Wix AI Builder

@@ -14,7 +14,7 @@ cons:
   - Gratis versies missen essentiële functies zoals groepsafspraken, betalingen of branding-verwijdering
   - Agenda-integratie met Nederlandse zorgsystemen (ZorgDomein, etc.) vaak beperkt
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-06-09
 modelYear: 2026
 featuredTool: Calendly

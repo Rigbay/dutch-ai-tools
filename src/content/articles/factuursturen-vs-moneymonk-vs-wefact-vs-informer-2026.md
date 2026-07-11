@@ -15,7 +15,7 @@ cons:
 - 'Koppeling met boekhoudpakketten varieert per tool'
 - 'Migratie tussen systemen vraagt handmatige data-overdracht'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-07
 modelYear: 2026
 featuredTool: Factuursturen

@@ -10,7 +10,7 @@ Usage:
 
     # Registry hit — active merchant with affiliate ID
     url = build_affiliate_url("beehiiv", "https://www.beehiiv.com")
-    # → "https://www.beehiiv.com/?via=anonymous-operator"
+    # → "https://www.beehiiv.com/"
 
     # Registry miss — merchant not in registry
     url = build_affiliate_url("some-new-tool", "https://somenewtool.com")
@@ -189,7 +189,7 @@ def _run_tests() -> int:
     print("affiliate_resolver.py — unit tests\n")
 
     # ── 1. Registry hit: active merchant ──────────────────────────
-    want = "https://www.beehiiv.com/?via=anonymous-operator"
+    want = "https://www.beehiiv.com/"
     got = build_affiliate_url("beehiiv", "https://www.beehiiv.com")
     check("registry hit — beehiiv", got, want)
 
@@ -208,7 +208,7 @@ def _run_tests() -> int:
     check("empty URL", got, "")
 
     # ── 5. Case-insensitive merchant ID ───────────────────────────
-    want = "https://www.beehiiv.com/?via=anonymous-operator"
+    want = "https://www.beehiiv.com/"
     got = build_affiliate_url("BEEHIIV", "https://www.beehiiv.com")
     check("case-insensitive — BEEHIIV", got, want)
 

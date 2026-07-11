@@ -60,7 +60,7 @@ for attempt in range(5):
             "category": "business", "rating": avg, "priceRange": "EUR 0-100/mnd",
             "pros": ["Uitgebreide 2026 vergelijking", "Duidelijke prijsranges en use cases", "Nederlandstalig"],
             "cons": ["Prijzen kunnen wijzigen", "AI-features in ontwikkeling", "Niet alles dagelijks getest"],
-            "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator"],
+            "affiliateLinks": ["https://www.beehiiv.com/"],
             "date": str(date.today()), "modelYear": 2026,
             "featuredTool": "Optimizely", "readingTime": "8 min",
             "tools": tools_data, "related": related, "draft": False,

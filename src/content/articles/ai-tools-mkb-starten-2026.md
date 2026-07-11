@@ -17,8 +17,8 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
+- https://www.beehiiv.com/
 - https://www.make.com/en/register?pc=hermesai
 date: 2026-05-19
 modelYear: 2026
@@ -42,7 +42,7 @@ tools:
   priceRange: EUR 10-20/mnd
   bestFor: Documenten & planning
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Grammarly
   verdict: Foutloos schrijven in het Engels — essentieel voor internationale communicatie
   priceRange: EUR 0-30/mnd
@@ -54,7 +54,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrieven
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Zapier
   verdict: Automatiseer werk tussen apps zonder code — bespaar uren per week
   priceRange: EUR 0-70/mnd

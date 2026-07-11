@@ -17,7 +17,7 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Saidot
@@ -54,7 +54,7 @@ tools:
   priceRange: EUR 10-20/mnd per gebruiker
   bestFor: Team documentatie
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Microsoft Copilot
   verdict: Enterprise AI met volledige Azure governance en compliance controls
   priceRange: EUR 30/mnd per gebruiker

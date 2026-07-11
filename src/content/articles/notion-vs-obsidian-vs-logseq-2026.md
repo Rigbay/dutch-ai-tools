@@ -17,7 +17,7 @@ cons:
 - Toolvoorkeur is persoonlijk; wat voor jou werkt hangt af van je workflow
 - Sommige features zijn platform-specifiek (iOS vs Android vs desktop)
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-01
 modelYear: 2026
 featuredTool: Obsidian

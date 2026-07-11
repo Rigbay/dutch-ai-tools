@@ -17,7 +17,7 @@ cons:
 - CPC-ranges zijn gemiddelden en variëren per branche
 - Sommige AI-campagnefeatures zijn nog in uitrol per regio
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-04
 modelYear: 2026
 featuredTool: Google Ads

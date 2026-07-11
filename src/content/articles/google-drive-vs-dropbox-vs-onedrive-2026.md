@@ -17,7 +17,7 @@ cons:
 - Upload- en downloadsnelheid verschilt per provider en regio
 - Sommige AI-features zijn nog in gefaseerde uitrol
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-04
 modelYear: 2026
 featuredTool: Google Drive/One

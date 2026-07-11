@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is uitgebreid praktisch getest
   - Sommige features nog in beta of rolling release
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-06-06
 modelYear: 2026
 featuredTool: "GitHub"

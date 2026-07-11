@@ -17,7 +17,7 @@ cons:
 - Niet elke tool is intensief getest in de praktijk
 - Sommige AI features zijn nog in beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-02
 modelYear: 2026
 featuredTool: Zillow AI

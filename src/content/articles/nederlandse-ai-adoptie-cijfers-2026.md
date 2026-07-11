@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks in de praktijk getest
 - Sommige genoemde tools richten zich primair op de Engelstalige markt
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-19
 modelYear: 2026
 featuredTool: ChatGPT
@@ -45,7 +45,7 @@ tools:
   priceRange: EUR 10-20/mnd
   bestFor: Productiviteit
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Canva AI
   verdict: Design tool met AI — breed gebruikt door marketeers en kleine ondernemers
   priceRange: EUR 0-15/mnd

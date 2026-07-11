@@ -17,7 +17,7 @@ cons:
 - De beste functies zitten vrijwel altijd achter een betaalmuur
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-23
 modelYear: 2026
 featuredTool: Motion

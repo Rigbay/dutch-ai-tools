@@ -14,7 +14,7 @@ cons:
 - Prijzen kunnen wijzigen — check altijd de actuele aanbieder
 - De beste tool hangt af van je specifieke use case en budget
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-08
 modelYear: 2026
 featuredTool: Reclaim

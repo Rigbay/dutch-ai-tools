@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-04
@@ -27,43 +27,43 @@ tools:
     priceRange: "Gratis"
     bestFor: "AI personal shopper voor kleding"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "DressX AI"
     verdict: "AI-gedreven tool voor virtuele digitale kleding & try-on"
     priceRange: "Gratis-30/mnd"
     bestFor: "Virtuele digitale kleding & try-on"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Vue.ai"
     verdict: "AI-gedreven tool voor ai mode visual search & recommendation"
     priceRange: "EUR 200-2000/mnd"
     bestFor: "AI mode visual search & recommendation"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Perfect Corp"
     verdict: "AI-gedreven tool voor ai virtuele make-up try-on"
     priceRange: "Gratis-50/mnd"
     bestFor: "AI virtuele make-up try-on"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Threads Styling AI"
     verdict: "AI-gedreven tool voor ai personal styling service"
     priceRange: "EUR 10-50/mnd"
     bestFor: "AI personal styling service"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Style DNA AI"
     verdict: "AI-gedreven tool voor ai kleur- & stijlanalyse"
     priceRange: "Gratis-15/mnd"
     bestFor: "AI kleur- & stijlanalyse"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "L'Oreal AI"
     verdict: "AI-gedreven tool voor ai huidanalyse & beauty advies"
     priceRange: "Gratis"
     bestFor: "AI huidanalyse & beauty advies"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-tools-finops-cloudkostenbeheer-2026

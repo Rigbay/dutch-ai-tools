@@ -63,7 +63,7 @@ def build_article(defn, body_text):
 
     # Site-level affiliate links: for consumer articles, only beehiiv is relevant.
     # AI-tool programs (taskade, writesonic, etc.) don't belong on warmtepomp/laadpaal articles.
-    site_links = ["https://www.beehiiv.com/?via=anonymous-operator"]
+    site_links = ["https://www.beehiiv.com/"]
 
     data = {
         "title": defn["title"], "slug": defn["slug"], "description": defn["description"],

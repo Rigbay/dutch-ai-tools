@@ -15,7 +15,7 @@ cons:
   - "Integratie met Nederlandse systemen kan extra configuratie vereisen"
   - "Niet alle tools ondersteunen alle Nederlandse banken/diensten"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates
@@ -30,7 +30,7 @@ tools:
     priceRange: '€0-€20/maand'
     bestFor: 'Beginner'
     rating: 4.2
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: 'SmartPersoonlijk'
     verdict: 'Uitstekende AI-tool voor persoonlijk in Nederland met geavanceerde functies.'
     priceRange: '€20-€50/maand'

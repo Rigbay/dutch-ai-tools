@@ -18,7 +18,7 @@ cons:
 - Diepe integraties vereisen vaak betaalde abonnementen
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-25
 modelYear: 2026
 featuredTool: Notion AI

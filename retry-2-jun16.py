@@ -135,7 +135,7 @@ def build_article(data, slug):
         lines.append(f"- {c}")
     
     links = data.get("affiliateLinks", [
-        "https://www.beehiiv.com/?via=anonymous-operator",
+        "https://www.beehiiv.com/",
         "https://taskade.com/?via=55nfr2",
         "https://writesonic.com/?via=aitoolsnl",
         "https://rytr.me?via=hermes-affiliates",
@@ -210,7 +210,7 @@ EERST de kale JSON metadata (géén body_markdown veld, géén markdown fences z
   "priceRange": "EUR [min]-[max] per maand",
   "pros": ["pro 1", "pro 2", "pro 3"],
   "cons": ["con 1", "con 2", "con 3"],
-  "affiliateLinks": ["https://www.beehiiv.com/?via=anonymous-operator", "https://taskade.com/?via=55nfr2", "https://writesonic.com/?via=aitoolsnl", "https://rytr.me?via=hermes-affiliates", "https://www.synthesia.io?via=hermes", "https://www.make.com/en/register?pc=hermesai", "https://www.frase.io/?via=hermes10"],
+  "affiliateLinks": ["https://www.beehiiv.com/", "https://taskade.com/?via=55nfr2", "https://writesonic.com/?via=aitoolsnl", "https://rytr.me?via=hermes-affiliates", "https://www.synthesia.io?via=hermes", "https://www.make.com/en/register?pc=hermesai", "https://www.frase.io/?via=hermes10"],
   "featuredTool": "[Beste aanbieder]",
   "readingTime": "8 min",
   "tools": [

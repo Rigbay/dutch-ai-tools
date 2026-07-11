@@ -14,7 +14,7 @@ cons:
   - Sommige tools alleen in het Engels beschikbaar
   - Niet alle tools bieden gratis trial of demo
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Textkernel
@@ -25,37 +25,37 @@ tools:
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Harver
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Eightfold AI
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Bullhorn AI
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: SmartRecruiters
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: Phenom AI
     verdict: Sterke keuze — zie artikel voor details per use case
     priceRange: EUR 0-50+/mnd
     bestFor: Nederlandse bedrijven
     rating: 4.0
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
 related:
   - ai-tools-mkb-starten-2026
   - beste-ai-tools-finance-accounting-nederland

@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is dagelijks getest met intensief gebruik
   - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://www.make.com/en/register?pc=hermesai
   - https://writesonic.com/?via=aitoolsnl
   - https://www.synthesia.io?via=hermes
@@ -28,43 +28,43 @@ tools:
     priceRange: EUR 19-150/mnd
     bestFor: Enterprise support
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Intercom Fin AI
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 39-139/mnd
     bestFor: AI chatbots & self-service
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Freshdesk AI (Freddy)
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-79/mnd
     bestFor: MKB & betaalbare AI
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: HubSpot Service Hub AI
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-120/mnd
     bestFor: CRM-geintegreerde support
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Zoho Desk AI (Zia)
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-50/mnd
     bestFor: Multichannel support
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Help Scout AI
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 25-65/mnd
     bestFor: Kleine teams & startups
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Tidio AI (Lyro)
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-49/mnd
     bestFor: E-commerce live chat AI
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
 related:
   - ai-trends-2026-nederland
   - beste-ai-tools-zzpers-2026

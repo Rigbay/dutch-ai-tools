@@ -14,7 +14,7 @@ cons:
 - Features ontwikkelen snel — check actuele documentatie
 - Security scanning verschilt sterk per platform
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-06-10'
 modelYear: 2026
 featuredTool: Coderabbit

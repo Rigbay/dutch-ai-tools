@@ -17,7 +17,7 @@ cons:
 - Sommige NL-tools klein en minder volwassen
 - Aanbestedingstrajecten vertragen adoptie
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-05-21'
 modelYear: 2026
 featuredTool: Microsoft Copilot for Government
@@ -29,48 +29,48 @@ tools:
   priceRange: Op aanvraag
   bestFor: Grootschalige AI governance
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Microsoft Copilot for Government
   verdict: AI-assistent geïntegreerd met bestaande Microsoft-overheidslicenties —
     direct inzetbaar
   priceRange: EUR 28-55/gebruiker/mnd
   bestFor: Document- en mailverwerking
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Textgain
   verdict: Nederlands AI-bedrijf voor text mining bij overheid — hate speech detectie,
     beleidsanalyse
   priceRange: Op aanvraag
   bestFor: Overheidstekstanalyse
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: NLPal
   verdict: Nederlandse AI-startup voor automatische beleidsanalyse en kamerstuk-monitoring
   priceRange: Op aanvraag
   bestFor: Beleidsmonitoring
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: OBI4wan
   verdict: Nederlands platform voor burgercommunicatie — AI-gestuurde webcare, chatbot
     en social monitoring
   priceRange: EUR 500-2500/mnd
   bestFor: Burgercommunicatie
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Palantir AIP
   verdict: Grootschalig data-analyseplatform — complexe databronnen integreren en
     AI-modellen bouwen
   priceRange: Op aanvraag (enterprise)
   bestFor: Data-analyse op schaal
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Tykn
   verdict: Nederlands blockchain-identiteitsplatform — digitale identiteit voor burgers
     met privacy-by-design
   priceRange: Op aanvraag
   bestFor: Digitale identiteit
   rating: 3.9
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - shadow-ai-werkvloer-management-2026
   - beste-ai-tools-financieel-2026

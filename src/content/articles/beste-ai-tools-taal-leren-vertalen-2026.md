@@ -14,7 +14,7 @@ cons:
   - "Leercurve voor geavanceerde functies"
   - "Privacy-overwegingen bij AI data gebruik"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates
@@ -31,37 +31,37 @@ tools:
     priceRange: "Gratis - €30/mnd"
     bestFor: "Nederlandse gebruikers"
     rating: 4.7
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "DeepL Pro"
     verdict: "Beste voor professionele toepassingen en documenten."
     priceRange: "€10-€50/mnd"
     bestFor: "Zakelijke gebruikers"
     rating: 4.8
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "ChatGPT / Claude"
     verdict: "Flexibele AI voor dagelijks gebruik."
     priceRange: "Gratis - €20/mnd"
     bestFor: "Praktijk oefenen"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Babbel AI"
     verdict: "Goede balans tussen functies en gebruiksvriendelijkheid."
     priceRange: "€5-€25/mnd"
     bestFor: "Gestructureerd leren"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Google Translate AI"
     verdict: "Handig voor snelle toepassingen."
     priceRange: "Gratis - €15/mnd"
     bestFor: "Snelle taken"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Memrise AI"
     verdict: "Effectief voor specifieke doelen."
     priceRange: "Gratis - €10/mnd"
     bestFor: "Specifieke gebruikers"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-zzpers-2026
   - beste-budget-apps-2026-dyme-spendle-ynab-wallet-grip

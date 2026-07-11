@@ -18,7 +18,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse fotografenpraktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-05-21
 modelYear: 2026
@@ -31,49 +31,49 @@ tools:
   priceRange: EUR 0-28/mnd
   bestFor: Commerciële fotobewerking en retouches
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Luminar Neo
   verdict: Meest gebruiksvriendelijke standalone AI-editor met indrukwekkende luchtvervanging
     en portretverfraaiing
   priceRange: EUR 99-199/eenmalig
   bestFor: Landschaps- en portretfotografen
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Imagen AI
   verdict: AI aangedreven batch-bewerking die je stijl leert en op duizenden foto's
     tegelijk toepast
   priceRange: EUR 5-50/mnd
   bestFor: Trouw- en eventfotografen met hoge volumes
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Topaz Photo AI
   verdict: Onverslaanbaar in ruisonderdrukking, verscherping en upscaling — redt onscherpe
     of korrelige beelden
   priceRange: EUR 199/eenmalig
   bestFor: Technische beeldverbetering en restauratie
   rating: 4.8
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Midjourney
   verdict: Krachtigste AI voor het genereren van fotorealistische composities en creatieve
     conceptbeelden
   priceRange: EUR 10-60/mnd
   bestFor: Concept art en creatieve beeldgeneratie
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: DALL-E 3
   verdict: Direct geintegreerd in ChatGPT voor snelle beeldgeneratie met natuurlijke
     taalprompts
   priceRange: EUR 0-25/mnd
   bestFor: Snelle visuele brainstorming en mockups
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: evoto
   verdict: Snelste AI voor batch portretretouchering met huidverbetering, gezichtscontour
     en make-up aanpassingen
   priceRange: EUR 15-30/mnd
   bestFor: Portret- en fashionfotografen
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-designers-2026
   - beste-ai-video-tools-2026

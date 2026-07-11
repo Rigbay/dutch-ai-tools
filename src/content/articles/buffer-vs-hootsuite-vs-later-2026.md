@@ -19,7 +19,7 @@ cons:
 - Features veranderen snel in de SaaS-markt
 - Sommige tools zijn primair Engelstalig
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 tools:
 - name: Buffer
   verdict: Mooiste UI, beste AI-assistent voor content en eerlijke prijs

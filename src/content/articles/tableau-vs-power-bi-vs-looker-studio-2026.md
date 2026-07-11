@@ -19,7 +19,7 @@ cons:
 - Features veranderen snel in de SaaS-markt
 - Sommige tools zijn primair Engelstalig
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 tools:
 - name: Microsoft Power BI
   verdict: Beste prijs-kwaliteit met naadloze Microsoft 365 integratie en AI Copilot

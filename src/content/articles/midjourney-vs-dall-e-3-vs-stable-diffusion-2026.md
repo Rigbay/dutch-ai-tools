@@ -15,7 +15,7 @@ cons:
 - Prijzen onder voorbehoud
 - Sommige features in beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-05-23
 modelYear: 2026
@@ -33,7 +33,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Gebruiksgemak
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Stable Diffusion 3
   verdict: Maximale controle en open-source mogelijkheden voor gevorderden
   priceRange: EUR 0-50/mnd

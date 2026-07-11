@@ -15,7 +15,7 @@ cons:
 - AI-functies verschillen per abonnementsvorm
 - Exporteerbaarheid is niet altijd perfect
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-27
 modelYear: 2026
 featuredTool: Miro

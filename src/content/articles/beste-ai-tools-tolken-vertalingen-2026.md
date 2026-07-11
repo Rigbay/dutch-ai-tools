@@ -16,7 +16,7 @@ cons:
 - Terminologiebeheer verschilt sterk per platform
 - Live interpretatie blijft gevoelig voor context, accent en audio
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-25
 modelYear: 2026
 featuredTool: DeepL

@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is dagelijks getest met intensief gebruik
   - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://www.make.com/en/register?pc=hermesai
   - https://writesonic.com/?via=aitoolsnl
   - https://www.synthesia.io?via=hermes
@@ -28,49 +28,49 @@ tools:
     priceRange: EUR 39-69/mnd
     bestFor: AI copywriting & content creation
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Surfer SEO
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 69-219/mnd
     bestFor: SEO content optimalisatie
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Clearscope
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 170+/mnd
     bestFor: Content scoring & topic clusters
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: MarketMuse
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 149-999/mnd
     bestFor: Content strategie & planning
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: BuzzSumo
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 119-239/mnd
     bestFor: Trend research & competitor analyse
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Writesonic
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-20/mnd
     bestFor: AI schrijven + SEO features
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: Frase.io
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 15-115/mnd
     bestFor: SEO briefs & AI content optimalisatie
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
   - name: ContentShake AI (Semrush)
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-60/mnd
     bestFor: Kleine teams & ZZP content
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+    affiliateLink: https://www.beehiiv.com/
 related:
   - ai-trends-2026-nederland
   - beste-ai-tools-zzpers-2026

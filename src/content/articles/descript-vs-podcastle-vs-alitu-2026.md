@@ -14,7 +14,7 @@ cons:
 - Prijzen fluctueren
 - Sommige features alleen in duurste plan
 affiliateLinks:
-  - https://www.descript.com/?via=anonymous-operator
+  - https://www.descript.com/
   - https://synthesia.io/?via=hermes  # Synthesia
   - https://www.notion.so
 date: '2026-05-27'

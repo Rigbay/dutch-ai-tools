@@ -218,7 +218,7 @@ pros:
 cons:
 {cons_yaml}
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: {TODAY}
 modelYear: 2026
 featuredTool: {topic["featured_tool"]}
@@ -304,7 +304,7 @@ pros:
 cons:
 {topic['cons']}
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: {TODAY}
 modelYear: 2026
 featuredTool: {topic['featured_tool']}

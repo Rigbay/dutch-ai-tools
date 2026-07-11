@@ -19,7 +19,7 @@ cons:
 - Features veranderen snel in de SaaS-markt
 - Sommige tools zijn primair Engelstalig
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 tools:
 - name: DocuSign
   verdict: Wereldmarktleider met meeste integraties en hoogste compliance

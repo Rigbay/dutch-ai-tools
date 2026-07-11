@@ -16,8 +16,8 @@ cons:
 - Niet elke tool is intensief getest in Nederlandse context
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
+- https://www.beehiiv.com/
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Make
@@ -34,19 +34,19 @@ tools:
   priceRange: EUR 20-200/mnd
   bestFor: Allround AI
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Claude
   verdict: Sterkste in lange documenten en genuanceerd redeneren — favoriet bij professionals
   priceRange: EUR 20-200/mnd
   bestFor: Diepgaande analyse
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Notion AI
   verdict: AI in je workflow — schrijven, samenvatten en organiseren in één tool
   priceRange: EUR 10-18/mnd
   bestFor: Workflow integratie
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Jasper AI
   verdict: AI content engine voor marketing op schaal — consistent en merkbewust
   priceRange: EUR 50-100/mnd
@@ -58,13 +58,13 @@ tools:
   priceRange: EUR 0-130/mnd
   bestFor: Integraties
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: beehiiv
   verdict: AI-gedreven nieuwsbriefplatform met ingebouwde groei-tools
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrieven
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-non-profits-goede-doelen-2026
   - beste-ai-tools-overheid-2026

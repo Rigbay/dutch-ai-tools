@@ -198,7 +198,7 @@ def build_article(defn, body_text):
             "Niet elke tool is dagelijks getest in de Nederlandse praktijk",
             "Sommige AI-features zijn nog in actieve ontwikkeling of beta",
         ],
-        "affiliateLinks": ["https://www.notion.so", "https://www.beehiiv.com/?via=aitoolsnl"],
+        "affiliateLinks": ["https://www.notion.so", "https://www.beehiiv.com/"],
         "date": date.today(),
         "modelYear": 2026,
         "featuredTool": defn["tools"][0]["name"],

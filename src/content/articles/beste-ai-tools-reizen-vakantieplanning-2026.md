@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-05-22
 modelYear: 2026
 featuredTool: Google Travel AI
@@ -27,43 +27,43 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: productiviteit professionals
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Hopper
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 15-80/mnd
   bestFor: productiviteit professionals
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Wanderlog
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-50/mnd
   bestFor: productiviteit professionals
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: TripIt
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 0-25/mnd
   bestFor: productiviteit professionals
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Layla AI
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 20-100/mnd
   bestFor: productiviteit professionals
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Roam Around
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 5-40/mnd
   bestFor: productiviteit professionals
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: ChatGPT Travel
   verdict: Krachtige tool voor de juiste use case
   priceRange: EUR 10-60/mnd
   bestFor: productiviteit professionals
   rating: 3.9
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - ai-voor-studenten-2026
   - beste-ai-tools-wearables-2026

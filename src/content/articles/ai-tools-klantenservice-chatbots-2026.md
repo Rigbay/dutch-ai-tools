@@ -19,7 +19,7 @@ cons:
 - Kosten kunnen oplopen bij geavanceerde functionaliteiten
 - Noodzaak van continue monitoring en optimalisatie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates

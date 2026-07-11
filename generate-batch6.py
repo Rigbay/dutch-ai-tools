@@ -145,7 +145,7 @@ cons:
   - Sommige AI features zijn nog in actieve ontwikkeling
 affiliateLinks:
   - https://www.notion.so
-  - https://www.beehiiv.com/?via=aitoolsnl
+  - https://www.beehiiv.com/
 date: 2026-05-21
 modelYear: 2026
 featuredTool: "{tool_names[0]}"

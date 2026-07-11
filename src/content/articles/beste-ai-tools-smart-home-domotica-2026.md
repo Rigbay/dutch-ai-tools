@@ -15,7 +15,7 @@ cons:
   - "Integratie met andere systemen vereist soms extra werk"
   - "Niet alle Nederlandse merken worden ondersteund"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates
@@ -30,7 +30,7 @@ tools:
     priceRange: '€20-70/maand'
     bestFor: 'Beginner'
     rating: 4.2
-    affiliateLink: 'https://www.beehiiv.com/?via=anonymous-operator'
+    affiliateLink: 'https://www.beehiiv.com/'
   - name: 'Tado'
     verdict: 'Slimme tool voor huis-tuin met AVG-compliance en lokale integratie.'
     priceRange: '€30-90/maand'

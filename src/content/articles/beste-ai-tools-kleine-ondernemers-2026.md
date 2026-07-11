@@ -17,8 +17,8 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
+- https://www.beehiiv.com/
 date: 2026-05-16
 modelYear: 2026
 featuredTool: ChatGPT
@@ -29,13 +29,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Dagelijkse AI assistent
   rating: 4.8
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Notion AI
   verdict: Complete werkruimte met AI voor teams, projecten en documentatie
   priceRange: EUR 10-20/mnd
   bestFor: Teamwerk & documentatie
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Zapier
   verdict: Verbindt 6000+ apps en automatiseert repetitieve taken
   priceRange: EUR 0-150/mnd
@@ -53,7 +53,7 @@ tools:
   priceRange: EUR 0-50/mnd
   bestFor: Nieuwsbrief & e-mail
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: HubSpot AI
   verdict: Uitgebreid CRM met AI voor sales, marketing en klantenservice
   priceRange: EUR 0-800/mnd

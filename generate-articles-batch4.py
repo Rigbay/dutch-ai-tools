@@ -187,7 +187,7 @@ def build_article_md(article, body_text):
     lines.append("- Sommige AI features zijn nog in beta of development")
     lines.append("affiliateLinks:")
     lines.append("- https://www.notion.so")
-    lines.append("- https://www.beehiiv.com/?via=aitoolsnl")
+    lines.append("- https://www.beehiiv.com/")
     lines.append("- https://outlierkit.com/?ref=aitoolsnl")
     lines.append(f"date: {date_str}")
     lines.append("modelYear: 2026")

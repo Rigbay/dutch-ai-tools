@@ -14,7 +14,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Elicit
@@ -25,43 +25,43 @@ tools:
   priceRange: EUR 10-25/mnd
   bestFor: Diepgaande literatuuronderzoeken
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Scite.ai
   verdict: Analyseert citaties om te tonen hoe andere papers een studie ondersteunen, tegenspreken of simpelweg noemen.
   priceRange: EUR 12-30/mnd
   bestFor: Gedetailleerde citatie-analyse
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Consensus
   verdict: AI-zoekmachine die direct antwoorden uit peer-reviewed wetenschappelijke artikelen haalt, ideaal voor snelle evidence-based checks.
   priceRange: EUR 0-12/mnd
   bestFor: Snelle evidence checks
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Perplexity
   verdict: Een krachtige AI research assistant die antwoorden genereert met accurate bronvermelding uit diverse bronnen.
   priceRange: EUR 0-20/mnd
   bestFor: Verkennend onderzoek
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: NotebookLM
   verdict: Google's AI-notebook die notities en documenten analyseert om samenvattingen, vragen en bron-overzichten te genereren.
   priceRange: EUR 0/mnd
   bestFor: Notities organiseren
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Semantic Scholar
   verdict: Gratis AI-aangedreven academische zoekmachine die relevante papers vindt, met TLDR's en citatie-grafieken.
   priceRange: EUR 0/mnd
   bestFor: Breed zoeken
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Research Rabbit
   verdict: Een "Spotify voor papers" die op basis van jouw collectie nieuwe, relevante studies aanbeveelt en visualiseert.
   priceRange: EUR 0/mnd
   bestFor: Ontdekken van gerelateerd werk
   rating: 3.9
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-gratis-ai-tools-2026
   - beste-ai-tools-reizen-vakantieplanning-2026

@@ -15,7 +15,7 @@ cons:
 - Vereist digitale vaardigheden
 - Niet alle tools beschikbaar in het Nederlands
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Plantix
@@ -26,43 +26,43 @@ tools:
   priceRange: ' Gratis (basisversie met advertenties), Premium-'
   bestFor: ' Kleine tot middelgrote boeren, tuinders en agrariërs in ontwikkelingslanden d'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Climate FieldView
   verdict: Een toonaangevend platform dat een holistische benadering van data-integratie biedt. De AI-gestuurde
   priceRange: ' High-end (abonnementen variëren op basis van pe'
   bestFor: ' Commerciële boeren, landbouwcoöperaties en agri-bedrijven die streven naar ma'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: OneSoil
   verdict: Een indrukwekkend gratis platform dat de kracht van AI democratiseert voor de landbouw. De gebruiksv
   priceRange: ' Gratis.'
   bestFor: ' Boeren van alle groottes, landbouwadviseurs en onderzoeksinstellingen die beh'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Descartes Labs
   verdict: Een leider op het gebied van grootschalige geospatial analytics. De diepgaande analyses bieden een s
   priceRange: ' High-end (op maat gemaakte oplossingen).'
   bestFor: ' Grote agri-bedrijven, voedselproducenten, investeerders, overheden en onderzo'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Aerovision
   verdict: Combineert de kracht van drones met AI voor zeer gedetailleerde en actiegerichte inzichten. Ideaal v
   priceRange: ' Mid tot High-end (afhankelijk van drone-apparat'
   bestFor: ' Boeren die specifiek geïnteresseerd zijn in de voordelen van drone-technologi'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Agroop
   verdict: Een robuust en breed inzetbaar platform dat boeren helpt om hun operaties te stroomlijnen en dataged
   priceRange: ' Mid tot High-end (abonnementen gebaseerd op fun'
   bestFor: ' Middelgrote tot grote boeren die een geïntegreerde oplossing zoeken om al hun'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Connecterra
   verdict: Een gespecialiseerde, maar zeer effectieve AI-oplossing voor de melkveehouderij. De focus op individ
   priceRange: ' High-end (abonnementen inclusief sensorapparatu'
   bestFor: ' Melkveehouders die de gezondheid, vruchtbaarheid en efficiëntie van hun veest'
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-sales-tools-2026
   - beste-ai-tools-kleine-ondernemers-2026

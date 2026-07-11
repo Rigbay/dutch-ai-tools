@@ -8,7 +8,7 @@ print("=== Resolver smoke tests ===\n")
 
 # Test 1: Known active merchant (beehiiv)
 result = resolver.build_affiliate_url("beehiiv", "https://www.beehiiv.com")
-expected = "https://www.beehiiv.com/?via=anonymous-operator"
+expected = "https://www.beehiiv.com/"
 ok = result == expected
 print(f"{'PASS' if ok else 'FAIL'} beehiiv: {result}")
 if not ok:

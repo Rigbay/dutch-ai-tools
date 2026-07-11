@@ -19,7 +19,7 @@ cons:
 - Kwaliteit hangt sterk af van prompt-vaardigheid
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-05-31'
 modelYear: 2026
 featuredTool: Runway

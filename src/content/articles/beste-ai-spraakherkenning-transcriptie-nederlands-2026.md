@@ -17,7 +17,7 @@ cons:
 - Gebaseerd op specificaties, niet op fysieke tests
 affiliateLinks:
 - https://openai.com/whisper
-  - https://www.descript.com/?via=anonymous-operator
+  - https://www.descript.com/
 date: '2026-06-04'
 modelYear: 2026
 featuredTool: whisper-openai

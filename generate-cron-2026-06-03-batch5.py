@@ -133,7 +133,7 @@ Conclusie met aanbeveling per bedrijfsgrootte. 3 FAQ-vragen.
 
 # Affiliate templates — only use active merchants
 AFFILIATE_MAP = {
-    "beehiiv": "https://www.beehiiv.com/?via=anonymous-operator",
+    "beehiiv": "https://www.beehiiv.com/",
     "taskade": "https://taskade.com/?via=55nfr2",
     "writesonic": "https://writesonic.com/?via=aitoolsnl",
 }
@@ -177,7 +177,7 @@ def build_frontmatter(topic, body_text=""):
         tools_yaml_lines.append(f'    priceRange: "{t[2]}"')
         tools_yaml_lines.append(f'    bestFor: "{t[3]}"')
         tools_yaml_lines.append(f'    rating: {t[1]}')
-        tools_yaml_lines.append(f'    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"')
+        tools_yaml_lines.append(f'    affiliateLink: "https://www.beehiiv.com/"')
     tools_yaml = "\n".join(tools_yaml_lines)
 
     all_articles = [f.replace(".md", "") for f in os.listdir(OUT_DIR) if f.endswith(".md")]
@@ -208,7 +208,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-03

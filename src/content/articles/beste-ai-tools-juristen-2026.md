@@ -16,7 +16,7 @@ cons:
 - Niet elke tool is dagelijks getest in de Nederlandse praktijk
 - Sommige AI-features zijn nog in actieve ontwikkeling of beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-05-19
 modelYear: 2026
 featuredTool: Harvey AI
@@ -33,13 +33,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Juridische drafting
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Claude
   verdict: Uitstekend voor lange contracten en genuanceerde juridische redenering
   priceRange: EUR 0-25/mnd
   bestFor: Contractanalyse
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Henchman
   verdict: AI contractanalyse die automatisch clausules vindt in je database
   priceRange: EUR 100-300/mnd

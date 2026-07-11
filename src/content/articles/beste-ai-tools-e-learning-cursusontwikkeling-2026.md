@@ -17,7 +17,7 @@ cons:
 - Sommige AI features zijn nog in beta of development
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: ChatGPT
@@ -28,46 +28,46 @@ tools:
   priceRange: EUR 0-22/mnd
   bestFor: Allround instructieontwerp
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Claude
   verdict: AI met 200K contextvenster — perfect voor complete lesboeken en syllabi
     verwerken.
   priceRange: EUR 0-22/mnd
   bestFor: Lange documenten
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Gamma
   verdict: AI-presentatie- en documentgenerator die in seconden interactieve lesmodules
     bouwt.
   priceRange: EUR 0-20/mnd
   bestFor: Visuele lesmodules
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Eduaide.ai
   verdict: AI gespecialiseerd in lesplanning, differentiatie en assessment voor docenten.
   priceRange: EUR 0-18/mnd
   bestFor: Lesplannen
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Curipod
   verdict: AI-gestuurde interactieve lessen met polls, word clouds en discussievragen.
   priceRange: EUR 0-15/mnd
   bestFor: Interactieve lessen
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Lectora
   verdict: Professionele e-learning authoring tool met AI-templates en SCORM export.
   priceRange: EUR 50-150/mnd
   bestFor: Enterprise training
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Scribe
   verdict: AI-documentatie tool die screenshots automatisch omzet in stap-voor-stap
     handleidingen.
   priceRange: EUR 0-29/mnd
   bestFor: Handleidingen
   rating: 3.9
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-ouderen-senioren-2026
   - beste-ai-tools-automotive-2026

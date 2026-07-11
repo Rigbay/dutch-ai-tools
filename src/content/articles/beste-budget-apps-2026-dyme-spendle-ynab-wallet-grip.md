@@ -19,7 +19,7 @@ cons:
 - Abonnementskosten kunnen oplopen
 - Niet alle apps bieden alle banken aan
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates

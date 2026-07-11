@@ -109,7 +109,7 @@ cons:
   - "Kleinere ecosystemen dan globale platforms"
   - "Minder geavanceerde AI features bij sommige tools"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-20

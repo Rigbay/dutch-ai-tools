@@ -17,7 +17,7 @@ cons:
 - Prijzen kunnen variëren
 affiliateLinks:
 - https://taskade.com/?via=55nfr2
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.make.com/en/register?pc=hermesai
 date: '2026-05-24'
 modelYear: 2026

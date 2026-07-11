@@ -15,7 +15,7 @@ cons:
 - Nauwkeurigheid bewegingsanalyse varieert
 - Privacy bij gezondheidsdata blijft aandachtspunt
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: '2026-05-22'
 modelYear: 2026
 featuredTool: Whoop
@@ -26,43 +26,43 @@ tools:
   priceRange: EUR 20-30/mnd
   bestFor: Hersteloptimalisatie
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Fitbod
   verdict: AI-krachttrainingsapp
   priceRange: EUR 10-15/mnd
   bestFor: Krachttraining
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Oura
   verdict: Slimme ring met AI-slaapanalyse
   priceRange: EUR 6/mnd
   bestFor: Holistische gezondheid
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Kaia Health
   verdict: AI-fysiotherapie via telefooncamera
   priceRange: EUR 15-30/mnd
   bestFor: Hersteltraining
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Freeletics
   verdict: AI-gestuurde bodyweight en HIIT
   priceRange: EUR 0-15/mnd
   bestFor: Thuis-workouts
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Tempo
   verdict: AI-thuisgym met 3D-sensoren
   priceRange: EUR 30-50/mnd
   bestFor: Thuis krachttraining
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Zing Coach
   verdict: AI-personal trainer via selfie-camera
   priceRange: EUR 10-20/mnd
   bestFor: AI training
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-industriele-productie-maakindustrie-2026
   - beste-ai-tools-ecommerce-2026

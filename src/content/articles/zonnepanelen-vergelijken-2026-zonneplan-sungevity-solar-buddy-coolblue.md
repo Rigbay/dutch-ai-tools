@@ -15,7 +15,7 @@ cons:
 - Afbouw van de salderingsregeling vanaf 2026 kan de terugverdientijd beïnvloeden.
 - Afhankelijkheid van weersomstandigheden en de levensduur van omvormers.
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -32,7 +32,7 @@ tools:
   priceRange: €5.500 - €7.000
   bestFor: Consumenten die ontzorgd willen worden en waarde hechten aan service en opbrengstgarantie.
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Sungevity
   verdict: Ideaal voor maatwerk en premium oplossingen. Goede online tool voor advies en ontwerp, maar vaak aan de prijzige kant.
   priceRange: €6.000 - €7.500

@@ -17,7 +17,7 @@ cons:
 - Implementatiekosten en training zijn niet meegenomen in de prijsvergelijking
 - Elke CRM vereist maatwerk voor optimale inrichting in jouw organisatie
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 date: 2026-06-04
 modelYear: 2026
 featuredTool: Salesforce

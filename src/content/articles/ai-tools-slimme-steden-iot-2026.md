@@ -14,7 +14,7 @@ cons:
   - "Vereist gespecialiseerd technisch personeel"
   - "Data-integratie en standaardisatie kunnen een uitdaging zijn"
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
   - https://rytr.me?via=hermes-affiliates

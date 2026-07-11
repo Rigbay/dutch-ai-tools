@@ -14,7 +14,7 @@ cons:
 - Prijzen onder voorbehoud
 - Sommige features in beta
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://www.synthesia.io?via=hermes
 date: 2026-05-23
 modelYear: 2026
@@ -62,7 +62,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Interactie
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-content-creators-2026
   - beste-ai-tools-muziekproductie-2026

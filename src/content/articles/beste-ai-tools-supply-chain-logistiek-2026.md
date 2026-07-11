@@ -17,7 +17,7 @@ cons:
 - Niet elke tool is dagelijks getest met intensief gebruik
 - Sommige AI features zijn nog in actieve ontwikkeling
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://www.make.com/en/register?pc=hermesai
 date: 2026-05-21
 modelYear: 2026
@@ -29,43 +29,43 @@ tools:
   priceRange: EUR 50-300/mnd
   bestFor: Enterprise
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Llamasoft
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 30-200/mnd
   bestFor: MKB
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: ClearMetal
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 20-150/mnd
   bestFor: Startups
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: FourKites
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 0-50/mnd
   bestFor: Budget
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Project44
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 15-100/mnd
   bestFor: Teams
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Shippeo
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 10-60/mnd
   bestFor: Solo
   rating: 4.0
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: Transporeon
   verdict: Wordt vergeleken in artikel
   priceRange: EUR 0-30/mnd
   bestFor: Beginners
   rating: 4.1
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-klantenservice-2026
   - beste-ai-tools-non-profits-goede-doelen-2026

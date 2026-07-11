@@ -14,7 +14,7 @@ cons:
   - Niet elke tool is intensief getest in de praktijk
   - Sommige AI features zijn nog in beta
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
   - https://taskade.com/?via=55nfr2
   - https://writesonic.com/?via=aitoolsnl
 date: 2026-06-04
@@ -27,43 +27,43 @@ tools:
     priceRange: "EUR 0/mnd"
     bestFor: "Basis AI assistent zonder kosten"
     rating: 4.0
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "ChatGPT Plus"
     verdict: "AI-gedreven tool voor vollege toegang tot gpt-4o, dall-e"
     priceRange: "EUR 25/mnd"
     bestFor: "VoLLEGE toegang tot GPT-4o, DALL-E"
     rating: 4.6
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Google Gemini Gratis"
     verdict: "AI-gedreven tool voor basis gemini met google-integratie"
     priceRange: "EUR 0/mnd"
     bestFor: "Basis Gemini met Google-integratie"
     rating: 4.1
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Gemini Advanced"
     verdict: "AI-gedreven tool voor ultra-model met 1m context"
     priceRange: "EUR 25/mnd"
     bestFor: "Ultra-model met 1M context"
     rating: 4.5
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Claude Gratis (Sonnet)"
     verdict: "AI-gedreven tool voor beste gratis optie voor lange teksten"
     priceRange: "EUR 0/mnd"
     bestFor: "Beste gratis optie voor lange teksten"
     rating: 4.2
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "Claude Pro"
     verdict: "AI-gedreven tool voor onbeperkt opus, hogere limieten"
     priceRange: "EUR 22/mnd"
     bestFor: "Onbeperkt Opus, hogere limieten"
     rating: 4.7
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
   - name: "DeepSeek Gratis"
     verdict: "AI-gedreven tool voor open-source alternatief met lange context"
     priceRange: "EUR 0/mnd"
     bestFor: "Open-source alternatief met lange context"
     rating: 4.3
-    affiliateLink: "https://www.beehiiv.com/?via=anonymous-operator"
+    affiliateLink: "https://www.beehiiv.com/"
 related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-tools-finops-cloudkostenbeheer-2026

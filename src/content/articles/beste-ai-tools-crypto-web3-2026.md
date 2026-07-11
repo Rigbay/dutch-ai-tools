@@ -14,7 +14,7 @@ cons:
   - 'AI-modellen kunnen onvoorspelbaar zijn bij extreme marktvolatiliteit'
   - 'Vereist basiskennis van crypto en Web3-concepten'
 affiliateLinks:
-  - https://www.beehiiv.com/?via=anonymous-operator
+  - https://www.beehiiv.com/
 date: 2026-05-23
 modelYear: 2026
 featuredTool: 'Kaito AI'

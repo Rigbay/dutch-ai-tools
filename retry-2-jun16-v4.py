@@ -84,7 +84,7 @@ def build_article(data, slug):
         lines.append(f"- {c}")
     
     links = data.get("affiliateLinks", [
-        "https://www.beehiiv.com/?via=anonymous-operator",
+        "https://www.beehiiv.com/",
         "https://taskade.com/?via=55nfr2",
         "https://writesonic.com/?via=aitoolsnl",
         "https://rytr.me?via=hermes-affiliates",
@@ -146,7 +146,7 @@ Output een JSON object met deze velden:
 - priceRange: prijsrange als string
 - pros: array van 3 voordelen
 - cons: array van 3 nadelen
-- affiliateLinks: array van deze 7 URLs: ["https://www.beehiiv.com/?via=anonymous-operator", "https://taskade.com/?via=55nfr2", "https://writesonic.com/?via=aitoolsnl", "https://rytr.me?via=hermes-affiliates", "https://www.synthesia.io?via=hermes", "https://www.make.com/en/register?pc=hermesai", "https://www.frase.io/?via=hermes10"]
+- affiliateLinks: array van deze 7 URLs: ["https://www.beehiiv.com/", "https://taskade.com/?via=55nfr2", "https://writesonic.com/?via=aitoolsnl", "https://rytr.me?via=hermes-affiliates", "https://www.synthesia.io?via=hermes", "https://www.make.com/en/register?pc=hermesai", "https://www.frase.io/?via=hermes10"]
 - featuredTool: naam beste aanbieder
 - readingTime: "8 min"
 - tools: array van 5-7 objects met name, verdict, priceRange, bestFor, rating, affiliateLink
