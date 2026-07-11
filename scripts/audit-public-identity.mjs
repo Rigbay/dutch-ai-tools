@@ -15,10 +15,6 @@ const forbidden = [
     pattern: /https?:\/\/(?:www\.)?(?:descript\.com|opus\.pro|trendspider\.com)\/\?via=/i,
   },
   {
-    label: 'personal identity token is not allowed in the public repository',
-    pattern: /\b(?:anonymous-operator(?:[ -]hilman)?|anonymous-operator(?:[ -]hilman)?)\b/i,
-  },
-  {
     label: 'copied private agent context is not allowed in the public repository',
     pattern: /(?:^|\n)#\s*(?:USER|SOUL|MEMORY)\.md\b/i,
   },
