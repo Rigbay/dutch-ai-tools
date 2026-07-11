@@ -50,10 +50,11 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
     if (data.affiliateLinks && Array.isArray(data.affiliateLinks) && data.affiliateLinks.length > 0) {
       const firstLink = data.affiliateLinks[0];
       const merchantId = detectMerchant(firstLink);
-      if (merchantId && canRenderAffiliate(merchantId, SITE_ID) && merchantMatchesTool(merchantId, featuredTool)) {
+      const merchantMatches = !!merchantId && merchantMatchesTool(merchantId, featuredTool);
+      if (merchantId && canRenderAffiliate(merchantId, SITE_ID) && merchantMatches) {
         affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || firstLink;
         affiliateMerchant = merchantId;
-      } else if (!merchantId) {
+      } else if (!merchantId || merchantMatches) {
         affiliateUrl = firstLink;
       }
     }
@@ -63,10 +64,11 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
       const topTool = data.tools[0];
       if (topTool?.affiliateLink) {
         const merchantId = detectMerchant(topTool.affiliateLink);
-        if (merchantId && canRenderAffiliate(merchantId, SITE_ID) && merchantMatchesTool(merchantId, topTool.name)) {
+        const merchantMatches = !!merchantId && merchantMatchesTool(merchantId, topTool.name);
+        if (merchantId && canRenderAffiliate(merchantId, SITE_ID) && merchantMatches) {
           affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || topTool.affiliateLink;
           affiliateMerchant = merchantId;
-        } else if (!merchantId) {
+        } else if (!merchantId || merchantMatches) {
           affiliateUrl = topTool.affiliateLink;
         }
       }

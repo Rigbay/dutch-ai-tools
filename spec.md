@@ -3,7 +3,7 @@
 **Mission slug:** dutch-ai-tools-comparison
 **Date:** 2026-05-16
 **Owner:** Hermes (research + spec), Codex (implementation)
-**Status:** ready-to-build, zero anonymous-operator input required until monetization signups
+**Status:** ready-to-build, zero operator input required until monetization signups
 
 ## Goal
 Build and deploy a static Astro-based Dutch-language AI/SaaS tools comparison & review site at GitHub Pages (rigbay.github.io/dutch-ai-tools or similar). 15-20 seed articles covering "beste AI tools voor [doelgroep] 2026". Monetization via recurring SaaS affiliate programs with placeholder links ready for swap-in. Same architecture as dutch-appliances site for reuse.
@@ -18,7 +18,7 @@ Build and deploy a static Astro-based Dutch-language AI/SaaS tools comparison & 
   - Internal linking between articles
 - SEO foundation: sitemap, robots.txt, llms.txt, IndexNow ready
 - Zero runtime cost, <1hr/wk maintenance post-launch
-- Ready for anonymous-operator's one-time affiliate signup bundle for active programs
+- Ready for the operator's one-time affiliate signup bundle for active programs
 
 ## Tech Stack (reuse from appliances)
 - Astro 4.x + Tailwind + MDX
@@ -74,10 +74,10 @@ Each article: 1200-1800 words Dutch, table of 5-8 tools, pros/cons lists, pricin
 4. Generate all 20 articles in batch (handle 400s by skipping/retrying)
 5. Build static site, verify links + schema
 6. Init git repo, push to GitHub (new repo or fork pattern), enable Pages
-7. Output RESULT.md with deploy URL, article count, next steps for anonymous-operator (affiliate signups)
+7. Output RESULT.md with deploy URL, article count, next steps for the operator (affiliate signups)
 
 ## Constraints
-- No active time for anonymous-operator
+- No active operator time
 - Dutch language primary
 - Recurring affiliate focus (placeholders only)
 - Reuse appliance site patterns where possible (schema, deployment)

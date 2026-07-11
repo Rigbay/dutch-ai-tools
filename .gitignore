@@ -10,3 +10,9 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Agent execution artifacts and private operator state never belong in the
+# public GitHub Pages source repository.
+delegate-log-*.md
+delegate-cc-log-*.md
+private/

@@ -118,8 +118,19 @@ export function canRenderAffiliate(merchantId: string, siteId: string): boolean 
     return false;
   }
 
-  // active, pending, pending_review allowed (if perSite entry exists)
-  return true;
+  const template = merchant.linkTemplate || merchant.fallbackUrl || '';
+  if (!template) return false;
+
+  const affiliateId = perSite.affiliateId?.trim() || '';
+  const resolvedTemplate = template.replace(/\{affiliateId\}/g, affiliateId);
+  if (/\{[^}]+\}/.test(resolvedTemplate)) return false;
+
+  // A program/account can be active while its public URL is deliberately
+  // direct and unattributed (for example while a personal slug is disabled).
+  // Only render AffiliateLink — and therefore emit affiliate_outbound_click —
+  // when the resolved URL carries an actual tracking signal.
+  return /[?&](?:via|ref|tag|fp_ref|pc)=[^&]+/i.test(resolvedTemplate)
+    || /(?:awin1\.com|pxf\.io|sjv\.io)\//i.test(resolvedTemplate);
 }
 
 export function resolveAffiliateUrl(

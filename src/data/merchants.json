@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": "2.0.1",
+    "version": "2.2.0",
     "schema": "unified-1.0",
-    "lastUpdated": "2026-07-11T15:47:33+02:00",
-    "updatedBy": "Codex authenticated/mailbox reconciliation",
-    "source": "normalized registry plus dated 2026-07-11 affiliate reconciliation receipt",
+    "lastUpdated": "2026-07-11T21:18:00+02:00",
+    "updatedBy": "Codex privacy and attribution correction",
+    "source": "dated affiliate reconciliation plus privacy-safe attribution correction",
     "statusEnum": [
       "active",
       "pending",
@@ -146,7 +146,7 @@
       ],
       "payout": "TBD",
       "articles": 119,
-      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "lastVerified": "2026-07-11T21:18:00+02:00",
       "signedUp": null,
       "notes": "Program account remains active, but public referral attribution is disabled for privacy. Articles use the direct provider URL until an anonymous brand-owned referral ID is verified."
     },
