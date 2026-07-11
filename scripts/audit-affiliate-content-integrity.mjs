@@ -10,6 +10,28 @@ const REPO_ROOT = resolve(SCRIPT_DIR, '..');
 const ARTICLES_DIR = join(REPO_ROOT, 'src', 'content', 'articles');
 const REGISTRY_PATH = join(REPO_ROOT, 'src', 'data', 'merchants.json');
 const SITE_ID = 'dutch-ai-tools';
+const args = process.argv.slice(2);
+const summaryOnly = args.includes('--summary-only');
+const fileArgIndex = args.indexOf('--file');
+const fileFilter = fileArgIndex >= 0 ? args[fileArgIndex + 1] : null;
+
+if (fileArgIndex >= 0 && !fileFilter) {
+  throw new Error('--file requires an article filename or repository-relative path');
+}
+
+if (args.includes('--help')) {
+  process.stdout.write([
+    'Usage: node scripts/audit-affiliate-content-integrity.mjs [options]',
+    '',
+    'Options:',
+    '  --summary-only    Omit the full findings array and emit one sanitized sample per type.',
+    '  --file <path>     Audit one article by filename or repository-relative path.',
+    '  --fail-on-errors  Exit nonzero when error-level findings exist.',
+    '  --help            Show this help.',
+    '',
+  ].join('\n'));
+  process.exit(0);
+}
 
 const registry = JSON.parse(readFileSync(REGISTRY_PATH, 'utf8'));
 const merchants = registry.merchants || {};
@@ -141,9 +163,20 @@ function addFinding(file, type, severity, details = {}) {
   findings.push({ file, type, severity, ...details });
 }
 
-const files = readdirSync(ARTICLES_DIR)
+let files = readdirSync(ARTICLES_DIR)
   .filter((name) => name.endsWith('.md'))
   .sort();
+
+if (fileFilter) {
+  const normalizedFilter = fileFilter.replaceAll('\\', '/');
+  files = files.filter((name) => {
+    const relativePath = `src/content/articles/${name}`;
+    return name === normalizedFilter || relativePath === normalizedFilter;
+  });
+  if (files.length === 0) {
+    throw new Error(`No article matched --file ${fileFilter}`);
+  }
+}
 
 for (const name of files) {
   counters.articleFiles += 1;
@@ -315,7 +348,21 @@ const result = {
   findings,
 };
 
-process.stdout.write(`${JSON.stringify(result, null, 2)}\n`);
+let output = result;
+if (summaryOnly) {
+  const sampleFindingsByType = {};
+  for (const finding of findings) {
+    sampleFindingsByType[finding.type] ||= finding;
+  }
+  const { findings: _omittedFindings, ...compactResult } = result;
+  output = {
+    ...compactResult,
+    sampleFindingsByType,
+    findingsOmitted: findings.length,
+  };
+}
+
+process.stdout.write(`${JSON.stringify(output, null, 2)}\n`);
 
 if (process.argv.includes('--fail-on-errors') && (bySeverity.error || 0) > 0) {
   process.exitCode = 1;
