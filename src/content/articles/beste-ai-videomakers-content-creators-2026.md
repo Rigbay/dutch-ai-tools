@@ -81,7 +81,6 @@ faq:
 - q: "Wat kost een goede AI videomaker per maand?"
   a: 'De prijzen variëren van gratis (basisversies van CapCut, Clipchamp) tot €30-50/maand voor professionele tools zoals InVideo AI en Synthesia. De meeste tools bieden een gratis proefperiode waarmee je de functionaliteit kunt testen.'
 ---
-Oké, hier is een Nederlands artikel van 1400-1700 woorden over de beste AI videomakers voor content creators in 2026, met de gevraagde structuur en tools.
 
 ---
 

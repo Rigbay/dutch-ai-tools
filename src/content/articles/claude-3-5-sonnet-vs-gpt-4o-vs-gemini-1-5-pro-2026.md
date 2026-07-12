@@ -78,7 +78,6 @@ faq:
   a: 'Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse taal.'
 ---
 
-Absoluut! Hier is een diepgaand Nederlands artikel over dit onderwerp.
 
 # De Ultieme AI-Strijd van 2026: Claude 3.5 Sonnet vs. GPT-4o vs. Gemini 1.5 Pro en Uitagers
 

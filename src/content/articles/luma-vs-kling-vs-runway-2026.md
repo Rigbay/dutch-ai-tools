@@ -79,7 +79,6 @@ faq:
   a: 'Ja, de meeste moderne AI tools hebben uitstekende ondersteuning voor de Nederlandse taal.'
 ---
 
-Absoluut! Hier is een diepgaand Nederlands artikel over dit onderwerp.
 
 # De Grote AI-Videorevolutie: Luma Dream Machine, Kling AI en Runway Gen-3 Alpha Vergeleken
 

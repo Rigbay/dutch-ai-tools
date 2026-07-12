@@ -79,7 +79,6 @@ faq:
 - q: "Hoe kies ik de juiste AI tool voor mijn situatie?"
   a: 'Begin met het bepalen van je primaire use case (schrijven, automatiseren, analyseren, design), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken op basis van score, prijs en de ''beste voor'' kolom.'
 ---
-Absoluut! Hier is een artikel van 1200-1500 woorden over de beste AI-tools voor e-mailmarketing in 2026, inclusief de gevraagde tools, een vergelijkingstabel en FAQ's.
 
 ---
 

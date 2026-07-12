@@ -77,7 +77,6 @@ faq:
 - q: "Hoe kies ik de juiste AI tool voor mijn situatie?"
   a: 'Begin met het bepalen van je primaire use case (schrijven, automatiseren, analyseren, design), je budget, en of je Nederlandse taalondersteuning nodig hebt. Gebruik dan de vergelijkingstabel hierboven om je keuze te maken op basis van score, prijs en de ''beste voor'' kolom.'
 ---
-Absoluut! Hier is een diepgaand Nederlands artikel dat ChatGPT, Google Gemini en Claude vergelijkt op hun Nederlandse taalvaardigheid, inclusief een scoretabel, een conclusie en een FAQ.
 
 ---
 
