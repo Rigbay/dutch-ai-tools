@@ -74,7 +74,6 @@ faq:
 - q: "Welke budget AI videotool is het beste voor Nederlandse content?"
   a: 'Voor Nederlandse content raden we ImagineArt aan vanwege de Nederlandstalige interface, of Canva AI Video als je al in het Canva-ecosysteem werkt. Beide ondersteunen Nederlandse tekst en hebben EU-servers voor AVG-compliance.'
 ---
-Hier is een Nederlands artikel van 1200-1500 woorden over de beste budget AI videotools in 2026, met de focus op betaalbaarheid en toegankelijkheid voor de Nederlandse markt.
 
 ---
 
