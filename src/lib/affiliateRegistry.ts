@@ -106,6 +106,12 @@ export function merchantMatchesTool(merchantId: string, toolName: string): boole
     || (brand.length >= 4 && normalizedTool.includes(brand));
 }
 
+export function hasAffiliateTrackingSignal(url: string): boolean {
+  return /[?&](?:via|ref|tag|fp_ref|pc|affiliate_id|affiliates_link)=[^&]+/i.test(url)
+    || /[?&]utm_medium=affiliate(?:s)?(?:&|$)/i.test(url)
+    || /(?:awin1\.com|pxf\.io|sjv\.io)\//i.test(url);
+}
+
 export function canRenderAffiliate(merchantId: string, siteId: string): boolean {
   const merchant = getMerchant(merchantId);
   if (!merchant) return false;
@@ -129,8 +135,58 @@ export function canRenderAffiliate(merchantId: string, siteId: string): boolean 
   // direct and unattributed (for example while a personal slug is disabled).
   // Only render AffiliateLink — and therefore emit affiliate_outbound_click —
   // when the resolved URL carries an actual tracking signal.
-  return /[?&](?:via|ref|tag|fp_ref|pc)=[^&]+/i.test(resolvedTemplate)
-    || /(?:awin1\.com|pxf\.io|sjv\.io)\//i.test(resolvedTemplate);
+  return hasAffiliateTrackingSignal(resolvedTemplate);
+}
+
+const UNVERIFIED_TRACKING_PARAMS = new Set([
+  'via',
+  'ref',
+  'tag',
+  'fp_ref',
+  'pc',
+  'affiliate_id',
+  'affiliates_link',
+]);
+const AFFILIATE_REDIRECT_HOSTS = ['awin1.com', 'pxf.io', 'sjv.io'];
+const PLACEHOLDER_HOSTS = ['example.com', 'example.net', 'example.org'];
+
+const isHostOrSubdomain = (hostname: string, candidate: string) =>
+  hostname === candidate || hostname.endsWith(`.${candidate}`);
+
+/**
+ * Keep ordinary provider links useful without emitting attribution that the
+ * committed merchant registry has not admitted. Callers still decide whether
+ * a detected merchant matches the named tool before using this fallback.
+ */
+export function resolveSafeDirectProviderUrl(url: string): string | null {
+  try {
+    const parsed = new URL(url);
+    if (!['http:', 'https:'].includes(parsed.protocol)) return null;
+
+    const hostname = parsed.hostname.toLowerCase();
+    if (PLACEHOLDER_HOSTS.some((host) => isHostOrSubdomain(hostname, host))) return null;
+    if (AFFILIATE_REDIRECT_HOSTS.some((host) => isHostOrSubdomain(hostname, host))) return null;
+
+    const keys = [...parsed.searchParams.keys()];
+    const hasAffiliateUtm = [...parsed.searchParams.entries()].some(
+      ([key, value]) => key.toLowerCase() === 'utm_medium' && /affiliate/i.test(value)
+    );
+    const hasUnverifiedTracking = keys.some((key) => UNVERIFIED_TRACKING_PARAMS.has(key.toLowerCase()))
+      || hasAffiliateUtm;
+
+    if (!hasUnverifiedTracking) return url;
+
+    for (const key of keys) {
+      const normalized = key.toLowerCase();
+      if (UNVERIFIED_TRACKING_PARAMS.has(normalized) || (hasAffiliateUtm && normalized.startsWith('utm_'))) {
+        parsed.searchParams.delete(key);
+      }
+    }
+
+    return parsed.toString();
+  } catch {
+    return null;
+  }
 }
 
 export function resolveAffiliateUrl(

@@ -179,7 +179,7 @@ De AI-architectuur van Stable Diffusion is modulair en uitbreidbaar. Gebruikers 
 | [DALL-E](https://openai.com/dall-e-3) | EUR 20/mnd (ChatGPT+) | Beginners en snelle iteraties   | Natuurlijke taalinstructies, nauwkeurige beeldinterpretatie, veiligheidsfilters    | 4.5/5 | https://openai.com/dall-e-3                         |
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | EUR 0-12/mnd    | Designers en marketing teams    | Commercieel veilige content, Creative Cloud integratie, generatieve vulling, tekst-effecten | 4.4/5 | https://www.adobe.com/products/firefly.html         |
 | [Stable Diffusion](https://stability.ai/) | EUR 0-9/mnd     | Developers en power users       | Open-source flexibiliteit, lokale installatie, API-toegang, community fine-tuning | 4.3/5 | https://stability.ai/                               |
-| [Synthesia](https://www.synthesia.io?via=hermes) | Vanaf EUR 22/mnd | Video creatie met AI avatars    | Realistische AI avatars, tekst-naar-video, meertalige ondersteuning, sjablonen      | 4.6/5 | https://www.synthesia.io?via=hermes                 |
+| <a href="https://www.synthesia.io?via=hermes" rel="sponsored nofollow" target="_blank" data-affiliate-merchant="synthesia" data-affiliate-site="dutch-ai-tools">Synthesia</a> | Vanaf EUR 22/mnd | Video creatie met AI avatars    | Realistische AI avatars, tekst-naar-video, meertalige ondersteuning, sjablonen      | 4.6/5 | https://www.synthesia.io/                            |
 
 ## Ons Oordeel: Welke Tool Past Bij Jou?
 

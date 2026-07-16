@@ -92,7 +92,7 @@ De kracht van Toggl Track ligt in zijn eenvoud, maar dat betekent niet dat het a
 
 **Rating:** 4.6/5
 
-[Probeer Toggl Track gratis via Dutch AI Tools](https://www.toggltrack.com/?ref=aitoolsnl)
+[Probeer Toggl Track gratis](https://www.toggltrack.com/)
 
 ## Harvest Review: Beste voor facturatie + tijdregistratie in één
 
@@ -114,7 +114,7 @@ Met Harvest kunnen teams niet alleen uren bijhouden, maar ook uitgaven registrer
 
 **Rating:** 4.5/5
 
-[Start met Harvest en stroomlijn je facturatie](https://www.harvest.com/?ref=aitoolsnl)
+[Start met Harvest en stroomlijn je facturatie](https://www.harvest.com/)
 
 ## Clockify Review: Beste gratis onbeperkte tijdregistratie
 
@@ -136,7 +136,7 @@ Hoewel de gratis versie al veel te bieden heeft, schaal je eenvoudig op naar bet
 
 **Rating:** 4.4/5
 
-[Ontdek de gratis mogelijkheden van Clockify](https://www.clockify.com/?ref=aitoolsnl)
+[Ontdek de gratis mogelijkheden van Clockify](https://www.clockify.com/)
 
 ## Timeular Review: Meest innovatieve fysieke tijdregistratie tracker
 

@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { loadRegistry, resolveAffiliateUrl, detectMerchant, canRenderAffiliate, merchantMatchesTool } from '../lib/affiliateRegistry.ts';
+import { loadRegistry, resolveAffiliateUrl, detectMerchant, canRenderAffiliate, merchantMatchesTool, resolveSafeDirectProviderUrl } from '../lib/affiliateRegistry.ts';
 
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 const registry = loadRegistry();
@@ -53,7 +53,7 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
         affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || firstLink;
         affiliateMerchant = merchantId;
       } else if (!merchantId || merchantMatches) {
-        affiliateUrl = firstLink;
+        affiliateUrl = resolveSafeDirectProviderUrl(firstLink);
       }
     }
 
@@ -66,7 +66,7 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
           affiliateUrl = resolveAffiliateUrl(merchantId, SITE_ID) || topTool.affiliateLink;
           affiliateMerchant = merchantId;
         } else if (!merchantId || merchantMatches) {
-          affiliateUrl = topTool.affiliateLink;
+          affiliateUrl = resolveSafeDirectProviderUrl(topTool.affiliateLink);
         }
       }
     }
@@ -176,7 +176,9 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
                       <a 
                         href={item.affiliateUrl} 
                         target="_blank" 
-                        rel="noopener noreferrer sponsored"
+                        rel={item.affiliateMerchant ? 'noopener noreferrer sponsored nofollow' : 'noopener noreferrer nofollow'}
+                        data-affiliate-merchant={item.affiliateMerchant || undefined}
+                        data-affiliate-site={item.affiliateMerchant ? SITE_ID : undefined}
                         class="inline-flex items-center rounded-lg bg-leaf px-4 py-1.5 text-xs font-bold text-white transition hover:bg-[#1f514b]"
                       >
                         {item.affiliateMerchant ? 'Koop / Probeer' : 'Bekijk tool'}

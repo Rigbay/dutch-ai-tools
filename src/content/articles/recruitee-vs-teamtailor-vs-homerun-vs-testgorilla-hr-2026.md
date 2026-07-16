@@ -176,7 +176,7 @@ De prijsstelling van TestGorilla is zeer flexibel, met een gratis instapversie d
 | [Teamtailor](https://www.teamtailor.com/) | EUR 350-500/mnd | Bedrijven met focus op branding | Contentoptimalisatie, gepersonaliseerde communicatie | 4.5/5 | [https://www.teamtailor.com/](https://www.teamtailor.com/) |
 | [Homerun](https://www.homerun.co/) | EUR 59-159/mnd | Kleine teams en startups | Vacaturetekst suggesties, automatische categorisatie | 4.4/5 | [https://www.homerun.co/](https://www.homerun.co/) |
 | [TestGorilla](https://www.testgorilla.com/) | EUR 0-699/mnd | Skills-based hiring en schaalbaar | Testoptimalisatie, data-analyse | 4.5/5 | [https://www.testgorilla.com/](https://www.testgorilla.com/) |
-| [Synthesia](https://www.synthesia.io?via=hermes) | EUR 29-109/mnd | HR-communicatie en employer branding | AI-gegenereerde video's, tekst-naar-video | 4.7/5 | [https://www.synthesia.io?via=hermes](https://www.synthesia.io?via=hermes) |
+| <a href="https://www.synthesia.io?via=hermes" rel="sponsored nofollow" target="_blank" data-affiliate-merchant="synthesia" data-affiliate-site="dutch-ai-tools">Synthesia</a> | EUR 29-109/mnd | HR-communicatie en employer branding | AI-gegenereerde video's, tekst-naar-video | 4.7/5 | [https://www.synthesia.io/](https://www.synthesia.io/) |
 
 ## Ons Oordeel: Welke Tool Past Bij Jou?
 

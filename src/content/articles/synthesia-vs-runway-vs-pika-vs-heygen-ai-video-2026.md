@@ -170,7 +170,7 @@ De kern van HeyGen’s kracht ligt in de hyperrealistische AI-avatars die nauwel
 
 | Tool | Prijs (vanaf) | Beste voor | AI-features | Score |
 |------|--------------|------------|-------------|-------|
-| [Synthesia](https://www.synthesia.io?via=hermes) | EUR 22-64/mnd | Training, L&D en marketing video's | 140+ AI-avatars, 120+ talen, voice cloning | 4.7/5 |
+| <a href="https://www.synthesia.io?via=hermes" rel="sponsored nofollow" target="_blank" data-affiliate-merchant="synthesia" data-affiliate-site="dutch-ai-tools">Synthesia</a> | EUR 22-64/mnd | Training, L&D en marketing video's | 140+ AI-avatars, 120+ talen, voice cloning | 4.7/5 |
 | [Runway](https://runwayml.com/) | EUR 0-76/mnd | Creatieve video editors en filmmakers | Gen-3 Alpha, text-to-video, video-to-video, visual effects | 4.6/5 |
 | [Pika Labs](https://pika.art/) | EUR 0-28/mnd | Social media creators en snelle clips | Snel text-to-video, real-time rendering, lipsync | 4.3/5 |
 | [HeyGen](https://www.heygen.com/) | EUR 0-72/mnd | Gepersonaliseerde sales video's | Realistische avatars, instant voice cloning, real-time vertaling | 4.5/5 |

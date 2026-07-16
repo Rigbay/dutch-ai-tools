@@ -87,7 +87,7 @@ Hoewel er een gratis versie beschikbaar is, zijn de meest geavanceerde functies 
 * **Score:** 4.7/5
 * **Prijs:** Gratis - EUR 8-20/mnd
 * **Beste voor:** Professionele diagrammen & bedrijfsprocessen
-* **Affiliate link:** [Probeer Lucidchart vandaag nog!](https://www.lucidchart.com/?ref=aitoolsnl)
+* **Officiële link:** [Probeer Lucidchart vandaag nog!](https://www.lucidchart.com/)
 
 ### draw.io
 
