@@ -25,6 +25,10 @@ const bestAffiliateMerchantId = bestMerchantId && bestMerchantMatches && canRend
 const bestDirectProviderUrl = !bestMerchantId || bestMerchantMatches
   ? resolveSafeDirectProviderUrl(bestTool.affiliateLink)
   : null;
+const hasRenderedAffiliate = data.tools.some((tool) => {
+  const merchantId = detectMerchant(tool.affiliateLink);
+  return !!merchantId && merchantMatchesTool(merchantId, tool.name) && canRenderAffiliate(merchantId, 'dutch-ai-tools');
+});
 const initials = bestTool.name.split(/\s+/).map((part) => part[0]).join('').slice(0, 3).toUpperCase();
 
 const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
@@ -51,6 +55,7 @@ const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEn
       <div class="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_82%_24%,rgba(35,87,223,.1),transparent_24rem)]"></div>
       <div class="relative mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-16 lg:px-8">
         <nav aria-label="Kruimelpad" class="flex flex-wrap items-center gap-2 text-xs font-bold text-muted"><a class="hover:text-leaf" href="/">Home</a><span aria-hidden="true">/</span><a class="hover:text-leaf" href={`/categorie/${data.category}/`}>{categoryLabel[data.category] || data.category}</a><span aria-hidden="true">/</span><span class="text-ink">Keuzehulp {data.modelYear}</span></nav>
+        {hasRenderedAffiliate && <div class="mt-6"><AffiliateNotice compact /></div>}
         <div class="mt-8 grid gap-8 lg:grid-cols-[1.35fr_.65fr] lg:items-end">
           <div>
             <p class="eyebrow">{categoryLabel[data.category] || data.category} · onafhankelijk vergeleken</p>
@@ -85,8 +90,6 @@ const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEn
         <div class="max-w-3xl"><p class="eyebrow">De shortlist</p><h2 class="section-title mt-3">Vergelijk op de verschillen die tellen.</h2><p class="mt-4 leading-7 text-muted">Scores zijn redactionele wegwijzers, geen laboratoriumuitslag. Gebruik vooral ‘beste voor’, beperkingen en de officiële productlink om je keuze te controleren.</p></div>
         <div class="mt-7"><ComparisonTable tools={data.tools} /></div>
       </section>
-
-      <div class="mt-8"><AffiliateNotice compact /></div>
 
       <div class="mt-12 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem] lg:items-start">
         <div class="prose-article min-w-0 max-w-3xl"><slot /></div>
