@@ -5,7 +5,7 @@ import AffiliateNotice from '../components/AffiliateNotice.astro';
 import AffiliateLink from '../components/AffiliateLink.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import ComparisonTable from '../components/ComparisonTable.astro';
-import { canRenderAffiliate, detectMerchant, merchantMatchesTool, resolveSafeDirectProviderUrl } from '../lib/affiliateRegistry';
+import { canRenderAffiliate, detectMerchant, hasAffiliateTrackingSignal, merchantMatchesTool, resolveSafeDirectProviderUrl } from '../lib/affiliateRegistry';
 
 interface Props { article: CollectionEntry<'articles'>; relatedArticles: CollectionEntry<'articles'>[]; }
 const { article, relatedArticles } = Astro.props;
@@ -25,10 +25,16 @@ const bestAffiliateMerchantId = bestMerchantId && bestMerchantMatches && canRend
 const bestDirectProviderUrl = !bestMerchantId || bestMerchantMatches
   ? resolveSafeDirectProviderUrl(bestTool.affiliateLink)
   : null;
-const hasRenderedAffiliate = data.tools.some((tool) => {
+const hasRenderedStructuredAffiliate = data.tools.some((tool) => {
   const merchantId = detectMerchant(tool.affiliateLink);
   return !!merchantId && merchantMatchesTool(merchantId, tool.name) && canRenderAffiliate(merchantId, 'dutch-ai-tools');
 });
+const bodyUrls = article.body.match(/https?:\/\/[^\s)"'<]+/g) || [];
+const hasRenderedBodyAffiliate = bodyUrls.some((url) => {
+  const merchantId = detectMerchant(url);
+  return !!merchantId && hasAffiliateTrackingSignal(url) && canRenderAffiliate(merchantId, 'dutch-ai-tools');
+});
+const hasRenderedAffiliate = hasRenderedStructuredAffiliate || hasRenderedBodyAffiliate;
 const initials = bestTool.name.split(/\s+/).map((part) => part[0]).join('').slice(0, 3).toUpperCase();
 
 const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
