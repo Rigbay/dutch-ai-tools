@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
 import { dirname, join, relative, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -44,19 +45,45 @@ function attributeValue(tag, name) {
   return match ? (match[1] ?? match[2] ?? '') : null;
 }
 
+function anchorsIn(body) {
+  const anchors = [];
+  const anchorPattern = /<a\b[^>]*\bhref=(?:"([^"]+)"|'([^']+)')[^>]*>/gi;
+  for (const match of body.matchAll(anchorPattern)) {
+    const url = normalizeUrl(match[1] ?? match[2] ?? '');
+    if (!url || match.index === undefined) continue;
+    anchors.push({
+      start: match.index,
+      end: match.index + match[0].length,
+      tag: match[0],
+      url,
+    });
+  }
+  return anchors;
+}
+
+function anchorForOccurrence(anchors, normalizedUrl, occurrenceIndex) {
+  return anchors.find((candidate) =>
+    candidate.url === normalizedUrl
+    && candidate.start <= occurrenceIndex
+    && occurrenceIndex < candidate.end
+  );
+}
+
+const syntheticUrl = 'https://www.synthesia.io?via=hermes';
+const syntheticBody = `<a href="${syntheticUrl}" rel="sponsored nofollow">labeled</a> [unlabeled](${syntheticUrl})`;
+const syntheticAnchors = anchorsIn(syntheticBody);
+const syntheticOccurrences = [...syntheticBody.matchAll(/https?:\/\/[^\s)"'<>|]+/gi)];
+assert.equal(syntheticOccurrences.length, 2);
+assert.ok(anchorForOccurrence(syntheticAnchors, normalizeUrl(syntheticOccurrences[0][0]), syntheticOccurrences[0].index));
+assert.equal(anchorForOccurrence(syntheticAnchors, normalizeUrl(syntheticOccurrences[1][0]), syntheticOccurrences[1].index), undefined);
+
 for (const name of readdirSync(ARTICLES_DIR).filter((file) => file.endsWith('.md')).sort()) {
   articleFiles += 1;
   const fullPath = join(ARTICLES_DIR, name);
   const file = relative(REPO_ROOT, fullPath).replaceAll('\\', '/');
   const body = splitBody(readFileSync(fullPath, 'utf8'), file);
 
-  const compliantAnchors = [];
-  const anchorPattern = /<a\b[^>]*\bhref=(?:"([^"]+)"|'([^']+)')[^>]*>/gi;
-  for (const match of body.matchAll(anchorPattern)) {
-    const url = normalizeUrl(match[1] ?? match[2] ?? '');
-    if (!url) continue;
-    compliantAnchors.push({ tag: match[0], url });
-  }
+  const compliantAnchors = anchorsIn(body);
 
   const urlPattern = /https?:\/\/[^\s)"'<>|]+/gi;
   for (const match of body.matchAll(urlPattern)) {
@@ -77,7 +104,7 @@ for (const name of readdirSync(ARTICLES_DIR).filter((file) => file.endsWith('.md
       continue;
     }
 
-    const anchor = compliantAnchors.find((candidate) => candidate.url === normalized);
+    const anchor = anchorForOccurrence(compliantAnchors, normalized, match.index);
     if (!anchor) {
       findings.push({ file, type: 'unlabeled_tracking_in_rendered_body', merchantId });
       continue;
