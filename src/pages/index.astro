@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import TaskRouteIcon from '../components/TaskRouteIcon.astro';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
@@ -37,10 +38,10 @@ const directComparisons = articles
   .filter((article) => article.data.slug.includes('-vs-') && coreCategories.includes(article.data.category))
   .sort((a, b) => b.data.rating - a.data.rating);
 const routes = [
-  { mark: 'TXT', title: 'Schrijven & analyseren', text: 'Kies tussen ChatGPT, Claude en Gemini op basis van je echte werk.', href: '/beste-ai-chatbots-2026/' },
-  { mark: 'SRC', title: 'Research met bronnen', text: 'Vind tools die zoeken, samenvatten en hun bronnen zichtbaar maken.', href: '/categorie/productiviteit/' },
-  { mark: 'DEV', title: 'Bouwen & automatiseren', text: 'Vergelijk coding assistants en tools voor herhaalbare workflows.', href: '/categorie/development/' }
-];
+  { icon: 'writing', title: 'Schrijven & analyseren', text: 'Kies tussen ChatGPT, Claude en Gemini op basis van je echte werk.', href: '/beste-ai-chatbots-2026/' },
+  { icon: 'research', title: 'Research met bronnen', text: 'Vind tools die zoeken, samenvatten en hun bronnen zichtbaar maken.', href: '/categorie/productiviteit/' },
+  { icon: 'building', title: 'Bouwen & automatiseren', text: 'Vergelijk coding assistants en tools voor herhaalbare workflows.', href: '/categorie/development/' }
+] as const;
 ---
 
 <BaseLayout
@@ -79,7 +80,7 @@ const routes = [
         <div class="relative mt-6 grid gap-3">
           {routes.map((route) => (
             <a class="group flex items-start gap-4 rounded-2xl border border-[#e2e8ef] bg-white p-4 transition hover:-translate-y-0.5 hover:border-[#b9c9ef] hover:shadow-soft" href={route.href}>
-              <span class="tool-orb">{route.mark}</span>
+              <span class="tool-orb" aria-hidden="true"><TaskRouteIcon name={route.icon} /></span>
               <span class="min-w-0 flex-1">
                 <span class="flex items-center justify-between gap-3 font-extrabold text-ink"><span>{route.title}</span><span class="text-leaf transition group-hover:translate-x-1" aria-hidden="true">→</span></span>
                 <span class="mt-1 block text-sm leading-5 text-muted">{route.text}</span>

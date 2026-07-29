@@ -8,6 +8,7 @@
     "audit:privacy": "node scripts/audit-public-identity.mjs",
     "audit:freshness": "node scripts/audit-model-freshness.mjs",
     "test:freshness-links": "node scripts/test-model-freshness-links.mjs",
+    "test:visual-details": "node scripts/test-homepage-visual-details.mjs",
     "build": "npm run audit:privacy && astro build",
     "preview": "astro preview",
     "astro": "astro"
