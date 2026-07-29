@@ -61,7 +61,7 @@ tools:
   bestFor: Budget-vriendelijke AI met sterke codeervaardigheden
   rating: 4.3
   affiliateLink: https://gpt-nl.nl/
-draft: false
+draft: true
 faq:
 - q: "Wat is GPT-NL precies en wie heeft het gebouwd?"
   a: 'GPT-NL is een Nederlands AI-taalmodel ontwikkeld door TNO, SURF en het Nederlands Forensisch Instituut met €13,5 miljoen overheidsbudget. Het is getraind op Nederlandstalige data met toestemming van alle Nederlandse nieuwsuitgevers via een betaalde licentieovereenkomst — een wereldprimeur.'

@@ -21,6 +21,7 @@ affiliateLinks:
   - https://rytr.me?via=hermes-affiliates
   - https://www.synthesia.io?via=hermes
 date: 2026-07-07
+draft: true
 modelYear: 2026
 featuredTool: 'Tool1'
 readingTime: '8 min'

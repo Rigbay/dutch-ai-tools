@@ -43,7 +43,7 @@ related:
   - beste-ai-vertaaltools-2026
   - beste-ai-tools-tolken-vertalingen-2026
   - beste-ai-schrijftools-nederlands-2026
-draft: false
+draft: true
 faq:
 - q: "Welke AI-vertaaltool is het beste voor Nederlands?"
   a: 'DeepL scoort consistent het hoogst voor Nederlands-Engels en Nederlands-Duits. Voor minder gangbare talen is Google Translate sterker. ChatGPT blinkt uit in contextgevoelige vertalingen zoals marketingteksten.'

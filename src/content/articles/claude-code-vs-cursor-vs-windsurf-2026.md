@@ -79,7 +79,7 @@ AI coding agents gaan in 2026 véél verder dan simpele autocomplete. De nieuwst
 
 Cursor is een fork van VS Code die AI niet als plugin toevoegt, maar als kern van de editor. Alles — van tab-completion tot volledige feature-implementaties — gebeurt via AI.
 
-**Hoe het werkt:** Cursor gebruikt meerdere AI-modellen onder de motorkap (GPT-4o, Claude Sonnet 4.6, eigen modellen) en schakelt slim tussen ze. De "Agent mode" kan zelfstandig door je codebase navigeren, bestanden aanmaken en wijzigen, terminals runnen en fouten debuggen.
+**Hoe het werkt:** Cursor biedt toegang tot meerdere modellen en kan het aanbod wijzigen naarmate providers nieuwe versies uitbrengen. De "Agent mode" kan door je codebase navigeren, bestanden aanmaken en wijzigen, terminalopdrachten uitvoeren en fouten debuggen. Controleer Cursor zelf voor de actuele modelkeuze en planlimieten.
 
 **Contextvenster:** Cursor verwerkt slim alleen relevante delen van je codebase — niet alles tegelijk. Voor de meeste projecten is dat efficiënter en sneller. Het stuurt je huidige bestand, open tabs en relevante imports naar het model.
 

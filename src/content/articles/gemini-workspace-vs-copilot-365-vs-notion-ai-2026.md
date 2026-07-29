@@ -200,7 +200,6 @@ Ja, en die zijn terecht. Alle drie de platforms verwerken je data in de cloud. M
 
 ### Gerelateerde AI tool vergelijkingen
 
-- [ChatGPT vs Gemini vs Claude 2026: welke AI is het beste in Nederlands?](/chatgpt-vs-gemini-vs-claude-nederlands-2026/)
 - [Beste AI Tools voor Excel & Spreadsheets 2026: top 7 vergeleken](/beste-ai-tools-excel-spreadsheets-2026/)
 
 *Meer weten? Bekijk ook onze [categoriepagina's](/vergelijk/) voor een overzicht van de beste AI tools per sector.*

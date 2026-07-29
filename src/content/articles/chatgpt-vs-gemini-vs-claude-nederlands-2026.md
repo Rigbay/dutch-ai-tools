@@ -40,35 +40,11 @@ tools:
   bestFor: Feitelijke kennis
   rating: 4.4
   affiliateLink: https://www.beehiiv.com/
-- name: AI Tool D
-  verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
-  priceRange: EUR 0-20/mnd
-  bestFor: Alternatief
-  rating: 4.0
-  affiliateLink: https://www.beehiiv.com/
-- name: AI Tool E
-  verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
-  priceRange: EUR 0-20/mnd
-  bestFor: Alternatief
-  rating: 3.8
-  affiliateLink: https://www.beehiiv.com/
-- name: AI Tool F
-  verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
-  priceRange: EUR 0-20/mnd
-  bestFor: Alternatief
-  rating: 3.6
-  affiliateLink: https://www.beehiiv.com/
-- name: AI Tool G
-  verdict: Extra vergelijkingsoptie voor Nederlands taalbegrip
-  priceRange: EUR 0-20/mnd
-  bestFor: Alternatief
-  rating: 3.5
-  affiliateLink: https://www.beehiiv.com/
 related:
   - notion-ai-review-nederlands-2026
   - beste-ai-tools-horeca-2026
   - beste-ai-chatbots-2026
-draft: false
+draft: true
 faq:
 - q: "Wat is de beste AI tool voor productiviteit in 2026?"
   a: 'Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is ChatGPT een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.'

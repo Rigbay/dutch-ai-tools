@@ -109,7 +109,7 @@ ChatGPT, van OpenAI, is in 2026 uitgegroeid tot de meest veelzijdige en breed to
 
 De tool blinkt uit in het genereren van lesplannen, het opstellen van gedetailleerde uitleg over complexe onderwerpen, en het creëren van diverse quizvragen in verschillende formats. Je kunt ChatGPT vragen om een syllabus te ontwerpen, leerdoelen te formuleren, casestudy's te bedenken of zelfs rollenspellen te schrijven. Dit bespaart docenten en instructional designers enorm veel tijd die ze anders kwijt zouden zijn aan handmatige contentcreatie.
 
-Met de geavanceerdere versies, zoals GPT-4 en later, is de kwaliteit van de output verder verbeterd en kan de tool ook overweg met complexere prompts en langere teksten. Het is ideaal voor het brainstormen over cursusstructuren, het genereren van voorbeelden en het aanpassen van de toon en moeilijkheidsgraad van content voor verschillende doelgroepen. De integratie met andere tools via API's maakt het bovendien een krachtige hub voor een geautomatiseerde workflow.
+ChatGPT kan helpen bij het brainstormen over cursusstructuren, het genereren van voorbeelden en het aanpassen van toon en moeilijkheidsgraad voor verschillende doelgroepen. Welke contextlengte, multimodale functies en API-mogelijkheden beschikbaar zijn, hangt af van het actuele model en abonnement; controleer die voor gebruik bij OpenAI.
 
 De gratis versie biedt al veel mogelijkheden, terwijl de betaalde abonnementen (vanaf EUR 22/mnd) toegang geven tot de nieuwste modellen, hogere limieten en snellere verwerking. ChatGPT is daarmee de favoriete keuze voor iedereen die een allround AI-assistent zoekt voor zijn of haar e-learning behoeften, van individuele docenten tot kleine opleidingsbureaus.
 
@@ -181,9 +181,7 @@ Voor het snel creëren van visueel aantrekkelijke en interactieve lesmodules zon
 
 Voor grootschalige, complexe en professionele e-learning projecten met hoge eisen aan functionaliteit en integratie, blijft **Lectora** de standaard, hoewel met een hoger prijskaartje. En als je regelmatig stap-voor-stap handleidingen of softwaretrainingen moet maken, zal **Scribe** je enorm veel tijd besparen door het proces te automatiseren. Overweeg welke taken het meest tijdrovend zijn in jouw workflow en kies de tool die daar de grootste impact kan maken.
 
-Twijfel je tussen opties? Vergelijk ze in [ChatGPT vs Gemini vs Claude 2026](/chatgpt-vs-gemini-vs-claude-nederlands-2026/).
 
-Twijfel je tussen opties? Vergelijk ze in [Claude 3.5 Sonnet vs GPT-4o vs Gemini 1.5 Pro](/claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026/).
 
 Lees ook onze uitgebreide vergelijking: [Gemini in Workspace vs Copilot voor Microsoft 365 vs Notion AI 2026](/gemini-workspace-vs-copilot-365-vs-notion-ai-2026/).
 

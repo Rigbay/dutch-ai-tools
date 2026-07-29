@@ -149,7 +149,6 @@ De concurrentie tussen AI presentatie tools is moordend, en elke tool probeert z
 
 ## Gerelateerde artikelen
 - [Beste AI Meeting & Transcriptie Tools 2026: Fireflies vs Otter vs Fathom vergeleken](/beste-ai-meeting-transcriptie-tools-2026)
-- [Beste AI Vertaaltools 2026: DeepL vs ChatGPT vs Google Translate vergeleken](/beste-ai-vertaaltools-2026)
 - [Shadow AI op de Werkvloer 2026: Hoe Manage Je AI-gebruik in Je Team?](/shadow-ai-werkvloer-management-2026)
 
 ## Tome: Interactieve Verhalen met Impact

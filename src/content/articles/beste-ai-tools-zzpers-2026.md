@@ -110,7 +110,7 @@ Hieronder presenteren we een selectie van de meest veelbelovende AI tools voor Z
 *   **Vereist Notion-gebruik:** Minder aantrekkelijk als je geen Notion-gebruiker bent.
 *   **Beperkt tot tekst:** Richt zich voornamelijk op tekstgeneratie en -bewerking, minder op andere AI-toepassingen zoals beeldcreatie.
 
-### 2. ChatGPT (GPT-4 en verder)
+### 2. ChatGPT
 
 *   **Naam:** ChatGPT (OpenAI)
 *   **Prijsrange:** Gratis (basisversie), €20 - €40 per maand (Plus/Team abonnementen)

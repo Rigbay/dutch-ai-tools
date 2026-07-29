@@ -58,7 +58,7 @@ tools:
   affiliateLink: https://chat.openai.com/?ref=aitoolsnl
 related:
   - beste-ai-tools-productiviteit-2026
-draft: false
+draft: true
 faq:
 - q: "Wat is het belangrijkste verschil tussen ChatGPT (GPT-4o) en Perplexity Pro in 2026?"
   a: 'ChatGPT (GPT-4o) is beter voor creatief schrijven, brainstormen en coderen, terwijl Perplexity Pro uitblinkt in onderzoek, fact-checking en actuele informatie. De keuze hangt af van je primaire usecase.'

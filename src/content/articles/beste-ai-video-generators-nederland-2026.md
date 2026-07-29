@@ -94,7 +94,7 @@ Sora maakt gebruik van een diffusion-gebaseerd model dat niet alleen pixels gene
 ### Pluspunten
 * Erste tool daadwerkelijk bruikbare videolengte tegen een betaalbare prijs (vs. Midjourney/Sora-achtige tools die maar 4 seconden leverden).
 * Uitstekende prompt-follow: camerabesturing, verlichting en sfeer lopen op bij beschrijvingen.
-* Integratie binnen het OpenAI-ecosysteem (DALL-E voor thumbnails, GPT-4o voor scripts).
+* Integratie met andere OpenAI-producten kan helpen bij scripts en ondersteunend beeld; controleer de actuele productnamen en beschikbaarheid bij OpenAI.
 
 ### Minpunten
 * Duur: voor serieuze marketers is Pro echt nodig (€240/maand is een barrière voor veel MKB).

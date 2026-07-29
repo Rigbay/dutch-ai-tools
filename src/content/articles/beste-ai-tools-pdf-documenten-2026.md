@@ -88,6 +88,7 @@ faq:
   a: 'Veel tools ondersteunen Nederlands. Check de individuele aanbieders voor taalspecificaties.'
 related:
   - beste-ai-tools-wetenschappelijk-onderzoek-2026
+draft: true
 ---
 
 # AI Leest je Documenten Sneller dan Jij: De Beste Tools voor PDF-Analyse in 2026

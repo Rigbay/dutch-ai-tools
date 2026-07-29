@@ -35,7 +35,7 @@ tools:
   rating: 4.5
   affiliateLink: https://v0.dev/
 - name: Lovable
-  verdict: Gebruiksvriendelijkste AI app builder met GPT-4 en snelle iteratie cycli
+  verdict: Gebruiksvriendelijke AI app builder voor snelle iteratiecycli
   priceRange: EUR 0-50/mnd
   bestFor: Snelle prototypes
   rating: 4.7

@@ -35,6 +35,15 @@ const descriptions: Record<string, string> = {
   'huis-tuin': 'Vergelijk energiecontracten, internetproviders, vakantieparken en andere praktische diensten.',
   persoonlijk: 'Vergelijk verzekeringen, hypotheken, mobiele abonnementen en financiële diensten voor consumenten.'
 };
+
+const categoryImages: Record<string, { src: string; alt: string }> = {
+  business: {
+    src: '/images/editorial/ai-tools-business-workspace-v2a.webp',
+    alt: 'Ondernemer vergelijkt opties aan een rustig bureau'
+  }
+};
+
+const categoryImage = categoryImages[cat];
 ---
 
 <BaseLayout
@@ -42,9 +51,27 @@ const descriptions: Record<string, string> = {
   description={descriptions[cat] || `Beste AI tools voor ${cat} vergeleken. ${articles.length} artikelen met vergelijkingen en scores.`}
 >
   <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
-    <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Categorie</p>
-    <h1 class="mt-4 font-serif text-4xl font-semibold text-ink">Beste AI tools voor {labels[cat] || cat} 2026</h1>
-    <p class="mt-5 max-w-3xl text-lg text-muted">{descriptions[cat] || ''}</p>
+    <div class:list={[categoryImage && 'grid items-center gap-8 lg:grid-cols-[minmax(0,.82fr)_minmax(24rem,1.18fr)]']}>
+      <div>
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Categorie</p>
+        <h1 class:list={['mt-4 font-serif text-4xl font-semibold text-ink', categoryImage && 'max-w-[14ch]']}>Beste AI tools voor {labels[cat] || cat} 2026</h1>
+        <p class="mt-5 max-w-3xl text-lg text-muted">{descriptions[cat] || ''}</p>
+      </div>
+      {categoryImage && (
+        <figure class="aspect-[3/2] overflow-hidden rounded-[1.75rem] border border-[#d9e1ea] bg-linen shadow-soft">
+          <img
+            src={categoryImage.src}
+            alt={categoryImage.alt}
+            width="1536"
+            height="1024"
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+            class="h-full w-full object-cover"
+          />
+        </figure>
+      )}
+    </div>
   </section>
 
   <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">

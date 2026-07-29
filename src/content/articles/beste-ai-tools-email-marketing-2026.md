@@ -60,12 +60,6 @@ tools:
   bestFor: Enterprise
   rating: 4.1
   affiliateLink: https://www.hubspot.com/
-- name: AI Tool G
-  verdict: Extra optie voor AI e-mail marketing vergelijking
-  priceRange: EUR 10-50/mnd
-  bestFor: Alternatief
-  rating: 3.8
-  affiliateLink: https://www.beehiiv.com/
 related:
   - beste-ai-tools-social-media-2026
   - ai-tools-marketing-teams-2026

@@ -234,7 +234,6 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Beste AI Tools voor Onderwijsinstellingen 2026: top 7 vergeleken](/beste-ai-tools-onderwijs-instellingen-2026/)**
 - **[📊 Beste AI Tools voor Ouderen & Senioren 2026: top 7 vergeleken](/beste-ai-tools-ouderen-senioren-2026/)**
 - **[📊 Beste AI Tools voor Ouderschap & Gezinsmanagement 2026: top 7 vergeleken](/beste-ai-tools-ouderschap-gezinsmanagement-2026/)**
-- **[📊 Beste AI Tools voor PDF & Document Analyse 2026: top 7 vergeleken](/beste-ai-tools-pdf-documenten-2026/)**
 - **[📊 Beste AI Tools voor Persoonlijke Financiën 2026: top 7 financiële AI vergeleken](/beste-ai-tools-persoonlijke-financien-2026/)**
 - **[📊 Beste AI Tools voor Projectmanagement 2026: top 7 vergeleken](/beste-ai-tools-projectmanagement-2026/)**
 - **[📊 Beste AI Tools voor Research & Academisch Werk 2026: top 7 vergeleken](/beste-ai-research-academische-tools-2026/)**
@@ -250,27 +249,20 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Beste AI Tools voor de Energiesector & Nutsbedrijven 2026: top 7 vergeleken](/beste-ai-tools-energie-2026/)**
 - **[📊 Beste AI Tools voor de Horeca 2026: top 7 horeca-AI vergeleken](/beste-ai-tools-horeca-2026/)**
 - **[📊 Beste AI Tools voor de Zorg & Gezondheidszorg 2026: top 7 zorg-AI vergeleken](/beste-ai-tools-zorg-2026/)**
-- **[📊 Beste AI Vertaaltools 2026: DeepL vs ChatGPT vs Google Translate vergeleken](/beste-ai-vertaaltools-2026/)**
 - **[📊 Beste AI tools voor gezondheidszorg en therapie 2026: Een Gids voor de Nederlandse Zorgprofessional](/ai-tools-gezondheidszorg-therapeuten-2026/)**
 - **[📊 Beste AI tools voor onderwijs in Nederland 2026: Productiviteit en Innovatie in de Klas](/ai-tools-onderwijs-nederland-2026/)**
 - **[📊 Beste Ai Spraakherkenning Transcriptie Nederlands 2026](/beste-ai-spraakherkenning-transcriptie-nederlands-2026/)**
 - **[📊 Beste Ai Tools Mindmapping Brainstormen 2026](/beste-ai-tools-mindmapping-brainstormen-2026/)**
 - **[📊 Beste Ai Tools Reizen Vakantieplanning 2026](/beste-ai-tools-reizen-vakantieplanning-2026/)**
-- **[📊 Beste Gratis AI Tools 2026: top 8 gratis AI tools vergeleken](/beste-gratis-ai-tools-2026/)**
 - **[📊 Beste online cursusplatforms 2026: Coursera vs Udemy vs edX vergelijking](/beste-online-cursusplatforms-2026/)**
 - **[📊 Calendly vs Cal.com vs Doodle 2026: Beste AI Planningstool Vergeleken](/calendly-vs-cal-com-vs-doodle-2026/)**
-- **[📊 ChatGPT vs Gemini vs Claude 2026: welke AI is het beste in Nederlands?](/chatgpt-vs-gemini-vs-claude-nederlands-2026/)**
-- **[📊 Claude 3 5 Sonnet Vs Gpt 4O Vs Gemini 1 5 Pro 2026](/claude-3-5-sonnet-vs-gpt-4o-vs-gemini-1-5-pro-2026/)**
 - **[📊 Cloud Opslag 2026: Google Drive vs Dropbox vs OneDrive vs pCloud vs Internxt — beste cloud storage voor Nederland](/cloud-opslag-vergelijken-google-drive-dropbox-onedrive-2026/)** — Vergelijk de 5 beste cloud-opslagdiensten in 2026: Google Drive, Dropbox, Microsoft OneDrive, pCloud en Internxt. Welke biedt de beste prijs, privacy ...
 - **[📊 Confluence vs Notion vs Slab 2026: beste kennismanagement voor teams](/confluence-vs-notion-vs-slab-2026/)**
-- **[📊 DeepL vs Google Translate vs ChatGPT Vertalingen 2026: Welke AI Vertaaltool is de Beste?](/deepl-vs-google-translate-vs-chatgpt-2026/)**
-- **[📊 DeepSeek vs ChatGPT vs Grok 2026: welke AI is het beste? Volledige vergelijking](/deepseek-vs-chatgpt-vs-grok-2026/)** — Vergelijk DeepSeek, ChatGPT en Grok in 2026: prestaties, prijs, Nederlandse taal, contextvenster en unieke functies van elke AI chatbot.
 - **[📊 Gamma vs Beautiful.ai vs Tome 2026: Beste AI Presentatie Tool Vergeleken](/gamma-vs-beautiful-ai-vs-tome-2026/)**
 - **[📊 Gemini Workspace Vs Copilot 365 Vs Notion Ai 2026](/gemini-workspace-vs-copilot-365-vs-notion-ai-2026/)**
 - **[📊 Google Drive vs Dropbox vs OneDrive 2026: beste cloudopslag vergeleken](/google-drive-vs-dropbox-vs-onedrive-2026/)**
 - **[📊 Grammarly Vs Prowritingaid Vs Languagetool 2026](/grammarly-vs-prowritingaid-vs-languagetool-2026/)**
 - **[📊 Grammarly vs DeepL Write vs LanguageTool 2026: Beste Schrijfassistent voor Nederlands en Engels](/grammarly-vs-deepl-write-vs-languagetool-2026/)**
-- **[📊 Gratis AI Tools vs Betaalde AI Tools 2026: wat is de beste keuze? Vergelijking](/gratis-ai-tools-vs-betaalde-ai-tools-2026/)** — Vergelijk gratis en betaalde AI tools in 2026: ChatGPT gratis vs Plus, Gemini vs Gemini Advanced, Claude vs Claude Pro, Perplexity, Copilot en meer AI...
 - **[📊 Loom vs Screen Studio vs Berrycast vs Zight 2026: beste screen recording tool](/loom-vs-screen-studio-vs-berrycast-vs-zight-2026/)**
 - **[📊 Lucidchart vs draw.io vs Miro vs Visio 2026: beste diagram- en wireframe tool voor teams](/lucidchart-vs-drawio-vs-miro-vs-visio-2026/)** — Vergelijk Lucidchart, draw.io, Miro, Microsoft Visio en Whimsical in 2026: stroomdiagrammen, wireframes, mindmaps, samenwerking, prijzen en beste keuz...
 - **[📊 Nieuwe Ai Meeting Assistants 2026](/nieuwe-ai-meeting-assistants-2026/)**
@@ -375,7 +367,6 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Photoshop AI vs Affinity Photo vs Luminar Neo 2026: beste AI fotobewerking](/photoshop-ai-vs-affinity-photo-vs-luminar-neo-2026/)**
 - **[📊 Suno vs Udio vs Musicfy 2026: Welke AI Muziekgenerator Is Het Beste?](/suno-vs-udio-vs-musicfy-2026/)**
 - **[📊 Synthesia vs HeyGen vs Colossyan 2026: de beste AI video avatar tools](/synthesia-vs-heygen-vs-colossyan-2026/)**
-- **[📊 Writesonic Vs Jasper Vs Chatgpt Copywriting Nederlands 2026](/writesonic-vs-jasper-vs-chatgpt-copywriting-nederlands-2026/)**
 
 ### Marketing (37 artikelen)
 
@@ -453,7 +444,6 @@ Welkom bij het complete overzicht van alle AI Tools vergelijkingen op Dutch AI T
 - **[📊 Beste Super Ai Agents 2026](/beste-super-ai-agents-2026/)**
 - **[📊 Beste domeinregistratie en webhosting Nederland 2026: vergelijking](/beste-domeinregistratie-webhosting-nederland-2026/)**
 - **[📊 Bitwarden vs 1Password vs LastPass 2026: beste password manager](/bitwarden-vs-1password-vs-lastpass-2026/)**
-- **[📊 GPT-NL: Het Nederlandse AI-Taalmodel 2026 — volledige vergelijking](/gpt-nl-nederlands-taalmodel-2026/)** — Vergelijking van GPT-NL: het Nederlandse AI-taalmodel 2026 — objectieve beoordeling, prijzen in euros, praktische keuzehulp.
 - **[📊 NordVPN vs ExpressVPN vs Surfshark vs ProtonVPN vs Mullvad 2026: beste VPN voor privacy en veiligheid in 2026](/nordvpn-vs-expressvpn-vs-surfshark-vs-protonvpn-2026/)** — Vergelijk NordVPN, ExpressVPN, Surfshark, ProtonVPN en Mullvad in 2026: snelheid, privacybeleid, no-logs, streaming, prijzen en welke VPN het beste pa...
 
 ### Persoonlijk (19 artikelen)

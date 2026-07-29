@@ -34,7 +34,7 @@ tools:
   bestFor: E-commerce & ads
   rating: 4.4
   affiliateLink: https://www.copy.ai
-- name: Claude 3.5
+- name: Claude
   verdict: Uitstekende lange-form copy en strategische content met context
   priceRange: EUR 0-25/mnd
   bestFor: Lange content & strategie

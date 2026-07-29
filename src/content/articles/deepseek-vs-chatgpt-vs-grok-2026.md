@@ -44,7 +44,7 @@ related:
   - beste-ai-tools-agricultuur-landbouw-2026
   - beste-ai-tools-finops-cloudkostenbeheer-2026
   - beste-ai-presentatie-tools-2026
-draft: false
+draft: true
 faq:
 - q: "Wat is de beste AI tool voor productiviteit-toepassingen in 2026?"
   a: 'Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is ChatGPT een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor gedetailleerd advies.'

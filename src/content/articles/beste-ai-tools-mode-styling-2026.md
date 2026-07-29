@@ -218,8 +218,6 @@ Retouren zijn de stille winstkiller van elke mode-webshop. Tools zoals **Bodify*
 ### Wil je besparen op marketing en contentcreatie?
 Voor het vullen van je social media kanalen en webshop met professionele foto's is **Visualook** een absolute gamechanger. Je bespaart duizenden euro's aan fotoshoots en kunt je collectie presenteren op diverse modellen in elke denkbare setting.
 
-Voor meer algemene productiviteitstools kun je ook ons artikel over de [beste gratis AI tools van 2026](/beste-gratis-ai-tools-2026) bekijken om te zien hoe je jouw dagelijkse workflow nog verder kunt stroomlijnen.
-
 ---
 
 ## De toekomst van AI in mode en styling (2026 en daarna)

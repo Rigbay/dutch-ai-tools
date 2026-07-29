@@ -117,7 +117,7 @@ Zapier Central is de perfecte instaptool voor no-coders en mkb-bedrijven die hun
 Make.com (voorheen Integromat) staat bekend om zijn visuele en uiterst flexibele workflow-builder. Met de introductie van hun geavanceerde AI-features heeft Make de brug geslagen tussen traditionele visuele automatisering en dynamische AI-besluitvorming.
 
 ### Beschrijving
-Make.com AI stelt gebruikers in staat om AI-modellen (zoals GPT-4o, Claude 3.5 of lokale LLM's) direct te integreren in complexe, visuele diagrammen. In plaats van puur lineaire paden, kun je met Make AI-gestuurde 'routers' bouwen. De AI analyseert binnenkomende data, bepaalt de intentie en stuurt de workflow dynamisch de juiste richting op. Make biedt daarnaast AI-assistenten die helpen bij het schrijven van formules, het mappen van data en het genereren van complete scenario’s op basis van een tekstuele prompt.
+Make.com stelt gebruikers in staat om ondersteunde cloudmodellen en lokale LLM's in visuele automatiseringen te integreren. In plaats van puur lineaire paden kun je AI-gestuurde routers bouwen die binnenkomende data analyseren en workflows aansturen. Het actuele modelaanbod en de precieze AI-functies veranderen; controleer die daarom in Make voordat je een architectuur of kostenraming vastlegt.
 
 * **Prijsrange:** Gratis instapplan; betaalde abonnementen variëren van €9 tot €299+ per maand voor enterprise-oplossingen.
 * **Beste use case:** Visuele denkers die complexe, vertakte workflows willen bouwen waarbij AI-modellen data moeten transformeren, samenvatten of routeren.

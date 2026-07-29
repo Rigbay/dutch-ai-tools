@@ -212,8 +212,6 @@ Met zoveel opties kan het lastig zijn om te kiezen. Stel jezelf de volgende vrag
 * **Wil je experimenteren met nieuwe smaken?** Ga voor **FoodAI** of daag **DishGen** uit met gekke ingrediëntcombinaties.
 * **Heb je zeer specifieke allergieën of volg je een complex dieet?** **ChatGPT** biedt de diepgang die nodig is om recepten tot in de kleinste details aan te passen aan jouw behoeften.
 
-Wil je naast koken ook op andere vlakken efficiënter worden met behulp van AI? Lees dan ook ons overzicht van de [beste gratis AI tools van 2026](/beste-gratis-ai-tools-2026).
-
 ---
 
 ## Conclusie: De Toekomst is Smaakvol

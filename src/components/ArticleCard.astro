@@ -10,12 +10,11 @@ const categoryLabel: Record<string, string> = {
   development: 'Development', business: 'Business', technologie: 'Technologie',
   'huis-tuin': 'Huis & Tuin', persoonlijk: 'Persoonlijk'
 };
-const initials = (data.featuredTool || 'AI').split(/\s+/).map((part: string) => part[0]).join('').slice(0, 3).toUpperCase();
 ---
 
 <article class="group flex h-full flex-col overflow-hidden rounded-2xl border border-[#dfe5ec] bg-white transition hover:-translate-y-1 hover:border-[#c6d2df] hover:shadow-soft">
   <div class="flex items-center justify-between border-b border-[#edf0f4] bg-[#f8fafc] px-5 py-4">
-    <div class="flex min-w-0 items-center gap-3"><span class="tool-orb h-9 w-9 rounded-xl text-[.68rem]">{initials}</span><span class="truncate text-xs font-extrabold uppercase tracking-[.13em] text-muted">{categoryLabel[data.category] || data.category}</span></div>
+    <span class="truncate text-xs font-extrabold uppercase tracking-[.13em] text-muted">{categoryLabel[data.category] || data.category}</span>
     <span class="text-xs font-bold text-muted">{data.readingTime}</span>
   </div>
   <div class="flex flex-1 flex-col p-5">

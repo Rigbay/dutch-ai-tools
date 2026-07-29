@@ -50,7 +50,7 @@ related:
   - beste-ai-copywriting-tools-2026
   - beste-ai-schrijftools-nederlands-2026
   - beste-ai-marketing-tools-2026
-draft: false
+draft: true
 faq:
 - q: "Is AI copywriting geschikt voor Nederlandse content?"
   a: 'Ja, alle drie de tools schrijven uitstekend Nederlands. Writesonic heeft speciale Nederlandse templates voor webshopteksten, Google Ads en blogs. Jasper heeft brand voice-instellingen die ook in het Nederlands werken. ChatGPT is het meest flexibel voor creatieve Nederlandse teksten.'

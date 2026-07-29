@@ -181,7 +181,6 @@ Twijfel je tussen opties? Vergelijk ze in [Photoshop AI vs Affinity Photo vs Lum
 
 Verdiep je in de verschillen: [Photoshop AI vs Affinity Photo vs Luminar Neo 2026](/photoshop-ai-vs-affinity-photo-vs-luminar-neo-2026/).
 
-Twijfel je tussen opties? Vergelijk ze in [ChatGPT vs Gemini vs Claude 2026](/chatgpt-vs-gemini-vs-claude-nederlands-2026/).
 
 ## FAQ
 

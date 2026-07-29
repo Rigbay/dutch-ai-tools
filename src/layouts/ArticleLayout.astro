@@ -35,7 +35,6 @@ const hasRenderedBodyAffiliate = bodyUrls.some((url) => {
   return !!merchantId && hasAffiliateTrackingSignal(url) && canRenderAffiliate(merchantId, 'dutch-ai-tools');
 });
 const hasRenderedAffiliate = hasRenderedStructuredAffiliate || hasRenderedBodyAffiliate;
-const initials = bestTool.name.split(/\s+/).map((part) => part[0]).join('').slice(0, 3).toUpperCase();
 
 const breadcrumbSchema = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
   { '@type': 'ListItem', position: 1, name: 'Home', item: site.toString() },
@@ -76,7 +75,7 @@ const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEn
           <aside class="premium-card overflow-hidden">
             <div class="bg-[linear-gradient(145deg,#173da7,#2357df_60%,#22b69b)] p-5 text-white sm:p-6">
               <div class="flex items-center justify-between gap-3"><span class="text-xs font-extrabold uppercase tracking-[.16em] text-white/75">Beste allround keuze</span><span class="rounded-full bg-white/15 px-2.5 py-1 text-xs font-extrabold">{bestTool.rating.toFixed(1)}/5</span></div>
-              <div class="mt-5 flex items-center gap-4"><span class="grid h-12 w-12 place-items-center rounded-2xl border border-white/25 bg-white/10 text-sm font-black">{initials}</span><h2 class="text-2xl font-extrabold tracking-[-.035em]">{bestTool.name}</h2></div>
+              <h2 class="mt-5 text-2xl font-extrabold tracking-[-.035em]">{bestTool.name}</h2>
             </div>
             <div class="p-5 sm:p-6"><p class="text-sm leading-6 text-muted">{bestTool.verdict}</p><p class="mt-3 text-xs font-bold uppercase tracking-[.12em] text-leaf">Beste voor: {bestTool.bestFor}</p>
               {bestAffiliateMerchantId ? <div class="mt-5"><AffiliateLink merchantId={bestAffiliateMerchantId} siteId="dutch-ai-tools" class="button-primary w-full">Naar {bestTool.name} <span class="ml-2" aria-hidden="true">→</span></AffiliateLink></div> : bestDirectProviderUrl ? <a class="button-primary mt-5 w-full" href={bestDirectProviderUrl} rel="nofollow">Naar {bestTool.name} <span class="ml-2" aria-hidden="true">→</span></a> : null}

@@ -74,6 +74,7 @@ related:
   - beste-ai-tools-juristen-2026
   - beste-ai-tools-persoonlijke-assistenten-2026
   - beste-ai-tools-wetenschappelijk-onderzoek-2026
+draft: true
 faq:
 - q: "Is DeepL beter dan Google Translate voor Nederlands?"
   a: 'Ja, DeepL levert consistent nauwkeurigere en natuurlijkere Nederlandse vertalingen dan Google Translate, vooral voor zakelijke en formele teksten. Google Translate is beter voor snelle, informele vertalingen in veel talen tegelijk.'

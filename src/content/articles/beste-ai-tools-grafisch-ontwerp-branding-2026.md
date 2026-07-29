@@ -180,7 +180,6 @@ Voor de data-gedreven designer of agency is Recraft de tool om serieus te nemen.
 
 De ideale AI-ontwerpstack in 2026 combineert meerdere tools: Midjourney voor exploratie, Firefly voor integratie, Recraft voor vectoren, en Canva voor snelle output. Samen kosten deze tools minder dan EUR 60 per maand — een fractie van wat een junior designer per uur kost.
 
-Benieuwd hoe de tools zich tot elkaar verhouden? Bekijk [ChatGPT vs Gemini vs Claude 2026](/chatgpt-vs-gemini-vs-claude-nederlands-2026/).
 
 Wil je weten welke het beste is? Lees [Luma Dream Machine vs Kling AI vs Runway Gen-3](/luma-vs-kling-vs-runway-2026/).
 

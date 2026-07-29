@@ -81,7 +81,7 @@ Obsidian is het antwoord op de vraag: "Wat als mijn tweede brein écht van mij i
 
 **AI in Obsidian:** Obsidian zelf heeft geen ingebakken AI — en dat is een bewuste keuze. Maar de 2000+ community-plugins maken alles mogelijk:
 - **Smart Connections:** AI-plugin die semantische verbanden legt tussen je notities. "Deze notitie over marketingstrategie lijkt op je notitie over klantpsychologie van 3 maanden geleden — wil je ze linken?"
-- **Text Generator:** Gebruik GPT-4o, Claude of lokale LLMs om teksten te genereren, samen te vatten of te herschrijven — binnen je eigen notities, met jouw context.
+- **Text Generator:** Gebruik een ondersteund cloudmodel of lokaal taalmodel om teksten binnen je eigen notities te genereren, samen te vatten of te herschrijven. Welke modellen beschikbaar zijn, hangt af van de gekozen plug-in en configuratie.
 - **Copilot:** Een AI-assistent in je sidebar die vragen beantwoordt op basis van jouw notities — alsof je met je eigen kennisbank chat.
 
 **Prijs:** Volledig gratis voor persoonlijk gebruik. Obsidian Sync (EUR 5/maand) voor synchronisatie tussen apparaten. Obsidian Publish (EUR 10/maand) voor het delen van notities als website. Commercieel gebruik: EUR 50/jaar per gebruiker.

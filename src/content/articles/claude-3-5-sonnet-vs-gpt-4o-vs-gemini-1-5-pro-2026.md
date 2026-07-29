@@ -68,7 +68,7 @@ related:
   - beste-ai-tools-overheid-2026
   - ai-voor-studenten-2026
   - beste-ai-tools-landbouw-2026
-draft: false
+draft: true
 faq:
 - q: "Wat is momenteel de beste tool in deze categorie?"
   a: 'Op basis van onze tests in 2026 is Claude 3.5 Sonnet de meest complete keuze voor de meeste gebruikers.'

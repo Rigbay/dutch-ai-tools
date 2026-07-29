@@ -74,7 +74,7 @@ related:
   - beste-ai-tools-reizen-vakantieplanning-2026
   - beste-ai-meeting-transcriptie-tools-2026
   - beste-ai-tools-voeding-dieet-2026
-draft: false
+draft: true
 faq:
 - q: "Wat is de beste AI tool voor productiviteit in 2026?"
   a: 'Dat hangt af van je specifieke behoeften. Voor de meeste gebruikers is ChatGPT Free een uitstekende start vanwege de balans tussen functionaliteit en prijs. Lees de volledige vergelijking hierboven voor een gedetailleerd advies per tool.'
