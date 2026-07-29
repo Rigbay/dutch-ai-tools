@@ -59,6 +59,7 @@ related:
   - energievergelijkers-vs-gaslicht-vs-pricewise-vs-easyswitch-2026
   - framer-ai-vs-webflow-vs-wix-studio-2026
   - ai-avg-compliance-tools-2026
+draft: true
 faq:
   - q: "Zijn deze tools AVG-compliant voor Nederlands gebruik?"
     a: "Ja, alle genoemde tools verwerken data binnen de EU/EER en voldoen aan de AVG/GDPR. Controleer altijd de specifieke privacyvoorwaarden van de aanbieder."

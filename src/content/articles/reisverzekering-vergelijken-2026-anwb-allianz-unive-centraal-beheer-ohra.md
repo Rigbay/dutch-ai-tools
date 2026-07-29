@@ -71,6 +71,7 @@ related:
 - autoverzekering-vergelijken-independer-unive-centraal-beheer-allianz-2026
 - zorgverzekering-vergelijken-2026-zilveren-kruis-cz-vgz-menzis
 - fietsverzekering-vergelijken-2026-anwb-unive-centraal-beheer-allianz-enra
+draft: true
 faq:
 - q: Wat is de beste reisverzekering voor mij?
   a: De beste reisverzekering voor jou afhankelijk van je reisplannen, budget en wensen.

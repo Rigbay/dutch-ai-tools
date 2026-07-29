@@ -68,6 +68,7 @@ related:
 - beste-betaalrekeningen-vergelijken
 - slim-beleggen-voor-beginners
 - hypotheekrente-vergelijken-tips
+draft: true
 faq:
 - q: Wat is het depositogarantiestelsel en is mijn geld veilig?
   a: Het depositogarantiestelsel beschermt uw spaargeld tot €100.000 per persoon per

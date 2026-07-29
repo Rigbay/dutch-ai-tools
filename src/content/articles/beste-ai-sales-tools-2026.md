@@ -76,7 +76,6 @@ tools:
 related:
   - ai-voor-data-analyse-2026
   - beste-ai-tools-duurzaamheid-esg-2026
-  - beste-ai-tools-makelaars-vastgoed-2026
 faq:
 - q: "Zijn AI-sales tools geschikt voor ZZP'ers?"
   a: 'Ja, Apollo.io en Instantly hebben gratis plannen die prima werken voor ZZP''ers. Je kunt beginnen met een gratis account, je eerste leads vinden en een paar honderd outreach-mails per maand versturen zonder kosten.'

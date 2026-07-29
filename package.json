@@ -7,9 +7,11 @@
     "dev": "astro dev",
     "audit:privacy": "node scripts/audit-public-identity.mjs",
     "audit:freshness": "node scripts/audit-model-freshness.mjs",
+    "audit:thin-sensitive-pages": "node scripts/audit-thin-sensitive-pages.mjs",
     "test:freshness-links": "node scripts/test-model-freshness-links.mjs",
+    "test:thin-sensitive-pages": "node scripts/test-thin-sensitive-pages.mjs",
     "test:visual-details": "node scripts/test-homepage-visual-details.mjs",
-    "build": "npm run audit:privacy && astro build",
+    "build": "npm run audit:privacy && npm run audit:thin-sensitive-pages && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },

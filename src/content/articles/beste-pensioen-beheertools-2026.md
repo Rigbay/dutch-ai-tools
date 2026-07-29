@@ -72,7 +72,6 @@ tools:
   rating: 4.1
   affiliateLink: https://www.pggm.nl
 related:
-  - reisverzekering-vergelijken-2026-anwb-allianz-unive-centraal-beheer-ohra
   - beste-slimme-uitgaven-trackers-2026
   - beste-schulden-consolidatie-apps-2026
 faq:
