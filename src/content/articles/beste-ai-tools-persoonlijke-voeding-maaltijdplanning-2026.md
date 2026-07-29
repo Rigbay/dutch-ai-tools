@@ -61,7 +61,6 @@ related:
   - beste-pensioen-beheertools-2026
   - coderabbit-vs-codiumai-vs-codacy-vs-sourcery-2026
   - moneybird-vs-e-boekhouden-vs-jortt-vs-snelstart-2026
-draft: true
 faq:
   - q: 'Zijn deze tools AVG-compliant voor Nederlands gebruik?'
     a: 'Ja, alle genoemde tools verwerken data binnen de EU/EER en voldoen aan de AVG/GDPR. Controleer altijd de specifieke privacyvoorwaarden van de aanbieder.'

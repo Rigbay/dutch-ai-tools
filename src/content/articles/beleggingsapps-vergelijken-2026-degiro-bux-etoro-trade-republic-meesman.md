@@ -87,6 +87,7 @@ tools:
   affiliateLink: https://peaks.nl/
 related:
 - beste-online-banken-2026-bunq-revolut-n26-knab-asn
+- spaarrekeningen-vergelijken-2026-bunq-revolut-raisin-nibc-leaseplan
 - beste-ai-tools-beleggers-investeerders-2026
 faq:
 - q: Wat is de minimumeigenkapitaalvereiste bij Bux?

@@ -56,7 +56,7 @@ related:
   - ai-voor-ecommerce-2026
   - beste-ai-tools-telecom-communicatie-2026
   - beste-ai-tools-gaming-2026
-draft: true
+draft: false
 faq:
 - q: "Welke AI tool helpt het meest bij virtuele bezichtigingen?"
   a: 'Matterport is de gouden standaard voor interactieve 3D tours in 2026.'

@@ -76,6 +76,7 @@ tools:
 related:
   - eu-ai-act-compliance-tools-2026
   - beste-ai-tools-klantfeedback-cx-2026
+  - beste-ai-tools-makelaars-vastgoed-2026
 faq:
 - q: "Moet een AI-tool in de financiele sector DNB-goedgekeurd zijn?"
   a: 'Nee, niet elke AI-tool heeft aparte DNB-goedkeuring nodig. De financiele instelling zelf is verantwoordelijk voor compliance. Tools moeten wel aantoonbaar voldoen aan DNB-richtlijnen voor uitbesteding en risicobeheer. Bij kernprocessen is voorafgaande toetsing nodig.'

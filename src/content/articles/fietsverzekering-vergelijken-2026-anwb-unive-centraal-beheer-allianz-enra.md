@@ -89,6 +89,7 @@ tools:
   rating: 4.2
   affiliateLink: https://www.alpina.nl/verzekeringen/fietsverzekering/
 related:
+- reisverzekering-vergelijken-2026-anwb-allianz-unive-centraal-beheer-ohra
 - autoverzekering-vergelijken-independer-unive-centraal-beheer-allianz-2026
 - beste-ai-tools-verzekeringen-2026
 faq:
