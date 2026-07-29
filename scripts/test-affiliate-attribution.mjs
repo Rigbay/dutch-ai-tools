@@ -24,9 +24,11 @@ assert.match(
 
 assert.equal(
   canRenderAffiliate('frase', 'dutch-ai-tools'),
-  false,
-  'a pending template with a missing affiliate ID must not render as attributable',
+  true,
+  'the privately verified active Frase route must render through the registry',
 );
+assert.equal(hasAffiliateTrackingSignal(resolveAffiliateUrl('frase', 'dutch-ai-tools') || ''), true);
+assert.equal(new URL(resolveAffiliateUrl('frase', 'dutch-ai-tools')).hostname, 'www.frase.io');
 assert.equal(canRenderAffiliate('amazon-nl', 'dutch-ai-tools'), false);
 
 assert.equal(canRenderAffiliate('synthesia', 'dutch-ai-tools'), true);

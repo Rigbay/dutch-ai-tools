@@ -39,7 +39,7 @@ tools:
     priceRange: "EUR 50-200/mnd"
     bestFor: "AI content writer & research"
     rating: 4.4
-    affiliateLink: "https://www.beehiiv.com/"
+    affiliateLink: "https://www.frase.io/"
   - name: "Surfer SEO AI"
     verdict: "AI-gedreven tool voor seo content optimalisatie"
     priceRange: "EUR 100-500/mnd"

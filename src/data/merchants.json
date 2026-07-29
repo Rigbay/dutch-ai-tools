@@ -359,11 +359,11 @@
       "name": "Frase",
       "program": "Frase Affiliate",
       "platform": "FirstPromoter",
-      "status": "pending",
+      "status": "active",
       "perSite": {
         "dutch-ai-tools": {
-          "status": "pending",
-          "affiliateId": null
+          "status": "active",
+          "affiliateId": "hermes10"
         }
       },
       "commission": {
@@ -373,16 +373,16 @@
         "recurringMonths": 12,
         "notes": "30%/12mo recurring"
       },
-      "linkTemplate": "https://www.frase.io?via={affiliateId}",
+      "linkTemplate": "https://www.frase.io/?via=hermes10",
       "link": null,
       "domainHints": [
         "frase.io"
       ],
       "payout": "TBD",
       "articles": 7,
-      "lastVerified": "2026-06-05T00:00:00+02:00",
+      "lastVerified": "2026-06-08T14:24:10.542865",
       "signedUp": "2026-06-05",
-      "notes": "FirstPromoter. Application pending human review (no link issued until approved)."
+      "notes": "Account-native active state reconciled privately; raw identifier is intentionally omitted from review artifacts."
     },
     "tradetracker": {
       "name": "TradeTracker",

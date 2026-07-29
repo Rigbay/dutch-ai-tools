@@ -58,13 +58,13 @@ tools:
     priceRange: EUR 0-20/mnd
     bestFor: AI schrijven + SEO features
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/
+    affiliateLink: https://writesonic.com/
   - name: Frase.io
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 15-115/mnd
     bestFor: SEO briefs & AI content optimalisatie
     rating: 4.0
-    affiliateLink: https://www.beehiiv.com/
+    affiliateLink: https://www.frase.io/
   - name: ContentShake AI (Semrush)
     verdict: Wordt vergeleken in artikel
     priceRange: EUR 0-60/mnd
