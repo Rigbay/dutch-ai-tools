@@ -28,13 +28,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Allround studiehulp
   rating: 4.7
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Notion AI
   verdict: Perfect voor het organiseren van studiemateriaal en notities
   priceRange: EUR 0-20/mnd
   bestFor: Studie-organisatie
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.notion.com/product/ai
 - name: Grammarly
   verdict: Onmisbare schrijfhulp voor papers, essays en verslagen
   priceRange: EUR 0-15/mnd

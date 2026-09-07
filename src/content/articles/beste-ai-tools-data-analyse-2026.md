@@ -28,7 +28,7 @@ tools:
   priceRange: EUR 20/mnd
   bestFor: Allround
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Julius AI
   verdict: AI data-analist die grafieken en statistieken genereert zonder code
   priceRange: EUR 0-25/mnd

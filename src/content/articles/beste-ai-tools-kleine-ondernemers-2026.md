@@ -29,13 +29,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Dagelijkse AI assistent
   rating: 4.8
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Notion AI
   verdict: Complete werkruimte met AI voor teams, projecten en documentatie
   priceRange: EUR 10-20/mnd
   bestFor: Teamwerk & documentatie
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.notion.com/product/ai
 - name: Zapier
   verdict: Verbindt 6000+ apps en automatiseert repetitieve taken
   priceRange: EUR 0-150/mnd

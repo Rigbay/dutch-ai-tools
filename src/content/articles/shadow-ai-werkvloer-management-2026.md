@@ -54,7 +54,7 @@ tools:
   priceRange: EUR 10-20/mnd per gebruiker
   bestFor: Team documentatie
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.notion.com/product/ai
 - name: Microsoft Copilot
   verdict: Enterprise AI met volledige Azure governance en compliance controls
   priceRange: EUR 30/mnd per gebruiker

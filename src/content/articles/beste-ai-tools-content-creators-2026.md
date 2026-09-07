@@ -47,7 +47,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Content ideation
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: CapCut AI
   verdict: Gratis videotool met sterke AI features voor korte content
   priceRange: EUR 0-10/mnd

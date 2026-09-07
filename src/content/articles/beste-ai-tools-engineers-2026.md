@@ -46,7 +46,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Documentatie & berekeningen
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: GitHub Copilot
   verdict: AI pair-programmer voor embedded systems, Matlab, Python en automatisering
   priceRange: EUR 0-20/mnd

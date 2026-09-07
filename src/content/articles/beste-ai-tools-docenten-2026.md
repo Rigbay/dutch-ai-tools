@@ -28,13 +28,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Lesvoorbereiding
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Claude
   verdict: Beste voor diepgaande feedback op essays en werkstukken
   priceRange: EUR 0-25/mnd
   bestFor: Feedback & nakijken
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://claude.com/
 - name: Canva AI
   verdict: Onmisbaar voor visueel lesmateriaal, presentaties en infographics
   priceRange: EUR 0-15/mnd
@@ -64,7 +64,7 @@ tools:
   priceRange: EUR 0-20/mnd
   bestFor: Planning & administratie
   rating: 4.2
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.notion.com/product/ai
 related:
   - beste-ai-tools-webdesign-websites-2026
   - beste-ai-tools-pdf-documenten-2026

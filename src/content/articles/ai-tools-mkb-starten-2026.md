@@ -42,7 +42,7 @@ tools:
   priceRange: EUR 10-20/mnd
   bestFor: Documenten & planning
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.notion.com/product/ai
 - name: Grammarly
   verdict: Foutloos schrijven in het Engels — essentieel voor internationale communicatie
   priceRange: EUR 0-30/mnd

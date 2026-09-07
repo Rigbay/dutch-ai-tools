@@ -39,7 +39,7 @@ tools:
   priceRange: EUR 0-30/mnd
   bestFor: Engelstalige content en internationale teams
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.grammarly.com/
 related:
   - adobe-acrobat-vs-smallpdf-vs-ilovepdf-vs-pdf-expert-2026
   - afas-vs-exact-vs-odoo-vs-sap-business-one-2026

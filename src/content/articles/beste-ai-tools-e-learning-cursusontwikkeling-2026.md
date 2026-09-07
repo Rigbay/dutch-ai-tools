@@ -28,14 +28,14 @@ tools:
   priceRange: EUR 0-22/mnd
   bestFor: Allround instructieontwerp
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Claude
   verdict: AI met 200K contextvenster — perfect voor complete lesboeken en syllabi
     verwerken.
   priceRange: EUR 0-22/mnd
   bestFor: Lange documenten
   rating: 4.4
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://claude.com/
 - name: Gamma
   verdict: AI-presentatie- en documentgenerator die in seconden interactieve lesmodules
     bouwt.

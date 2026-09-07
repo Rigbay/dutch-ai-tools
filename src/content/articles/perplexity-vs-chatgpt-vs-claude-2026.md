@@ -65,7 +65,7 @@ tools:
   priceRange: EUR 0-16/mnd
   bestFor: Werkplekautomatisering en documentcreatie binnen Notion
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.notion.com/product/ai
 - name: Canva Magic Studio
   verdict: De creatieve partner voor visuele professionals die met AI hun ontwerpproces
     willen versnellen en verrijken.

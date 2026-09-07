@@ -41,7 +41,7 @@ tools:
   priceRange: EUR 0-15/mnd
   bestFor: Schrijven & redigeren
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://www.grammarly.com/
 - name: Perplexity
   verdict: Beste research-assistent met bronvermelding voor snelle factchecks
   priceRange: EUR 0-25/mnd
@@ -53,7 +53,7 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Content ideation & drafting
   rating: 4.6
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Descript
   verdict: Beste voor het bewerken van audio/video via tekst — ideaal voor podcasts
     en videoreportages

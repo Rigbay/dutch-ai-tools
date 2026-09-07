@@ -33,13 +33,13 @@ tools:
   priceRange: EUR 0-25/mnd
   bestFor: Juridische drafting
   rating: 4.3
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://chatgpt.com/
 - name: Claude
   verdict: Uitstekend voor lange contracten en genuanceerde juridische redenering
   priceRange: EUR 0-25/mnd
   bestFor: Contractanalyse
   rating: 4.5
-  affiliateLink: https://www.beehiiv.com/
+  affiliateLink: https://claude.com/
 - name: Henchman
   verdict: AI contractanalyse die automatisch clausules vindt in je database
   priceRange: EUR 100-300/mnd
