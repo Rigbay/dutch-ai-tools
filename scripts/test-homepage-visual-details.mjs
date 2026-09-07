@@ -22,15 +22,20 @@ const checks = [
       && homepage.includes('<TaskRouteIcon name={route.icon} />'),
   },
   {
-    name: 'route labels and destinations remain unchanged',
+    name: 'task routes retain writing/research and send automation directly to its comparison',
     pass: [
       "title: 'Schrijven & analyseren'",
       "href: '/beste-ai-chatbots-2026/'",
       "title: 'Research met bronnen'",
       "href: '/categorie/productiviteit/'",
-      "title: 'Bouwen & automatiseren'",
-      "href: '/categorie/development/'",
+      "title: 'Werk automatiseren'",
+      "href: '/beste-ai-automation-tools-2026/'",
     ].every((expected) => homepage.includes(expected)),
+  },
+  {
+    name: 'development remains available in the category grid',
+    pass: /const coreCategories = \[[^\]]*'development'/.test(homepage)
+      && homepage.includes('href: `/categorie/${category}/`'),
   },
   {
     name: 'decorative task icons are hidden from assistive technology',
