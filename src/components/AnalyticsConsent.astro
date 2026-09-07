@@ -1,0 +1,19 @@
+---
+import { analyticsReady } from '../lib/analyticsPolicy';
+---
+<section class="consent-panel" data-consent-panel aria-labelledby="consent-heading" hidden>
+  <div class="consent-copy">
+    <h2 id="consent-heading" tabindex="-1">{analyticsReady ? 'Jij kiest over statistieken' : 'Statistieken staan uit'}</h2>
+    {analyticsReady ? <><p>Met je toestemming gebruiken we Google Analytics om bezoeken en klikken op partnerlinks te meten. Google ontvangt dan bezoek- en apparaatgegevens en plaatst analytische cookies. Zonder toestemming laden we Google Analytics niet. De site en partnerlinks blijven werken.</p><p>Je kunt je keuze altijd wijzigen of toestemming intrekken via <strong>Cookie-instellingen</strong> onderaan elke pagina. <a href="/privacy/">Lees de privacy- en cookie-informatie</a>.</p></> : <p>We laden Google Analytics niet en meten daarmee geen bezoeken of klikken op partnerlinks. Je hoeft daarvoor nu niets te accepteren. <a href="/privacy/">Lees de privacy- en cookie-informatie</a>.</p>}
+    <p data-consent-status role="status"></p>
+  </div>
+  <div class="consent-actions">
+    <button type="button" class="button-secondary" data-consent-reject hidden={!analyticsReady}>Statistieken weigeren</button>
+    <button type="button" class="button-secondary" data-consent-accept hidden={!analyticsReady}>Statistieken toestaan</button>
+    <button type="button" class="consent-close" data-consent-close>Sluiten</button>
+  </div>
+</section>
+<script>
+  import { initializeAnalyticsConsent } from '../lib/analyticsConsent';
+  initializeAnalyticsConsent();
+</script>

@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import AnalyticsConsent from '../components/AnalyticsConsent.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -70,52 +71,6 @@ const webSiteSchema = {
     <link rel="icon" href={faviconPath} type="image/svg+xml" />
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
-    <script is:inline>
-      (function () {
-        var qaStorageKey = 'orbit_analytics_qa';
-        var qaParameter = new URLSearchParams(window.location.search).get('orbit_qa');
-
-        if (qaParameter === '1') {
-          window.sessionStorage.setItem(qaStorageKey, '1');
-        } else if (qaParameter === '0') {
-          window.sessionStorage.removeItem(qaStorageKey);
-        }
-
-        var isLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(window.location.hostname);
-        var analyticsSuppressed = isLocal || window.sessionStorage.getItem(qaStorageKey) === '1';
-        window.__orbitAnalyticsSuppressed = analyticsSuppressed;
-
-        if (analyticsSuppressed) return;
-
-        window.dataLayer = window.dataLayer || [];
-        window.gtag = function () { window.dataLayer.push(arguments); };
-        window.gtag('js', new Date());
-        window.gtag('config', 'G-P1DQLR76C6');
-
-        var googleTag = document.createElement('script');
-        googleTag.async = true;
-        googleTag.src = 'https://www.googletagmanager.com/gtag/js?id=G-P1DQLR76C6';
-        document.head.appendChild(googleTag);
-
-        document.addEventListener('click', function (event) {
-          var target = event.target;
-          if (!(target instanceof Element)) return;
-
-          var link = target.closest('a[data-affiliate-merchant]');
-          if (!(link instanceof HTMLAnchorElement) || typeof window.gtag !== 'function') return;
-
-          var destination = new URL(link.href, window.location.href);
-          window.gtag('event', 'affiliate_outbound_click', {
-            affiliate_merchant: link.dataset.affiliateMerchant || 'unknown',
-            affiliate_site: link.dataset.affiliateSite || 'dutch-ai-tools',
-            link_domain: destination.hostname,
-            link_url: destination.href,
-            page_location: window.location.href,
-            transport_type: 'beacon'
-          });
-        });
-      })();
-    </script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">Naar de inhoud</a>
@@ -124,6 +79,7 @@ const webSiteSchema = {
       <slot />
     </main>
     <Footer />
+    <AnalyticsConsent />
     <script>
       const phone = window.matchMedia('(max-width: 767px)');
       const contents = document.querySelectorAll<HTMLDetailsElement>('[data-collapse-phone]');
