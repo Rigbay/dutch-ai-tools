@@ -82,9 +82,9 @@ faq:
 
 
 ## Gerelateerde artikelen
-- [Beste AI Tools voor Administratie 2026: top 7 boekhoud-AI vergeleken](/beste-ai-tools-administratie-2026)
-- [Beste AI Tools voor Social Media 2026: top 7 vergeleken](/beste-ai-tools-social-media-2026)
-- [Nederlandse AI-Adoptie in Cijfers 2026: Van 45% naar 72% in 2 Jaar](/nederlandse-ai-adoptie-cijfers-2026)
+- [Beste AI Tools voor Administratie 2026: top 7 boekhoud-AI vergeleken](/beste-ai-tools-administratie-2026/)
+- [Beste AI Tools voor Social Media 2026: top 7 vergeleken](/beste-ai-tools-social-media-2026/)
+- [Nederlandse AI-Adoptie in Cijfers 2026: Van 45% naar 72% in 2 Jaar](/nederlandse-ai-adoptie-cijfers-2026/)
 
 ## Notion AI in 2026: De Slimme Assistent die Je Digitale Leven Revolutioneert
 
