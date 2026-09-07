@@ -39,7 +39,7 @@ const { tools } = Astro.props;
             <td class="max-w-[11rem] px-4 py-4 font-semibold text-muted">{tool.bestFor}</td>
             <td class="max-w-[9rem] px-4 py-4 text-muted">{tool.priceRange}</td>
             <td class="max-w-[17rem] px-4 py-4"><span class="text-sm text-muted">{tool.rating.toFixed(1)}/5</span><span class="mt-1 block text-muted">{tool.verdict}</span></td>
-            <td class="px-4 py-4">{affiliateMerchantId ? <AffiliateLink merchantId={affiliateMerchantId} siteId="dutch-ai-tools" class="button-secondary">Partnerlink</AffiliateLink> : directProviderUrl ? <a class="button-secondary" href={directProviderUrl} rel="nofollow">Naar aanbieder</a> : null}</td>
+            <td class="px-4 py-4">{affiliateMerchantId ? <AffiliateLink merchantId={affiliateMerchantId} siteId="dutch-ai-tools" class="button-secondary">Naar aanbieder · partnerlink</AffiliateLink> : directProviderUrl ? <a class="button-secondary" href={directProviderUrl} rel="nofollow">Naar aanbieder</a> : null}</td>
           </tr>
         );
       })}
