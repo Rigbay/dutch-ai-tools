@@ -1,180 +1,120 @@
 ---
-
-title: 'Beehiiv vs Substack vs ConvertKit 2026: Beste Nieuwsbrief Tool voor Nederlandse Ondernemers'
-slug: beehiiv-vs-substack-vs-convertkit-nederlands-2026
-description: 'Vergelijk Beehiiv, Substack en ConvertKit voor jouw Nederlandse nieuwsbrief. Ontdek welke e-mail marketing tool het beste past bij jouw groeistrategie in 2026.'
-category: marketing
-rating: 4.6
-priceRange: EUR 0-99/mnd
-pros:
-- Eerlijke vergelijking van de beste nieuwsbrief tools voor dit segment
-- Duidelijke prijsranges, verdict en score per tool
-- Nederlandstalig en praktijkgericht advies met FAQ
-cons:
-- Prijzen kunnen wijzigen, check altijd de actuele aanbieder
-- Niet elke tool is dagelijks getest met intensief gebruik
-- Sommige AI features zijn nog in beta of development
-affiliateLinks:
-- https://www.beehiiv.com/
-- https://substack.com/signup
-- https://convertkit.com/?ref=dutch-ai-tools
-date: '2026-06-01'
-modelYear: 2026
-featuredTool: Beehiiv
-readingTime: 10 min
-tools:
-- name: Beehiiv
-  verdict: Beste allround nieuwsbriefplatform met ingebouwde groeitools en AI-schrijfassistent
-  priceRange: EUR 0-99/mnd
-  bestFor: Groeigerichte ondernemers & content creators
-  rating: 4.7
-  affiliateLink: https://www.beehiiv.com/
-- name: Substack
-  verdict: Beste optie voor betaalde nieuwsbrieven met ingebouwd betalingssysteem
-  priceRange: EUR 0 (10% korting op betalende subs)
-  bestFor: Schrijvers & journalisten met een betalend publiek
-  rating: 4.5
-  affiliateLink: https://substack.com/signup
-- name: ConvertKit
-  verdict: Krachtigste e-mail automation voor creatieve ondernemers en cursusmakers
-  priceRange: EUR 0-99/mnd
-  bestFor: Cursusmakers & digitale productverkopers
-  rating: 4.4
-  affiliateLink: https://convertkit.com/?ref=dutch-ai-tools
-related:
-  - beste-ai-marketing-tools-2026
-  - beste-ai-email-marketing-2026
-  - beste-ai-copywriting-tools-2026
-draft: false
-faq:
-- q: "Welke nieuwsbrief tool is het beste voor beginners in Nederland?"
-  a: 'Beehiiv is de beste keuze voor beginners vanwege de gebruiksvriendelijke interface, ingebouwde groeitools zoals boosts en recommendations, en de AI-schrijfassistent. Bovendien kun je gratis starten en groeien zonder direct te betalen.'
-- q: "Kan ik met deze tools een Nederlands publiek bereiken?"
-  a: 'Ja, alle drie de tools ondersteunen Nederlandse content volledig. Beehiiv heeft goede Nederlandse deliverability met dedicated EU-servers. Substack werkt goed voor Nederlandse schrijvers die hun eigen publiek meebrengen. ConvertKit heeft uitstekende tagging voor Nederlandse segmentatie.'
-- q: "Welke tool heeft het beste verdienmodel in 2026?"
-  a: 'Substack is het sterkst voor betaalde abonnementen met een ingebouwd betalingssysteem. Beehiiv biedt de meeste inkomstenstromen: betaalde abonnementen, memberships, boosts, affiliate partnerships en ad-netwerken - ideaal voor Nederlandse ondernemers die willen diversifiëren.'
+"title": "beehiiv vs Substack vs Kit: nieuwsbrief, kosten en automatisering kiezen"
+"slug": "beehiiv-vs-substack-vs-convertkit-nederlands-2026"
+"description": "Vergelijk beehiiv, Substack en Kit (voorheen ConvertKit) op publicatie, abonnementskosten en e-mailreeksen. Met actuele bronnen en aandacht voor gegevensverwerking."
+"category": "marketing"
+"priceRange": "Gratis start; betaalde plannen of transactievergoeding verschillen"
+"pros":
+- "Onderscheid tussen platformvergoeding en betaalverwerking"
+- "Gratis grenzen en benodigde functies apart vergeleken"
+"cons":
+- "Geen vergelijkende bezorgbaarheidstest uitgevoerd"
+- "Plannen en accountmogelijkheden kunnen veranderen"
+"affiliateLinks":
+- "https://www.beehiiv.com/"
+- "https://substack.com/signup"
+- "https://convertkit.com/?ref=dutch-ai-tools"
+"date": "2026-06-01"
+"updatedDate": 2026-09-07
+"modelYear": 2026
+"featuredTool": "Beehiiv"
+"readingTime": "10 min"
+"tools":
+- "name": "beehiiv"
+  "verdict": "Nieuwsbriefpublicatie met groeitools en betaalde uitbreidingen"
+  "priceRange": "Launch: $0 tot 2.500 abonnees; overige plannen verschillen"
+  "bestFor": "Ondernemers en makers met een nieuwsbrief"
+  "affiliateLink": "https://www.beehiiv.com/"
+- "name": "Substack"
+  "verdict": "Publiceren met optionele betaalde abonnementen"
+  "priceRange": "Gratis publiceren; 10% platformvergoeding bij betaalde transacties, plus betaalverwerking"
+  "bestFor": "Schrijvers & journalisten met een betalend publiek"
+  "affiliateLink": "https://substack.com/signup"
+- "name": "Kit (voorheen ConvertKit)"
+  "verdict": "Segmentatie en e-mailreeksen voor makers"
+  "priceRange": "Free tot 10.000 abonnees; reeksen en automatisering vereisen passend plan"
+  "bestFor": "Cursusmakers & digitale productverkopers"
+  "affiliateLink": "https://convertkit.com/?ref=dutch-ai-tools"
+"related":
+- "beste-ai-marketing-tools-2026"
+- "beste-ai-tools-email-marketing-2026"
+- "beste-ai-copywriting-tools-2026"
+"draft": false
+"faq":
+- "q": "Heet ConvertKit nu Kit?"
+  "a": "Ja. Deze vergelijking gebruikt de huidige naam Kit. Het bestaande artikeladres blijft behouden zodat eerdere links blijven werken."
+- "q": "Is Substacks 10% een korting?"
+  "a": "Nee. Bij betaalde abonnementen is het een platformvergoeding per transactie. Toepasselijke betaalverwerkingskosten komen daar nog bij."
+- "q": "Is beehiiv gegarandeerd uitsluitend in de EU gehost?"
+  "a": "Die garantie is hier niet vastgesteld. De privacyverklaring en verwerkersbijlage behandelen internationale verwerking. Controleer de voorwaarden en datastromen van je eigen gebruik."
 ---
 
-# Beehiiv vs Substack vs ConvertKit 2026: Beste Nieuwsbrief Tool voor Nederlandse Ondernemers
+# beehiiv, Substack of Kit: kies op publicatie, betaling en opvolging
 
-E-mailmarketing is in 2026 nog altijd het kanaal met de hoogste ROI voor Nederlandse ondernemers. Maar het landschap is de afgelopen jaren flink veranderd. Waar je vroeger mocht kiezen tussen Mailchimp en een basic nieuwsbriefplugin, heb je nu te maken met AI-gedreven platforms die je automatisch content laten schrijven, abonnees laten groeien en inkomsten genereren zonder dat je er elke dag handmatig mee bezig bent.
+Een nieuwsbriefplatform moet passen bij wat je met lezers wilt doen. Wil je vooral publiceren, een betaald abonnement aanbieden, of verschillende e-mailreeksen rond producten beheren? Die keuze is belangrijker dan de belofte dat een AI-functie vanzelf publiek of inkomen oplevert.
 
-In dit artikel vergelijken we drie van de populairste nieuwsbrieftools voor de Nederlandse markt: **Beehiiv**, **Substack** en **ConvertKit**. Elk platform heeft een eigen filosofie en doelgroep. Wij helpen je kiezen welke het beste past bij jouw groeistrategie.
+**ConvertKit heet tegenwoordig Kit.** De bestaande naam blijft in het webadres van dit artikel staan, zodat eerdere verwijzingen blijven werken. Productinformatie en tarieven zijn gecontroleerd op 7 september 2026. We hebben geen vergelijkende bezorgbaarheidstest met Nederlandse ontvangers uitgevoerd.
 
-## Wat is een nieuwsbriefplatform precies?
+## 1. beehiiv: nieuwsbriefpublicatie en groeitools
 
-Een nieuwsbriefplatform is meer dan alleen een e-mailtool. Het is een compleet systeem waarmee je abonnees beheert, e-mails ontwerpt en verstuurt, groei meet en — in 2026 — AI inzet om content te genereren en te optimaliseren. De moderne platformen zijn uitgegroeid tot complete publicatie- en monetisatiehubs.
+beehiiv combineert publicatie met onder meer een aanbevelingsnetwerk en betaalde uitbreidingen voor groei en inkomsten. Het gratis Launch-plan staat op **$0 per maand tot 2.500 abonnees**. Welke automatisering, AI- en monetisatiefuncties beschikbaar zijn, hangt van het plan af. Controleer het tarief voor jouw lijstgrootte en de gekozen betaalperiode. [beehiiv: plannen](https://www.beehiiv.com/pricing).
 
-Voor Nederlandse ondernemers is de keuze extra belangrijk omdat deliverability, AVG-compliance en integratie met lokale tools (Mollie, Exact, Calendly) meewegen.
+**Interessant als:** de nieuwsbrief zelf je publicatieproduct is en je functies zoals aanbevelingen binnen hetzelfde systeem wilt gebruiken.
 
-## 1. Beehiiv: de allround groeimachine
+**Eerst controleren:** welke mogelijkheden daadwerkelijk in het gekozen plan zitten, hoe je bestaande lezers importeert en hoe afmelding en export werken. Een groeitool is geen toezegging dat andere uitgevers jouw nieuwsbrief gaan aanbevelen of dat advertenties inkomsten opleveren.
 
-### Beschrijving
+### Geen aankoopadvies op basis van een EU-serverbelofte
 
-Beehiiv is in 2026 uitgegroeid tot het populairste nieuwsbriefplatform voor groeigerichte ondernemers. Het combineert een krachtige editor, ingebouwde AI-schrijfassistent, abonneegroeitools (boosts, recommendations, referrals) en meerdere monetisatiestromen in één platform.
+De eerdere tekst stelde dat beehiiv dedicated EU-servers heeft die Nederlandse bezorging verbeteren. Die garantie is hier niet onderbouwd. De privacyverklaring bespreekt internationale verwerking, en de verwerkersbijlage bevat bepalingen over doorgifte van bepaalde abonneegegevens naar de Verenigde Staten. Dat rechtvaardigt geen algemeen etiket “uitsluitend EU”. Controleer de verwerking die bij jouw functies en contract hoort. [Privacyverklaring](https://www.beehiiv.com/privacy), [verwerkersbijlage](https://www.beehiiv.com/dpa).
 
-Waar Beehiiv zich onderscheidt is de **AI-assistent** die niet alleen helpt met schrijven, maar ook suggesties doet voor onderwerpregels, verzendtijdstippen en contentoptimalisatie op basis van jouw abonneedata. Daarnaast heeft het een ingebouwd boost-netwerk waarmee andere nieuwsbriefschrijvers jouw content kunnen aanbevelen aan hun abonnees.
+Serverlocatie en bezorging in de inbox zijn bovendien verschillende vragen. Vraag om een test met je eigen verzenddomein en ontvangers; neem een goede Nederlandse afleverprestatie niet aan op basis van een regiolabel.
 
-*Prijsrange:* Gratis tot ca. EUR 99/maand voor het schaalplan.
-*Beste use case:* Ondernemers die hun nieuwsbrief willen laten groeien en er direct inkomsten mee willen genereren.
+## 2. Substack: publiceren met betaalde abonnementen
 
-### Plus- en minpunten
-- **Pluspunt:** Breedste functieset van de drie — groei, AI, monetisatie in één.
-- **Pluspunt:** Uitstekende EU-servers voor Nederlandse deliverability.
-- **Minpunt:** De vele opties kunnen overweldigend zijn voor complete beginners.
-- **Minpunt:** Gratis plan heeft beperkte functies vergeleken met de betaalde opties.
+Publiceren op Substack is gratis. Zet je betaalde abonnementen aan, dan rekent Substack volgens zijn eigen uitleg **10% per transactie**, naast toepasselijke Stripe-kosten. Het is dus een **platformvergoeding, geen korting**. De betaalverwerkingskosten hangen onder meer van methode en accountland af; Amerikaanse voorbeelden zijn geen Nederlandse offerte. [Substack: kosten](https://support.substack.com/hc/en-us/articles/360037607131-How-much-does-Substack-cost).
 
-**Verdict:**
-Beehiiv is de beste keuze voor ondernemers die serieus werk willen maken van hun nieuwsbrief en bereid zijn te investeren in groei.
+**Interessant als:** je vooral wilt schrijven en publiceren, met de mogelijkheid om een deel van je inhoud achter een betaald abonnement te zetten.
 
-## 2. Substack: de schrijverscommunity
+**Eerst controleren:** welke betaalmethoden jouw lezers kunnen gebruiken, hoe opzegging en terugbetaling werken en welke gegevens je kunt exporteren. Een ingebouwd lezersnetwerk maakt acquisitie mogelijk, maar garandeert geen abonnees.
 
-### Beschrijving
+Een eenvoudig **rekenvoorbeeld, geen inkomstenverwachting**: bij €1.000 aan transacties waarop de platformvergoeding van 10% wordt toegepast, is die vergoeding €100. Betaalverwerking en eventuele andere kosten komen daar nog bij. Vergelijk die werkelijke kosten later met een alternatief; een vaste maandprijs is niet bij elk omzetniveau voordeliger.
 
-Substack is het bekendste platform voor *betaalde* nieuwsbrieven. Het begon als een eenvoudige tool voor schrijvers om hun publiek te monetiseren en is uitgegroeid tot een volwaardig publicatieplatform met een groot ingebouwd netwerk van lezers.
+## 3. Kit: segmentatie en e-mailreeksen
 
-Substack's kracht zit in de eenvoud: je schrijft, publiceert en kunt direct betalende abonnees aannemen. Het platform regelt betalingen (via Stripe), hosting en bezorging. Geen ingewikkelde automations, geen landingpagina's bouwen — gewoon schrijven.
+Kit richt zich op makers die hun publiek en productcommunicatie willen organiseren. Het huidige Free-plan biedt volgens de helptekst ruimte tot **10.000 abonnees**, met onder meer formulieren, uitzendingen, tagging en segmentatie. Diezelfde documentatie plaatst onder andere visuele automatiseringen en e-mailreeksen bij betaalde plannen. Kit heeft ook een Creator Network; “geen ingebouwd netwerk” is daarom geen juiste vergelijking. [Kit: Free-plan en beperkingen](https://help.kit.com/en/articles/16627071-the-kit-free-plan), [Kit: huidige naam en plannen](https://kit.com/pricing).
 
-*Prijsrange:* Gratis. Substack neemt 10% van inkomsten uit betalende abonnementen.
-*Beste use case:* Schrijvers, journalisten en columnisten die hun eigen publiek willen monetiseren.
+**Interessant als:** verschillende groepen lezers verschillende berichten nodig hebben, bijvoorbeeld geïnteresseerden, klanten en cursisten.
 
-### Plus- en minpunten
-- **Pluspunt:** Laagste drempel om te starten — binnen 5 minuten live.
-- **Pluspunt:** Ingebouwd lezersnetwerk via Substack's ontdekkingsfuncties.
-- **Minpunt:** Beperkte ontwerpmogelijkheden — weinig branding/customization.
-- **Minpunt:** Geen eigen AI-schrijfassistent of geavanceerde automations.
+**Eerst controleren:** of de gewenste reeks in het account en plan beschikbaar is. Een gratis proefperiode kan mogelijkheden laten zien die na afloop een betaald abonnement vereisen. Test ook wat gebeurt wanneer iemand van segment verandert of zich uitschrijft.
 
-**Verdict:**
-Substack is ideaal voor schrijvers die willen focussen op inhoud, niet op technologie.
+## De vergelijking die je aankoop echt verandert
 
-## 3. ConvertKit: de creatieve ondernemer
+| Onderdeel | beehiiv | Substack | Kit |
+|---|---|---|---|
+| Eerste beoordeling | Nieuwsbrief en publicatie | Publicatie met abonnement | Segmenten en productcommunicatie |
+| Gratis start | Launch tot 2.500 abonnees | Gratis publiceren | Free tot 10.000 abonnees |
+| Kostenvalkuil | Functies en lijstgrootte bepalen het betaalde plan | 10% platformvergoeding plus betaalverwerking bij betaalde abonnementen | Reeksen en automatisering kunnen een betaald plan vragen |
+| Acquisitie | Aanbevelingen en andere groeitools | Eigen publiek en platformnetwerk | Onder meer Creator Network |
+| Vooraf zelf testen | Import, editie, afmelding, export | Betaling, opzegging, export | Segmentwisseling, reeks, afmelding |
 
-### Beschrijving
+De gratis grenzen en functies zijn een momentopname. Vergelijk bij de aanbieder hetzelfde aantal abonnees, dezelfde betaalperiode en dezelfde noodzakelijke functies. Tel migratie en herstelwerk mee. Een platform kan technisch meer bieden en toch minder geschikt zijn voor een eenvoudige wekelijkse editie.
 
-ConvertKit (voorheen bekend als een tool voor auteurs en creatieven) is in 2026 uitgegroeid tot een krachtig e-mailautomationplatform met diepe integraties voor cursusmakers en digitale productverkopers.
+## Onze keuzehulp
 
-Het platform draait om **tags en segments**. In plaats van mappen of lijsten werk je met tags die automatisch worden toegevoegd op basis van gedrag. Dit maakt het eenvoudig om zeer gerichte e-mailreeksen te bouwen voor verschillende soorten abonnees. ConvertKit heeft ook een AI-visual generator en AI-tekstassistent, hoewel minder uitgebreid dan Beehiiv.
+**Alleen een goede nieuwsbrief versturen?** Begin met een gratis proef van één passend platform en een echte voorbeeldeditie. Beoordeel de editor, leesbaarheid en het beheer. Je hoeft daarvoor geen complete monetisatiestrategie te verzinnen.
 
-*Prijsrange:* Gratis (tot 1.000 abonnees) tot ca. EUR 99/maand.
-*Beste use case:* Cursusmakers, auteurs en creatieve ondernemers die e-mailautomation nodig hebben.
+**Een betaald publicatieproduct?** Vergelijk Substacks omzetafhankelijke vergoeding met de actuele kosten en mogelijkheden van beehiiv en Kit. Baseer dat op transacties die je werkelijk verwacht te verwerken, met een apart scenario voor nul betalende lezers.
 
-### Plus- en minpunten
-- **Pluspunt:** Meest krachtige tagging- en segmentatiesysteem van de drie.
-- **Pluspunt:** Uitstekende visual builder voor e-mailreeksen.
-- **Minpunt:** Minder geschikt voor eenvoudige nieuwsbrieven zonder automations.
-- **Minpunt:** Geen ingebouwd groeinetwerk (anders dan Beehiiv's boosts).
+**Cursussen of meerdere klantgroepen?** Kijk eerst naar Kit en de benodigde reeksen, of naar de mogelijkheden van je bestaande systeem. Verhuizen is alleen zinvol als de nieuwe werkwijze aantoonbaar iets oplost.
 
-**Verdict:**
-ConvertKit is de beste keuze voor makers die geautomatiseerde e-mailreeksen willen bouwen rond hun digitale producten.
-
-## 📊 Vergelijkingstabel: Beehiiv vs Substack vs ConvertKit
-
-| Kenmerk | Beehiiv | Substack | ConvertKit |
-| :--- | :--- | :--- | :--- |
-| **Kernsterkte** | Allround groei- & monetisatieplatform | Eenvoudig publiceren met betaling | Automations voor creatieve ondernemers |
-| **AI-functionaliteit** | Uitgebreid (schrijven, optimalisatie) | Beperkt (geen AI assistent) | Basis (AI-visuals + tekstassistent) |
-| **Betaalde abonnementen** | Ja (ingebouwd) | Ja (ingebouwd, 10% fee) | Ja (via Stripe integratie) |
-| **Ingebouwd netwerk** | Boost & recommendations | Discovery feed | Beperkt |
-| **EU-servers** | Ja | Nee (VS) | Nee (VS) |
-| **Gratis tier** | Ja (beperkt) | Ja (volledig, 10% fee) | Ja (tot 1.000 subs) |
-| **Landing pages** | Ja | Ja (basic) | Ja (uitgebreid) |
-| **Integraties** | 100+ | Beperkt | 90+ |
-| **Beste voor** | Groeigerichte ondernemers | Schrijvers & journalisten | Cursusmakers & creatieven |
-
-## 🧭 Conclusie: welke nieuwsbrief tool past bij jou?
-
-Kies op basis van je strategie en ervaringsniveau:
-
-* **Kies Beehiiv** als je een alles-in-één platform wilt met AI, groeitools en meerdere inkomstenstromen. Het is de investering waard voor ondernemers die serieus werk maken van hun nieuwsbrief.
-* **Kies Substack** als je een schrijver of journalist bent die wil focussen op inhoud zonder technische afleiding. Het ingebouwde betalingssysteem maakt het eenvoudig om direct inkomsten te genereren.
-* **Kies ConvertKit** als je cursussen of digitale producten verkoopt en geavanceerde e-mailautomation nodig hebt voor verschillende klantsegmenten.
-
-**Onze aanbeveling:** Voor de meeste Nederlandse ondernemers is Beehiiv de beste keuze vanwege de combinatie van AI-functionaliteit, groeitools en Europese serverlocatie.
-
-## Veelgestelde Vragen
-
-**V: Welke nieuwsbrief tool is het beste voor beginners in Nederland?**  
-A: Beehiiv is de beste keuze voor beginners vanwege de gebruiksvriendelijke interface, ingebouwde groeitools zoals boosts en recommendations, en de AI-schrijfassistent. Bovendien kun je gratis starten en groeien zonder direct te betalen.
-
-**V: Kan ik met deze tools een Nederlands publiek bereiken?**  
-A: Ja, alle drie de tools ondersteunen Nederlandse content volledig. Beehiiv heeft goede Nederlandse deliverability met dedicated EU-servers. Substack werkt goed voor Nederlandse schrijvers die hun eigen publiek meebrengen. ConvertKit heeft uitstekende tagging voor Nederlandse segmentatie.
-
-**V: Welke tool heeft het beste verdienmodel in 2026?**  
-A: Substack is het sterkst voor betaalde abonnementen met een ingebouwd betalingssysteem. Beehiiv biedt de meeste inkomstenstromen: betaalde abonnementen, memberships, boosts, affiliate partnerships en ad-netwerken — ideaal voor Nederlandse ondernemers die willen diversifiëren.
-
----
-
-### Gerelateerde artikelen
-
-* [Beste AI Marketing Tools 2026: top 7 vergeleken](/beste-ai-marketing-tools-2026/)
-* [Beste AI E-mail Marketing Tools 2026](/beste-ai-email-marketing-2026/)
-* [Beste AI Copywriting Tools 2026](/beste-ai-copywriting-tools-2026/)
-* [Beste AI Tools voor Content Distributie & Marketing 2026](/beste-ai-content-distributie-marketing-2026/)
-
----
+Voor een Nederlands publiek zijn duidelijke inhoud, een herkenbare afzender en goed werkende aan- en afmelding noodzakelijk. De keuze voor een leverancier vervangt je eigen beoordeling van gegevensverwerking en toegestane e-mailcommunicatie niet.
 
 ## Lees ook
 
-- [AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren](/ai-tools-marketing-teams-2026/)
-- [ai-voor-seo-2026](/ai-voor-seo-2026/)
+- [Beste AI Marketing Tools 2026: top 7 vergeleken](/beste-ai-marketing-tools-2026/)
+- [Beste AI E-mail Marketing Tools 2026](/beste-ai-tools-email-marketing-2026/)
+- [Beste AI Copywriting Tools 2026](/beste-ai-copywriting-tools-2026/)
+- [Beste AI Tools voor Content Distributie & Marketing 2026](/beste-ai-content-distributie-marketing-2026/)
+- [Marketingtools voor teams: taken en keuzehulp](/ai-tools-marketing-teams-2026/)
+- [AI voor SEO: teksten en vindbaarheid](/ai-voor-seo-2026/)
 - [Beste AI Tools voor A/B Testing & Conversie Optimalisatie 2026: top 7 vergeleken](/beste-ai-ab-testing-conversie-optimalisatie-2026/)

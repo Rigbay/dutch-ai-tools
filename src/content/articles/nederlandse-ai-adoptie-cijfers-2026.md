@@ -1,169 +1,130 @@
 ---
-
-title: 'Nederlandse AI-Adoptie in Cijfers 2026: Van 45% naar 72% in 2 Jaar'
-slug: nederlandse-ai-adoptie-cijfers-2026
-description: De Nederlandse AI-adoptie stijgt razendsnel. Van 45% naar 72% in 2 jaar,
-  3M+ dagelijkse AI-gebruikers. Alle Nederlandse AI-statistieken van 2026 op een rij.
-category: business
-rating: 4.4
-priceRange: EUR 0-100/mnd
-pros:
-- Gebaseerd op echte Nederlandse marktdata uit 2026 (SearchLab, Lleverage, Newcom)
-- Praktische vergelijking met prijsranges en verdict per tool
-- Nederlandstalig, actueel en relevant voor de EU AI Act
-cons:
-- AI-markt evolueert snel — prijzen en features kunnen wijzigen
-- Niet elke tool is dagelijks in de praktijk getest
-- Sommige genoemde tools richten zich primair op de Engelstalige markt
-affiliateLinks:
-- https://www.beehiiv.com/
-date: 2026-05-19
-modelYear: 2026
-featuredTool: ChatGPT
-readingTime: 9 min
-tools:
-- name: ChatGPT
-  verdict: Meest gebruikte AI tool in Nederland — 86M maandelijkse bezoeken
-  priceRange: EUR 0-25/mnd
-  bestFor: Algemene AI
-  rating: 4.7
-  affiliateLink: https://chat.openai.com/
-- name: Google Gemini
-  verdict: Google's AI-assistent met sterke integratie in Google Workspace
-  priceRange: EUR 0-25/mnd
-  bestFor: Google ecosysteem
-  rating: 4.4
-  affiliateLink: https://gemini.google.com/
-- name: Claude
-  verdict: Anthropic's AI — sterk in lange documenten en Nederlandse taal
-  priceRange: EUR 0-25/mnd
-  bestFor: Document analyse
-  rating: 4.5
-  affiliateLink: https://claude.ai/
-- name: Notion AI
-  verdict: Productiviteitsplatform met ingebouwde AI — populair bij kenniswerkers
-  priceRange: EUR 10-20/mnd
-  bestFor: Productiviteit
-  rating: 4.3
-  affiliateLink: https://www.beehiiv.com/
-- name: Canva AI
-  verdict: Design tool met AI — breed gebruikt door marketeers en kleine ondernemers
-  priceRange: EUR 0-15/mnd
-  bestFor: Design
-  rating: 4.4
-  affiliateLink: https://www.canva.com/
-related:
-  - beste-ai-tools-apotheek-farmacie-2026
-  - beste-ai-tools-personal-finance-budgetteren-2026
-  - beste-ai-tools-klantfeedback-cx-2026
-draft: false
-faq:
-- q: "Is dit artikel gebaseerd op echte data?"
-  a: 'Ja, alle genoemde cijfers komen uit Nederlands marktonderzoek van SearchLab (2026), Lleverage (2026), Newcom (mei 2026), Spicy Advisory/Beeckestijn (2026) en de AI-barometer (feb 2026).'
-- q: "Voor wie is dit artikel geschreven?"
-  a: 'Voor Nederlandse professionals, managers en ondernemers die willen weten welke AI tools relevant zijn in 2026. Zowel beginners als gevorderden vinden hier bruikbare inzichten.'
-- q: "Hoe actueel is deze informatie?"
-  a: 'Dit artikel is geschreven in mei 2026 en weerspiegelt de stand van de Nederlandse AI-markt op dat moment. De AI-wereld verandert snel — check bij twijfel de actuele prijzen en features bij de aanbieder zelf.'
+"title": "AI-gebruik in Nederland: cijfers, definities en keuzehulp voor 2026"
+"slug": "nederlandse-ai-adoptie-cijfers-2026"
+"description": "Lees Nederlandse AI-cijfers met de juiste doelgroep en meetperiode. Een broncontrole met CBS-data en praktische vragen voor een eigen bedrijfsproef."
+"category": "business"
+"priceRange": "Niet van toepassing op de statistieken; toolkosten verschillen"
+"pros":
+- "Bronnen met meetjaar en afgebakende doelgroep"
+- "Praktische hulp om cijfers en eigen resultaten te onderscheiden"
+"cons":
+- "Geen volledige landelijke meting over 2026 vastgesteld"
+- "Geen vergelijkende praktijktest van de genoemde tools"
+"affiliateLinks":
+- "https://www.beehiiv.com/"
+"date": 2026-05-19
+"updatedDate": 2026-09-07
+"modelYear": 2026
+"featuredTool": "ChatGPT"
+"readingTime": "9 min"
+"tools":
+- "name": "ChatGPT"
+  "verdict": "AI-assistent; geen Nederlandse marktaandeelmeting in deze vergelijking"
+  "priceRange": "Controleer het actuele plan"
+  "bestFor": "Algemene AI"
+  "affiliateLink": "https://chat.openai.com/"
+- "name": "Google Gemini"
+  "verdict": "AI-assistent binnen het Google-aanbod"
+  "priceRange": "Controleer het actuele plan"
+  "bestFor": "Werken binnen Google"
+  "affiliateLink": "https://gemini.google.com/"
+- "name": "Claude"
+  "verdict": "AI-assistent van Anthropic"
+  "priceRange": "Controleer het actuele plan"
+  "bestFor": "Documenten analyseren"
+  "affiliateLink": "https://claude.ai/"
+- "name": "Notion AI"
+  "verdict": "AI-functies binnen Notion"
+  "priceRange": "Controleer het actuele plan"
+  "bestFor": "Productiviteit"
+  "affiliateLink": "https://www.notion.com/product/ai"
+- "name": "Canva AI"
+  "verdict": "Ontwerpomgeving met AI-functies"
+  "priceRange": "Controleer het actuele plan"
+  "bestFor": "Visueel ontwerpen"
+  "affiliateLink": "https://www.canva.com/"
+"related":
+- "beste-ai-tools-apotheek-farmacie-2026"
+- "beste-ai-tools-personal-finance-budgetteren-2026"
+- "beste-ai-tools-klantfeedback-cx-2026"
+"draft": false
+"faq":
+- "q": "Over wie gaan de CBS-cijfers in dit artikel?"
+  "a": "De gebruikte reeks voor 2025 betreft onderzochte bedrijven met minstens twee werkzame personen. Personen, werknemers en websitebezoeken zijn andere meeteenheden."
+- "q": "Zijn dit allemaal cijfers over 2026?"
+  "a": "Nee. De broncontrole is van 7 september 2026; de vermelde metingen hebben expliciete eerdere meetjaren. Publicatiejaar en meetjaar zijn niet hetzelfde."
+- "q": "Bewijst een hoger AI-gebruik dat een tool rendabel is?"
+  "a": "Nee. Gebruik toont geen netto voordeel voor jouw taak aan. Meet ook controle, herstel, kosten en het daadwerkelijk geaccepteerde resultaat."
 ---
 
+# AI-gebruik in Nederland: wat de cijfers wel en niet zeggen
 
----
+Een percentage over AI-gebruik is pas bruikbaar als je weet wie er zijn geteld. Bedrijven, werknemers, marketeers en websitebezoeken zijn verschillende meeteenheden. Je kunt ze niet samenvoegen tot één Nederlandse adoptiegraad.
 
-# De AI-Revolutie in Nederland: Een Diepgaande Analyse van Adoptie in 2026
+Dit overzicht is gecontroleerd op 7 september 2026. De cijfers hieronder gaan over **2025 en 2024**, niet over een al afgerond onderzoeksjaar 2026. Ze zijn bedoeld om een zakelijke afweging beter te onderbouwen, niet om een aankoop noodzakelijk te laten lijken.
 
-Kunstmatige Intelligentie (AI) is niet langer een futuristisch concept; het is een tastbare realiteit die Nederland in 2026 in een ongekend tempo transformeert. Van de marketingafdeling tot de consument thuis, van overheidsinitiatieven tot de Europese regelgeving, AI is overal. Dit artikel duikt diep in de actuele stand van zaken, ondersteund door concrete cijfers, en werpt licht op de implicaties van deze snelle adoptie. We ontleden de data om een helder beeld te schetsen van waar Nederland staat in de wereldwijde AI-race.
+## Een controleerbare bedrijfsmeting
 
-## Kerncijfers AI-Adoptie Nederland (2026)
+Het CBS meldde op 12 december 2025 dat **17% van de onderzochte bedrijven met twee of meer werkzame personen** AI gebruikte. In dezelfde reeks was dat 8% in 2023. De cijfers voor 2025 waren voorlopig. Binnen de groep die AI gebruikte, zette **35%** het in voor marketing of verkoop. Dat laatste percentage heeft dus een andere noemer: AI-gebruikende bedrijven. [CBS: gebruik van AI door bedrijven](https://www.cbs.nl/nl-nl/nieuws/2025/50/bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop).
 
-| Cijfer | Betekenis | Bron | Datum |
-|---|---|---|---|
-| **72%** | Nederlandse marketeers gebruikt AI tools | SearchLab NL | 2026 |
-| **45%** | Nederlandse marketeers gebruikte AI tools (2024) | SearchLab NL | 2024 |
-| **95%** | Nederlandse organisaties draait AI-programma's | Lleverage | 2026 |
-| **Hoogste** | Adoptie in Europa | Lleverage | 2026 |
-| **3M+** | Nederlandse volwassenen gebruiken AI dagelijks | Newcom | Mei 2026 |
-| **+500K** | Dagelijkse AI-gebruikers erbij in 6 maanden | Newcom | Mei 2026 |
-| **49%** | Beroepsbevolking heeft NOOIT AI gebruikt | AI-barometer | Feb 2026 |
-| **50%** | Marketing teams heeft geen AI-beleid | Spicy Advisory/Beeckestijn | 2026 |
-| **40%** | Verbergt AI-gebruik voor managers | Onbekend (geïnterpreteerd uit data) | 2026 |
-| **€276M** | Overheidsinvestering in AI | Lleverage | 2026 |
-| **28.56%** | Jaarlijkse groei Nederlandse AI-markt | First AI Movers | 2026 |
-| **Aug 2026** | EU AI Act wordt afdwingbaar | Europese Commissie | Augustus 2026 |
-| **86M** | ChatGPT NL-bezoeken per maand | Semrush | Feb 2026 |
-| **1,200+** | Nederlandse AI-startups | Onbekend (algemene schatting) | 2026 |
-| **42%** | Nederlandse bedrijfsadoptie | Onbekend (geïnterpreteerd uit data) | 2026 |
-| **33%** | EU-gemiddelde bedrijfsadoptie | Onbekend (geïnterpreteerd uit data) | 2026 |
+| Meting | Uitkomst | Wat je erbij moet vermelden |
+|---|---|---|
+| AI-gebruik, bedrijven met minimaal twee werkzame personen | 17% in 2025 | Voorlopig cijfer; de onderzochte bedrijfspopulatie |
+| Dezelfde reeks, eerder meetjaar | 8% in 2023 | Vergelijking binnen dezelfde publicatie |
+| Marketing/verkoop als toepassing | 35% in 2025 | Alleen bedrijven die al AI gebruiken |
 
----
+Een oudere CBS-publicatie noemt **22,7% in 2024** voor bedrijven met **tien of meer werkzame personen**. Dat is geen bewijs van een daling naar 17%: de ondergrens en onderzochte populatie verschillen. Gebruik voor een trend bij voorkeur één vergelijkbare reeks. [CBS: AI-monitor 2024](https://www.cbs.nl/nl-nl/nieuws/2025/09/gebruik-kunstmatige-intelligentie--ai---door-bedrijven-neemt-toe).
 
-## De Motor van Innovatie: AI in het Nederlandse Bedrijfsleven
+## Waarom een kop over 72% je niet genoeg vertelt
 
-De cijfers laten geen twijfel bestaan: Nederland omarmt AI met een ongekende snelheid. Met **95% van de Nederlandse organisaties die momenteel AI-programma's draait**, loopt het land voorop in Europa. Dit is een significante sprong en positioneert Nederland als een koploper in de digitale transformatie. De **jaarlijkse groei van de Nederlandse AI-markt van 28.56%** onderstreept deze dynamiek. Deze groei is niet alleen een indicatie van adoptie, maar ook van de economische potentie die in AI schuilt.
+Een onderzoek onder marketeers kan een andere uitkomst hebben dan een onderzoek onder alle onderzochte bedrijfstakken. Ook maakt het uit of de vraag gaat over ooit geprobeerd, maandelijks gebruik, dagelijks gebruik of een vaste toepassing binnen het bedrijf.
 
-De **42% Nederlandse bedrijfsadoptie**, vergeleken met een EU-gemiddelde van 33%, bevestigt deze leidende positie. Dit suggereert dat Nederlandse bedrijven proactiever zijn in het integreren van AI-oplossingen in hun kernprocessen. Dit kan te maken hebben met een gunstig ondernemersklimaat, een hoogopgeleide beroepsbevolking, of een sterke focus op technologische innovatie.
+Wie een cijfer in een presentatie wil gebruiken, controleert daarom vijf zaken:
 
-Echter, dit succesverhaal kent ook schaduwkanten. Ondanks de brede adoptie, geeft **49% van de beroepsbevolking aan nooit AI te hebben gebruikt**. Dit impliceert een potentieel 'AI-kloof' binnen de arbeidsmarkt, waarbij een aanzienlijk deel van de werknemers nog niet is meegegaan in de technologische ontwikkeling. Dit vraagt om gerichte opleidings- en omscholingsinitiatieven om iedereen te laten profiteren van de voordelen van AI en om te voorkomen dat werknemers buiten de boot vallen.
+1. **De oorspronkelijke publicatie.** Een verwijzing naar alleen een organisatienaam en jaartal is onvoldoende om de methode terug te vinden.
+2. **De deelnemers.** Zijn het personen, vestigingen of bedrijven? Hoe zijn ze geselecteerd?
+3. **De precieze vraag.** Telt een eenmalige chatbotvraag mee, of gaat het om inzet in een bedrijfsproces?
+4. **De meetperiode.** De publicatiedatum is niet automatisch het jaar waarin de gegevens zijn verzameld.
+5. **De vergelijking.** Zijn definitie, steekproef en weging tussen de jaren gelijk gebleven?
 
-Een ander zorgwekkend punt is dat **40% van de werknemers AI-gebruik verbergt voor managers**. Dit gedrag kan voortkomen uit angst voor kritiek, gebrek aan begrip van het management, of het gevoel dat het gebruik van AI niet is toegestaan of gewaardeerd wordt. Dit ondergraaft de transparantie en effectieve implementatie van AI-strategieën binnen organisaties. Het creëren van een open cultuur waarin AI-gebruik wordt aangemoedigd en besproken, is cruciaal voor verdere vooruitgang.
+Zonder die informatie nemen we geen percentage over als landelijk feit. Dat geldt ook voor cijfers over verborgen AI-gebruik, aantallen startups en het aandeel bedrijven dat een AI-beleid heeft. In dit overzicht geven we daarvoor geen vervangende schatting.
 
-Met **€276 miljoen aan overheidsinvestering in AI**, toont de Nederlandse overheid haar commitment aan deze technologie. Deze investeringen zijn essentieel voor het stimuleren van onderzoek, ontwikkeling en de brede implementatie van AI-toepassingen, zowel in de publieke als de private sector. De overheid speelt een sleutelrol in het creëren van een gunstig ecosysteem voor AI-innovatie.
+## Bezoeken zijn geen gebruikers
 
-## Marketing: De AI-Gedreven Conversie
+Een verkeersschatting voor een AI-website meet iets anders dan unieke Nederlandse gebruikers. Eén persoon kan vaak terugkomen, meerdere apparaten gebruiken of via een app werken. Ook bezoeken van een organisatie zijn geen bewijs dat AI structureel in haar bedrijfsproces is ingevoerd.
 
-De marketingsector is een van de voorlopers in AI-adoptie. In 2026 gebruikt maar liefst **72% van de Nederlandse marketeers AI-tools**, een aanzienlijke stijging ten opzichte van 45% in 2024. Deze sprong is te verklaren door de bewezen effectiviteit van AI in het optimaliseren van campagnes, personaliseren van klantervaringen en het analyseren van grote hoeveelheden data. AI-gestuurde contentcreatie, geautomatiseerde advertentieplaatsing en geavanceerde klantsegmentatie zijn slechts enkele voorbeelden van hoe AI de marketingwereld transformeert.
+Voor een besluit over medewerkers heb je een meting onder medewerkers nodig. Voor een investeringsbesluit in een proces heb je vooral gegevens uit dat proces nodig. Een populariteitscijfer kan aanleiding zijn om iets te onderzoeken; het bewijst geen rendement.
 
-De toename in AI-gebruik in marketing is niet zonder uitdagingen. Het feit dat **50% van de marketingteams geen specifiek AI-beleid heeft**, is een potentieel struikelblok. Zonder duidelijke richtlijnen kunnen organisaties te maken krijgen met ethische dilemma's, inconsistent gebruik, of een gemiste kans om het volledige potentieel van AI te benutten. Een gedegen AI-beleid is essentieel voor verantwoord en effectief gebruik, het waarborgen van databescherming en het maximaliseren van de ROI.
+## Van landelijke cijfers naar een bruikbare proef
 
-De enorme populariteit van generatieve AI-modellen is duidelijk zichtbaar in het aantal bezoeken aan ChatGPT. Met **86 miljoen ChatGPT-bezoeken per maand in Nederland**, is dit platform een onmisbare tool geworden voor veel marketeers. Dit aantal benadrukt de vraag naar en de toegankelijkheid van AI-tools voor contentcreatie, brainstormen en het genereren van ideeën.
+Kies één taak die je nu al uitvoert, bijvoorbeeld een offerte voorbereiden of een rapport controleren. Noteer vooraf wat een goed resultaat inhoudt: welke informatie verplicht is, welke fouten onacceptabel zijn en wie het resultaat beoordeelt.
 
-## Consumenten: AI als Dagelijkse Assistent
+Vergelijk vervolgens dezelfde soort invoer met en zonder het hulpmiddel. Tel de tijd voor invoeren, controleren en herstellen mee. Een snel concept dat veel correcties vraagt, kan duurder uitvallen dan de bestaande werkwijze. Leg ook vast wanneer de tool informatie mist en moet stoppen.
 
-De impact van AI reikt verder dan de bedrijfsmuren en dringt door tot de dagelijkse levens van Nederlandse consumenten. In mei 2026 gebruiken **meer dan 3 miljoen Nederlandse volwassenen dagelijks AI**. Dit is een indrukwekkende toename van meer dan 500.000 gebruikers in slechts zes maanden, wat wijst op een exponentiële adoptie. Deze cijfers omvatten waarschijnlijk een breed scala aan toepassingen, van virtuele assistenten op smartphones en slimme thermostaten tot gepersonaliseerde aanbevelingen op streamingdiensten en online winkelen.
+Een eenvoudige registratie is voldoende:
 
-AI wordt steeds meer een integraal onderdeel van het dagelijks leven, waardoor taken efficiënter worden en nieuwe mogelijkheden ontstaan. De snelle adoptie door consumenten zal ongetwijfeld de druk op bedrijven verhogen om AI-gedreven producten en diensten aan te bieden.
+| Onderdeel | Zelf vastleggen |
+|---|---|
+| Taak en invoer | Wat moest af, met welke beschikbare informatie? |
+| Uitkomst | Geaccepteerd, aangepast of onbruikbaar, met reden |
+| Werkelijke inspanning | Voorbereiding, uitvoering, controle en herstel |
+| Kosten | Abonnement, verbruik en extra beheer |
+| Volgende beslissing | Behouden, aanpassen of stoppen |
 
-## De Europese Context: Nederland als Koploper met een Noodzakelijke Regelgeving
+Dit is een voorgestelde proefopzet, geen door ons uitgevoerd bedrijfsbenchmark. De landelijke cijfers beschrijven gebruik. Jouw eigen resultaten bepalen of een toepassing zinvol is.
 
-De ambitie van de Europese Unie om een wereldleider te worden op het gebied van AI, krijgt in Nederland krachtige gestalte. Zoals eerder vermeld, loopt Nederland voorop met **95% van de organisaties die AI-programma's draait** en een **42% bedrijfsadoptie**, beide significant hoger dan het EU-gemiddelde van 33%. Dit succesverhaal wordt echter ook gevormd door de aankomende regelgeving.
+## Veelgestelde vragen
 
-Vanaf **augustus 2026 wordt de EU AI Act afdwingbaar**. Deze wetgeving heeft als doel een betrouwbaar en mensgericht kader te creëren voor de ontwikkeling en het gebruik van AI binnen de EU. Dit betekent dat Nederlandse organisaties die AI toepassen, zich moeten conformeren aan strikte regels met betrekking tot risicobeheer, transparantie, menselijk toezicht en datakwaliteit. De implementatie van de AI Act zal naar verwachting leiden tot een meer verantwoorde en ethisch verantwoorde adoptie van AI in Nederland.
+**Gebruikt 17% van alle Nederlanders AI?** Nee. Het genoemde CBS-cijfer gaat over onderzochte bedrijven met minstens twee werkzame personen in 2025, niet over inwoners of werknemers.
 
-De aanwezigheid van **meer dan 1.200 Nederlandse AI-startups** is een teken van een bloeiend innovatie-ecosysteem. Deze startups spelen een cruciale rol in het ontwikkelen van nieuwe AI-oplossingen en het stimuleren van concurrentie, wat weer ten goede komt aan zowel bedrijven als consumenten.
+**Is 2026 in de titel hetzelfde als het meetjaar?** Nee. Dit is een keuzehulp die in 2026 is gecontroleerd en duidelijk gedateerde eerdere metingen gebruikt. Een volledig vergelijkbare landelijke 2026-uitkomst wordt hier niet vastgesteld.
 
-## Conclusie: Een Toekomst Gevormd door AI
-
-De staat van AI-adoptie in Nederland in 2026 is er een van indrukwekkende vooruitgang en aanzienlijke potentie, maar ook van uitdagingen die aandacht vereisen. De cijfers tonen een land dat de mogelijkheden van AI omarmt, met een hoge adoptiegraad in het bedrijfsleven, een groeiend aantal consumenten dat dagelijks AI gebruikt, en een overheid die investeert in de toekomst.
-
-De marketingsector toont aan hoe AI operationele efficiëntie en klantbetrokkenheid kan verbeteren, terwijl de consumentenadoptie de alomtegenwoordigheid van AI in het dagelijks leven benadrukt. Nederland positioneert zich hiermee als een Europese leider op het gebied van AI.
-
-De uitdagingen, zoals de AI-kloof binnen de beroepsbevolking en het gebrek aan AI-beleid in marketingteams, mogen echter niet genegeerd worden. Het proactief aanpakken van deze knelpunten door middel van onderwijs, training en strategische planning is essentieel om ervoor te zorgen dat de voordelen van AI breed worden gedeeld en dat de integratie ervan ethisch en duurzaam verloopt. De komst van de EU AI Act biedt een noodzakelijk kader om dit te bewerkstelligen.
-
-Met een sterke basis van innovatie, investeringen en een groeiende bewustwording, staat Nederland aan de vooravond van een verdere AI-gedreven transformatie. De komende jaren zullen cruciaal zijn om het volledige potentieel van AI te ontsluiten en Nederland te positioneren als een duurzame en ethische leider in de wereldwijde AI-revolutie.
-
----
-
-
-## Gerelateerde artikelen
-- [AI Tools voor Marketing Teams 2026: de 7 die echt geld opleveren](/ai-tools-marketing-teams-2026)
-- [Beste AI Schrijftools Nederlands 2026: top 7 vergeleken](/beste-ai-schrijftools-nederlands-2026)
-
----
+**Bewijst een stijgend gebruik dat ik achterloop?** Nee. Gebruik zegt nog niets over kwaliteit, kosten of passendheid voor jouw taak. Begin met een probleem dat je kunt omschrijven en een resultaat dat je kunt controleren.
 
 ## Lees ook
 
+- [Marketingtools voor teams: taken en keuzehulp](/ai-tools-marketing-teams-2026)
+- [Beste AI Schrijftools Nederlands 2026: top 7 vergeleken](/beste-ai-schrijftools-nederlands-2026)
 - [AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?](/ai-tools-mkb-starten-2026/)
 - [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
 - [AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie](/ai-voor-ecommerce-2026/)
-
-## Veelgestelde Vragen (FAQ)
-
-**1. Hoe verhoudt de AI-adoptie in Nederland zich tot andere Europese landen?**
-Nederland loopt voorop in de AI-adoptie binnen Europa. Met 95% van de organisaties die AI-programma's draait en een bedrijfsadoptie van 42%, overtreft Nederland het EU-gemiddelde van 33%. Dit positioneert Nederland als een koploper op dit gebied.
-
-**2. Wat zijn de grootste uitdagingen voor AI-adoptie in Nederland in 2026?**
-De grootste uitdagingen zijn de aanzienlijke groep (49%) van de beroepsbevolking die nog nooit AI heeft gebruikt, wat wijst op een potentiële AI-kloof. Daarnaast heeft 50% van de marketingteams geen AI-beleid en verbergt 40% van de werknemers hun AI-gebruik voor managers, wat duidt op mogelijke gebreken in transparantie en beleidsvorming.
-
-**3. Welke rol speelt de overheid bij de AI-adoptie in Nederland?**
-De Nederlandse overheid investeert aanzienlijk in AI, met een investering van €276 miljoen in 2026. Deze investeringen zijn gericht op het stimuleren van onderzoek, ontwikkeling en de brede implementatie van AI-toepassingen, wat cruciaal is voor het creëren van een gunstig ecosysteem voor AI-innovatie en het ondersteunen van de groeiende AI-markt.
-
----
