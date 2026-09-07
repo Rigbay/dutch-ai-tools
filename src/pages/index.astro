@@ -36,7 +36,7 @@ const featured = articles.find((article) => article.data.slug === 'beste-ai-chat
 const latest = articles.filter((article) => coreCategories.includes(article.data.category)).slice(0, 5);
 const directComparisons = articles
   .filter((article) => article.data.slug.includes('-vs-') && coreCategories.includes(article.data.category))
-  .sort((a, b) => b.data.rating - a.data.rating);
+  .sort((a, b) => (b.data.rating ?? 0) - (a.data.rating ?? 0));
 const routes = [
   { icon: 'writing', title: 'Schrijven & analyseren', text: 'Kies tussen ChatGPT, Claude en Gemini op basis van je echte werk.', href: '/beste-ai-chatbots-2026/' },
   { icon: 'research', title: 'Research met bronnen', text: 'Vind tools die zoeken, samenvatten en hun bronnen zichtbaar maken.', href: '/categorie/productiviteit/' },

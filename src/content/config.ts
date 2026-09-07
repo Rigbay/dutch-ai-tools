@@ -6,7 +6,7 @@ const toolSchema = z.object({
   verdict: z.string(),
   priceRange: z.string(),
   bestFor: z.string(),
-  rating: z.number().min(1).max(5),
+  rating: z.number().min(1).max(5).optional(),
   affiliateLink: z.string().min(1)
 });
 
@@ -17,12 +17,13 @@ const articles = defineCollection({
     slug: z.string(),
     description: z.string().min(80).max(180),
     category: z.enum(['productiviteit', 'marketing', 'creatie', 'development', 'business', 'technologie', 'huis-tuin', 'persoonlijk']),
-    rating: z.number().min(1).max(5),
+    rating: z.number().min(1).max(5).optional(),
     priceRange: z.string(),
     pros: z.array(z.string()).min(2),
     cons: z.array(z.string()).min(2),
     affiliateLinks: z.array(z.string().min(1)).min(1),
     date: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
     modelYear: z.number(),
     featuredTool: z.string(),
     readingTime: z.string(),

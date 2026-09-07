@@ -31,7 +31,7 @@ const categoryLabels: Record<string, string> = {
 const categoryTables = Object.entries(categoryGroups).map(([cat, arts]) => {
   // Take top 5 by rating
   const top = arts
-    .filter(a => a.data.rating >= 3.5)
+    .filter(a => (a.data.rating ?? 0) >= 3.5)
     .sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0))
     .slice(0, 5);
   
