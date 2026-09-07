@@ -1,42 +1,13 @@
 ---
-const navItems = [
-  { href: '/vergelijkingen-2026/', label: 'Keuzehulpen' },
-  { href: '/vergelijk/', label: '1-op-1 vergelijken' },
-  { href: '/categorie/productiviteit/', label: 'Productiviteit' },
-  { href: '/categorie/creatie/', label: 'Creatie' },
-  { href: '/over/', label: 'Werkwijze' },
-];
+const navItems = [{href:'/vergelijkingen-2026/',label:'Alle keuzehulpen'},{href:'/vergelijk/',label:'Tools vergelijken'},{href:'/over/',label:'Over deze site'}];
 ---
-
-<header class="site-header">
-  <div class="mx-auto flex max-w-6xl items-center justify-between gap-5 px-4 py-3 sm:px-6 lg:px-8">
-    <a href="/" class="group inline-flex min-w-0 items-center gap-3 text-ink" aria-label="Dutch AI Tools home">
-      <span class="brand-mark" aria-hidden="true"><span>AI</span></span>
-      <span class="min-w-0">
-        <span class="block truncate text-[1.05rem] font-extrabold leading-none tracking-[-0.02em]">Dutch AI Tools</span>
-        <span class="mt-1 hidden whitespace-nowrap text-[0.65rem] font-bold uppercase tracking-[0.18em] text-muted sm:block">Kies wijzer. Werk slimmer.</span>
-      </span>
-    </a>
-
-    <nav class="hidden lg:block" aria-label="Hoofdnavigatie">
-      <ul class="flex items-center gap-1 text-sm font-semibold text-muted">
-        {navItems.map((item) => (
-          <li><a class="nav-link" href={item.href}>{item.label}</a></li>
-        ))}
-      </ul>
-    </nav>
-
-    <details class="mobile-menu relative lg:hidden">
-      <summary class="menu-button" aria-label="Open menu">
-        <span>Menu</span><span class="menu-lines" aria-hidden="true"></span>
-      </summary>
-      <nav class="mobile-menu-panel" aria-label="Mobiele navigatie">
-        <ul class="grid gap-1">
-          {navItems.map((item) => (
-            <li><a href={item.href}>{item.label}<span aria-hidden="true">↗</span></a></li>
-          ))}
-        </ul>
-      </nav>
-    </details>
-  </div>
-</header>
+<header class="site-header"><div class="masthead">
+ <a href="/" class="brand" aria-label="Dutch AI Tools home">Dutch AI Tools</a>
+ <nav class="hidden md:block" aria-label="Hoofdnavigatie"><ul class="flex gap-2">{navItems.map(item => <li><a class="nav-link" aria-current={Astro.url.pathname === item.href ? 'page' : undefined} href={item.href}>{item.label}</a></li>)}</ul></nav>
+ <details class="mobile-menu relative md:hidden"><summary class="menu-button">Menu</summary><nav class="mobile-menu-panel" aria-label="Mobiele navigatie"><ul>{navItems.map(item => <li><a href={item.href}>{item.label}</a></li>)}</ul></nav></details>
+</div></header>
+<script>
+ const menu = document.querySelector<HTMLDetailsElement>('.mobile-menu');
+ document.addEventListener('keydown', event => { if(event.key === 'Escape' && menu?.open) { menu.open = false; menu.querySelector('summary')?.focus(); } });
+ document.addEventListener('click', event => { if(menu?.open && event.target instanceof Node && !menu.contains(event.target)) menu.open = false; });
+</script>

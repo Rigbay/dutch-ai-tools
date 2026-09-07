@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import ArticleCard from '../../components/ArticleCard.astro';
+import ArticleSearch from '../../components/ArticleSearch.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -36,48 +36,7 @@ const descriptions: Record<string, string> = {
   persoonlijk: 'Vergelijk verzekeringen, hypotheken, mobiele abonnementen en financiële diensten voor consumenten.'
 };
 
-const categoryImages: Record<string, { src: string; alt: string }> = {
-  business: {
-    src: '/images/editorial/ai-tools-business-workspace-v2a.webp',
-    alt: 'Ondernemer vergelijkt opties aan een rustig bureau'
-  }
-};
-
-const categoryImage = categoryImages[cat];
 ---
-
-<BaseLayout
-  title={`Beste AI tools voor ${labels[cat] || cat} 2026 | AI Tools NL`}
-  description={descriptions[cat] || `Beste AI tools voor ${cat} vergeleken. ${articles.length} artikelen met vergelijkingen en scores.`}
->
-  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
-    <div class:list={[categoryImage && 'grid items-center gap-8 lg:grid-cols-[minmax(0,.82fr)_minmax(24rem,1.18fr)]']}>
-      <div>
-        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Categorie</p>
-        <h1 class:list={['mt-4 font-serif text-4xl font-semibold text-ink', categoryImage && 'max-w-[14ch]']}>Beste AI tools voor {labels[cat] || cat} 2026</h1>
-        <p class="mt-5 max-w-3xl text-lg text-muted">{descriptions[cat] || ''}</p>
-      </div>
-      {categoryImage && (
-        <figure class="aspect-[3/2] overflow-hidden rounded-[1.75rem] border border-[#d9e1ea] bg-linen shadow-soft">
-          <img
-            src={categoryImage.src}
-            alt={categoryImage.alt}
-            width="1536"
-            height="1024"
-            loading="eager"
-            fetchpriority="high"
-            decoding="async"
-            class="h-full w-full object-cover"
-          />
-        </figure>
-      )}
-    </div>
-  </section>
-
-  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-    <h2 class="font-serif text-3xl font-semibold text-ink">{articles.length} vergelijkingen</h2>
-    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-      {articles.map((article) => <ArticleCard article={article} />)}
-    </div>
-  </section>
+<BaseLayout title={`${labels[cat] || cat}: AI en software vergelijken | Dutch AI Tools`} description={descriptions[cat] || `Vergelijkingen voor ${cat}.`}>
+ <div class="page-width"><header class="page-intro"><p class="eyebrow"><a href="/vergelijkingen-2026/">Alle keuzehulpen</a></p><h1 class="mt-3">{labels[cat] || cat}</h1><p>{descriptions[cat]}</p></header><ArticleSearch articles={articles} /></div>
 </BaseLayout>

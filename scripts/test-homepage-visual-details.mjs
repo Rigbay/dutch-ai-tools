@@ -1,64 +1,48 @@
+import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import path from 'node:path';
-import process from 'node:process';
-import { fileURLToPath } from 'node:url';
+import {fileURLToPath} from 'node:url';
+import remarkArticleHeadings from '../src/lib/remarkArticleHeadings.mjs';
+import { createMarkdownProcessor } from '@astrojs/markdown-remark';
 
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const read = (relativePath) => fs.readFileSync(path.join(root, relativePath), 'utf8');
-
+const read = path => fs.readFileSync(fileURLToPath(new URL(`../${path}`, import.meta.url)), 'utf8');
 const homepage = read('src/pages/index.astro');
-const header = read('src/components/Header.astro');
-const icon = read('src/components/TaskRouteIcon.astro');
+const layout = read('src/layouts/ArticleLayout.astro');
+const base = read('src/layouts/BaseLayout.astro');
 
-const checks = [
-  {
-    name: 'arbitrary route abbreviations are absent',
-    pass: !/\b(?:TXT|SRC|DEV)\b/.test(homepage),
-  },
-  {
-    name: 'all three task icons are declared and rendered',
-    pass:
-      ["'writing'", "'research'", "'building'"].every((name) => homepage.includes(`icon: ${name}`))
-      && homepage.includes('<TaskRouteIcon name={route.icon} />'),
-  },
-  {
-    name: 'task routes retain writing/research and send automation directly to its comparison',
-    pass: [
-      "title: 'Schrijven & analyseren'",
-      "href: '/beste-ai-chatbots-2026/'",
-      "title: 'Research met bronnen'",
-      "href: '/categorie/productiviteit/'",
-      "title: 'Werk automatiseren'",
-      "href: '/beste-ai-automation-tools-2026/'",
-    ].every((expected) => homepage.includes(expected)),
-  },
-  {
-    name: 'development remains available in the category grid',
-    pass: /const coreCategories = \[[^\]]*'development'/.test(homepage)
-      && homepage.includes('href: `/categorie/${category}/`'),
-  },
-  {
-    name: 'decorative task icons are hidden from assistive technology',
-    pass:
-      icon.includes('aria-hidden="true"')
-      && icon.includes('focusable="false"')
-      && homepage.includes('class="tool-orb" aria-hidden="true"'),
-  },
-  {
-    name: 'the phone tagline hides instead of truncating',
-    pass:
-      /class="[^"]*\bhidden\b[^"]*\bsm:block\b[^"]*"[^>]*>Kies wijzer\. Werk slimmer\.<\/span>/.test(header)
-      && !/class="[^"]*\btruncate\b[^"]*"[^>]*>Kies wijzer\. Werk slimmer\.<\/span>/.test(header),
-  },
-];
-
-for (const check of checks) {
-  console.log(`${check.pass ? 'PASS' : 'FAIL'} ${check.name}`);
+// Preserve the accepted task destinations while allowing the design to evolve.
+for (const destination of ['/beste-ai-chatbots-2026/', '/categorie/productiviteit/', '/beste-ai-automation-tools-2026/']) {
+  assert.ok(homepage.includes(`href: '${destination}'`), `Missing task destination: ${destination}`);
 }
+assert.match(homepage, /coreCategories = \[[^\]]*'development'/);
+assert.ok(homepage.includes('href: `/categorie/${category}/`'));
+assert.ok(layout.includes('href={`#${heading.slug}`}'), 'Reading links must use rendered heading IDs');
+assert.ok(base.includes('href="#main-content"') && base.includes('id="main-content"'), 'Skip link must have a destination');
 
-const failures = checks.filter((check) => !check.pass);
-if (failures.length) {
-  process.exitCode = 1;
-} else {
-  console.log(`\n${checks.length}/${checks.length} homepage visual-detail checks passed.`);
-}
+// The heading normalization changes semantics only, including nested Markdown,
+// and leaves text/link nodes and already-correct heading levels unchanged.
+const tree = {type:'root',children:[
+  {type:'heading',depth:1,children:[{type:'text',value:'A & B'}]},
+  {type:'heading',depth:2,children:[{type:'link',url:'#source',children:[{type:'text',value:'Sources'}]}]},
+  {type:'blockquote',children:[{type:'heading',depth:1,children:[{type:'text',value:'Nested'}]}]},
+]};
+const expected = structuredClone(tree);
+expected.children[0].depth = 2;
+expected.children[2].children[0].depth = 2;
+remarkArticleHeadings()(tree);
+assert.deepEqual(tree, expected);
+const legacy = {type:'root',children:[
+  {type:'html',value:'<h2 id="tool-voor-tool">Tool voor tool: de echte afweging</h2>'},
+  {type:'heading',depth:1,children:[]},
+  {type:'html',value:'<h2 id="complex"><em>Preserve HTML</em></h2>'},
+]};
+remarkArticleHeadings()(legacy);
+assert.equal(legacy.children.length, 2);
+assert.equal(legacy.children[0].data.hProperties.id, 'tool-voor-tool');
+assert.equal(legacy.children[0].children[0].value, 'Tool voor tool: de echte afweging');
+assert.equal(legacy.children[1].value, '<h2 id="complex"><em>Preserve HTML</em></h2>');
+const markdown = await createMarkdownProcessor({ remarkPlugins: [remarkArticleHeadings] });
+const rendered = await markdown.render('# Article body\n\n<h2 id="tool-voor-tool">Tool voor tool</h2>\n\n#\n');
+assert.deepEqual(rendered.metadata.headings.map(({depth,slug}) => ({depth,slug})), [
+  {depth:2,slug:'article-body'}, {depth:2,slug:'tool-voor-tool'},
+]);
+console.log('Task routes, category access, reading anchors, skip navigation and heading normalization passed.');

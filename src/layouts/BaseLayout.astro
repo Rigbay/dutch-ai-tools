@@ -31,7 +31,7 @@ const orgSchema = {
   '@type': 'Organization',
   'name': 'Dutch AI Tools',
   'url': site.toString(),
-  'description': 'Onafhankelijke Nederlandstalige keuzehulpen voor AI-tools, met duidelijke use-cases, beperkingen en bronverwijzingen.',
+  'description': 'Nederlandstalige keuzehulpen voor AI-tools, met toepassingen, beperkingen en bronverwijzingen.',
   'logo': new URL(faviconPath, origin).toString()
 };
 
@@ -118,10 +118,18 @@ const webSiteSchema = {
     </script>
   </head>
   <body>
+    <a class="skip-link" href="#main-content">Naar de inhoud</a>
     <Header />
-    <main>
+    <main id="main-content" tabindex="-1">
       <slot />
     </main>
     <Footer />
+    <script>
+      const phone = window.matchMedia('(max-width: 767px)');
+      const contents = document.querySelectorAll<HTMLDetailsElement>('[data-collapse-phone]');
+      const syncContents = () => contents.forEach(detail => { detail.open = !phone.matches; });
+      syncContents();
+      phone.addEventListener('change', syncContents);
+    </script>
   </body>
 </html>

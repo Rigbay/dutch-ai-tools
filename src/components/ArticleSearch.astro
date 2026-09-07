@@ -1,0 +1,49 @@
+---
+import type {CollectionEntry} from 'astro:content';
+import ArticleCard from './ArticleCard.astro';
+interface Props { articles:CollectionEntry<'articles'>[]; showCategories?:boolean; }
+const {articles,showCategories=false}=Astro.props;
+const labels:Record<string,string>={productiviteit:'Productiviteit',marketing:'Marketing',creatie:'Beeld & creatie',development:'Development',business:'Bedrijfsvoering',technologie:'Technologie','huis-tuin':'Huis & tuin',persoonlijk:'Persoonlijk'};
+const categories=[...new Set(articles.map(a=>a.data.category))].sort();
+---
+<article-search>
+ <div class="search-controls" hidden data-controls>
+  <div class="search-field"><label for="article-search">Zoek op tool of onderwerp</label><input id="article-search" type="search" placeholder="Bijvoorbeeld: Notion of automatisering" autocomplete="off" /></div>
+  {showCategories && <div><label for="category-filter">Werkgebied</label><select id="category-filter"><option value="">Alle werkgebieden</option>{categories.map(cat=><option value={cat}>{labels[cat] || cat}</option>)}</select></div>}
+  <button class="button-secondary" type="button" data-reset>Wis filters</button>
+ </div>
+ <p class="mt-5 text-sm text-muted" role="status" aria-live="polite" data-count>{articles.length} keuzehulpen</p>
+ <div class="article-list">{articles.map(article=><ArticleCard article={article} />)}</div>
+ <p class="empty-state" hidden data-empty>Geen keuzehulpen gevonden. Probeer een andere toolnaam of wis de filters.</p>
+ <button class="button-secondary mt-6" type="button" hidden data-more>Meer keuzehulpen tonen</button>
+</article-search>
+<script>
+ class ArticleSearch extends HTMLElement {
+  connectedCallback() {
+   const input=this.querySelector<HTMLInputElement>('input');
+   const select=this.querySelector<HTMLSelectElement>('select');
+   const items=[...this.querySelectorAll<HTMLElement>('[data-search-item]')];
+   const count=this.querySelector<HTMLElement>('[data-count]');
+   const empty=this.querySelector<HTMLElement>('[data-empty]');
+   const controls=this.querySelector<HTMLElement>('[data-controls]');
+   const more=this.querySelector<HTMLButtonElement>('[data-more]');
+   if(!input || !count || !empty || !controls || !more) return;
+   controls.hidden=false;
+   let limit=20;
+   const update=()=>{
+    const words=input.value.toLocaleLowerCase('nl').trim().split(/\s+/).filter(Boolean);
+    let matched=0;
+    for(const item of items){const match=words.every(word=>item.dataset.search?.includes(word)) && (!select?.value || item.dataset.category===select.value);if(match)matched++;item.hidden=!match || matched>limit;}
+    count.textContent=`${Math.min(limit,matched)} van ${matched} keuzehulpen`;
+    empty.hidden=matched>0;
+    more.hidden=matched<=limit;
+   };
+   const resetLimit=()=>{limit=20;update();};
+   input.addEventListener('input',resetLimit);select?.addEventListener('change',resetLimit);
+   this.querySelector('[data-reset]')?.addEventListener('click',()=>{input.value='';if(select)select.value='';resetLimit();input.focus();});
+   more.addEventListener('click',()=>{const next=items.find(item=>item.hidden && input.value.toLocaleLowerCase('nl').trim().split(/\s+/).filter(Boolean).every(word=>item.dataset.search?.includes(word)) && (!select?.value || item.dataset.category===select.value));limit+=20;update();next?.querySelector<HTMLAnchorElement>('a')?.focus();});
+   update();
+  }
+ }
+ if(!customElements.get('article-search'))customElements.define('article-search',ArticleSearch);
+</script>

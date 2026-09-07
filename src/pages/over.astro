@@ -1,45 +1,14 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ArticleCard from '../components/ArticleCard.astro';
-
-const articles = (await getCollection('articles', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-
-const title = 'Vergelijk de beste AI tools | AI Tools NL';
-const description = 'Nederlandstalige vergelijkingen van AI tools en SaaS voor ondernemers, freelancers en developers.';
 ---
-
-<BaseLayout title={title} description={description}>
-  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
-    <h1 class="font-serif text-4xl font-semibold text-ink">Over AI Tools NL</h1>
-    <div class="mt-6 max-w-3xl space-y-5 text-muted">
-      <p>
-        AI Tools NL is een onafhankelijke Nederlandstalige site die AI en SaaS tools met elkaar vergelijkt. We richten ons op ondernemers, freelancers, marketeers, developers en content creators die willen weten welke AI tool het beste bij hun situatie past.
-      </p>
-      <p>
-        Onze vergelijkingen zijn gebaseerd op:
-      </p>
-      <ul class="list-disc pl-5 space-y-2">
-        <li>Functionaliteit en gebruikersgemak</li>
-        <li>Prijzen en abonnementsvormen (gratis, freemium, betaald)</li>
-        <li>Integratiemogelijkheden met andere tools</li>
-        <li>Nederlandse taalondersteuning</li>
-        <li>Gebruikerservaringen en reviews</li>
-      </ul>
-      <p>
-        Elk artikel bevat een duidelijke vergelijkingstabel met 5-8 tools, uitgebreide plus- en minpunten, een FAQ-sectie en affiliate links waar relevant. We zijn transparant over affiliate relaties — die worden altijd gemarkeerd.
-      </p>
-      <p>
-        Heb je vragen of suggesties? We horen graag van je. Deze site wordt regelmatig bijgewerkt met nieuwe vergelijkingen en actuele prijsinformatie.
-      </p>
-    </div>
-  </section>
-
-  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-    <h2 class="font-serif text-3xl font-semibold text-ink">Alle vergelijkingen</h2>
-    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-      {articles.map((article) => <ArticleCard article={article} />)}
-    </div>
-  </section>
+<BaseLayout title="Over Dutch AI Tools: werkwijze, partnerlinks en beperkingen" description="Hoe je de vergelijkingen op Dutch AI Tools gebruikt. Lees over bronnen, redactionele scores, partnerlinks en de beperkingen van de informatie.">
+ <div class="page-width"><header class="page-intro"><h1>Over Dutch AI Tools</h1><p>Keuzehulpen voor Nederlandstalige lezers die AI en software willen vergelijken voor hun werk.</p></header>
+ <div class="article-columns"><nav class="catalog-nav" aria-label="Op deze pagina"><h2>Op deze pagina</h2><ul><li><a href="#werkwijze">De vergelijkingen gebruiken</a></li><li><a href="#scores">Scores en oordelen</a></li><li><a href="#partnerlinks">Partnerlinks</a></li><li><a href="#privacy">Privacy op deze site</a></li></ul></nav>
+ <div class="prose-article">
+  <h2 id="werkwijze">De vergelijkingen gebruiken</h2><p>Een artikel zet toepassingen, prijzen en beperkingen van verschillende tools naast elkaar. Kijk eerst naar je eigen taak: welke bestanden gebruik je, hoeveel mensen werken ermee en welke gegevens mag je delen?</p><p>De informatie heeft een datum. Een bijgewerkt artikel betekent niet dat elk prijsplan of elke functie vandaag opnieuw is gecontroleerd. Open de bronverwijzingen en productpagina’s voordat je een keuze maakt.</p><p>Deze site bevat met AI gemaakte tekst. Een vergelijking is geen bewijs dat alle genoemde tools persoonlijk of onder gelijke omstandigheden zijn getest. Behandel een oordeel zonder beschreven testmethode als redactionele inschatting.</p>
+  <h2 id="scores">Scores en oordelen</h2><p>In bestaande artikelen staan scores op een schaal van vijf. Die zijn geen gemeten benchmark of gebruikerswaardering. Er is op deze site geen uniforme, gepubliceerde weging waarmee je alle scores onderling kunt vergelijken.</p><p>Gebruik daarom vooral de toepassing, beperkingen en bronnen. De eerste tool in een tabel hoeft niet de beste keuze voor jouw situatie te zijn.</p>
+  <h2 id="partnerlinks">Partnerlinks</h2><p>Sommige links naar aanbieders zijn partnerlinks. Als je via zo’n link iets afsluit, kan Dutch AI Tools commissie ontvangen. De partnerlink is bij de knop herkenbaar; waar zulke links in een vergelijking staan, verschijnt ook advertentie-informatie.</p><p>Een link naar een aanbieder is geen garantie over diens product, prijs of voorwaarden. Controleer die informatie bij de aanbieder zelf.</p>
+  <h2 id="privacy">Privacy op deze site</h2><p>Deze site gebruikt Google Analytics voor bezoekstatistieken. Bij een klik op een gemarkeerde partnerlink kan ook de aanbieder en de bezochte pagina worden gemeten. De zoekfunctie op de overzichtspagina’s filtert de artikelen in je browser.</p><p>Wanneer je een externe link opent, gelden de privacy- en gebruiksvoorwaarden van die website.</p>
+  <p><a href="/vergelijkingen-2026/">Bekijk alle keuzehulpen</a></p>
+ </div></div></div>
 </BaseLayout>

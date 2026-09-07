@@ -1,9 +1,11 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
+import remarkArticleHeadings from './src/lib/remarkArticleHeadings.mjs';
 
 export default defineConfig({
   site: 'https://dutchaitools.nl',
+  devToolbar: { enabled: false },
   integrations: [
     sitemap({
       changefreq: 'weekly',
@@ -15,6 +17,7 @@ export default defineConfig({
     })
   ],
   markdown: {
+    remarkPlugins: [remarkArticleHeadings],
     shikiConfig: {
       theme: 'github-light'
     }

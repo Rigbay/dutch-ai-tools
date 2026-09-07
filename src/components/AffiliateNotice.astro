@@ -5,8 +5,8 @@ const { compact = false } = Astro.props;
 
 <aside class:list={[
   compact
-    ? 'rounded-xl border border-[#dfe5ec] bg-white/80 px-3.5 py-2.5 text-xs text-[#53606d] shadow-sm'
-    : 'rounded-2xl border border-[#d6e7e2] bg-[#f0faf7] px-5 py-4 text-sm text-[#264d45]'
+    ? 'border-l-2 border-[#536474] bg-[#f3f6fa] px-4 py-3 text-sm text-[#53606d]'
+    : 'border-l-2 border-[#536474] bg-[#f3f6fa] px-5 py-4 text-sm text-[#53606d]'
 ]}>
-  <p class:list={[compact ? 'leading-5' : 'leading-6']}><strong class="font-extrabold text-[#173f3a]">Advertentie-informatie.</strong> Sommige knoppen zijn partnerlinks. Als je via zo’n link iets afsluit, kunnen wij commissie ontvangen; jij betaalt niet extra. Dit verandert onze rangschikking niet.</p>
+  <p class="leading-6"><strong class="font-bold text-ink">Advertentie-informatie.</strong> Sommige knoppen zijn partnerlinks. Als je via zo’n link iets afsluit, kunnen wij commissie ontvangen; jij betaalt niet extra. Dit verandert onze rangschikking niet.</p>
 </aside>
