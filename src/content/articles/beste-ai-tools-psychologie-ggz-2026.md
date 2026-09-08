@@ -1,142 +1,108 @@
 ---
-
-title: 'Beste AI Tools voor Psychologen & GGZ 2026: top 7 vergeleken'
+title: 'AI-tools voor psychologen en GGZ in 2026: wat is bruikbaar?'
 slug: beste-ai-tools-psychologie-ggz-2026
-description: AI tools voor psychologen, therapeuten en GGZ-instellingen in 2026. Van
-  AI-ondersteunde diagnostiek tot therapeutische chatbots en automatische rapportage
-  — vergelijk de beste g...
+description: 'AI voor de GGZ vraagt meer dan een lijst met scores. Lees wat bekend is over Woebot, Limbic en Eleos, en wat je eerst moet controleren voor Nederlands gebruik.'
 category: business
-rating: 4.3
-priceRange: EUR 0-300/mnd
+priceRange: 'Actuele Nederlandse tarieven niet vastgesteld'
 pros:
-- Gebaseerd op actuele marktdata en praktijkervaringen uit 2026
-- Duidelijke vergelijking met prijzen, verdicts en scores per tool
-- Nederlandstalig en toegankelijk voor professionals in deze sector
+  - 'Maakt onderscheid tussen verslaglegging en klinische ondersteuning'
+  - 'Benoemt broninformatie en ontbrekende gegevens afzonderlijk'
 cons:
-- Prijzen en features kunnen wijzigen — check de actuele aanbieder
-- Niet elke tool is dagelijks getest in de Nederlandse praktijk
-- Sommige AI-features zijn nog in actieve ontwikkeling of beta
+  - 'Geen praktijktest of onafhankelijke beoordeling van behandelresultaten'
+  - 'Nederlandse toegang, contractvoorwaarden en tarieven niet bevestigd'
 affiliateLinks:
-- https://www.beehiiv.com/
-- https://woebothealth.com/
-- https://limbic.ai/
-- https://www.lyssn.io/
-- https://ict.usc.edu/
-- https://www.wysa.com/
-- https://www.quartethealth.com/
-- https://www.eleos.health/
+  - https://www.beehiiv.com/
+  - https://woebothealth.com/
+  - https://limbic.ai/
+  - https://www.lyssn.io/
+  - https://ict.usc.edu/
+  - https://www.wysa.com/
+  - https://www.quartethealth.com/
+  - https://www.eleos.health/
 related:
   - beste-ai-tools-gaming-2026
   - beste-ai-tools-kleine-ondernemers-2026
   - beste-ai-tools-administratie-2026
 date: '2026-05-23'
+updatedDate: '2026-09-08'
 modelYear: 2026
-readingTime: 7 min
+readingTime: '4 min'
 draft: false
-featuredTool: Woebot Health
+featuredTool: 'Geen algemene winnaar'
 tools:
-- name: Woebot Health
-  verdict: Evidence-based AI-therapeut voor cognitieve gedragstherapie — FDA-doorbraakstatus,
-    gevalideerd in klinische trials
-  priceRange: EUR 0-30/mnd
-  bestFor: CGT tussen sessies & laagdrempelige zorg
-  rating: 4.4
-  affiliateLink: https://woebothealth.com/
-- name: Limbic AI
-  verdict: 'AI-triage en intake voor GGZ: verkort wachttijden door slimme verwijzing
-    en risico-inschatting — UK NHS-goedgekeurd'
-  priceRange: EUR 100-300/mnd per behandelaar
-  bestFor: Intake, triage & wachtlijstbeheer
-  rating: 4.6
-  affiliateLink: https://limbic.ai/
-- name: Lyssn AI
-  verdict: 'AI die therapiesessies analyseert op kwaliteit: meet empathie, CGT-getrouwheid
-    en cliëntbetrokkenheid'
-  priceRange: EUR 50-200/mnd
-  bestFor: Supervisie & kwaliteitsbewaking
-  rating: 4.3
-  affiliateLink: https://www.lyssn.io/
-- name: Ellie (USC ICT)
-  verdict: Virtuele interviewer die non-verbale signalen leest — depressie, PTSS en
-    angst automatisch screenend
-  priceRange: Op aanvraag (onderzoekslicentie)
-  bestFor: Automatische screening & diagnostiek
-  rating: 4.2
-  affiliateLink: https://ict.usc.edu/
-- name: Wysa
-  verdict: AI-mentale gezondheidsapp met therapeutische gesprekken en zelfhulpmodules
-    — NHS en SingHealth goedgekeurd
-  priceRange: EUR 0-15/mnd (gratis tier)
-  bestFor: Zelfhulp & preventieve GGZ
-  rating: 4.5
-  affiliateLink: https://www.wysa.com/
-- name: Quartet Health
-  verdict: 'AI-platform dat fysieke en mentale zorg integreert: matcht patiënten met
-    juiste behandelaar op basis van symptomen en verzekering'
-  priceRange: Op aanvraag
-  bestFor: Zorgintegratie & verwijzing
-  rating: 4.1
-  affiliateLink: https://www.quartethealth.com/
-- name: Eleos Health
-  verdict: 'AI-documentatie voor therapeuten: automatische SOAP-rapportages, voortgangsmeting
-    en behandelplan-ondersteuning'
-  priceRange: EUR 75-250/mnd
-  bestFor: Rapportage & administratie
-  rating: 4.4
-  affiliateLink: https://www.eleos.health/
+  - name: 'Woebot Health — app gestopt'
+    verdict: 'De aanbieder meldt dat de Woebot-app op 30 juni 2025 is beëindigd. Geen actuele app-aanbeveling.'
+    priceRange: 'Niet van toepassing op de beëindigde app'
+    bestFor: 'Status controleren, niet als beschikbare therapie-app kiezen'
+    affiliateLink: https://woebothealth.com/
+  - name: 'Limbic'
+    verdict: 'De aanbieder beschrijft intake, triage en therapeutische chat. Geschiktheid voor Nederlandse GGZ niet vastgesteld.'
+    priceRange: 'Actueel Nederlands tarief onbekend'
+    bestFor: 'Oriëntatie op intake en klinische ondersteuning, na afzonderlijke beoordeling'
+    affiliateLink: https://limbic.ai/
+  - name: 'Eleos Health'
+    verdict: 'De aanbieder beschrijft documentatie en klinische inzichten voor zorgorganisaties. Nederlandse inzet niet bevestigd.'
+    priceRange: 'Actueel Nederlands tarief onbekend'
+    bestFor: 'Oriëntatie op verslaglegging; klinische functies apart beoordelen'
+    affiliateLink: https://www.eleos.health/
 faq:
-- q: "Zijn AI tools veilig voor gevoelige data?"
-  a: 'De meeste tools bieden enterprise-grade beveiliging met encryptie, maar check altijd de AVG-compliance van de aanbieder voor je gevoelige data uploadt. Nederlands-gefocuste tools voldoen aan strengere privacy-eisen.'
-- q: "Heb ik technische kennis nodig om deze AI tools te gebruiken?"
-  a: 'De meeste moderne AI tools zijn ontworpen voor eindgebruikers zonder technische achtergrond. Je hebt basis digitale vaardigheden nodig, maar geen programmeerkennis.'
-- q: "Wat zijn de maandelijkse kosten van AI tools?"
-  a: 'De prijzen variëren sterk: van gratis tiers tot €500+/maand voor enterprise-licenties. Gemiddeld betaal je €15-100/maand voor een professionele AI-tool met volledige functionaliteit.'
+  - q: 'Is een AI-tool automatisch AVG-conform als die op Nederland is gericht?'
+    a: 'Dat kun je niet afleiden uit de taal of vestigingsplaats. De EDPB beschrijft een vereiste rechtsgrond en aanvullende voorwaarden voor gezondheidsgegevens. Deze vergelijking stelt geen AVG-conformiteit per product vast.'
+  - q: 'Kan ik Woebot nog gebruiken?'
+    a: 'Volgens de officiële FAQ is de Woebot-app op 30 juni 2025 beëindigd. Nieuwe accounts aanmaken en oude accounts openen kan niet meer.'
+  - q: 'Welke tool is het beste en wat kost die?'
+    a: 'Deze broncontrole levert geen algemene winnaar of geverifieerde Nederlandse tarieven op. Vraag eerst om een concreet aanbod voor jouw toepassing; er zijn geen praktijkscores toegekend.'
 ---
 
-# AI in de GGZ 2026: De Revolutionaire Tools voor Psychologen en Instellingen
+# AI voor psychologen en GGZ: begin bij de taak, niet bij de score
 
-In 2026 is de integratie van Kunstmatige Intelligentie (AI) in de geestelijke gezondheidszorg (GGZ) geen verre toekomstmuziek meer, maar een tastbare realiteit die de sector transformeert. Van de broodnodige wachtlijstverkorting tot gepersonaliseerde behandelondersteuning en efficiënte administratie: AI-tools bieden innovatieve oplossingen voor de uitdagingen waar de Nederlandse GGZ al jaren mee kampt. GGZ-instellingen in Nederland experimenteren volop met AI voor diverse toepassingen, waaronder geautomatiseerde triage, slimme voortgangsrapportages en therapeutische chatbots die de kloof tussen patiënt en professional helpen overbruggen.
+Een conceptverslag laten opstellen is iets anders dan een patiënt laten triëren of behandeladvies laten genereren. Deze pagina helpt die keuzes uit elkaar te houden. Het is geen ranglijst van bewezen behandelingen en geen verslag van eigen praktijktests.
 
-De urgentie is hoog. Lange wachtlijsten, een groeiende vraag naar geestelijke gezondheidszorg en een toenemende werkdruk op professionals vragen om nieuwe benaderingen. AI kan hierin een cruciale rol spelen, niet ter vervanging van de menselijke therapeut, maar als een krachtig verlengstuk. Het stelt professionals in staat om efficiënter te werken, meer patiënten te bereiken en de kwaliteit van zorg te verbeteren.
+De belangrijkste correctie: de Woebot-app is volgens de aanbieder op 30 juni 2025 beëindigd. De oude aanbeveling als beschikbare ondersteuning tussen sessies is daarom vervallen.[1]
 
-Maar wat is er in 2026 precies beschikbaar voor de Nederlandse psycholoog, therapeut en GGZ-instelling? Welke tools zijn het meest veelbelovend en welke aandachtspunten, zoals privacy (AVG), ethiek en integratie in het Nederlandse zorgsysteem (WGBO, BIG-registratie, NZa-regulering), zijn essentieel om te overwegen? Dit artikel duikt dieper in zeven toonaangevende AI-tools die de GGZ-sector in 2026 zullen bepalen, met een focus op hun relevantie en toepasbaarheid binnen de Nederlandse en Europese context.
+## Wat is er over deze drie namen bekend?
 
----
+De onderstaande statusbeschrijvingen zijn gebaseerd op officiële pagina’s, geraadpleegd op 8 september 2026. Een productbeschrijving van een leverancier bewijst op zichzelf geen klinische effectiviteit. Voor geen van deze namen is in deze controle een actueel Nederlands aanbod met tarief, taalondersteuning en passende contractvoorwaarden vastgesteld.
 
-## Woebot Health
+### Woebot: geen beschikbare app aanbevelen
 
-Woebot Health is een pionier op het gebied van conversationele AI voor geestelijke gezondheid. Hun vlaggenschip, Woebot, is een AI-chatbot die cognitieve gedragstherapie (CGT) en dialectische gedragstherapie (DGT) principes toepast via tekstuele interacties. De tool biedt gebruikers 24/7 ondersteuning, helpt bij het identificeren van negatieve denkpatronen en biedt oefeningen voor coping en emotieregulatie. In 2026 is Woebot verder geëvolueerd, met meer gepersonaliseerde modules en integratiemogelijkheden met wearables om fysiologische data te monitoren.
+De officiële FAQ zegt dat nieuwe accounts niet meer kunnen worden aangemaakt en eerdere accounts niet meer toegankelijk zijn.[1] Daarmee is de beëindigde app geen actuele keuze voor patiënten. Deze melding gaat over de app; zij bewijst niet dat de organisatie of iedere toekomstige dienst is gestopt.
 
-*   **Prijsrange (EUR):** B2B-abonnementen, typisch per gebruiker per maand. Verwacht in 2026 tussen de €30 en €80 per gebruiker per maand voor instellingen, afhankelijk van schaal en functionaliteiten.
-*   **Beste use case:** Laagdrempelige preventie, psycho-educatie, ondersteuning op de wachtlijst, aanvulling op reguliere therapie (als 'huiswerk' of tussen de sessies door). Goed voor patiënten met milde tot matige klachten.
-*   **Pluspunten:**
-    *   **Schaalbaar:** Kan veel mensen tegelijkertijd bereiken, wat de wachtlijsten kan ontlasten.
-    *   **Toegankelijk:** 24/7 beschikbaar, anoniem en laagdrempelig.
-    *   **Evidence-based:** Gebaseerd op erkende therapeutische methoden (CGT/DGT).
-    *   **Gebruiksvriendelijk:** Intuïtieve interface, vaak gamified elementen.
-*   **Minpunten:**
-    *   **Beperkte diepgang:** Niet geschikt voor complexe problematiek, crisisinterventie of diepgaande psychotherapie.
-    *   **Gebrek aan menselijke connectie:** Kan de empathie en het oordeelsvermogen van een menselijke therapeut niet vervangen.
-    *   **Dataprivacy:** Hoewel compliant (AVG), blijft de gevoeligheid van gezondheidsdata een zorgpunt bij elke cloud-gebaseerde tool.
-*   **Verdict:** Uitstekend voor het vergroten van de toegankelijkheid van geestelijke gezondheidszorg en het bieden van laagdrempelige ondersteuning en preventie.
+De eerdere europrijzen, wearable-integraties en stellige AVG-claim zijn verwijderd: daarvoor is in deze controle geen onderbouwing vastgesteld. Een historische onderzoeksclaim is bovendien geen bewijs dat een product vandaag verkrijgbaar of passend is.
 
----
+### Limbic: intake is niet hetzelfde als klinische triage
 
-## Limbic AI
+Limbic beschrijft een Intake Agent voor aanmelding en veelgestelde vragen. Daarnaast noemt het bedrijf een Triage Agent die behoeften beoordeelt, diagnoses voorspelt en naar een zorgniveau verwijst, en een Therapy Agent voor CGT via generatieve chat.[2] Dat zijn verschillende toepassingen; beoordeel ze niet als één administratief hulpmiddel.
 
-Limbic AI, met wortels in het VK, richt zich op het stroomlijnen van het intakeproces en het optimaliseren van de patiëntreis binnen GGZ-instellingen. Hun AI-gedreven chatbot begeleidt patiënten door een reeks vragen om een initiële beoordeling te maken, klachten in kaart te brengen en te triëren. Het systeem gebruikt deze data om patiënten te matchen met de meest geschikte therapeut of behandelroute, en kan ook de voortgang monitoren. Limbic is specifiek ontworpen om te integreren met bestaande Elektronische Patiëntendossiers (EPD's).
+Voor een Nederlandse instelling blijven hier onder meer de ondersteunde taal, het precieze product en gebruiksdoel, Nederlandse beschikbaarheid, contractvoorwaarden en toepasselijke medische status onbevestigd. De oude omschrijving ‘NHS-goedgekeurd’ en de belofte van kortere wachtlijsten worden niet overgenomen. Deze broncontrole stelt geen Nederlandse toelating of behandelwinst vast.
 
-*   **Prijsrange (EUR):** B2B-abonnementen, vaak gebaseerd op het aantal patiënten of de omvang van de instelling. Verwacht in 2026 tussen de €200 en €1000 per maand per instelling, afhankelijk van de schaal en integratiebehoeften.
-*   **Beste use case:** Intake-optimalisatie, triage, patiënt-therapeut matching, voortgangsmonitoring en administratieve efficiëntie voor GGZ-instellingen.
-*   **Pluspunten:**
-    *   **Efficiëntie:** Vermindert de administratieve last en versnelt het intakeproces.
-    *   **Datagedreven:** Biedt objectieve data voor besluitvorming en kwaliteitsverbetering.
-    *   **
----
-## Lees ook
+### Eleos: verslaglegging én klinische functies
 
-Verdiep je verder in AI tools:
+Eleos presenteert automatische notities en zorginzichten, naast compliance- en declaratiefuncties. De website richt zich op community-based care in de Verenigde Staten. Ook beschrijft Eleos een Clinical Insights Agent die cliëntinformatie en richtlijnen samenbrengt.[3] Het platform uitsluitend ‘administratie’ noemen zou dus te beperkt zijn.
 
-- [AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?](/ai-tools-mkb-starten-2026/)
-- [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
-- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)
+Voor een praktijk die vooral minder schrijfwerk wil, is ons advies: laat eerst zien hoe één conceptnotitie wordt gemaakt en gecorrigeerd, zonder echte patiëntgegevens te gebruiken. Vraag apart welke klinische functies meedraaien en of ze kunnen worden uitgeschakeld. De werking in een Nederlands EPD, Nederlandse taalondersteuning en Nederlandse prijs zijn hier niet geverifieerd.
+
+## Privacy: een Nederlandse uitstraling is geen vrijbrief
+
+De EDPB legt uit dat verwerking van persoonsgegevens een passende rechtsgrond nodig heeft. Voor gevoelige gegevens, waaronder gezondheidsgegevens, gelden aanvullende voorwaarden; verwerking is in beginsel verboden tenzij een uitzondering van toepassing is.[4] Alleen encryptie, een keurmerk of een Nederlandstalige website is daarom geen volledige onderbouwing voor jouw verwerking.
+
+Onze inkoopcheck: leg vóór een proef met echte gegevens vast wie waarvoor verantwoordelijk is, welke gegevens nodig zijn, wie ze ontvangt, waar ze worden verwerkt, hoe lang ze blijven staan en of ze voor modeltraining worden gebruikt. Laat de privacyverantwoordelijke beoordelen welke afspraken en risicoanalyse voor de concrete inzet nodig zijn. Dit is een startpunt voor beoordeling, geen volledige juridische checklist en geen AVG-certificering van een van de producten.
+
+## Een kleine, controleerbare eerste stap
+
+Begin bij één afgebakende taak, bijvoorbeeld een conceptverslag op basis van fictief materiaal. Noteer vooraf welke fouten onaanvaardbaar zijn, zoals een verzonnen uitspraak of een ontbrekende ontkenning. Laat een behandelaar het resultaat met de invoer vergelijken en houd correctietijd bij. Dat is een voorstel voor een proef, geen uitgevoerde test of belofte van tijdwinst.
+
+Zodra een functie diagnoses, risico-inschattingen of behandelkeuzes beïnvloedt, is deze vergelijking onvoldoende om inzet te verantwoorden. Vraag dan om onderbouwing voor het exacte product, de doelgroep en de beoogde inzet, en laat de klinische en toepasselijke wettelijke voorwaarden afzonderlijk beoordelen. Die productbeoordeling is hier niet uitgevoerd.
+
+## Waarom geen top zeven, prijzen of sterren?
+
+De oude pagina bevatte scores zonder controleerbare methode, onderling afwijkende prijsranges en een afgebroken beschrijving van Limbic. Die bieden geen betrouwbare keuzehulp. Lyssn, Ellie, Wysa en Quartet zijn binnen deze afgebakende controle niet opnieuw onderzocht en worden daarom niet als beoordeelde alternatieven gepresenteerd. Dat is geen negatief oordeel over die producten.
+
+Kies pas een leverancier als de taak, Nederlandse beschikbaarheid, gegevensverwerking en totale kosten concreet zijn. Deze pagina wijst geen winnaar aan en geeft geen behandeladvies.
+
+## Sources
+
+[1] https://woebothealth.com/faq — Woebot Health FAQ
+[2] https://www.limbic.ai — Limbic product overview
+[3] https://eleos.health — Eleos platform overview
+[4] https://www.edpb.europa.eu/sme/be-compliant/process-personal-data-lawfully_en — EDPB — Process personal data lawfully
