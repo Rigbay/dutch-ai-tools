@@ -1,190 +1,145 @@
 ---
-title: 'Beste AI Tools voor Fysiotherapie Praktijken 2026: Oefentherapie, Planning & Patiëntenzorg'
+title: 'Software en AI voor je fysiotherapiepraktijk: wat is er echt beschikbaar?'
 slug: beste-ai-tools-fysiotherapie-praktijk-2026
-description: Welke AI tools helpen fysiotherapeuten in 2026? Van oefen-apps tot patiëntendossiers — vergelijk de 6 beste tools voor fysiotherapiepraktijken in Nederland.
+description: 'Vergelijk praktijksoftware, oefenprogramma’s en AI-verslaglegging voor fysiotherapie. Met gecontroleerde bronnen, concrete keuzevragen en duidelijke beperkingen.'
 category: business
-rating: 4.3
-priceRange: EUR 0-500/mnd
+priceRange: 'Afhankelijk van pakket en gebruik; vraag de totale kosten op'
 pros:
-- Actuele 2026 AI-toolvergelijking voor fysiotherapie
-- Praktisch advies per type praktijk of gebruiker
-- Nederlandstalig met relevante tools en prijzen
+  - 'Onderscheid tussen praktijksoftware, beschikbare AI en aangekondigde functies'
+  - 'Keuzevragen voor dossier, oefenprogramma en verwijzingen'
 cons:
-- Prijzen kunnen wijzigen — check aanbieder
-- Tools continu in ontwikkeling — check actuele features
-- Advies hangt af van specifieke praktijkgrootte en behoeften
+  - 'Geen praktijktest of onafhankelijke vergelijking van behandelresultaten'
+  - 'Niet alle actuele tarieven en Nederlandse functie-uitrol bevestigd'
 affiliateLinks:
-- https://www.beehiiv.com/
+  - https://hci-software.com/fysioroadmap/
 date: '2026-06-11'
+updatedDate: '2026-09-08'
 modelYear: 2026
 featuredTool: FysioRoadmap
-readingTime: 10 min
+readingTime: '6 min'
 tools:
-- name: FysioRoadmap
-  verdict: Nederlands EPD voor fysiotherapeuten — AI-gedreven anamnese, behandelplannen, ROM-metingen
-  priceRange: EUR 80-150/mnd
-  bestFor: Patiëntendossier & administratie
-  rating: 4.5
-  affiliateLink: https://fysioroadmap.nl/
-- name: Physitrack
-  verdict: Oefen-app met AI — video-oefenprogramma''s, telehealth, compliance tracking, 3D-animaties
-  priceRange: EUR 25-75/mnd
-  bestFor: Oefenprogramma''s & telehealth
-  rating: 4.6
-  affiliateLink: https://physitrack.com/
-- name: Intramed
-  verdict: Nederlandse praktijksoftware — roosters, facturatie, declaratie, koppeling met zorgverzekeraars
-  priceRange: EUR 60-120/mnd
-  bestFor: Praktijkmanagement NL
-  rating: 4.3
-  affiliateLink: https://intramed.nl/
-- name: Healthcoin
-  verdict: AI-gezondheidsplatform — beloningssysteem voor beweging, koppeling met wearables, preventie-tracker
-  priceRange: EUR 15-45/mnd
-  bestFor: Preventie & beweegstimulering
-  rating: 4.1
-  affiliateLink: https://healthcoin.com/
-- name: ZorgDomein AI
-  verdict: Verwijsplatform met AI — automatische triage, verwijsadviezen, wachttijd-checker
-  priceRange: Gratis voor zorgverleners
-  bestFor: Doorverwijzing & netwerk
-  rating: 4.4
-  affiliateLink: https://zorgdomein.nl/
-- name: Keet
-  verdict: Patiëntcommunicatie app — self-service intake, afspraakherinneringen, oefenvideo's, feedback met AI
-  priceRange: EUR 30-80/mnd
-  bestFor: Patiëntcommunicatie & intake
-  rating: 4.2
-  affiliateLink: https://keet.nl/
+  - name: FysioRoadmap
+    verdict: 'Praktijksoftware voor agenda, dossiers en declaraties; specifieke klinische AI-claims niet bevestigd'
+    priceRange: 'Actueel totaalbedrag niet vastgesteld'
+    bestFor: 'Een administratieve basis beoordelen'
+    affiliateLink: https://hci-software.com/fysioroadmap/
+  - name: Physitrack
+    verdict: 'Digitale oefenprogramma’s; Motion Capture staat op de gecontroleerde pagina nog als coming soon'
+    priceRange: 'Actueel Nederlands totaalbedrag niet vastgesteld'
+    bestFor: 'Oefeningen meegeven en voortgang volgen'
+    affiliateLink: https://www.physitrack.com/
+  - name: Intramed
+    verdict: 'Praktijksoftware met een gedocumenteerde Fysio.AI-koppeling voor intakeverslagen'
+    priceRange: 'Pakketkosten en extra opnamecredits controleren'
+    bestFor: 'Administratie en verslaglegging binnen Intramed'
+    affiliateLink: https://www.intramed.nl/
+  - name: ZorgDomein
+    verdict: 'Zorgaanbod zichtbaar maken en digitale verwijzingen ontvangen; geen geverifieerde AI-triageaanbeveling'
+    priceRange: 'Vanaf €35/mnd en €55 eenmalig, excl. btw; voorwaarden controleren'
+    bestFor: 'Aansluiten op regionale verwijzers'
+    affiliateLink: https://zorgdomein.com/zorgprofessional/eerstelijns-zorgaanbieders/
 related:
   - ai-tools-mkb-starten-2026
   - beste-ai-tools-kleine-ondernemers-2026
   - beste-ai-tools-zzpers-2026
 draft: false
 faq:
-- q: "Is AI echt bruikbaar in de fysiotherapie?"
-  a: 'Ja, in 2026 gebruiken steeds meer fysiotherapeuten AI voor administratie, oefenprogramma''s en patiëntcommunicatie. Tools zoals FysioRoadmap en Physitrack zijn inmiddels bewezen in de Nederlandse markt.'
-- q: "Wat is de beste tool voor een startende praktijk?"
-  a: 'Voor startende praktijken is FysioRoadmap een goed beginpunt — het combineert EPD-functionaliteit met administratie tegen een schappelijk maandbedrag. Combineer met Physitrack voor digitale oefenprogramma''s.'
-- q: "Zijn deze tools AVG-compliant?"
-  a: 'De Nederlandse tools (FysioRoadmap, Intramed, ZorgDomein) voldoen aan AVG en hebben verwerkersovereenkomsten. Bij internationale tools zoals Physitrack: controleer de datalocatie en verwerkersovereenkomst.'
+  - q: 'Heb ik AI nodig om mijn praktijk te digitaliseren?'
+    a: 'Niet per se. Begin bij het werk dat beter moet: dossiers, declaraties, oefenprogramma’s of verslaglegging. Vraag daarna welke concrete functie helpt; het AI-label is geen aankoopcriterium op zichzelf.'
+  - q: 'Corrigeert Physitrack oefeningen al automatisch via de camera?'
+    a: 'De op 8 september 2026 gecontroleerde Motion Capture-pagina vermeldt coming soon en een wachtlijst. Beschouw dit dus niet als bevestigde, algemeen beschikbare functie voor je Nederlandse praktijk.'
+  - q: 'Is ZorgDomein gratis voor fysiotherapeuten?'
+    a: 'Niet als algemene uitspraak. De gecontroleerde pagina noemt vanaf €35 per maand voor één of twee zorgverleners en €55 eenmalige registratiekosten, exclusief btw. Controleer het aanbod voor jouw praktijk.'
+  - q: 'Mag ik patiëntgegevens in deze software verwerken?'
+    a: 'Deze vergelijking geeft daarvoor geen toestemming of AVG-keurmerk. Gezondheidsgegevens vallen onder artikel 9 AVG. Laat vooraf beoordelen welke grondslag, uitzondering en afspraken voor jouw gebruik nodig zijn.'
 ---
 
-# Beste AI Tools voor Fysiotherapie Praktijken 2026
+Je wilt minder dubbel invoeren, een duidelijk oefenprogramma meegeven of na de intake minder hoeven typen. Dat zijn verschillende problemen. Eén ranglijst met “de beste AI” helpt dan weinig: een EPD vervangt geen oefenbibliotheek, en een verwijssysteem maakt geen behandelplan.
 
-De fysiotherapie-sector digitaliseert snel. In 2026 is AI geen toekomstmuziek meer — het zit ingebakken in de dagelijkse praktijkvoering. Van slimme oefen-apps die beweging corrigeren tot EPD-systemen die automatisch behandelplannen genereren. Maar welke tool past bij jouw praktijk?
+Hieronder staan vier bestaande namen uit onze eerdere vergelijking, opnieuw bekeken op hun concrete functie. De volgorde is geen ranglijst. Dit is bronnenonderzoek, geen gebruikerstest, klinische beoordeling of juridisch advies. Leveranciersinformatie is gecontroleerd op 8 september 2026; beloofde voordelen zijn niet door ons gemeten.
 
-We vergeleken de zes beste AI-tools voor fysiotherapeuten in Nederland: van praktijkmanagers tot preventieplatforms.
+## Begin bij het werk dat vastloopt
 
-## FysioRoadmap
+- Dossiers, agenda en declaraties: vergelijk eerst je huidige pakket met FysioRoadmap en Intramed. Vraag een demonstratie van precies het proces dat nu dubbel werk oplevert.
+- Oefeningen meegeven: bekijk Physitrack als aanvulling, niet als automatische reden om je hele praktijkpakket te vervangen.
+- Intakeverslagen uitwerken: vraag bij Intramed naar de Fysio.AI-koppeling en controleer hoeveel correctiewerk een verslag vraagt.
+- Verwijzingen ontvangen: beoordeel ZorgDomein op aansluiting bij je verwijzers, niet op een onbevestigde AI-triagefunctie.
 
-**Het Nederlandse EPD met AI-ambitie.** FysioRoadmap is specifiek gebouwd voor de Nederlandse fysiotherapiemarkt en biedt een compleet elektronisch patiëntendossier met AI-gedreven functionaliteit.
+Dit zijn selectiecriteria, geen gemeten winnaars. Koop liever niets extra als je bestaande pakket het probleem al oplost.
 
-De AI-module helpt bij anamnese — het systeem herkent patronen in klachten en stelt gerichte vervolgvragen voor. ROM-metingen (Range of Motion) worden automatisch bijgehouden en vergeleken met benchmarks. Behandelplannen worden gesuggereerd op basis van vergelijkbare casussen.
+## FysioRoadmap: beoordeel de administratieve basis
 
-**Prijs:** €80 tot €150 per maand, afhankelijk van praktijkgrootte en modules.
+HCI presenteert FysioRoadmap als praktijksoftware voor fysiotherapeuten. De productpagina beschrijft afspraken beheren, dossiers openen en declaraties starten vanuit de agenda. Ook noemt HCI een koppeling met Physitrack.[1]
 
-**Beste voor:** Fysiotherapeuten die één geïntegreerd systeem willen voor administratie én klinische ondersteuning. Vooral sterk voor praktijken met meerdere therapeuten.
+Onze eerdere beschrijving ging verder: AI die klachtenpatronen herkent, vervolgvragen stelt en behandelplannen uit vergelijkbare casussen voorstelt. Voor die specifieke functies hebben we in de geraadpleegde bron geen onderbouwing gevonden. Daarom raden we het pakket hier niet aan op basis van die klinische AI-beloften.
 
-**Pluspunten:** Volledig Nederlands, AVG-compliant, integreert met zorgverzekeraars, actieve gebruikerscommunity.
+Vraag in een demo om één fictief traject: afspraak aanmaken, verslag invoeren, declaratie voorbereiden en gegevens exporteren. Laat ook zien wat bij een overstap uit je huidige EPD wordt meegenomen en wat handwerk blijft. Zo beoordeel je een mogelijke overstap op dagelijkse bruikbaarheid in plaats van een AI-label.
 
-**Minpunten:** Minder sterk in oefenvideo's dan specialisten zoals Physitrack, leercurve voor oudere gebruikers.
+Kosten: het actuele totaalbedrag is in deze controle niet vastgesteld. Vraag een offerte inclusief gebruikers, modules, migratie en ondersteuning. De eerder vermelde bandbreedte is verwijderd.
 
-## Physitrack
+## Physitrack: oefenprogramma’s nu, camerafunctie nog aangekondigd
 
-**De internationale standaard voor oefentherapie met AI.** Physitrack begon als oefen-app en is uitgegroeid tot een compleet telehealth-platform. De AI-functie begeleidt patiënten door oefeningen heen met realtime feedback via de camera.
+Physitrack beschrijft hoe een behandelaar oefeningen samenstelt en naar de telefoon van de patiënt stuurt. Patiënten volgen hun programma in PhysiApp en registreren sessies en ongemak; de behandelaar kan de voortgang bekijken.[2]
 
-De oefenlibrary bevat duizenden video's met 3D-animaties die precies laten zien hoe een oefening moet. Patiënten krijgen gepersonaliseerde programma''s en de therapeut ziet compliance-statistieken. De telehealth-module maakt videoconsulten mogelijk met geïntegreerde oefen-demonstratie.
+Let op het verschil tussen de homepage en de detailpagina. De homepage noemt Motion Capture, maar de bijbehorende pagina vermeldt “COMING SOON TO PHYSIAPP” en een wachtlijst. De leverancier beschrijft cameragebaseerd tellen van herhalingen en houdingsaanwijzingen, maar zegt ook dat de software geen behandeling aanbeveelt of verandert en geen klinische beslissingen neemt.[3]
 
-**Prijs:** €25 tot €75 per maand, afhankelijk van het aantal therapeuten en patiënten.
+Koop dus niet op de aanname dat automatische camerabegeleiding nu voor jouw patiënten beschikbaar is. Vraag welke functies in Nederland daadwerkelijk zijn vrijgegeven, op welke apparaten ze werken en wat extra kost. Een aangekondigde functie is geen bewezen behandelvoordeel.
 
-**Beste voor:** Therapeuten die oefentherapie digitaal willen aanbieden. Ook ideaal voor combinatie met een los EPD-systeem.
+De door HCI genoemde koppeling maakt Physitrack relevant om naast FysioRoadmap te onderzoeken, maar zegt niets over de beschikbaarheid van iedere afzonderlijke functie.[1] Laat met een fictief oefenprogramma zien welke gegevens heen en weer gaan. Controleer ook of je patiënt zonder cameragebruik en met beperkte digitale vaardigheid verder kan.
 
-**Pluspunten:** Uitstekende oefenbibliotheek, meertalig, sterke telehealth, goede patiënt-engagement.
+Kosten: een actueel Nederlands totaalbedrag is hier niet bevestigd. Vraag naar licenties per behandelaar, eventuele extra diensten en de looptijd.
 
-**Minpunten:** Geen volledig EPD (moet je combineren), internationale tool met AVG-aandachtspunten, prijs kan oplopen bij grote patiëntenaantallen.
+## Intramed: onderscheid planning van AI-verslaglegging
 
-## Intramed
+Intramed beschrijft praktijksoftware en een EPD, met koppelingen waarmee cliënten afspraken kunnen maken of beheren en vooraf formulieren kunnen invullen.[4] Dat onderbouwt niet onze eerdere claim over AI die no-shows voorspelt en automatisch optimale roosters maakt; die claim is geschrapt.
 
-**Nederlandse praktijksoftware met focus op administratie.** Intramed is al jaren een vertrouwde naam in de Nederlandse zorg-ICT. Hun fysiotherapie-module dekt roosters, facturatie, declaraties richting zorgverzekeraars en managementrapportages.
+Er is wél een concreet gedocumenteerde AI-toepassing: Fysio.AI binnen de intake-module. Volgens Intramed wordt het intakegesprek opgenomen en omgezet in een gestructureerd verslag. De leverancier vraagt de gebruiker de verslaglegging te controleren en zo nodig aan te scherpen.[5]
 
-De AI-toevoeging zit in slimme roostering (voorspelt no-shows en stelt optimale afspraakpatronen voor) en declaratie-optimalisatie. Het koppelt naadloos met vrijwel alle Nederlandse zorgverzekeraars.
+Werk je al met Intramed, laat deze koppeling dan eerst met een fictief gesprek demonstreren. Kijk niet alleen of er snel tekst verschijnt: worden ontkenningen goed weergegeven, staat informatie in het juiste veld en kun je een fout eenvoudig herstellen? Reken correctietijd mee voordat je tijdwinst verwacht. We hebben de nauwkeurigheid en tijdsbesparing niet zelf gemeten.
 
-**Prijs:** €60 tot €120 per maand.
+Kosten: Intramed vermeldt drie gratis opnamecredits per praktijk met Intramed Compleet, waarna extra credits kunnen worden gekocht. Eén credit staat voor één gespreksopname.[5] Dit is geen onbeperkt gratis AI-abonnement. De prijs van extra credits en het totale pakketbedrag zijn in deze controle niet vastgesteld.
 
-**Beste voor:** Praktijken die primair een sterke administratieve basis zoeken met Nederlandse support en declaratie-gemak.
+## ZorgDomein: verwijzingen, niet een bewezen AI-behandeladviseur
 
-**Pluspunten:** Diepe integratie met Nederlands zorgstelsel, betrouwbare support, bewezen track record, stabiel.
+De officiële pagina voor paramedici noemt “ZorgDomein voor praktijken”. Het aanbod gaat onder meer over zichtbaar zijn voor verwijzers en koppelingen voor het ontvangen van verwijzingen en uitbrengen van verslagen.[9] In de geraadpleegde pagina’s hebben we geen onderbouwing gevonden voor onze eerdere productnaam “ZorgDomein AI” of de beschreven automatische klinische adviezen.
 
-**Minpunten:** Minder innovatief op AI-vlak dan nieuwere spelers, interface oogt gedateerd, beperkte oefen-functionaliteit.
+ZorgDomein is ook niet zonder meer gratis voor fysiotherapiepraktijken. De gecontroleerde pagina vermeldt €35 per maand voor een praktijk met één of twee zorgverleners, €55 eenmalige registratiekosten en een contract dat na één jaar maandelijks opzegbaar is. Alle genoemde bedragen zijn exclusief btw; voor grotere praktijken gelden hogere tarieven.[9]
 
-## Healthcoin
+Rekenvoorbeeld: twaalf maanden tegen dit starttarief plus registratie is 12 × €35 + €55 = €475 exclusief btw in het eerste jaar. Dit omvat alleen deze twee kostenposten, geen eventuele extra diensten of koppelingen. Vraag het volledige bedrag voor jouw praktijk op; het voorbeeld is geen all-in offerte.
 
-**Preventie en beweegstimulering met AI.** Healthcoin is een relatief nieuwe speler die zich richt op preventie. Het platform gebruikt gamification en AI om patiënten te motiveren meer te bewegen.
+De nuttigste koopvraag is hier: werken jouw verwijzers ermee en komt de informatie bruikbaar in je eigen dossier terecht? Vraag een demonstratie van een verwijzing, inclusief de stappen waarvoor nog handmatige invoer nodig is.
 
-Patiënten verdienen 'coins' voor beweging die gekoppeld worden via wearables (Fitbit, Apple Watch, Garmin). De AI analyseert bewegingspatronen en stuurt gepersonaliseerde aanmoedigingen. Therapeuten krijgen dashboards die laten zien welke patiënten risico lopen op terugval.
+## Waarom Healthcoin en Keet niet meer worden aanbevolen
 
-**Prijs:** €15 tot €45 per maand.
+De eerdere Keet-link kwam bij onze controle uit op Buro KEET, een communicatiebureau, niet op de beschreven patiëntapp.[7] Voor Healthcoin leverde de opgegeven website geen bruikbare productinformatie op. Daarmee kunnen we de genoemde functies, prijzen en beschikbaarheid voor Nederlandse fysiotherapeuten niet verantwoorden. We hebben die aanbevelingen verwijderd, niet stilzwijgend vervangen door een gelijknamig product elders.
 
-**Beste voor:** Therapeuten die preventie en leefstijl centraal stellen. Ook geschikt als aanvulling op een bestaand EPD-oefenprogramma.
+## Patiëntgegevens: geen algemeen AVG-keurmerk
 
-**Pluspunten:** Innovatief gamification-model, sterke wearable-integratie, laagdrempelig, goede engagement.
+Gezondheidsgegevens vallen onder de bijzondere categorieën van persoonsgegevens. Artikel 9 AVG verbiedt de verwerking ervan, tenzij een toepasselijke uitzondering geldt.[10] Een Nederlands webadres of een leveranciersbelofte is daarom geen beoordeling van jouw concrete gebruik.
 
-**Minpunten:** Relatief nieuw, geen EPD-functionaliteit, effectiviteit op lange termijn nog beperkt onderzocht.
+Gebruik vóór aanschaf deze vragenlijst voor de leverancier en je privacyadviseur:
 
-## ZorgDomein AI
+- Welke gegevens en eventuele opnamen worden verwerkt, waarvoor en hoe lang?
+- Wie kan erbij, welke andere verwerkers zijn betrokken en waar vindt verwerking plaats?
+- Worden gegevens gebruikt om modellen te trainen? Welke afspraken en instellingen gelden daarvoor?
+- Welke informatie krijgt de patiënt, en wat is de werkwijze zonder opname?
+- Hoe regel je toegang, export, verwijdering en de benodigde overeenkomsten?
 
-**Slim verwijzen met AI-ondersteuning.** ZorgDomein is een gevestigd Nederlands platform dat huisartsen en specialisten verbindt. De AI-module helpt fysiotherapeuten bij triage: is deze patiënt geschikt voor fysiotherapie of moet die naar een specialist?
+Dit zijn controlepunten, geen juridische vrijgave. Laat de voorwaarden voor je eigen praktijk beoordelen voordat je echte patiëntgegevens gebruikt. Ook een prettig werkende demo bewijst niet dat een klinische AI-functie geschikt is voor jouw toepassing.
 
-Het systeem checkt automatisch wachttijden bij nabijgelegen ziekenhuizen en klinieken, en doet advies over de beste verwijzing. Voor fysiotherapeuten is het platform gratis te gebruiken.
+## Een kleine proef vóór een groot contract
 
-**Prijs:** Gratis voor zorgverleners.
+Neem één terugkerende taak als uitgangspunt. Laat de leverancier die met fictieve gegevens uitvoeren en noteer de handmatige stappen, correcties en ontbrekende koppelingen. Vraag vervolgens de totale kosten op, inclusief implementatie en extra gebruik. Stop als het nieuwe pakket vooral een tweede plek creëert waar je hetzelfde moet invoeren.
 
-**Beste voor:** Elke fysiotherapeut die twijfelt over doorverwijzingen. Essentieel voor praktijken zonder eigen netwerk van specialisten.
+Commerciële transparantie: leverancierslinks zijn bedoeld om productinformatie en voorwaarden te controleren; een link is geen kwaliteitskeurmerk. DutchAITools kan op de site affiliate-links gebruiken. Commerciële afspraken mogen geen reden zijn om onbevestigde functies aan te bevelen. Dit artikel bevat geen eigen testresultaten of betaalde kwaliteitscores.
 
-**Pluspunten:** Gratis, breed geaccepteerd in Nederlandse zorg, actuele wachttijden, AVG-compliant.
+## Bronnen
 
-**Minpunten:** Geen therapeutische tool, puur voor verwijzingen, afhankelijk van deelname andere zorgverleners in de regio.
-
-## Keet
-
-**Patiëntcommunicatie opnieuw uitgevonden.** Keet is een Nederlandse app die de communicatie tussen fysiotherapeut en patiënt stroomlijnt. Patiënten doen self-service intake via de app, krijgen automatische afspraakherinneringen, en kunnen oefenvideo's bekijken.
-
-De AI-component helpt bij gepersonaliseerde feedback: het systeem analyseert hoe patiënten reageren op behandelingen en stelt bijsturing voor. Ook het afspraakproces wordt geoptimaliseerd met voorspellende planning.
-
-**Prijs:** €30 tot €80 per maand.
-
-**Beste voor:** Therapeuten die veel tijd kwijt zijn aan intake en communicatie en dit willen automatiseren.
-
-**Pluspunten:** Modern en gebruiksvriendelijk, sterke app-ervaring, goede integratie met bestaande systemen, Nederlands.
-
-**Minpunten:** Relatief klein bedrijf (continuïteitsrisico), functionaliteit overlapt deels met EPD-systemen.
-
-## Vergelijkingstabel
-
-| Tool | Prijs | Beste voor | Score |
-|------|-------|-----------|-------|
-| FysioRoadmap | €80-150/mnd | EPD & administratie | ★★★★½ |
-| Physitrack | €25-75/mnd | Oefenprogramma''s & telehealth | ★★★★½ |
-| Intramed | €60-120/mnd | Praktijkmanagement NL | ★★★★ |
-| Healthcoin | €15-45/mnd | Preventie & beweging | ★★★★ |
-| ZorgDomein AI | Gratis | Doorverwijzing | ★★★★ |
-| Keet | €30-80/mnd | Patiëntcommunicatie | ★★★★ |
-
-## Welke tool kies jij?
-
-**Voor de startende solo-praktijk:** Begin met FysioRoadmap als basis. Voeg Physitrack toe zodra je oefenprogramma''s digitaal wilt aanbieden. ZorgDomein is een no-brainer als gratis aanvulling.
-
-**Voor de middelgrote groepspraktijk:** FysioRoadmap of Intramed als EPD-basis, afhankelijk of je meer klinische of administratieve ondersteuning wilt. Physitrack voor oefentherapie. Keet of Healthcoin voor extra patiëntbetrokkenheid.
-
-**Voor de preventiegerichte praktijk:** Healthcoin als kern, aangevuld met Physitrack voor oefenprogramma''s en ZorgDomein voor het verwijzingsnetwerk.
-
-**Voor de hybride praktijk (online + fysiek):** Physitrack is onmisbaar vanwege de sterke telehealth. Combineer met Keet voor intake en communicatie, en een EPD naar keuze voor de basis.
-
----
-
-## Lees ook
-
-- [AFAS vs Exact vs Odoo vs SAP Business One 2026: beste ERP-software voor Nederlandse MKB](/afas-vs-exact-vs-odoo-vs-sap-business-one-2026/)
-- [AI Agents vs AI Workflows: Wat Werkt in de Nederlandse Praktijk?](/ai-agents-vs-ai-workflows-praktijk-nederland-2026/)
-- [Privacy & AI: Welke AI Tools Voldoen aan de AVG in 2026?](/ai-avg-compliance-tools-2026/)
+- [1] [HCI FysioRoadmap: praktijksoftware en koppelingen](https://hci-software.com/fysioroadmap)
+- [2] [Physitrack: oefenprogramma’s en voortgang](https://www.physitrack.com)
+- [3] [Physitrack Motion Capture: aangekondigde functie](https://www.physitrack.com/motion-capture)
+- [4] [Intramed: praktijksoftware](https://www.intramed.nl)
+- [5] [Intramed Fysio.AI: intakeverslagen en opnamecredits](https://www.intramed.nl/producten/fysio-ai)
+- [7] [Buro KEET: communicatiebureau op de oude bestemming](https://www.keet.nl)
+- [9] [ZorgDomein voor praktijken: aanbod, tarieven en voorwaarden](https://zorgdomein.com/zorgprofessional/eerstelijns-zorgaanbieders)
+- [10] [AVG: artikel 9 over bijzondere persoonsgegevens](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32016R0679)
