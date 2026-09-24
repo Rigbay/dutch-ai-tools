@@ -1,9 +1,8 @@
 ---
 
-title: 'Beste AI Tools voor de Horeca 2026: top 7 horeca-AI vergeleken'
+title: 'AI-tools voor horeca-ondernemers (2026): het praktische overzicht'
 slug: beste-ai-tools-horeca-2026
-description: AI tools voor horeca, cafés, restaurants en hotels in 2026. Vergelijk
-  de beste AI voor reserveringen, menubeheer, personeelsplanning, reviews en gastbeleving.
+description: 'Personeelsplanning, marketing en reviews: zo zet je AI concreet in je horecazaak. Overzicht van de beste tools van 2026.'
 category: productiviteit
 rating: 4.3
 priceRange: EUR 0-100/mnd

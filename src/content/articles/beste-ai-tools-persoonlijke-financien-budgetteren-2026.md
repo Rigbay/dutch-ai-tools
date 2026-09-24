@@ -1,7 +1,7 @@
 ---
-title: 'Beste AI tools voor persoonlijke financiën en budgetteren in Nederland 2026'
+title: 'AI voor je geldzaken: de beste tools voor budgetteren (2026)'
 slug: beste-ai-tools-persoonlijke-financien-budgetteren-2026
-description: 'Vergelijk AI tools voor automatische uitgaven tracking, budgetplanning, spaardoelen en financiële inzichten voor Nederlandse consumenten. iDEAL, bankintegraties en AVG-compliance.'
+description: 'Budgetteren, besparen en inzicht in je uitgaven — met AI. De beste tools voor persoonlijke financiën, helder vergeleken.'
 category: persoonlijk
 rating: 4.5
 priceRange: '€20-€200/maand'

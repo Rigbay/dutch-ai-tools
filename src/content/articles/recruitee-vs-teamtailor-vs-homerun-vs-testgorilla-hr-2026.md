@@ -1,8 +1,8 @@
 ---
 
-title: 'Beste Recruitee vs Teamtailor vs Homerun vs TestGorilla recruitment HR tools in 2026: Eerlijke Vergelijking + Prijzen'
+title: 'Recruitee vs Teamtailor vs Homerun vs TestGorilla (2026): welke HR-tool wint?'
 slug: 'recruitee-vs-teamtailor-vs-homerun-vs-testgorilla-hr-2026'
-description: 'Vergelijk Recruitee, Teamtailor, Homerun & TestGorilla in 2026. Vind de beste NL recruitment HR tool voor jouw bedrijf. Prijzen & features.'
+description: 'HR-software vergelijken? Eerlijke vergelijking van Recruitee, Teamtailor, Homerun en TestGorilla — met een winnaar per situatie.'
 category: business
 rating: 4.4
 priceRange: EUR 0-699/mnd

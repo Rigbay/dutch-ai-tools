@@ -1,10 +1,8 @@
 ---
 
-title: 'Beste AI Tools voor Reizen & Vakantieplanning 2026: top 7 vergeleken'
+title: 'De 7 beste AI-tools voor reis- en vakantieplanning (2026)'
 slug: beste-ai-reizen-vakantieplanning-tools-2026
-description: AI tools voor reisplanning, vluchtboeking en vakantieorganisatie in 2026.
-  Vergelijk Google Travel, TripIt, Hopper, Kayak, Roadtrippers, PackPoint en Roam
-  Around voor de beste.
+description: 'Plan je vakantie slimmer met AI: van route tot budget. De 7 beste tools voor reisplanning in 2026, vergeleken.'
 category: technologie
 rating: 4.5
 priceRange: EUR 0-50/mnd

@@ -1,7 +1,7 @@
 ---
-title: 'Beste AI Tools voor Mode & Styling 2026: top 6 tools vergeleken'
+title: 'AI voor mode & styling: de beste tools van 2026'
 slug: beste-ai-tools-mode-styling-2026
-description: 'Ontdek de beste AI tools voor mode en styling in 2026. Van AI-gedreven kledingontwerp tot virtuele passpiegels en trend forecasting.'
+description: 'Van virtuele paskamers tot stijladvies: de AI-tools die mode en styling in 2026 veranderen, vergeleken.'
 category: creatie
 rating: 4.8
 priceRange: 'EUR 15-200/mnd'

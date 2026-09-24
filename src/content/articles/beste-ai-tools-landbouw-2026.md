@@ -1,8 +1,7 @@
 ---
-title: 'Beste AI Tools voor Landbouw & Agri-Tech 2026: Precisielandbouw & Gewasmonitoring'
+title: 'AI en digitale tools voor de landbouw: de beste van 2026'
 slug: beste-ai-tools-landbouw-2026
-description: 'AI landbouw tools in 2026: vergelijk AI-gestuurde precisielandbouw, gewasmonitoring, oogstvoorspelling en veestapelbeheer
-  platforms.'
+description: 'Van precisielandbouw tot administratie: de AI-tools die Nederlandse boeren in 2026 echt verder helpen.'
 category: business
 rating: 4.1
 priceRange: EUR 0-200/maand

@@ -1,7 +1,7 @@
 ---
-title: 'Beste AI Tools voor Gaming & Game-Ontwikkeling 2026: NPC''s, Assets & QA'
+title: 'Beste AI-tools voor gamers (2026): van gamebuddy tot content'
 slug: beste-ai-tools-gaming-2026
-description: 'AI gaming tools in 2026: vergelijk AI-tools voor NPC-gedrag, world-building, asset-creatie, QA-testing en game-ontwikkeling.'
+description: 'AI verandert gamen: slimmere tegenstanders, eigen mods en content. De beste AI-tools voor gamers in 2026.'
 category: technologie
 rating: 4.3
 priceRange: EUR 0-100/maand
