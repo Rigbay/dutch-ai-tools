@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { loadRegistry, resolveAffiliateUrl, detectMerchant, canRenderAffiliate, merchantMatchesTool, resolveSafeDirectProviderUrl } from '../lib/affiliateRegistry.ts';
 
-const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+const allArticles = await getCollection('articles', ({ data }) => !data.draft && data.presentation !== 'guide');
 const registry = loadRegistry();
 const SITE_ID = 'dutch-ai-tools';
 

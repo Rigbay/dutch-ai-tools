@@ -40,7 +40,7 @@ const categoryData = Object.keys(categoryLabels).map(cat => {
   const count = catArticles.length;
 
   // Top 4 articles as "top comparisons" representing top tools
-  const topArticles = catArticles.slice(0, 4).map(article => {
+  const topArticles = catArticles.filter(a => a.data.presentation !== 'guide').slice(0, 4).map(article => {
     const data = article.data;
     // Try to extract a primary affiliate link using registry
     let affiliateUrl: string | null = null;

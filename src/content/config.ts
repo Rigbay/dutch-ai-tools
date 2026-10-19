@@ -10,9 +10,9 @@ const toolSchema = z.object({
   affiliateLink: z.string().min(1)
 });
 
-const articles = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
-  schema: z.object({
+const comparisonSchema = z.object({
+    presentation: z.literal('comparison').optional(),
+    metaTitle: z.string().optional(),
     title: z.string(),
     slug: z.string(),
     description: z.string().min(80).max(180),
@@ -34,7 +34,26 @@ const articles = defineCollection({
       q: z.string(),
       a: z.string()
     })).min(3)
-  })
+});
+
+// Guides carry no product ratings, prices or provider cards. Comparisons retain
+// their existing requirements (including at least three tools).
+const guideSchema = comparisonSchema.omit({
+  presentation: true, rating: true, priceRange: true, pros: true, cons: true,
+  affiliateLinks: true, featuredTool: true, readingTime: true, tools: true
+}).extend({
+  presentation: z.literal('guide'),
+  rating: z.never().optional(),
+  priceRange: z.never().optional(),
+  featuredTool: z.never().optional(),
+  readingTime: z.never().optional(),
+  affiliateLinks: z.array(z.string()).max(0).default([]),
+  tools: z.array(toolSchema).max(0).default([])
+});
+
+const articles = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
+  schema: z.union([guideSchema, comparisonSchema])
 });
 
 export const collections = { articles };

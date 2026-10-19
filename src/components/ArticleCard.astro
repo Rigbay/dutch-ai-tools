@@ -6,6 +6,6 @@ const {data} = article;
 const labels:Record<string,string> = {productiviteit:'Productiviteit',marketing:'Marketing',creatie:'Beeld & creatie',development:'Development',business:'Bedrijfsvoering',technologie:'Technologie','huis-tuin':'Huis & tuin',persoonlijk:'Persoonlijk'};
 ---
 <article class="article-card" data-search-item data-search={`${data.title} ${data.description} ${data.tools.map(t=>t.name).join(' ')}`.toLocaleLowerCase('nl')} data-category={data.category}>
- <div class="article-meta"><span>{labels[data.category] || data.category}</span><time datetime={data.date.toISOString()}>{data.date.toLocaleDateString('nl-NL',{day:'numeric',month:'short',year:'numeric'})}</time><span>{data.readingTime}</span></div>
+ <div class="article-meta"><span>{labels[data.category] || data.category}</span><time datetime={data.date.toISOString()}>{data.date.toLocaleDateString('nl-NL',{day:'numeric',month:'short',year:'numeric'})}</time>{data.readingTime && <span>{data.readingTime}</span>}</div>
  <h3><a href={`/${data.slug}/`}>{data.title}</a></h3><p>{data.description}</p>
 </article>
