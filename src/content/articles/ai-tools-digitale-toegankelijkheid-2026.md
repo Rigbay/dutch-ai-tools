@@ -62,45 +62,11 @@ Werkwijze en bronnen: deze tekst is met AI-hulp opgesteld uit de hieronder genoe
 
 Sommige links op deze site zijn partnerlinks. Als je via zo’n link iets afsluit, kan Dutch AI Tools commissie ontvangen. Dat verandert niets aan de noodzaak om de tool op je eigen taak en toegestane gegevens te beoordelen.[[6]](#bron-6)
 
-## Sources
+## Bronnen
 
-
-<span id="bron-3">[3]</span> https://www.w3.org/WAI/test-evaluate/tools/selecting — wai-selecting
-
-> "Tools cannot check all accessibility aspects automatically. Human judgement is required."
-
-> "Sometimes evaluation tools can produce false or misleading results."
-
-> "Some tools check a single page, while others check entire groups of related pages."
-
-<span id="bron-4">[4]</span> https://wave.webaim.org — wave
-
-> "WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content."
-
-> "You can use the online WAVE tool by entering a web page address (URL) in the field above."
-
-<span id="bron-6">[6]</span> https://dutchaitools.nl/over — site-method
-
-> "Die zijn geen gemeten benchmark of gebruikerswaardering."
-
-<span id="bron-7">[7]</span> https://wave.webaim.org/extension — wave-extension
-
-> "Because the extension runs entirely within your web browser, no information is sent to the WAVE server."
-
-> "Because the WAVE extension evaluates the rendered version of your page, styles and dynamically-generated content from scripting can be evaluated."
-
-<span id="bron-8">[8]</span> https://www.deque.com/axe/devtools/extension — axe-extension
-
-> "Axe DevTools Extension (Free)"
-
-> "The free Axe DevTools Extension only provides automated testing, and you can only test one page at a time."
-
-> "The “Pro” version adds machine learning enhancements, guided manual testing, and collaboration capabilities for more comprehensive coverage."
-
-<span id="bron-9">[9]</span> https://www.w3.org/WAI/test-evaluate/preliminary — Easy Checks; saved web_extract representation
-
-> "The checks on this page are not definitive; a web page could seem to pass these checks, yet still have significant accessibility barriers."
-
-> "Press the 'Tab' key to move through the elements on the page. You can press 'Shift-Tab' to go backwards."
-
-> "Visual focus: Check that the focus is clearly visible as you tab through the elements"
+- <span id="bron-3">[3]</span> [W3C WAI — Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting)
+- <span id="bron-4">[4]</span> [WebAIM — WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org)
+- <span id="bron-6">[6]</span> [Over Dutch AI Tools: werkwijze, partnerlinks en beperkingen](https://dutchaitools.nl/over)
+- <span id="bron-7">[7]</span> [WebAIM — WAVE Browser Extensions](https://wave.webaim.org/extension)
+- <span id="bron-8">[8]</span> [Deque — Axe DevTools Extension](https://www.deque.com/axe/devtools/extension)
+- <span id="bron-9">[9]</span> [W3C WAI — Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary)
