@@ -8,7 +8,7 @@ date: 2026-07-09
 updatedDate: '2026-10-30'
 modelYear: 2026
 related:
-  - beste-ai-image-generators-2026
+  - gamma-vs-beautiful-ai-vs-tome-2026
 draft: false
 faq:
   - q: 'Kan ik Midjourney gratis op de website of in Discord proberen?'
