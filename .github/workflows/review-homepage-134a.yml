@@ -30,11 +30,10 @@ jobs:
           git rev-parse HEAD^ > review-proof/source-parent.txt
           sha256sum package-lock.json src/pages/index.astro > review-proof/source-sha256.txt
           find dist -type f -print0 | sort -z | xargs -0 sha256sum > review-proof/dist-sha256.txt
-      - name: Return bounded review bytes through job log
+      - name: Report bounded build evidence
         run: |
-          tar -czf review-dist.tar.gz dist review-proof
-          test "$(stat -c%s review-dist.tar.gz)" -le 20971520
-          sha256sum review-dist.tar.gz
-          echo REVIEW_ARCHIVE_BEGIN_134a7e94
-          base64 -w76 review-dist.tar.gz
-          echo REVIEW_ARCHIVE_END_134a7e94
+          echo SOURCE_COMMIT=134a7e94cd3e037cf561e72b59c0e8014dcfebf4
+          sha256sum dist/index.html
+          test -f dist/n8n-vs-make-vs-zapier-2026/index.html
+          du -sb dist
+          find dist -type f | wc -l
