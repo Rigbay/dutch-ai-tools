@@ -8,9 +8,17 @@ jobs:
   build-only:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: candidate
     steps:
       - uses: actions/checkout@v4
         with:
+          path: review-support
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          path: candidate
           ref: 134a7e94cd3e037cf561e72b59c0e8014dcfebf4
           persist-credentials: false
           fetch-depth: 2
@@ -38,3 +46,8 @@ jobs:
           test -f dist/n8n-vs-make-vs-zapier-2026/index.html
           du -sb dist
           find dist -type f | wc -l
+      - name: Execute exact independent hosted review
+        run: |
+          echo "ea0ecf69b39aa106faebe17f45335ea437793ed80a532a7889361f31c8717759  $GITHUB_WORKSPACE/review-support/.github/review/hosted-browser-review-v2.py" | sha256sum -c -
+          export PATH="$CHROMEWEBDRIVER:$PATH"
+          python3 "$GITHUB_WORKSPACE/review-support/.github/review/hosted-browser-review-v2.py" dist
