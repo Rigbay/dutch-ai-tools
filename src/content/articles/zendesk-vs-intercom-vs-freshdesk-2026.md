@@ -1,157 +1,106 @@
 ---
-
-title: 'Zendesk vs Intercom vs Freshdesk 2026: beste klantenservice platform voor
-  Nederlandse bedrijven'
-slug: zendesk-vs-intercom-vs-freshdesk-2026
-description: Vergelijk Zendesk, Intercom en Freshdesk in 2026. Welk klantenservice
-  platform past bij jouw Nederlandse bedrijf? Prijzen, features en AI-mogelijkheden
-  vergeleken.
-category: business
-rating: 4.5
-priceRange: EUR 0-150/mnd
-featuredTool: Zendesk
-readingTime: 12 min
-pros:
-- Gebaseerd op actuele marktvergelijking 2026 met concrete prijzen
-- Focus op Nederlandse gebruikers en AVG/GDPR-compliance
-- Eerlijke voor- en nadelen per platform
-cons:
-- Prijzen kunnen wijzigen — check de aanbieder voor actuele tarieven
-- Features veranderen snel in de SaaS-markt
-- Sommige tools zijn primair Engelstalig
-affiliateLinks:
-- https://www.beehiiv.com/
-tools:
-- name: Zendesk
-  verdict: Meest complete enterprise CX-platform met AI-agents en omnichannel support
-  priceRange: EUR 19-150/mnd
-  bestFor: Middelgrote tot grote bedrijven
-  rating: 4.7
-  affiliateLink: https://www.zendesk.com/
-- name: Intercom
-  verdict: Beste AI-first platform met Fin AI agent en proactieve messaging
-  priceRange: EUR 29-139/mnd
-  bestFor: SaaS en techbedrijven
-  rating: 4.6
-  affiliateLink: https://www.intercom.com/
-- name: Freshdesk
-  verdict: Betaalbaar alternatief met sterke automatisering en multi-channel support
-  priceRange: EUR 0-79/mnd
-  bestFor: MKB en startups
-  rating: 4.5
-  affiliateLink: https://www.freshworks.com/freshdesk/
-- name: Gorgias
-  verdict: Specifiek voor e-commerce met diepe Shopify/WooCommerce integratie
-  priceRange: EUR 10-150/mnd
-  bestFor: Webshops
-  rating: 4.4
-  affiliateLink: https://www.gorgias.com/
-- name: Dixa
-  verdict: Deens platform met sterke focus op persoonlijke klantrelaties en conversational
-    AI
-  priceRange: EUR 39-139/mnd
-  bestFor: Europese merken
-  rating: 4.3
-  affiliateLink: https://www.dixa.com/
-- name: Trengo
-  verdict: Nederlands platform! Alle kanalen in één inbox met slimme automatisering
-  priceRange: EUR 0-75/mnd
-  bestFor: Nederlandse MKB
-  rating: 4.5
-  affiliateLink: https://www.trengo.com/
-- name: Help Scout
-  verdict: Eenvoudig, menselijk supportplatform zonder ticketnummers
-  priceRange: EUR 25-65/mnd
-  bestFor: Kleine support teams
-  rating: 4.4
-  affiliateLink: https://www.helpscout.com/
-draft: false
+title: "Zendesk, Intercom of Freshdesk voor een klein supportteam: zo reken je seats en AI-kosten uit"
+slug: "zendesk-vs-intercom-vs-freshdesk-2026"
+description: "Voor een supportteam van vijf: wat je betaalt voor seats, AI-agents en Copilot bij Zendesk, Intercom en Freshdesk, en hoe je een begrensde test opzet."
+category: "business"
+presentation: "guide"
 date: 2026-05-29
+updatedDate: 2026-11-16
 modelYear: 2026
+draft: false
 related:
-  - beste-ai-tools-klantenservice-2026
-  - beste-ai-chatbots-2026
-  - beste-ai-tools-ecommerce-2026
+  - "ai-agents-vs-ai-workflows-praktijk-nederland-2026"
 faq:
-- q: "Welke klantenservicetool is het beste voor Nederlandse bedrijven?"
-  a: 'Zendesk is de meest complete oplossing met de beste integraties. Intercom is ideaal voor SaaS-bedrijven die proactieve chat willen. Freshdesk biedt de beste prijs-kwaliteit voor groeiende MKBs.'
-- q: "Ondersteunen deze tools Nederlandse meertaligheid?"
-  a: 'Ja, alle drie ondersteunen meertaligheid. Zendesk heeft de beste vertaalfuncties. Intercom biedt AI-gedreven automatische vertaling. Freshdesk ondersteunt 40+ talen.'
-- q: "Wat kost een klantenserviceplatform voor 5 medewerkers?"
-  a: 'Zendesk Suite Team kost ongeveer 55 EUR/medewerker/maand. Intercom Start kost 39 EUR/medewerker/maand. Freshdesk Free is gratis, Growth kost 18 EUR/medewerker/maand.'
+  - q: "Is Freshdesk gratis?"
+    a: "Naast de proef van 14 dagen beschrijft Freshdesk een optioneel Free Program: maximaal twee agents, zes maanden, alleen Freshdesk en niet Freshdesk Omni. Je moet dit programma bewust kiezen; bij de overstap kunnen functies en proefconfiguraties verloren gaan. Beschikbaarheid voor jouw Nederlandse account is niet getest. Een team van vijf past hier niet ongewijzigd in. Dit programma bevestigt geen AI-tegoed. Voor de betaalde plannen noemen de bronnen een eenmalig tegoed van 500 AI-sessies voor nieuwe klanten, maar spreken elkaar tegen over Growth. Controleer het tegoed in je account; het is geen maandelijks recht."
+  - q: "Wat kost Intercom voor vijf medewerkers?"
+    a: "Intercom rekent in dollars. Essential staat bij jaarbetaling op 29 USD per seat per maand. Als de genoemde nieuwe-klantenactie op jouw account van toepassing is, wordt dat 19 USD per seat en dus 95 USD voor vijf seats, plus Fin-gebruik en eventueel Copilot Unlimited. De actie noemt behoud van de korting zolang je geabonneerd blijft; controleer de toepasselijke voorwaarden. Er is geen btw-berekening uitgevoerd en het checkouttotaal is onbekend."
+  - q: "Kan ik de prijs per AI-oplossing van de drie aanbieders vergelijken?"
+    a: "Niet direct. Intercom rekent per outcome, Freshdesk per sessie (bij e-mail een venster van 72 uur) en Zendesk per geverifieerde automatische oplossing. Wat telt, verschilt per aanbieder, dus een lagere prijs per eenheid zegt niets over hoeveel vragen de AI echt goed afhandelt."
+  - q: "Werkt de AI-agent goed in het Nederlands?"
+    a: "Dat hebben we niet getest. Zendesk noemt vertaling van AI-antwoorden in meer dan 80 talen, Freshdesk heeft een meertalige helpdesk vanaf Pro en Intercom een meertalig helpcenter vanaf Advanced. Of de antwoorden in jouw Nederlandse tickets kloppen, moet je zelf testen."
 ---
 
-## Lees ook
+Deze gids is voor een klantenserviceteam van ongeveer vijf mensen dat twijfelt tussen Zendesk, Intercom en Freshdesk. We kiezen geen winnaar. Wel laten we zien welke kosten je naast elkaar zet, welke je juist niet bij elkaar optelt, en hoe je met een kleine test ontdekt wat een AI-agent bij jou oplevert. Alle prijzen komen van de pagina's van de aanbieders, gelezen op 4 november 2026; de Intercom-bronnen over Copilot, de Essential-maandprijs en Fin-proefbeperkingen, de Freshdesk-uitleg over het Free Program en de Zendesk-voorwaarden voor het jaarlijkse tegoed zijn gecontroleerd op 5 november 2026. Op 16 november 2026 zijn de belangrijkste seatprijzen, AI-tarieven, proeftegoeden en afrekenregels opnieuw gecontroleerd. Dit is een gerichte broncontrole, geen account- of producttest. We voeren geen btw-berekening uit. Of de genoemde bedragen btw bevatten en wat jouw checkouttotaal wordt, hebben we niet vastgesteld.
 
-- [AI Tools voor het MKB: Waar Begin Je als Ondernemer in 2026?](/ai-tools-mkb-starten-2026/)
-- [AI voor Data Analyse 2026: Spreadsheet AI, Automated Insights en Business Intelligence](/ai-voor-data-analyse-2026/)
-- [AI voor E-commerce 2026: Productbeschrijvingen, Aanbevelingen en Personalisatie](/ai-voor-ecommerce-2026/)
+## Drie soorten kosten
 
-## Waarom een goed klantenservice platform in 2026 onmisbaar is  
+Bij de hier vergeleken seatplannen bestaat de rekening uit losse onderdelen:
 
-In 2026 zijn klantverwachtingen hoger dan ooit. Nederlandse bedrijven moeten sneller, beter en transparanter communiceren met klanten, of ze nu een e-commerceplatform runnen, een SaaS-product leveren of een traditionele dienstverlener zijn. De AI-revolutie heeft de klantenservice radicaal veranderd: automatisering, voorspellende analyses en AI-gebaseerde oplossingen zijn niet langer luxetoepassingen, maar essentiële onderdelen van een succesvolle klantenservice. Bovendien is omnichannel support geen luxe meer, maar een minimumvereiste. Klanten verwachten dat ze via e-mail, live chat, social media, telefoon en zelfs in-app kunnen communiceren, zonder dat hun gesprekken verloren gaan in een chaos van platforms. Voor Nederlandse bedrijven is het daarom cruciaal om te investeren in een robuuste klantenservice oplossing die deze eisen aan kan.  
+1. **De helpdesk zelf**, per medewerker (seat) per maand. Bij jaarbetaling is die prijs lager, maar je legt je dan voor een jaar vast.
+2. **De AI-agent** die zelfstandig klanten antwoordt. Die betaal je per gebruik, en elke aanbieder telt dat gebruik anders.
+3. **Een AI-assistent voor medewerkers**, meestal Copilot genoemd. Controleer welk beperkt gebruik inbegrepen is en wanneer je een aparte add-on per medewerker nodig hebt. Bij Intercom krijgen medewerkers met een geschikte full seat tot 10 Copilot-gesprekken of tickets per kalendermaand zonder extra kosten; unlimited is een optionele betaalde uitbreiding, met fair-usegrenzen. Zie de [Intercom-uitleg over inbegrepen en unlimited gebruik](https://www.intercom.com/help/en/articles/9121384-copilot-included-and-unlimited-usage).
 
-## Wat deze tools precies doen  
+Een seat, een ticket, een AI-outcome, een e-mailsessie van 72 uur en een Copilot-gesprek zijn verschillende dingen. Tel ze dus niet op tot één prijs per vraag.
 
-Een goed klantenservice platform biedt meerdere kernfunctionaliteiten. Ten eerste is er een **ticketing systeem**, dat klantvragen automatisch in tickets omzet en zorgt dat geen enkele klacht verloren gaat. **Live chat** is een essentieel onderdeel voor directe communicatie, zodat klanten onmiddellijk hulp krijgen. Een **kennisbank** helpt zowel klanten als medewerkers snel antwoorden te vinden op veelvoorkomende vragen. **AI-automatisering** maakt het mogelijk om klantvragen te beantwoorden via chatbots of automatische e-mails, terwijl **omnichannel support** ervoor zorgt dat klanten overal, op elk moment, met het bedrijf kunnen communiceren. Deze functionaliteiten vormen de basis van platforms zoals Zendesk, Intercom en Freshdesk.  
+## Wat telt als één AI-eenheid?
 
-## Zendesk: de enterprise-krachtpatser  
+| Aanbieder | Eenheid | Je betaalt niet als… | Prijs per eenheid |
+|---|---|---|---|
+| Intercom | Fin-supportresolutie of Procedure-overdracht | de klant zelf om een mens vraagt | 0,99 USD; saleskwalificaties hebben een ander tarief. |
+| Freshdesk | Freddy-sessie | geen uitzondering vermeld: een sessie is een tijdvenster | Handmatige pakketten: 49 USD of 45 EUR per 100; automatisch aanvullen heeft afwijkende broninformatie. |
+| Zendesk | Automatische oplossing; controleer je factureringsmodel | het gesprek is geëscaleerd | Alleen als het oudere AR-schema geldt: 2,00 EUR los of 1,50 EUR vooraf. Nieuw niveaumodel: tarief niet vastgesteld. |
 
-Zendesk is de allereerste naam die bij veel Nederlandse bedrijven in de hoofdlijn komt wanneer het gaat om klantenservice. Het is een **enterprise-krachtpatser**, gericht op grootschalige organisaties die complexe integraties en hoge mate van personalisatie vereisen. Een van de grootste sterke punten van Zendesk is het **brede netwerk van integraties**: het ondersteunt meer dan 400 tools, waaronder populaire SaaS-oplossingen als Salesforce, HubSpot en Slack. Dit maakt het ideaal voor bedrijven die al een complex tech-ecosysteem hebben.  
+**[Intercom](https://www.intercom.com/pricing)** telt een outcome als de klant zegt dat het opgelost is, of na het laatste AI-antwoord geen hulp meer vraagt. Vertrekt de klant zonder te reageren, dan telt dat dus ook als outcome. Daarnaast telt een door jou ingestelde *Procedure* die eindigt in een overdracht aan een medewerker als outcome. Vraagt de klant zelf om een mens, dan betaal je volgens de [helppagina over outcomes](https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes) niets. Je betaalt hooguit één outcome per gesprek. De prijs van 0,99 USD geldt voor deze supportresoluties en Procedure-overdrachten via chat en e-mail. Dezelfde helppagina noemt 9,99 USD voor een saleskwalificatie; dat gebruik valt buiten onze berekening. Voor Fin via de telefoon verwijst Intercom naar sales.
 
-Een andere sterkte is **AI agents**. Zendesk biedt geavanceerde AI-tools die automatisch tickets kunnen classificeren, antwoorden genereren en zelfs klantvragen kunnen beantwoorden zonder dat een menselijke medewerker in het midden moet komen. Daarnaast heeft Zendesk een **marktplaats**, waar klantenservice tools en add-ons van derde partijen beschikbaar zijn. Deze flexibiliteit is een sterk punt voor bedrijven die op maat willen bouwen.  
+**[Freshdesk](https://www.freshworks.com/nl/freshdesk/pricing/)** rekent per sessie. Bij de e-mail-AI-agent is een sessie een venster van 72 uur vanaf de eerste mail van de klant, hoe vaak er ook gereageerd wordt. De chat-AI-agent heeft sessies van 24 uur, maar is volgens de [Freshdesk-helppagina](https://support.freshdesk.com/support/solutions/articles/50000011515-manage-freddy-ai-add-ons) alleen beschikbaar in Freshdesk Omni, een ander product waarvan we de prijs niet hebben bekeken.
 
-Hoewel Zendesk bijzonder krachtig is, zijn er ook nadelen. De **prijs** is een van de grootste beperkingen. Voor een klein of middenbedrijf is Zendesk vaak te duur, met abonnementen die kunnen beginnen vanaf €50 per agent per maand. Bovendien is het platform **complex**, wat extra training en support vereist. Zendesk is daarom vooral geschikt voor **enterprise-organisaties** met een grootschalige klantenservice afdeling en een budget dat toestaat om investeren in een full-fledged platform.  
+**[Zendesk](https://www.zendesk.nl/pricing/)** rekent per automatische oplossing: een gesprek dat niet naar een medewerker is geëscaleerd en dat een taalmodel als opgelost beoordeelt. Een e-mailgesprek wordt na 72 uur beoordeeld, een chatgesprek standaard na 2 uur. Let op: volgens de [Zendesk-helppagina over resolutieniveaus](https://support.zendesk.com/hc/en-us/articles/9570369117338) bestaat sinds 18 mei 2026 een nieuw model met een resolutietegoed en verschillende niveaus. Welk model een nieuwe klant nu krijgt en wat een oplossing in dat nieuwe model kost, staat niet op de pagina's die we lazen. De op 10 november 2026 voor nieuwe klanten ingegane [voorwaarden](https://support.zendesk.com/hc/en-us/articles/4408831944730-Supplemental-terms-Zendesk-s-service-specific-terms) onderscheiden bovendien een Outcome AI Platform met onbeperkte seats van seatplannen. Onze seatberekening is geen offerte voor dat platform. Vraag na welk model geldt voordat je een Zendesk-offerte als compleet ziet.
 
-## Intercom: AI-first met Fin  
+## Welk plan heb je minimaal nodig?
 
-Intercom heeft zich in 2026 als een **AI-first platform** opgerold, met het hoofdrolspeler **Fin**, een geavanceerde AI-agent die in staat is om klantvragen te beantwoorden, e-mails te schrijven en zelfs marketingstrategieën te optimaliseren. Het is een **proactieve messaging tool**, wat betekent dat het bedrijf kan communiceren met klanten voordat er een probleem ontstaat. Bijvoorbeeld: als een klant een product heeft gekocht, kan Intercom automatisch een bericht sturen met een handleiding of een aanbod voor een service.  
+Kijk eerst welke kanalen je gebruikt, want dat bepaalt het plan:
 
-Een van de sterke punten van Intercom is zijn **SaaS-focus**. Het is ontworpen voor bedrijven die een klankbord van klanten willen bouwen en die klantengedrag willen analyseren om producten en diensten te verbeteren. De platform biedt ook **geavanceerde analyse tools**, waarmee bedrijven kunnen zien welke klantvragen het vaakst voorkomen, welke kanalen het meest effectief zijn en hoe klanten zich gedragen op verschillende levensfasen.  
+- **Zendesk**: Support Team (19 EUR bij jaarbetaling) is een e-mail- en ticketsysteem. Messaging, live chat en telefonie komen pas bij Suite Team (55 EUR bij jaarbetaling, 69 EUR maandelijks), waar Zendesk ook de AI-agents noemt. Support Team en Suite Team zijn dus niet hetzelfde product in een andere prijs.
+- **Intercom**: alle plannen hebben live chat en inkomende support-e-mail zonder extra kosten. WhatsApp-campagnes, sms, telefoon en bulkmail kosten per gebruik. Alleen een betaalde full seat mag berichten sturen.
+- **Freshdesk**: Growth wordt omschreven als AI-service via e-mail. Een meertalige helpdesk zit pas in Pro. Copilot kun je alleen bij Pro en Enterprise bijkopen.
 
-Hoewel Intercom krachtig is, heeft het ook nadelen. De **prijs** is bijvoorbeeld hoger dan bij Freshdesk, en het is niet altijd de beste keuze voor bedrijven die veel **telefoonsupport** nodig hebben. Bovendien is het platform **minder uitgebreid in termen van integraties** dan Zendesk. Intercom is daarom vooral geschikt voor **SaaS-bedrijven** en **digitale dienstverleners** die actief met klanten willen communiceren en waarbij automatisatie en AI een centrale rol spelen.  
+## Proef is geen blijvend recht
 
-## Freshdesk: betaalbaar en gebruiksvriendelijk  
+- **Intercom**: 14 dagen proef zonder creditcard, inclusief Fin en add-ons. Volgens de [prijs-FAQ](https://www.intercom.com/help/en/articles/8344190-pricing-faqs) betaal je tijdens de Fin-proef niet voor Fin-gebruik of oplossingen. De [Usage-uitleg](https://www.intercom.com/help/en/articles/8991894-how-to-see-and-manage-your-usage) zegt wel dat Settings > Subscription > Usage tijdens die proef niet beschikbaar is en dat je dan geen gebruikslimieten kunt instellen. Dit zegt niets over de beschikbaarheid van alle andere rapporten of handmatige stopmogelijkheden; die hebben we niet getest. De lagere seatprijs van 19 USD is een korting voor nieuwe klanten op het jaarplan; de lijstprijs is 29 USD. De 300 gratis outcomes per maand die je op de site ziet, horen bij het startupprogramma, niet bij een gewoon abonnement.
+- **Freshdesk**: 14 dagen Enterprise op proef. De Nederlandse prijs-FAQ noemt opschorting als je niet doorgaat; dat betekent niet dat betalen de enige vervolgoptie is. De [planhandleiding](https://support.freshdesk.com/support/solutions/articles/50000011778) beschrijft een vrijwillige overstap naar het [Free Program](https://support.freshdesk.com/support/solutions/articles/50000010099-explore-freshdesk-free-program-freshdesk-only-): maximaal twee agents gedurende zes maanden, alleen Freshdesk, niet Omni. Kies dit expliciet via Plans and Billing en controleer de gemelde gevolgen: functies en proefconfiguraties kunnen verloren gaan. Volgens de programma-uitleg moet je voor meer agents of na zes maanden naar een betaald plan; terugkeer na een betaalde upgrade is niet mogelijk. Of jouw Nederlandse account hiervoor in aanmerking komt en wat de checkout toont, is niet getest. De vijf agents uit ons rekenvoorbeeld kunnen dus niet ongewijzigd gratis doorgaan. Dit programma bewijst ook geen inbegrepen AI-tegoed. Het Growth-planblok, de Engelse FAQ en de Freshdesk-helppagina noemen 500 eenmalige AI-sessies voor nieuwe klanten bij Growth, Pro en Enterprise. De Nederlandse FAQ noemt alleen Pro en Enterprise. Controleer daarom of jouw Growth-account het tegoed krijgt. De handmatige pakketten bevatten volgens die bronnen 100 sessies en verlopen met je betaalperiode. Een [Freshworks-hulppagina](https://crmsupport.freshworks.com/support/solutions/articles/50000004664-freddy-ai-agent-sessions-faqs) beschrijft bovendien verlies van resterend gratis tegoed bij aankoop en verbruik tijdens tests, maar behandelt een andere productscope met sessies van 24 uur. Die regels zijn hier niet bevestigd voor Freshdesk-e-mail met sessies van 72 uur; de rekenvoorbeelden zijn geen bevestiging daarvan.
+- **Zendesk**: 14 dagen proef, waarin Copilot volgens de prijspagina standaard zit. Na de proef betaal je Copilot apart (50 EUR per agent per maand bij jaarbetaling); in de vergelijkingstabel staat het alleen als add-on bij Suite Professional.
 
-Freshdesk is een van de **betaalbaarste** en **gebruiksvriendelijkste** opties op de markt, wat het ideaal maakt voor **midden- en kleinbedrijven** die een krachtig klantenservice platform willen, maar geen budget hebben voor een enterprise-oplossing zoals Zendesk. Het platform biedt een **gratis tier**, wat het toegankelijk maakt voor bedrijven die eerst willen testen of het platform bij hen past.  
+## Rekenvoorbeeld: vijf medewerkers
 
-Een van de grootste sterke punten van Freshdesk is **Freddy AI**, een slimme AI-agent die automatisch tickets kan beantwoorden, e-mails kan schrijven en zelfs klantvragen kan classificeren. Bovendien ondersteunt Freshdesk **multi-channel support**, waardoor klanten via e-mail, live chat, social media, telefoon en zelfs in-app kunnen communiceren. De **gebruikersinterface** is eenvoudig en intuïtief, wat het platform ideaal maakt voor medewerkers die weinig technische kennis hebben.  
+Stel: vijf betaalde seats en 300 AI-eenheden per maand, en daarna 600. Dat zijn verzonnen aantallen in de eenheid van elke aanbieder, dus 300 Fin-supportoutcomes tegen 0,99 USD, 300 sessies of 300 automatische oplossingen. Het zijn geen vergelijkbare prestaties, en geen voorspelling van hoeveel vragen de AI oplost.
 
-Hoewel Freshdesk goedkoop is, heeft het ook nadelen. De **functionaliteiten zijn minder uitgebreid dan bij Zendesk of Intercom**, en het is niet geschikt voor grootschalige organisaties die geavanceerde integraties of een hoge mate van personalisatie vereisen. De prijs is echter een sterk punt: per agent per maand ligt de prijs rond de **€15 tot €30**, afhankelijk van het aantal functies dat wordt gebruikt. Freshdesk is daarom vooral geschikt voor **MKBS** en **start-ups** die een goedkope, gebruiksvriendelijke oplossing willen.  
+De AI-bedragen hieronder zijn aparte gebruikskosten, niet de totale rekening inclusief seats. Er is geen btw-berekening of valutaomrekening uitgevoerd. Freshdesk is doorgerekend met handmatig gekochte pakketten van 100 en maandelijkse pakketgeldigheid; de bedragen voor jaarbetaalde seats zijn maandgemiddelden. Controleer vóór aankoop of die combinatie van betaalperioden beschikbaar is.
 
-## Ook de moeite waard  
+| Kostenregel | Intercom Essential (USD) | Freshdesk Growth (EUR) | Zendesk Suite Team (EUR) |
+|---|---|---|---|
+| 5 seats, jaarbetaling; maandgemiddelde | 95 als de nieuwe-klantenactie geldt, anders 145 lijstprijs | 85 | 275 |
+| 5 seats, maandbetaling | 195 lijstprijs (5 × 39); toepasselijke actie en checkout niet vastgesteld | 100 | 345 |
+| Inbegrepen AI-agentgebruik (geen Copilot) | geen in dit gewone abonnement | 500 eenmalig volgens planblok en help; NL-FAQ wijkt af; controleer je account | Alleen ouder AR-schema: bij vijf vaste seats en een volledig jaar 300 als jaartegoed, als contract en account dit bevestigen. Nieuw niveaumodel: ander tegoed. |
+| 300 eenheden; gebruikskosten | 297 | 135 in een latere maand, als gratis tegoed al op is | Alleen ouder AR-schema: 550 gemiddeld per maand over een volledig jaar met elke maand 300; geen vaste maandfactuur. Zie aannames hieronder. Nieuw model: onbekend. |
+| 600 eenheden; gebruikskosten | 594 | 270 in een latere maand, als gratis tegoed al op is | Alleen ouder AR-schema: 1.150 gemiddeld per maand over een volledig jaar met elke maand 600; geen vaste maandfactuur. Zie aannames hieronder. Nieuw model: onbekend. |
+| Copilot, 5 medewerkers | Per geschikte full seat tot 10 gesprekken/tickets per kalendermaand inbegrepen; optioneel Unlimited: 145 per maandgemiddelde bij jaarbetaling (5 × 29), onder voorwaarden | niet bij Growth | Beschikbaarheid op Suite Team niet bevestigd; tabel noemt Suite Professional. |
 
-Naast Zendesk, Intercom en Freshdesk zijn er ook andere platformen die in 2026 een goede optie kunnen zijn, afhankelijk van de behoeften van een bedrijf. **Gorgias** is bijvoorbeeld een populaire keuze voor **e-commercebedrijven**, met specifieke tools voor online winkels, zoals automatische e-mails voor bestellingen en klantenservice op social media. **Dixa** is een **Europese oplossing** die in het bijzonder geschikt is voor bedrijven die een geïntegreerde klantenservice oplossing willen met een sterke focus op **klantengedrag en analyse**.  
+Heeft jouw Freshdesk-account het eenmalige tegoed van 500 daadwerkelijk gekregen en zijn er nog minstens 300 sessies over, dan kunnen 300 eerste sessies daarbinnen vallen. De bedragen 135 en 270 beschrijven juist een volledige latere maand nadat het gratis tegoed is opgebruikt, niet de overgangsmaand. Voor die overgang moet je eerst de toepasselijke aankoop- en vervalregels vaststellen.
 
-**Trengo** is een **Nederlands platform** dat in 2026 steeds populairder wordt onder Nederlandse bedrijven. Het is ontworpen voor **midden- en kleinbedrijven** en biedt een **eenvoudige gebruikersinterface** met een sterke focus op **telefoon- en chatondersteuning**. Trengo heeft ook **geavanceerde AI-functionaliteiten**, waaronder automatische ticketbehandeling en chatbots die klantvragen kunnen beantwoorden.  
+De [officiële Intercom-prijsgids](https://www.intercom.com/learning-center/intercom-pricing) noemt 39 USD per Essential-seat bij maandbetaling. De prijspagina toont daarnaast de genoemde jaaractie van 19 in plaats van 29 USD. We passen die korting niet toe op het maandtarief: de openbare paginabron noemt ook een maandactie voor nieuwe klanten, maar het toepasselijke actiebedrag en checkouttotaal zijn hier niet vastgesteld. Voor Copilot Unlimited beschrijft de helppagina 29 USD per medewerker per maand bij vooruitbetaling voor het jaar, met behoud tot de volgende betaalperiode; later toegevoegde medewerkers kunnen 35 USD per maand kosten. Controleer contract en fair-usevoorwaarden. Het bedrag 145 is uitsluitend het rekenvoorbeeld voor vijf medewerkers tegen het genoemde jaartarief.
 
-**Help Scout** is een **simpel platform** dat vooral geschikt is voor bedrijven die een **minimalistische aanpak** willen. Het heeft een unieke **"conversatie-based"** interface, waarmee medewerkers klantvragen kunnen beheren als een gesprek, in plaats van via tickets.  
+**Zendesk: jaartegoed en betaalmoment zijn niet hetzelfde.** De [oudere AR-uitleg](https://support.zendesk.com/hc/en-us/articles/5352026794010-About-the-automated-resolutions-platform-prior-to-resolution-tiers) noemt voor Team vijf oplossingen per agent per maand als toewijzingsmaatstaf. De oudere AR-uitleg noemt jaarlijks verval, of verval aan het einde van een kortere abonnementsduur. De actuele [voorwaarden](https://support.zendesk.com/hc/en-us/articles/4408831944730-Supplemental-terms-Zendesk-s-service-specific-terms) noemen beschikbaarheid vanaf de start, maar verwijzen voor de looptijd naar een [nieuwe mechaniekpagina](https://support.zendesk.com/hc/en-us/articles/11234684883354) die oudere seatplannen van haar scope uitsluit. De vroegere algemene verwijzing naar een jaarlijks gebruikstijdvak is daarom geen voldoende bevestiging voor elk oud account; laat de onderstaande starttoewijzing en looptijd in je eigen contract bevestigen. Voor de bedragen hierboven nemen we uitsluitend aan: het oude schema geldt, vijf vaste seats, twaalf maanden, 300 oplossingen vooraf beschikbaar, geen eerder verbruik en 2,00 EUR per extra oplossing. Bij elke maand 300 is het jaartotaal aan meerverbruik (12 × 300 − 300) × 2 = 6.600 EUR, gemiddeld 550 per maand; bij elke maand 600 is dat 13.800 EUR, gemiddeld 1.150. In de eerste maand zouden 300 oplossingen binnen dit ongebruikte jaartegoed vallen; 600 zouden 300 extra opleveren, dus 600 EUR aan gebruikskosten. Dit zijn voorwaardelijke berekeningen, geen facturen. De oudere AR-uitleg noemt maandelijkse facturering van meerverbruik, ongeacht de abonnementsduur. De bundeling van kleine facturen op de nieuwe mechaniekpagina passen we hier niet toe op het oude schema. Controleer het orderformulier, resterende tegoed en geldende schema; afwijkende looptijden of voorwaarden veranderen de uitkomst.
 
-## Vergelijkingstabel  
+Een paar dingen die in de tabel verdwijnen:
 
-| Tool        | Prijs per agent/maand | Gratis versie? | AI features | Nederlandse taal ondersteuning | Beste voor |
-|-------------|-----------------------|----------------|-------------|-------------------------------|------------|
-| Zendesk     | €50+                  | Nee            | Ja (AI agents, automatisering) | Ja           | Enterprise |
-| Intercom    | €30+                  | Nee            | Ja (Fin AI, proactieve messaging) | Ja           | SaaS, e-commerce |
-| Freshdesk   | €15-€30               | Ja             | Ja (Freddy AI, automatisering) | Ja           | MKB, start-ups |
-| Gorgias     | €25-€50               | Nee            | Ja (chatbots, automatisering) | Ja           | E-commerce |
-| Trengo      | €10-€20               | Ja             | Ja (AI chatbots, automatisering) | Ja           | MKB, Nederlands bedrijven |
+- **Jaarbetaling is een verplichting vooraf.** Vijf seats Suite Team bij jaarbetaling betekent 3.300 EUR voor twaalf maanden, Intercom Essential 1.140 USD als de genoemde nieuwe-klantenactie op jouw account geldt.
+- **Freshdesk: reken hier met handmatige pakketten van 100.** Dan vragen 101 betaalde sessies om twee pakketten; ongebruikte sessies verlopen met de betaalperiode. De helppagina noemt bij automatisch aanvullen óók 50 sessies per pakket, in strijd met de handmatige pakketbeschrijving. Laat automatisch bijkopen bij je proef uit en controleer de toepasselijke pakketgrootte voordat je betaalt.
+- **Alleen voor het oudere Zendesk AR-schema** noemt de prijspagina vooraf inkopen vanaf 100 oplossingen à 1,50 EUR. Gebruik dat niet als offerte voor het nieuwe niveaumodel: de toepasselijke tarieven en voorwaarden daarvan zijn hier niet vastgesteld. Controleer ook hoe je AI-gebruik stopt voordat betaald meerverbruik ontstaat.
+- **Valuta's mogen niet door elkaar.** We rekenen dollars niet om naar euro's, en de tabel is geen ranglijst van goedkoop naar duur.
 
-## Conclusie: welke voor wie?  
+## Een begrensde test (nog niet uitgevoerd)
 
-De keuze tussen Zendesk, Intercom en Freshdesk hangt af van de specifieke behoeften van een bedrijf. Voor **enterprise-organisaties** die geavanceerde integraties en hoge mate van personalisatie willen, is Zendesk de beste optie. Voor **SaaS-bedrijven** en **e-commerceplatforms** die actief met klanten willen communiceren en waarbij AI een centrale rol speelt, is Intercom een krachtige keuze. Voor **midden- en kleinbedrijven** die een betaalbare en gebruiksvriendelijke oplossing willen, is Freshdesk het meest geschikt.  
+Een AI-agent die in een demo goed antwoordt, kan in jouw tickets anders uitpakken. Wij hebben geen van de drie zelf getest. Zo kun je het veilig doen tijdens de proefperiode:
 
-Nederlandse bedrijven die op zoek zijn naar een **lokale oplossing** met sterke ondersteuning voor de Nederlandse taal, kunnen ook overwegen om **Trengo** te gebruiken. Het is een Nederlands platform dat speciaal is ontworpen voor MKB en biedt een eenvoudige gebruikersinterface met geavanceerde AI-functionaliteiten.  
+1. **Controleer eerst proeftegoed en welke verbruiksmeter en stopgrens beschikbaar zijn.** Tijdens de Intercom Fin-proef ontbreken de genoemde Usage-pagina en instelbare gebruikslimieten; reken daar dus niet op. Ga hiervoor niet over op een betaald abonnement. Houd je eigen testomvang begrensd en stel de proef uit als je niet kunt vaststellen hoe je haar onder controle houdt. Zet geen automatische aankoop of live kanaal aan; stop als de kosten of voorwaarden onduidelijk zijn. Maak daarna 30 tot 50 nep-tickets op basis van je eigen veelgestelde vragen, zonder echte klantgegevens. Schrijf per ticket vooraf het juiste antwoord op.
+2. **Voeg lastige gevallen toe**: een klacht, een vraag om terugbetaling, een klant die om een mens vraagt en een vraag waar je kennisbank geen antwoord op heeft.
+3. **Laat niets naar buiten gaan.** Gebruik een testinbox en testchat, zet geen echte kanalen of koppelingen met klantdata aan en verstuur geen berichten naar echte klanten.
+4. **Tel per ticket**: goed, fout, half goed (een medewerker moet het herschrijven) en terecht doorgezet naar een mens. Noteer ook de tijd die het nakijken kost.
+5. **Vergelijk een beschikbare leveranciersmeter met je eigen telling.** De genoemde Usage-pagina is tijdens de Intercom Fin-proef niet beschikbaar. Noteer zonder bruikbare leveranciersmeting dat het getelde gebruik niet onafhankelijk met de aanbieder is vergeleken; je eigen telling bewijst geen factureerbare outcomes. Waar een meter wel beschikbaar is, controleer hoeveel eenheden zijn geregistreerd en of een doorgezet gesprek is meegeteld.
 
-In het algemeen geldt dat **enterprise-organisaties** zich moeten richten op Zendesk of Intercom, terwijl **midden- en kleinbedrijven** beter af zijn met Freshdesk of Trengo. Voor **e-commercebedrijven** is Gorgias een interessante optie, terwijl Help Scout geschikt is voor bedrijven die een minimalistische aanpak willen.  
+Pas als je die cijfers hebt, kun je de prijs per eenheid omrekenen naar wat een goed afgehandelde vraag jou kost.
 
-## FAQ  
+## Wat deze gids niet zegt
 
-**Wat kost een klantenservice platform per agent?**  
-De prijs varieert afhankelijk van het platform en het aantal functies. Zendesk begint vanaf €50 per agent per maand, Intercom vanaf €30, Freshdesk vanaf €15 en Trengo vanaf €10.  
-
-**Is AI klantenservice betrouwbaar in 2026?**  
-Ja, AI is in 2026 een essentieel onderdeel van klantenservice en heeft zich bewezen in termen van efficiëntie, snelheid en klanttevredenheid. Platforms zoals Zendesk, Intercom en Freshdesk gebruiken geavanceerde AI om klantvragen te beantwoorden, e-mails te schrijven en zelfs marketingstrategieën te optimaliseren.  
-
-**Welk platform is geschikt voor Nederlandse bedrijven?**  
-Trengo is een Nederlands platform dat speciaal is ontworpen voor MKB en biedt een sterke focus op Nederlandse taal ondersteuning en lokale functionaliteiten. Het is een goedkeurde keuze voor Nederlandse bedrijven die op zoek zijn naar een lokale oplossing.
+We geven geen scores en geen winnaar, en we doen geen uitspraken over gebruiksgemak, klanttevredenheid of de kwaliteit van Nederlandse antwoorden. Ook over AVG-naleving zeggen we niets: dat hangt af van je eigen afspraken, contract en instellingen, niet van de herkomst van de aanbieder. Prijzen en voorwaarden veranderen geregeld; controleer ze op de prijspagina's van [Zendesk](https://www.zendesk.nl/pricing/), [Intercom](https://www.intercom.com/pricing) en [Freshdesk](https://www.freshworks.com/nl/freshdesk/pricing/) voordat je tekent.

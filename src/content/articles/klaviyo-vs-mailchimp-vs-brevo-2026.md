@@ -1,196 +1,95 @@
 ---
-
-title: 'Klaviyo vs Mailchimp vs Brevo 2026: Beste AI E-mailmarketing Tool voor E-commerce'
-slug: klaviyo-vs-mailchimp-vs-brevo-2026
-description: Klaviyo, Mailchimp of Brevo voor AI-e-mailmarketing in 2026? Vergelijk automations, AI-segmentatie, prijs en GDPR voor webshops.
-category: development
-rating: 4.6
-priceRange: EUR 0-50/mnd
-pros:
-- Specifiek voor e-commerce — geen generieke e-mailmarketing
-- Brevo is Frans/EU = betere GDPR-compliance
-- Praktische prijsvergelijking op contacten, niet features
-cons:
-- Prijzen stijgen snel bij groeiende contactlijsten
-- AI-functies verschillen sterk per tier
-- Migreren tussen platforms is tijdrovend
-affiliateLinks:
-- https://www.notion.so
+title: "Klaviyo, Mailchimp of Brevo? Zo lees je limieten en kosten (2026)"
+slug: "klaviyo-vs-mailchimp-vs-brevo-2026"
+description: "Klaviyo, Mailchimp of Brevo voor je webshop? Houd profielen, maand- en daglimieten, betaalde AI-functies en extra kosten uit elkaar voordat je een proef start."
+category: "marketing"
+presentation: "guide"
 date: 2026-05-27
+updatedDate: 2026-11-16
 modelYear: 2026
-featuredTool: Klaviyo
-readingTime: 9 min
-tools:
-- name: Klaviyo
-  verdict: Specifiek gebouwd voor e-commerce — beste AI-segmentatie en productaanbevelingen
-  priceRange: EUR 0-45/mnd
-  bestFor: Webshops & Shopify
-  rating: 4.8
-  affiliateLink: https://www.notion.so
-- name: Mailchimp
-  verdict: Meest veelzijdig — sterke AI-contentgenerator, breedste integraties, ook voor niet-e-commerce
-  priceRange: EUR 0-30/mnd
-  bestFor: Allround marketing
-  rating: 4.3
-  affiliateLink: https://www.notion.so
-- name: Brevo
-  verdict: Beste Europese keuze — Franse servers, sterke GDPR-tools, SMS + e-mail in één platform
-  priceRange: EUR 0-49/mnd
-  bestFor: GDPR-compliance & EU
-  rating: 4.4
-  affiliateLink: https://www.notion.so
-related:
-  - ai-voor-ecommerce-2026
-  - beste-ai-tools-ecommerce-2026
-  - beste-ai-copywriting-tools-2026
 draft: false
+related:
+  - "ai-voor-ecommerce-2026"
 faq:
-- q: "Welke e-mailmarketingtool is het beste voor Nederlandse webshops?"
-  a: 'Klaviyo is specifiek gebouwd voor e-commerce en integreert diep met Shopify, WooCommerce en Magento. De AI voorspelt koopgedrag en segmenteert klanten automatisch. Voor GDPR-compliance is Brevo de beste keuze (Franse servers, AVG-proof). Mailchimp is de beste allrounder als je ook nieuwsbrieven en landingspagina''s wilt.'
-- q: "Wat kost e-mailmarketing voor 1000 contacten?"
-  a: 'Klaviyo: EUR 20/mnd (500 contacten gratis). Mailchimp: EUR 13/mnd (500 contacten gratis). Brevo: EUR 25/mnd (onbeperkt contacten, betalen per e-mailvolume van 20.000/maand). Brevo is vaak voordeliger bij grote lijsten met lage verzendfrequentie.'
-- q: "Hoe zit het met AVG/GDPR bij deze tools?"
-  a: 'Brevo is de veiligste keuze: Franse servers, volledig AVG-compliant, DPA standaard beschikbaar. Mailchimp verwerkt data in de VS (Privacy Shield-gecertificeerd). Klaviyo biedt EU-serveropties in hogere plannen. Voor strikte GDPR: Brevo of Klaviyo met EU-datacenter.'
+  - q: "Kan ik met 1000 contacten gratis beginnen bij Klaviyo, Mailchimp of Brevo?"
+    a: "Niet als je die 1000 mensen op één dag wilt mailen. Het gratis plan van Klaviyo stopt bij 250 actieve profielen en dat van Mailchimp bij 250 contacten. Brevo Free laat na goedkeuring maximaal 300 e-mails per dag toe, dus een campagne naar 1000 ontvangers past niet op één dag."
+  - q: "Is 300 e-mails per dag bij Brevo hetzelfde als 9000 e-mails per maand?"
+    a: "Nee. Een daglimiet is geen maandbudget dat je kunt opsparen. Wie een actie met een deadline naar 1000 mensen stuurt, moet die op één dag kunnen versturen. Uitsmeren over vier dagen is een andere campagne, met andere timing."
+  - q: "Schrijven de AI-functies goed Nederlands?"
+    a: "Dat hebben we niet getest. De prijspagina's vertellen alleen in welk plan een AI-functie zit. Mailchimp meldt zelf dat Intuit Assist in bèta is en alleen in het Engels werkt. Test het met een nepproduct en lees elke zin na voordat je iets verstuurt."
+  - q: "Is Brevo automatisch AVG-proof omdat het een Europees bedrijf is?"
+    a: "Nee, daar kun je niets uit afleiden. Brevo heeft een verwerkersovereenkomst bij zijn voorwaarden, maar die zegt ook dat verwerking buiten de EER kan plaatsvinden. Klaviyo en Mailchimp zeggen dat hun data in de VS staat en noemen het Data Privacy Framework en standaardcontractbepalingen. Of dat voor jouw webshop genoeg is, beoordeel je zelf of met een jurist."
 ---
-## Lees ook
+Je wilt e-mailmarketing voor een kleine webshop en vergelijkt Klaviyo, Mailchimp en Brevo. De prijspagina's lijken op elkaar, maar ze tellen verschillende dingen: profielen, opgeslagen contacten, e-mails per maand en e-mails per dag. Wie die door elkaar haalt, kiest een gratis plan dat in de eerste week al vastloopt.
 
-- [AI Beeldherkenning 2026: Computer Vision Tools en Toepassingen](/ai-beeldherkenning-2026/)
-- [Beste AI Tools voor API Ontwikkeling & Integratie 2026: top 7 vergeleken](/beste-ai-tools-api-ontwikkeling-2026/)
-- [Beste AI Tools voor App-ontwikkelaars & Mobiele Ontwikkeling 2026](/beste-ai-tools-app-ontwikkeling-mobiel-2026/)
+Deze gids helpt je de voorwaarden te lezen. We wijzen geen winnaar aan. We hebben geen account aangemaakt, niets verstuurd en geen AI-functie geprobeerd. Alle limieten hieronder komen van de pagina's van de leveranciers zelf, gelezen op 4 november 2026; de Brevo-bronnen over verlenging en automatische planverhoging zijn aanvullend gecontroleerd op 5 november 2026. Op 16 november 2026 zijn de belangrijkste prijs-, contact-, verzend- en upgradeclaims opnieuw gecontroleerd. Die gerichte controle is geen nieuwe beoordeling van privacy of de kwaliteit van AI-functies. Prijzen en voorwaarden veranderen vaak, dus controleer ze vlak voor je kiest.
 
-# AI E-mailmarketing in 2026: Klaviyo, Mailchimp en Brevo Vergeleken
+## Vier begrippen die je uit elkaar moet houden
 
-E-mailmarketing blijft één van de meest effectieve kanalen voor e-commerce — met een gemiddelde ROI van €36 per uitgegeven euro. AI maakt het in 2026 nóg krachtiger: voorspelde klantsegmentatie, automatische productaanbevelingen en slimme verzendtijd-optimalisatie zijn standaard. De drie grootste spelers — **Klaviyo**, **Mailchimp** en **Brevo** (voorheen Sendinblue) — bieden elk een andere aanpak. Welke past bij jouw Nederlandse webshop? In deze gids vergelijken we ze op e-commerce features, AI-segmentatie, GDPR/AVG-compliance, integraties en prijs.
+**Profielen of contacten: wie telt mee?** [Klaviyo](https://www.klaviyo.com/pricing) rekent met *actieve profielen*: mensen die je kunt bereiken. Afgemelde en onderdrukte contacten tellen volgens Klaviyo niet mee. [Mailchimp](https://mailchimp.com/pricing/marketing/) rekent met het aantal contacten dat je opslaat, en wel het hoogste aantal in de factuurperiode. Gearchiveerde en opgeschoonde contacten tellen niet mee. Bij [Brevo](https://www.brevo.com/pricing/) hangt in de betaalde plannen Starter en Standard een maximum aantal contacten aan je e-mailpakket.
 
-## Snel Advies: Welke E-mailmarketing Tool Past Bij Jouw Webshop?
+**E-mails per maand.** Klaviyo Free geeft 500 e-mailverzendingen per maand. Bij Mailchimp is de maandlimiet een veelvoud van je contactlimiet: 10x bij Essentials, 12x bij Standard en 15x bij Premium.
 
-- **Voor Shopify- en WooCommerce-webshops:** Klaviyo is specifiek gebouwd voor e-commerce. De AI-segmentatie en productaanbevelingen zijn ongeëvenaard.
-- **Voor wie GDPR écht serieus neemt:** Brevo is de Europese keuze — Franse servers, volledig AVG-compliant, geen Amerikaanse dataverwerking.
-- **Voor allround marketing (niet alleen webshop):** Mailchimp biedt de meeste features buiten e-mail: landingspagina's, social media ads, websites.
-- **Voor wie prijs per e-mail belangrijker vindt dan prijs per contact:** Brevo rekent af op verzendvolume, niet op contacten — ideaal als je een grote lijst hebt maar weinig mailt.
+**E-mails per dag.** Mailchimp Free heeft naast 500 per maand ook een grens van 250 per dag. Brevo Free laat na goedkeuring van je account maximaal 300 e-mails per dag toe. Een daglimiet kun je niet opsparen. Stuur je een actie met een deadline, dan moet de hele verzending op die dag passen.
 
-## Klaviyo: Gebouwd Voor E-commerce
+**Inbegrepen tegoed en extra kosten.** Controleer per plan wat al is inbegrepen en wat je bijkoopt. Klaviyo Free noemt bijvoorbeeld $5 mobiele berichten en $5 Composer-gebruik per maand. Bij Brevo geven alle plannen toegang tot transactionele e-mailfuncties; daarmee weten we nog niet welk tegoed een verzending verbruikt. Mailchimp rekent transactionele e-mail apart. Zet inbegrepen tegoed, optionele uitbreidingen en nog onbekende kosten apart in je begroting.
 
-Klaviyo is niet zomaar een e-mailmarketingtool — het is een e-commerce marketingplatform. Alles, van de AI tot de templates, is ontworpen voor webshops die producten verkopen.
+## Wat de gratis plannen toelaten
 
-**AI-segmentatie:** Dit is waar Klaviyo schittert. De AI analyseert klantgedrag (wat bekijken ze, wat kopen ze, wanneer haken ze af) en maakt automatisch segmenten zoals "klanten die 30 dagen niet hebben gekocht", "VIP-klanten die >€500 uitgaven", of "mensen die product X bekeken maar niet kochten". Voorspelde lifetime value (pLTV) en churn risk zijn standaard — je weet welke klanten je moet koesteren.
+| | Klaviyo Free | Mailchimp Free | Brevo Free |
+|---|---|---|---|
+| Wat telt | Actieve profielen | Opgeslagen contacten | Verzendingen per dag |
+| Grens | 250 profielen, 500 e-mails per maand | 250 contacten, 500 per maand én maximaal 250 per dag | 300 e-mails per dag, na goedkeuring |
+| Daglimiet | Niet vermeld op de prijspagina | 250 | 300 |
+| Boven de grens | Verzenden stopt tot de volgende periode of een upgrade | Verzenden wordt gepauzeerd | Niet vermeld op de prijspagina |
+| Extra's | $5 mobiele berichten en $5 Composer-gebruik per maand; e-mailsupport de eerste 60 dagen | Geen sms, geen generatieve AI | Transactionele e-mailfuncties; sms-tegoed apart |
 
-**E-commerce integraties:** Klaviyo integreert diep met Shopify, WooCommerce, Magento en BigCommerce. Het haalt productdata, bestellingen, voorraad en klantprofielen realtime binnen. Verlaten winkelwagen-mails, back-in-stock alerts en productaanbevelingen zijn ingebakken — geen gedoe met API's.
+"Niet vermeld" betekent dat we het niet konden vaststellen. Het betekent niet dat er geen grens is.
 
-**Prijzen (2026):**
-- **Gratis:** Tot 500 contacten, 5000 e-mails/maand, basisfuncties
-- **Starter (€20/mnd):** Tot 1500 contacten, 15.000 e-mails, AI-segmentatie
-- **Growth (€45/mnd):** Tot 2500 contacten, 25.000 e-mails, pLTV, geavanceerde AI
-- **Enterprise:** Custom pricing, dedicated support
+## Betaalde plannen: wat wel en niet bekend is
 
-**Pluspunten:**
-- Beste AI-segmentatie in de markt — voorspelde LTV, churn risk, productaffiniteit
-- Naadloze Shopify/WooCommerce integratie — plug-and-play
-- Verlaten winkelwagen en back-in-stock mails werken out-of-the-box
-- Uitstekende A/B-test functionaliteit voor e-mailflows
+**Klaviyo.** Je stelt een plan samen in een rekenmodule op de prijspagina. Op 16 november 2026 toont de [prijspagina](https://www.klaviyo.com/pricing) het Email-plan voor 500 actieve profielen en 5.000 e-mails voor $20 per maand. Dat is geen prijs voor de 1000 profielen uit ons voorbeeld; die prijs en het checkouttotaal zijn niet vastgesteld. De [uitleg over maandabonnementen](https://www.klaviyo.com/platform/how-klaviyo-pricing-works) meldt dat je bij te veel actieve profielen in de volgende factuurperiode naar een passend plan gaat.
 
-**Minpunten:**
-- Alleen relevant voor e-commerce — geen landingspagina's of websites
-- Snelle prijsstijging bij groeiende lijst (2500 contacten = €45/mnd)
-- Amerikaans bedrijf — data staat op Amerikaanse servers (EU-opties in enterprise)
-- Geen ingebouwde SMS (aparte integratie nodig)
+**Mailchimp.** Je kiest een contactniveau, bijvoorbeeld 501 tot 1.500 contacten. De opgehaalde prijspagina toont wel bedragen, maar koppelt die niet eenduidig aan het contactniveau van ons voorbeeld. Daarom noemen we daarvoor geen prijs. Ga je over je contact- of verzendlimiet, dan zet Mailchimp je verzending niet stil, maar betaal je extra contactblokken. Wat zo'n blok kost, zie je pas als je bent ingelogd. De korting van 15% geldt alleen vanaf 10.000 contacten en alleen de eerste 12 maanden. Belasting kan er nog bij komen.
 
-**Verdict:** Klaviyo is de gouden standaard voor e-commerce e-mailmarketing. Als je een webshop hebt, is dit je tool — de AI-segmentatie alleen al levert meer omzet op dan het abonnement kost.
+**Brevo.** Brevo publiceert een [openbare prijslijst](https://www.brevo.com/pricing.md), gedateerd 29 september 2026; de genoemde eurobedragen zijn op 16 november opnieuw gecontroleerd tegen die lijst en de daarin gelinkte openbare prijscatalogus. In euro's, per maand: Starter €7,00 en Standard €15,00. Daarbij zit een eerste pakket van 5.000 e-mails met maximaal 500 contacten. Voor 1.500 contacten heb je het pakket van 10.000 e-mails nodig. Dat kost €7,00 extra bij Starter en €14,00 extra bij Standard. Of die bedragen inclusief btw zijn, staat er niet bij. Jaarlijks betalen geeft 10% korting. Over de verlenging spreken de bronnen elkaar tegen: de [marketingpagina](https://www.brevo.com/features/email-marketing/) noemt 30 dagen, terwijl de [planuitleg](https://help.brevo.com/hc/en-us/articles/208589409-About-Brevo-s-pricing-plans) en [upgrade-uitleg](https://help.brevo.com/hc/en-us/articles/209296725-Upgrade-to-a-higher-plan) de maandelijkse factuurdatum noemen, bijvoorbeeld telkens de 18e. Ga daarom niet uit van een vaste cyclus van 30 dagen: controleer de werkelijke factuur- en verlengdatum in je account. Wij hebben niet getest welke beschrijving voor jouw account of regio geldt.
 
-## Mailchimp: De Alleskunner
+Let ook op automatische planverhoging: de [Brevo-helppagina](https://help.brevo.com/hc/en-us/articles/209296725-Upgrade-to-a-higher-plan) beschrijft waarschuwingen bij het naderen van de contactlimiet in de eerste drie Starter- en Standard-niveaus, gevolgd door een automatische overstap naar een duurder niveau. De tekst noemt het bereiken of overschrijden van de grens, maar het voorbeeld gaat van 1.500 naar 1.501 contacten. De precieze trigger en toepassing op jouw account of regio zijn niet vastgesteld. Controleer dit vóór je contacten toevoegt; de pakketprijs is geen garantie dat je rekening gelijk blijft.
 
-Mailchimp is de grootste naam in e-mailmarketing en heeft zich in 2026 uitgebreid tot een volledig marketingplatform. Het is minder gespecialiseerd dan Klaviyo, maar biedt functies die Klaviyo niet heeft: landingspagina's, social media ads, websites en een AI-contentgenerator.
+## Twee rekenvoorbeelden
 
-**AI-functies:** Mailchimp's AI (Intuit Assist) helpt met het genereren van onderwerpregels, e-mailcontent en productaanbevelingen. De "Customer Journey Builder" gebruikt AI om te voorspellen welke flow het beste werkt. De AI voelt meer "assisterend" dan Klaviyo's "analytische" aanpak.
+Dit zijn verzonnen voorbeelden om de regels te laten zien. Het zijn geen echte campagnes, geen accounttests en geen voorspelling van omzet of besparing. In beide gevallen nemen we aan dat alle contacten zijn aangemeld en bereikbaar zijn.
 
-**Integraties:** Mailchimp integreert met 300+ tools — Shopify, WooCommerce, Salesforce, WordPress, Canva, Zapier, en meer. Het brede ecosysteem is een sterk punt, maar de e-commerce-integraties zijn minder diep dan Klaviyo's.
+**Voorbeeld A: 1000 profielen, vier campagnes naar alle 1000, op vier verschillende dagen in een maand van 30 dagen.** Dat zijn 4.000 e-mails per maand en 1.000 op de drukste dag.
 
-**Prijzen (2026):**
-- **Gratis:** Tot 500 contacten, 1000 e-mails/maand, basisfuncties
-- **Essentials (€13/mnd):** Tot 1500 contacten, 5000 e-mails, AI-content, templates
-- **Standard (€20/mnd):** Tot 2500 contacten, 10.000 e-mails, Customer Journey Builder, A/B-testen
-- **Premium (€30/mnd):** Tot 2500 contacten, 15.000 e-mails, geavanceerde segmentatie
+- Klaviyo Free en Mailchimp Free: past niet, want 1000 is meer dan 250 profielen of contacten.
+- Brevo Free: past niet. De drukste dag (1.000) is hoger dan 300 per dag. Dat er in theorie 9.000 per maand in zou passen, maakt niet uit.
+- Brevo Starter: het eerste pakket (5.000 e-mails) past qua e-mails, maar niet qua contacten (maximaal 500). Het pakket van 10.000 e-mails past binnen die twee genoemde grenzen: €7,00 + €7,00 = **€14,00 per maand**. Bij Standard is dat €15,00 + €14,00 = **€29,00**. Dit zijn berekeningen met de vastgelegde prijslijst, zonder een btw-berekening; btw-behandeling en checkouttotaal zijn onbekend. Eventueel extra sms-tegoed en logo-verwijdering zijn niet meegerekend. De [planuitleg](https://help.brevo.com/hc/en-us/articles/208589409-About-Brevo-s-pricing-plans) noemt voor Starter geen dagelijkse verzendlimiet en vermeldt dat Standard alle Starter-functies bevat. Dit is leveranciersdocumentatie, geen uitgevoerde verzendtest.
+- Mailchimp Essentials of Standard (niveau 501–1.500): als je 1.500 als contactlimiet neemt, is de maandlimiet 15.000 of 18.000 e-mails, ruim genoeg. De prijs is onbekend.
+- Klaviyo betaald: de prijs voor 1000 actieve profielen is niet vastgesteld; de hierboven genoemde $20 geldt voor 500 profielen.
 
-**Pluspunten:**
-- Beste allrounder — van nieuwsbrief tot landingspagina tot social ad
-- Beste AI-contentgenerator voor onderwerpregels en e-mailteksten
-- Grootste integratiemarkt (300+ tools)
-- Gebruiksvriendelijk — lage leercurve voor beginners
+**Voorbeeld B: 250 profielen, twee campagnes naar alle 250 op verschillende dagen.** Dat zijn 500 e-mails per maand en 250 op de drukste dag. Daarmee bereik je de genoemde profiel- en maandgrens van Klaviyo Free en Mailchimp Free; bij Mailchimp ook de daggrens. Een eventuele daglimiet van Klaviyo is niet vastgesteld. Bij Brevo Free blijf je na accountgoedkeuring onder de genoemde daggrens van 300. Dezelfde twee campagnes laten dus niet bij elk plan evenveel ruimte over.
 
-**Minpunten:**
-- E-commerce features zijn oppervlakkiger dan Klaviyo
-- AI-segmentatie is minder geavanceerd — geen pLTV of churn prediction
-- Amerikaanse dataverwerking (Privacy Shield)
-- Prijzen stijgen sneller dan Brevo bij groeiende lijsten
+**Wat als je één kleine flow toevoegt?** Zet bij voorbeeld B een welkomst- of winkelwagenflow aan die 30 extra e-mails per maand stuurt, waarvan één op een campagnedag. Dan kom je op 530 e-mails en 251 op de drukste dag. Klaviyo Free en Mailchimp Free gaan daarmee over hun maandlimiet, en Mailchimp ook over de daglimiet. Brevo Free blijft onder de 300 per dag. Een plan dat op papier past, kan dus vastlopen zodra je één automatisering aanzet.
 
-**Verdict:** Mailchimp is de beste keuze als e-mailmarketing onderdeel is van een bredere marketingstrategie. Heb je naast je webshop ook een nieuwsbrief, landingspagina's en social ads? Dan is Mailchimp de efficiëntste all-in-one oplossing.
+## AI-functies: in je plan is niet hetzelfde als goed Nederlands
 
-## Brevo: De Europese Privacy-Kampioen
+De prijspagina's zeggen alleen waar een functie zit. Klaviyo Free heeft een AI-generator voor onderwerpregels en $5 per maand aan Composer, de AI-agent van Klaviyo. Wat daarna gebeurt, staat niet op de pagina. Mailchimp heeft generatieve AI in Standard en Premium, niet in Essentials of Free. Intuit Assist is volgens Mailchimp in bèta, alleen in het Engels en in bepaalde landen beschikbaar. Brevo heeft een AI-contentgenerator in Starter, AI voor het verzendmoment in Standard, en AI-segmentatie en een AI-data-analist in Professional. Brevo meldt verder dat wat je in de AI-functies invoert, wordt gedeeld met externe AI-aanbieders.
 
-Brevo (tot 2023 bekend als Sendinblue) is het Franse antwoord op Mailchimp en Klaviyo. Het onderscheidt zich op drie fronten: GDPR-compliance, prijsmodel (betalen per e-mailvolume, niet per contact) en de combinatie van e-mail + SMS in één platform.
+Voorstel voor een eigen proef, zonder iets te versturen: verzin een product, bijvoorbeeld "linnen schort, €29". Laat de AI een onderwerpregel en een korte mail schrijven en verbeter die zelf. Let op spelling, aanspreekvorm (je of u) en verzonnen claims als "gratis verzending" die je niet aanbiedt. Gebruik geen echte klantgegevens en stuur niets naar echte ontvangers.
 
-**AI-functies:** Brevo's AI is in 2026 verbeterd met "Send Time Optimization" (AI kiest het beste verzendmoment per contact), AI-onderwerpregels en een AI-contentassistent. De segmentatie is functioneel maar minder geavanceerd dan Klaviyo — het doet RFM-analyse maar voorspelt geen lifetime value.
+## Privacy: wat de leveranciers zelf zeggen
 
-**GDPR/AVG:** Dit is Brevo's grootste troef. Servers staan in Frankrijk, het bedrijf valt onder EU-wetgeving en een Data Processing Agreement (DPA) is standaard beschikbaar — ook in het gratis plan. Voor Nederlandse webshops die streng op AVG letten is dit geruststellend.
+Waar een bedrijf vandaan komt, zegt niets over of jouw gebruik van de tool aan de AVG voldoet. Klaviyo schrijft dat zijn data in een AWS-datacenter in de VS staat. Mailchimp schrijft dat zijn servers in de VS staan. Beide noemen het EU-U.S. Data Privacy Framework en standaardcontractbepalingen in hun verwerkersovereenkomst. Brevo heeft een verwerkersovereenkomst als bijlage bij de [voorwaarden](https://www.brevo.com/legal/termsofuse/). Daarin staat dat klantdata soms buiten de EER wordt verwerkt, waar Brevo of zijn subverwerkers actief zijn. Lees de verwerkersovereenkomst van de tool die je kiest. Twijfel je, vraag dan een jurist. Deze gids is geen juridisch advies.
 
-**Prijzen (2026):**
-- **Gratis:** Onbeperkt contacten, 300 e-mails/dag (9000/maand), basisfuncties
-- **Starter (€25/mnd):** Onbeperkt contacten, 20.000 e-mails/maand, AI-functies
-- **Business (€49/mnd):** Onbeperkt contacten, 40.000 e-mails/maand, marketing automation, A/B-testen
-- **Enterprise:** Custom pricing, dedicated IP en support
+## Zo kies je een proef zonder verrassingen
 
-**Pluspunten:**
-- Beste GDPR/AVG-compliance — Franse servers, EU-bedrijf, DPA standaard
-- Prijsmodel op volume, niet op contacten — voordelig bij grote lijsten
-- E-mail + SMS in één platform — handig voor omnichannel marketing
-- Transactionele e-mails (orderbevestigingen) zijn inbegrepen — bij Klaviyo en Mailchimp apart
+1. Schrijf je eigen aantallen op: bereikbare contacten, campagnes per maand, ontvangers per campagne en flows die automatisch mailen.
+2. Bereken je totaal per maand **en** je drukste dag. Controleer beide tegen de limiet.
+3. Houd ruimte over voor groei en flows. Een plan dat nu precies past, kan volgende maand al te krap zijn.
+4. Noteer per plan het inbegrepen tegoed en eventuele meerkosten voor sms, transactionele mail en AI. Controleer daarnaast btw, valuta en looptijd (maand of jaar); tel inbegrepen onderdelen niet nogmaals als toeslag.
+5. Test met verzonnen gegevens en een eigen testadres, niet met je klantenbestand.
 
-**Minpunten:**
-- E-commerce integraties zijn minder diep dan Klaviyo
-- AI-segmentatie is functioneel maar niet voorspellend
-- Kleinere template-bibliotheek dan Mailchimp
-- UI voelt soms gedateerd aan vergeleken met Klaviyo en Mailchimp
+## Wat deze gids niet zegt
 
-**Verdict:** Brevo is de beste keuze voor GDPR-bewuste webshops en bedrijven die e-mail + SMS willen combineren. Het prijsmodel (betalen per volume) is gunstig als je een grote lijst hebt maar niet wekelijks mailt.
-
-## Vergelijkingstabel: E-mailmarketing Tools 2026
-
-| Tool | AI-segmentatie | E-commerce diepte | GDPR | Gratis tot | Prijs 2500 contacten (EUR/mnd) | Beste voor | Score |
-|------|---------------|-------------------|------|------------|-------------------------------|------------|-------|
-| **Klaviyo** | pLTV, churn, productaffiniteit | Diep (Shopify/WooCommerce native) | EU-opties (enterprise) | 500 contacten | ~45 | Webshops & e-commerce | 4.8 |
-| **Mailchimp** | Basis segmentatie, AI-content | Matig (integraties) | Privacy Shield (VS) | 500 contacten | ~20 | Allround marketing | 4.3 |
-| **Brevo** | RFM-analyse, send-time optimalisatie | Matig (integraties) | Frans/EU — AVG-proof | Onbeperkt | ~25 (20K e-mails) | GDPR + SMS | 4.4 |
-
-## Conclusie: Welke Tool Voor Welke Webshop?
-
-**Shopify- of WooCommerce-webshop die serieus wil groeien:** Klaviyo. De AI-segmentatie (voorspelde LTV, churn prediction) en diepe e-commerce integraties betalen zichzelf terug in hogere conversie. Budget: €45/mnd voor 2500 contacten.
-
-**Webshop met een nieuwsbrief, blog en social media:** Mailchimp. Het all-in-one platform bespaart je losse tools voor landingspagina's en social ads. De AI-contentgenerator helpt met snelle, goede e-mails. Budget: €20/mnd voor 2500 contacten.
-
-**GDPR-bewuste webshop die AVG-compliance serieus neemt:** Brevo. Franse servers, EU-bedrijf, DPA standaard. Het prijsmodel (betalen per volume) is gunstig als je een grote lijst hebt maar niet wekelijks mailt. Budget: €25/mnd voor 20.000 e-mails.
-
-**Fysieke winkel met nieuwsbrief (geen webshop):** Mailchimp of Brevo. Mailchimp als je ook landingspagina's en social ads wilt; Brevo als je prijs en AVG belangrijker vindt. Klaviyo is overkill zonder webshop.
-
-**Enterprise webshop met >50.000 contacten:** Klaviyo (enterprise custom pricing) of Brevo (business of enterprise). Beide bieden dedicated support en custom prijzen. Kies Klaviyo voor e-commerce diepgang, Brevo voor GDPR-compliance en gecombineerde e-mail/SMS.
-
----
-
-## Veelgestelde Vragen
-
-### Welke e-mailmarketingtool is het beste voor Nederlandse webshops?
-
-Klaviyo is specifiek gebouwd voor e-commerce en integreert diep met Shopify, WooCommerce en Magento. De AI voorspelt koopgedrag, segmenteert klanten automatisch op basis van gedrag (niet alleen demografie) en biedt kant-en-klare flows voor verlaten winkelwagens en back-in-stock meldingen. Voor GDPR-compliance is Brevo de beste keuze (Franse servers, volledig AVG-compliant). Mailchimp is de beste allrounder als je naast je webshop ook nieuwsbrieven, landingspagina's en social media campagnes runt.
-
-### Wat kost e-mailmarketing voor 1000 contacten?
-
-- **Klaviyo:** €20/mnd voor 1500 contacten (Starter). Voor 1000 contacten zit je dus op de Starter tier.
-- **Mailchimp:** €13/mnd voor 1500 contacten (Essentials). Iets goedkoper dan Klaviyo voor kleine lijsten.
-- **Brevo:** €25/mnd, maar met onbeperkt contacten en 20.000 e-mails per maand. Dit is voordeliger zodra je lijst boven de 2000 contacten komt en je niet meer dan 20.000 e-mails per maand verstuurt.
-
-### Hoe zit het met AVG/GDPR bij deze tools?
-
-Brevo is de veiligste keuze voor GDPR-compliance. Het bedrijf is Frans, servers staan in Frankrijk en een Data Processing Agreement (DPA) is standaard beschikbaar — ook in het gratis plan. Mailchimp verwerkt data in de Verenigde Staten en vertrouwt op Privacy Shield-certificering (juridisch minder robuust onder AVG). Klaviyo biedt EU-serveropties, maar alleen in de hogere (enterprise) plannen. Voor Nederlandse webshops die AVG strikt moeten naleven (bijvoorbeeld in de gezondheidszorg of finance): kies Brevo of Klaviyo met EU-datacenter. Vraag bij elke tool expliciet naar de DPA.
-
----
-
-*Dit artikel is onderdeel van onze serie over AI-tools voor Nederlandse e-commerce. Lees ook onze gids over [AI voor e-commerce](/ai-voor-ecommerce-2026/) en de [beste AI copywriting tools](/beste-ai-copywriting-tools-2026/).*
+We hebben niet getest hoe goed de koppelingen met je webshopsoftware werken, hoe goed mails aankomen, hoe de editors werken of wat een tool oplevert. Uitspraken van leveranciers over omzet of rendement zijn verkoopclaims. Wij nemen ze niet over.
