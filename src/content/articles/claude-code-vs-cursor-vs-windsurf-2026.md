@@ -24,7 +24,7 @@ Een coding agent beoordelen op een sterrenscore zegt weinig over jouw repository
 
 ## Drie routes, geen podium
 
-[Claude Code](https://code.claude.com/docs/en/overview.md) is niet beperkt tot een terminal. Anthropic beschrijft ook een VS Code-integratie met inline diffs, een Desktop-app met visuele diffcontrole, een browserroute en een JetBrains-plugin. Dat maakt het bruikbaar om eerst een wijziging te bekijken in de omgeving die je al kent. Welke context werkelijk voor één opdracht wordt gelezen, hangt van je sessie en opdracht af; een groot genoemd contextvenster bewijst niet dat een volledige repository zorgvuldig is begrepen.
+[Claude Code](https://code.claude.com/docs/en/overview) is niet beperkt tot een terminal. Anthropic beschrijft ook een VS Code-integratie met inline diffs, een Desktop-app met visuele diffcontrole, een browserroute en een JetBrains-plugin. Dat maakt het bruikbaar om eerst een wijziging te bekijken in de omgeving die je al kent. Welke context werkelijk voor één opdracht wordt gelezen, hangt van je sessie en opdracht af; een groot genoemd contextvenster bewijst niet dat een volledige repository zorgvuldig is begrepen.
 
 [Cursor](https://cursor.com/docs/cli/overview) heeft naast zijn editor een CLI. De documentatie noemt een Ask-modus voor alleen-lezen verkenning, terwijl Agent meer gereedschap krijgt. Dat is een relevant verschil als je eerst een ontwerpvraag wilt stellen zonder wijzigingen te laten aanbrengen. Het bestaan van een modus is nog geen garantie voor de kwaliteit van een antwoord of een veilige uitvoering in jouw omgeving. Bekijk de voorgestelde opdrachten en diff zelf.
 
