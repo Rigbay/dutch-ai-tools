@@ -13,6 +13,7 @@ jobs:
         with:
           ref: 134a7e94cd3e037cf561e72b59c0e8014dcfebf4
           persist-credentials: false
+          fetch-depth: 2
       - uses: actions/setup-node@v4
         with:
           node-version: 22
