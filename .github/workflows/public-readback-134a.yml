@@ -1,0 +1,19 @@
+name: Owner public readback 134a7e94
+on:
+  push:
+    branches: [public-readback/homepage-134a7e94-20261115]
+permissions:
+  contents: read
+jobs:
+  readback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Owner HTTPS browser readback
+        run: |
+          echo "2cf26efb15768d9d7c693f80b91f508a309376a1d6bf7ad5696b6178ca36ba6f  .github/review/owner-public-readback.py" | sha256sum -c -
+          export PATH="$CHROMEWEBDRIVER:$PATH"
+          python3 .github/review/owner-public-readback.py
