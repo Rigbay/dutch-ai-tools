@@ -5,7 +5,7 @@ description: 'Een praktische keuzehulp voor developers: vergelijk interface, abo
 category: development
 presentation: guide
 date: 2026-05-27
-updatedDate: '2026-10-31'
+updatedDate: '2026-11-16'
 modelYear: 2026
 related:
   - ai-agents-vs-ai-workflows-praktijk-nederland-2026
@@ -20,7 +20,7 @@ faq:
   - q: 'Zijn externe agents bij Devin Desktop inbegrepen in de abonnementsprijs?'
     a: 'De aankondiging noemt ACP-compatibele agents in dezelfde interface, maar onderbouwt niet dat het gebruik van elke externe agent binnen de Devin-prijs valt. Controleer de afzonderlijke gebruiksvoorwaarden en rekening van de gekozen agent; de hernoeming betekende volgens die aankondiging niet automatisch een wijziging van bestaande plannen.'
 ---
-Een coding agent beoordelen op een sterrenscore zegt weinig over jouw repository. De oude vergelijking op dit adres beweerde dat Claude Code alleen een terminal heeft, Cursor geen CLI en alle drie ongeveer hetzelfde voordelige abonnement. Dat zijn slechte uitgangspunten voor een aankoop of een test. Begin liever met de vraag waar je wilt werken, welke rekening een verzoek belast en welke code de dienst mag zien. Deze gids gebruikt op 31 oktober 2026 vastgelegde aanbiederdocumentatie. We hebben geen van de producten gebruikt, geen rekening geopend en hun output niet vergeleken.
+Een coding agent beoordelen op een sterrenscore zegt weinig over jouw repository. De oude vergelijking op dit adres beweerde dat Claude Code alleen een terminal heeft, Cursor geen CLI en alle drie ongeveer hetzelfde voordelige abonnement. Dat zijn slechte uitgangspunten voor een aankoop of een test. Begin liever met de vraag waar je wilt werken, welke rekening een verzoek belast en welke code de dienst mag zien. Deze gids gebruikt op 31 oktober 2026 vastgelegde aanbiederdocumentatie. Op 16 november 2026 zijn de genoemde consumentenprijzen, planfamilies en gebruiksafrekening opnieuw naast de primaire prijs- en hulppagina's gelegd; daarbij is voor deze claims geen wijziging vastgesteld. De interface- en privacybeschrijvingen zijn in die gerichte controle niet opnieuw onderzocht. We hebben geen van de producten gebruikt, geen rekening geopend en hun output niet vergeleken.
 
 ## Drie routes, geen podium
 
