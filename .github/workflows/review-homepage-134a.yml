@@ -1,0 +1,40 @@
+name: Review artifact only - homepage 134a7e94
+on:
+  push:
+    branches: [review-artifact/homepage-134a7e94-20261115]
+permissions:
+  contents: read
+jobs:
+  build-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 134a7e94cd3e037cf561e72b59c0e8014dcfebf4
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Verify immutable source
+        run: |
+          test "$(git rev-parse HEAD)" = 134a7e94cd3e037cf561e72b59c0e8014dcfebf4
+          test "$(git rev-parse HEAD^)" = 5e37f02d118b84d300c022d63cd4a2d30813d469
+          echo "e7c8272a778748a862339d3e1da7818fe79c315b57a28412053b64020bcb334c  src/pages/index.astro" | sha256sum -c -
+      - run: npm ci
+      - run: npm run build
+      - name: Bind artifact provenance
+        run: |
+          mkdir review-proof
+          git rev-parse HEAD > review-proof/source-commit.txt
+          git rev-parse HEAD^ > review-proof/source-parent.txt
+          sha256sum package-lock.json src/pages/index.astro > review-proof/source-sha256.txt
+          find dist -type f -print0 | sort -z | xargs -0 sha256sum > review-proof/dist-sha256.txt
+      - name: Return bounded review bytes through job log
+        run: |
+          tar -czf review-dist.tar.gz dist review-proof
+          test "$(stat -c%s review-dist.tar.gz)" -le 20971520
+          sha256sum review-dist.tar.gz
+          echo REVIEW_ARCHIVE_BEGIN_134a7e94
+          base64 -w76 review-dist.tar.gz
+          echo REVIEW_ARCHIVE_END_134a7e94
